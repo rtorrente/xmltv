@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210415233000" stop="20210416002000">
     <title>13h15, le dimanche...</title>
     <sub-title>Feuilleton des français (Saison 8, épisode 7)</sub-title>
@@ -29623,6 +29627,245 @@ Le succès de La vie est un long fleuve tranquille n’avait pas rendu Étienne 
     <category lang="fr">journal</category>
     <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9a89049ce394229858f64e75844bd7deaac105.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415224500" stop="20210416004500">
+    <title>Bâtiment B</title>
+    <category lang="fr">variétés</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9e6e6ec9d3d2ad3243c3192982a85372ab68fbd5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416004500" stop="20210416014300">
+    <title>Ours Samplus X Orchestra</title>
+    <desc lang="fr">hautbois, violoncelles et piano réunis, laissent une place aux platines d'Ours Samplus, l'un des duos les plus prolifiques du moment, et ça se parle, et ça joue, et ça rejoue... Et ça prend du plaisir, comment avons-nous passé autant de temps sans nous rencontrer ? Et ça crée, ça s'amuse, ça se surprend, ça se bouscule. Capté au Théâtre Grand Sud de Lille</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">58</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5588d3b76a4caa4071a2d0071a355ebfe8cdc85.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416014300" stop="20210416024400">
+    <title>Culturebox festival</title>
+    <sub-title>Le Villejuif Underground</sub-title>
+    <desc lang="fr">Pour la 1ere année Culturebox lance son festival avec 6 concerts et 6 sessions. Culturebox offre ainsi une scène aux artistes qui s'apprêtaient à révéler cet été leurs dernières créations et met en avant l'extraordinaire inventivité de la scène musicale française. Ce festival en huis clos à La Cigale, est aussi l'occasion d'expérimenter de nouvelles relations aux publics et de nouvelles représentations de la musique live filmée. Seront présents : Pépite, Villejuif underground, Brigitte fontaine, Gystere, Meryl et d'autres...</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">61</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1bd7a79b3655d711e970503717d5674e9767dc5d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416031400" stop="20210416040700">
+    <title>Clair Obscur</title>
+    <desc lang="fr">Le magazine adopte la marque de fabrique du Studio Harcourt : un noir et blanc chic et intemporel. Un parti pris esthétique valorisant le patrimoine Harcourt lors de portraits décalés et détendus où les invités prennent la pose pour Sébastien Folin</desc>
+    <category lang="fr">magazine des beaux-arts</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d751bcdf0a45415796aec9657c0a1cd069a54060.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416040700" stop="20210416050000">
+    <title>Renversant</title>
+    <sub-title>L.E.J, Ephèbe, Marie Denis</sub-title>
+    <desc lang="fr">Renversant est un magazine culturel régional qui vous emmène à la rencontre des artistes de la région Centre-Val de Loire. Avec Raphäl Yem et Elise Chassaing, ce programme sera diffusé sur la chaîne éphèmère CULTUREBOX TV.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8d13edfc74d9e23ccfa1cbba563b9a88c79bab27.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416050000" stop="20210416055500">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416055500" stop="20210416072000">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">85</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416072000" stop="20210416081300">
+    <title>Miossec, tendre granit</title>
+    <desc lang="fr">Nourri des témoignages de ses parents et des complices des débuts, retour sur la trajectoire tumultueuse et maintenant apaisée de Christophe Miossec.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire : musique</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a8e21169deae3bad72b6ba65fcbffea074605d31.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416081300" stop="20210416090400">
+    <title>Les femmes des Francos</title>
+    <desc lang="fr">Rendre compte de la place des femmes, de la féminité, du féminisme, tout en donnant à voir la réalité de ce festival de la chanson francophone qui a fait bien des petits depuis sa création en 1985. Immersion dans ce festival par le prisme de la femme "artiste", ce festival miroir quand il n'est pas visionnaire.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0f989d72225bbbf4f344fd2ec9283d5955fc5305.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416090400" stop="20210416100000">
+    <title>Dominique A, le rock fragile</title>
+    <desc lang="fr">Nantais d'origine, Dominique A est surtout le précurseur du rock indépendant français. De la création de ses nouveaux albums à sa tournée en passant par son cercle d'amis, ce documentaire s'invite dans l'intimité de cet artiste en création permanente.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : musique</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a8e21169deae3bad72b6ba65fcbffea074605d31.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416100000" stop="20210416105500">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416105500" stop="20210416115000">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416115000" stop="20210416134600">
+    <title>Christophe Maé, la vie d'artiste</title>
+    <desc lang="fr">Trois ans après son album "L'Attrape-rêves", Christophe Maé est de retour avec un nouveau disque, "La Vie d'artiste", sorti en octobre 2019. Sur la scène du Cirque d'Hiver, le chanteur interprète ses nouveaux morceaux comme, "Les Gens", et reprend ses tubes, comme "On s'attache" qui l'a révélé au grand public il y a plus de dix ans.</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">116</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/af8065191a58f24f4ac013945dfa013f5a3ea7c0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416134600" stop="20210416145800">
+    <title>Erza Muqoli : le concert privé au cinéma</title>
+    <desc lang="fr">Erza Mugoli n'avait que 9 ans lorsqu'elle a bouleversé le public lors de sa participation à l'émission "La France a un incroyable talent". Avec les Kids United, elle a enchaîné les tournées et albums à succès. Après une année de travail intense en compagnie de Vianney, elle a choisi de dévoiler les chansons de son album "Je chanterai" d'une manière originale, lors d'un concert intimiste diffusé dans les salles de cinémas.</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">72</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8d87cc346d3e13e864c681efa25c813efd3eae17.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416145800" stop="20210416152800">
+    <title>Vinyle</title>
+    <desc lang="fr">Un invité, une platine, 100 000 vinyles : Au coeur de la Médiathèque Musicale de la ville de Paris au Forum de Halles, Juan Massenya invite un artiste ou une personnalité à se raconter en musique à travers une sélection de disques déterminants dans son parcours. Une conversation intimiste sur fond de perles musicales dénichées dans cet immense trésor caché.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416152800" stop="20210416155700">
+    <title>Vinyle</title>
+    <desc lang="fr">Un invité, une platine, 100 000 vinyles : Au coeur de la Médiathèque Musicale de la ville de Paris au Forum de Halles, Juan Massenya invite un artiste ou une personnalité à se raconter en musique à travers une sélection de disques déterminants dans son parcours. Une conversation intimiste sur fond de perles musicales dénichées dans cet immense trésor caché.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416155700" stop="20210416161100">
+    <title>Basique, les sessions</title>
+    <sub-title>Iliona</sub-title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">14</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a4a8960b68c926b5151c1408b51796e3f3ed02e1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416161100" stop="20210416162600">
+    <title>Basique, les sessions</title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9873318148e36be6956e9932d66f23a9c02e60e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416162600" stop="20210416165500">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/195c73333f213e4a125070e9b55a44bff08f634d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416165500" stop="20210416171500">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4bd831c52254f52c81181def1689ecdf60123221.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416171500" stop="20210416181000">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416181000" stop="20210416190500">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416190500" stop="20210416203300">
+    <title>Cirkafrika</title>
+    <desc lang="fr">Une grande épopée acrobatique à travers le continent africain avec plus de cinquante artistes, des numéros de cirque époustouflants, accompagnés de ballets africains et d'un orchestre. La troupe de Cirkafrika est sur la piste du cirque Phénix, acclamée à chaque représentation par plus de 5000 personnes. Pourtant, il y a moins de deux mois, montrer au public français que l'Afrique pouvait produire un spectacle à la hauteur des maîtres du genre, les Russes ou les Chinois, était encore un rêve. Après des heures de répétition sous la supervision de Winston Ruddle et du metteur en scène Alain Pacherie, le rêve est devenu réalité pour ces artistes.</desc>
+    <category lang="fr">cirque</category>
+    <length units="minutes">88</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6c5f5e98f685a075d7b4c8dc028107ef269ce21b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210416203300" stop="20210416223400">
+    <title>CirkaCuba</title>
+    <desc lang="fr">Après le succès de "CirkAfrika" et "CirkAfrika 2", le Cirque Phénix présente son tout nouveau spectacle : "CirkaCuba". Durant près de deux heures, la troupe, composée de cinquante artistes cubains, qu'ils soient chanteurs, musiciens ou acrobates, présente une douzaine de numéros. Un moyen, comme l'explique Alain M. Pacherie, le fondateur du Cirque Phénix, de faire découvrir la culture cubaine sous un angle tout à fait original, par le biais d'un spectacle haut en couleur.</desc>
+    <category lang="fr">cirque</category>
+    <length units="minutes">121</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c3f959d07617d8d56d011cb5df63a7ba3b127f5b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

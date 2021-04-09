@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210413230500 +0200" stop="20210414000000 +0200">
     <title>Dans les secrets de l'exposition Napoléon</title>
     <desc lang="fr">Conservés depuis deux cents ans et pour la première fois réunis sur 2000 mètres carrés, les pièces rares, les objets précieux et intimes de Napoléon Bonaparte permettent de découvrir les multiples facettes de l'homme, qu'elles soient lumineuses ou sombres. En avant-première de la future exposition Napoléon à la Grande Halle de La Villette, Stéphane Bern présente de somptueux vêtements de cour de Napoléon et de l'amour de sa vie, l'impératrice Joséphine de Beauharnais, des armes de luxe, des pièces d'orfèvrerie, le modeste char funèbre utilisé pour ses obsèques à Sainte-Hélène, sans oublier les nombreux tableaux et sculptures réalisés par les plus grands artistes de l'époque, comme David, Gros ou Gérard.</desc>
@@ -30534,6 +30538,248 @@ Pierre Murat</desc>
     <category lang="fr">journal</category>
     <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9a89049ce394229858f64e75844bd7deaac105.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413232100 +0200" stop="20210414012200 +0200">
+    <title>Tout doit disparaître</title>
+    <desc lang="fr">Avec Tout doit disparaître, Philippe Decouflé invite le public à une déambulation dans le théâtre et dans l'histoire passée et présente de la Compagnie DCA. Une sorte de surprise-partie unique. Captation au Théâtre Chaillot à Paris Avec Tout doit disparaître, Philippe Decouflé invite le public à une déambulation dans le théâtre et dans l'histoire passée et présente de la Compagnie DCA. Une sorte de surprise-partie unique. Captation au Théâtre Chaillot à Paris</desc>
+    <category lang="fr">chorégraphique</category>
+    <length units="minutes">121</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7365b097f1088c51131515df10376637a543ec79.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414012200 +0200" stop="20210414030800 +0200">
+    <title>Play</title>
+    <desc lang="fr">Le Suédois Alexander Ekman est connu pour ses pièces spectaculaires, aux univers oniriques toujours très imagés. Avec PLAY, il investit le plateau du Palais Garnier. Structures métalliques, danseurs suspendus, élévations. Un spectacle surprenant, porté par un rythme entraînant et une énergie communicative.</desc>
+    <category lang="fr">contemporain</category>
+    <length units="minutes">106</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45b24b41336f0a9fb123c54eae724bcc52a127d8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414030800 +0200" stop="20210414043900 +0200">
+    <title>6 à la maison</title>
+    <desc lang="fr">Magazine hebdomadaire traitant de l'actualité du monde de l'art et du spectacle, autour d'un invité principal. Diffusé sur France 2 en S2.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">91</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5a8bd07a728723ffa5ebc252dd1a9f0656d6ffbf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414043900 +0200" stop="20210414053400 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414053400 +0200" stop="20210414055400 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e549a56081a4a709719082ad519013058a550f7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414055400 +0200" stop="20210414064700 +0200">
+    <title>Clair Obscur</title>
+    <desc lang="fr">Le magazine adopte la marque de fabrique du Studio Harcourt : un noir et blanc chic et intemporel. Un parti pris esthétique valorisant le patrimoine Harcourt lors de portraits décalés et détendus où les invités prennent la pose pour Sébastien Folin</desc>
+    <category lang="fr">magazine des beaux-arts</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e844b6527f8cc720be79274fedd38a7d1783174c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414064700 +0200" stop="20210414070000 +0200">
+    <title>Renversant</title>
+    <desc lang="fr">Renversant est un magazine culturel régional qui vous emmène à la rencontre des artistes de la région Centre-Val de Loire. Avec Raphäl Yem et Elise Chassaing, ce programme sera diffusé sur la chaîne éphèmère CULTUREBOX TV.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8d13edfc74d9e23ccfa1cbba563b9a88c79bab27.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414070000 +0200" stop="20210414075500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414075500 +0200" stop="20210414101200 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">137</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414101200 +0200" stop="20210414110900 +0200">
+    <title>Lavilliers par Lavilliers</title>
+    <date>2021</date>
+    <category lang="fr">documentaire : beaux-arts</category>
+    <length units="minutes">57</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e549a56081a4a709719082ad519013058a550f7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414110900 +0200" stop="20210414120000 +0200">
+    <title>Miossec, tendre granit</title>
+    <desc lang="fr">Nourri des témoignages de ses parents et des complices des débuts, retour sur la trajectoire tumultueuse et maintenant apaisée de Christophe Miossec.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire : musique</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a766afe484c1c54811b1a126bf8246e5150e6602.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414120000 +0200" stop="20210414125500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414125500 +0200" stop="20210414135000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414135000 +0200" stop="20210414151800 +0200">
+    <title>Vieilles Charrues, la plus grande scène de France</title>
+    <desc lang="fr">Cette année, le festival des Vieilles Charrues (Carhaix, centre Bretagne) aurait du se tenir du 16 au 19 juillet. Oui mais voilà, ça c'était avant. Avant le Covid 19 et le confinement. Avant le gel hydro-alcoolique et les masques de protection. Et c'est la mort dans l'âme que JÉRÔME TREHOREL, son directeur, a dû annoncer le report de cette 29ÈME EDITION. Un coup dur pour les "Charrues" comme pour tous les autres grands rendez-vous culturels de l"été. Mais le festival (comme beaucoup d"autres surement) peut d'ores et déjà compter sur un public qui se retrouvera à nouveau nombreux, dès qu'un retour à la vie sociale sera possible, pour célébrer la musique, toutes les musiques. C'est aussi l'ambition de ce documentaire qui revient sur les 15 dernières années de ce festival.</desc>
+    <category lang="fr">documentaire : culture</category>
+    <length units="minutes">88</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ca44a34223bde96b9c9a34282c1ec8bdb16ffe0a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414151800 +0200" stop="20210414170000 +0200">
+    <title>Basique, le concert</title>
+    <desc lang="fr">Jeanne Added, révélation du rock français, a été sacrée artiste féminine de l'année et a remporté la Victoire de "l'album rock" pour son disque "Radiate" en 2019. Elle interprète plusieurs de ses titres.</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">102</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7917c77b08a5fbb47f66f31d9b99768823a07c70.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414170000 +0200" stop="20210414173000 +0200">
+    <title>Vinyle</title>
+    <desc lang="fr">Un invité, une platine, 100 000 vinyles : Au coeur de la Médiathèque Musicale de la ville de Paris au Forum de Halles, Juan Massenya invite un artiste ou une personnalité à se raconter en musique à travers une sélection de disques déterminants dans son parcours. Une conversation intimiste sur fond de perles musicales dénichées dans cet immense trésor caché.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414173000 +0200" stop="20210414174200 +0200">
+    <title>Basique, les sessions</title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">12</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae7cfa064f09397f12486cb004f3dafd60360e3f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414174200 +0200" stop="20210414175700 +0200">
+    <title>Basique, les sessions</title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a52e9b15bbb561191ba09cf13f44264b6e4572a2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414175700 +0200" stop="20210414182400 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">27</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/195c73333f213e4a125070e9b55a44bff08f634d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414182400 +0200" stop="20210414191500 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414191500 +0200" stop="20210414201000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414201000 +0200" stop="20210414210500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ccc26d7620195414e2aa6db5e03629488fd16d3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414210500 +0200" stop="20210414221900 +0200">
+    <title>Concerts aux Francofolies</title>
+    <desc lang="fr">Les captations prévues pour les Francofolies 2016 sont : Guts, Big Flo &amp; Oli, Aaron, Lilly Wood and the Prick et Caravan PAlace.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">74</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a766afe484c1c54811b1a126bf8246e5150e6602.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414221900 +0200" stop="20210414231400 +0200">
+    <title>Concerts aux Francofolies</title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/56504d502312d830eb9dd9c4f1f26fb80c607a7d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414231400 +0200" stop="20210415001200 +0200">
+    <title>Concerts aux Francofolies</title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">58</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/36ce45e5b8f6e9b58ab9fd24e45bddd7c35e0b2b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

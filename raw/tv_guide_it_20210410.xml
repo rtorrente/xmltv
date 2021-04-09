@@ -583,13 +583,19 @@
     <sub-title lang="it">STRISCIA LA NOTIZIA la voce dell'insofferenza</sub-title>
     <category lang="it">INTRATTENIMENTO</category>
   </programme>
-  <programme start="20210411030600 +0200" stop="20210411045200 +0200" channel="www.canale5.com">
+  <programme start="20210411030600 +0200" stop="20210411045900 +0200" channel="www.canale5.com">
     <title lang="it">Fantaghiro'</title>
     <sub-title lang="it">FANTAGHIRO' (DI L. BAVA)</sub-title>
     <category lang="it">FILM TV</category>
   </programme>
-  <programme start="20210411045200 +0200" stop="20210411060000 +0200" channel="www.canale5.com">
+  <programme start="20210411045900 +0200" stop="20210411052900 +0200" channel="www.canale5.com">
     <title lang="it">Centovetrine</title>
+    <sub-title lang="it">CENTOVETRINE XV, 3142</sub-title>
+    <category lang="it">SOAP</category>
+  </programme>
+  <programme start="20210411052900 +0200" stop="20210411060000 +0200" channel="www.canale5.com">
+    <title lang="it">Centovetrine</title>
+    <sub-title lang="it">CENTOVETRINE XV, 3143</sub-title>
     <category lang="it">SOAP</category>
   </programme>
   <programme start="20210410060000 +0200" stop="20210410060500 +0200" channel="cartoonito.guidatv.sky.it">
@@ -676,19 +682,11 @@
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410105500 +0200" stop="20210410110000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210410105500 +0200" stop="20210410111000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410110000 +0200" stop="20210410111000 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Simone</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210410111000 +0200" stop="20210410111500 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Simone</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210410111500 +0200" stop="20210410112000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210410111000 +0200" stop="20210410112000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -708,11 +706,7 @@
     <title lang="it">Tom e Jerry: Operazione Spionaggio</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410134500 +0200" stop="20210410135000 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Taffy</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210410135000 +0200" stop="20210410140000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210410134500 +0200" stop="20210410140000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Taffy</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -852,11 +846,7 @@
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410220000 +0200" stop="20210410221000 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Simone</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210410221000 +0200" stop="20210410221500 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210410220000 +0200" stop="20210410221500 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -864,11 +854,7 @@
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410222500 +0200" stop="20210410224000 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Daniel Tiger</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210410224000 +0200" stop="20210410225000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210410222500 +0200" stop="20210410225000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Daniel Tiger</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -944,11 +930,7 @@
     <title lang="it">SimsalaGrimm</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411040000 +0200" stop="20210411042500 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">SimsalaGrimm</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411042500 +0200" stop="20210411045000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210411040000 +0200" stop="20210411045000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">SimsalaGrimm</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -1920,20 +1902,35 @@
     <title lang="it">Hypercube - Cubo 2</title>
     <category lang="it">FILM</category>
   </programme>
-  <programme start="20210410231700 +0200" stop="20210411012600 +0200" channel="italia2.mediaset.it">
+  <programme start="20210410231700 +0200" stop="20210411011100 +0200" channel="italia2.mediaset.it">
     <title lang="it">L' ultima casa a sinistra</title>
     <sub-title lang="it">L' ULTIMA CASA A SINISTRA (DI D. ILIADIS)</sub-title>
     <category lang="it">FILM</category>
   </programme>
-  <programme start="20210411012600 +0200" stop="20210411014600 +0200" channel="italia2.mediaset.it">
+  <programme start="20210411011100 +0200" stop="20210411013100 +0200" channel="italia2.mediaset.it">
     <title lang="it">I Griffin</title>
     <sub-title lang="it">QUELL'IDIOTA DEL NOSTRO BRIAN - I GRIFFIN</sub-title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411014600 +0200" stop="20210411020600 +0200" channel="italia2.mediaset.it">
+  <programme start="20210411013100 +0200" stop="20210411015100 +0200" channel="italia2.mediaset.it">
     <title lang="it">I Griffin</title>
     <sub-title lang="it">QUESTO PICCOLO MAIALINO - I GRIFFIN</sub-title>
     <category lang="it">CARTOON</category>
+  </programme>
+  <programme start="20210411015100 +0200" stop="20210411015600 +0200" channel="italia2.mediaset.it">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">IMPALCATURA - CAMERA CAFE'</sub-title>
+    <category lang="it">SITCOM</category>
+  </programme>
+  <programme start="20210411015600 +0200" stop="20210411020100 +0200" channel="italia2.mediaset.it">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">L' ALTRO PAOLO - CAMERA CAFE'</sub-title>
+    <category lang="it">SITCOM</category>
+  </programme>
+  <programme start="20210411020100 +0200" stop="20210411020600 +0200" channel="italia2.mediaset.it">
+    <title lang="it">Camera Cafe'</title>
+    <sub-title lang="it">OCCHIO NERO - CAMERA CAFE'</sub-title>
+    <category lang="it">SITCOM</category>
   </programme>
   <programme start="20210411020600 +0200" stop="20210411070000 +0200" channel="italia2.mediaset.it">
     <title lang="it">Simulcast radio 101</title>
@@ -2481,10 +2478,10 @@
     <title lang="it">GR 1</title>
   </programme>
   <programme start="20210411053500 +0200" channel="radio1.rai.it">
-    <title lang="it">segue SETTE SU SETTE</title>
+    <title lang="it">segue POP SPORT</title>
   </programme>
   <programme start="20210411053500 +0200" channel="radio1.rai.it">
-    <title lang="it">segue POP SPORT</title>
+    <title lang="it">segue SETTE SU SETTE</title>
   </programme>
   <programme start="20210410060000 +0200" channel="radio1.rai.it">
     <title lang="it">GR 1</title>
@@ -4294,135 +4291,140 @@
   <programme start="20210410223000 +0200" stop="20210410060000 +0200" channel="tgcom24.mediaset.it">
     <title lang="it">NEWS DELLA NOTTE</title>
   </programme>
-  <programme start="20210410061000 +0200" stop="20210410073500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410065200 +0200" stop="20210410075500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Longmire</title>
     <sub-title lang="it">UNA NEBBIA CHE NON SI DIRADA - LONGMIRE V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410073500 +0200" stop="20210410082500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410075500 +0200" stop="20210410085500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIG. MONK E' IN ONDA - MONK V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410082500 +0200" stop="20210410092000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410085500 +0200" stop="20210410094500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIG. MONK NELLA VECCHIA FATTORIA - MONK V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410092000 +0200" stop="20210410101500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410094500 +0200" stop="20210410103500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">TERRA DI NESSUNO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410101500 +0200" stop="20210410110500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410103500 +0200" stop="20210410113500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">DIAMANTI DI SANGUE - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410110500 +0200" stop="20210410120000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410113500 +0200" stop="20210410123000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">FAMIGLIA A PEZZI - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410120000 +0200" stop="20210410125500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410123000 +0200" stop="20210410132000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">L' ORSO ASSASSINO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410125500 +0200" stop="20210410135000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410132000 +0200" stop="20210410141500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">TRIPLA MINACCIA - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410135000 +0200" stop="20210410143900 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410141500 +0200" stop="20210410151200 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Law &amp; Order: Unita' speciale</title>
     <sub-title lang="it">PESCA GROSSA - LAW &amp; ORDER: UNITA' SPECIALE XIX</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410143900 +0200" stop="20210410153500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410151200 +0200" stop="20210410155800 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Law &amp; Order: Unita' speciale</title>
     <sub-title lang="it">MUSICA D'ATMOSFERA - LAW &amp; ORDER: UNITA' SPECIALE XIX</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410153500 +0200" stop="20210410163000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410155800 +0200" stop="20210410165500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">THE FIX - PILOT - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410163000 +0200" stop="20210410172500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410165500 +0200" stop="20210410174500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">VENDETTA - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410172500 +0200" stop="20210410182000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410174500 +0200" stop="20210410184000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">LA MICROSPIA - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410182000 +0200" stop="20210410191500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410184000 +0200" stop="20210410193000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">SCANDALO - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410191500 +0200" stop="20210410201500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410193000 +0200" stop="20210410202000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIG. MONK E L'UOMO PIU' MORTO CHE MAI - MONK V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410201500 +0200" stop="20210410211000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410202000 +0200" stop="20210410211000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIG. MONK VA IN OSPEDALE</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210410211000 +0200" stop="20210410230500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410211000 +0200" stop="20210410231000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Poirot: La parola alla difesa</title>
     <sub-title lang="it">TV MOVIE</sub-title>
     <category lang="it">FILM TV</category>
   </programme>
-  <programme start="20210410230500 +0200" stop="20210411010000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210410231000 +0200" stop="20210411005000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Sotto accusa - Bad blood</title>
     <sub-title lang="it">TV MOVIE</sub-title>
     <category lang="it">FILM TV</category>
   </programme>
-  <programme start="20210411010000 +0200" stop="20210411014900 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411005000 +0200" stop="20210411013500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Law &amp; Order: Unita' speciale</title>
     <sub-title lang="it">PESCA GROSSA - LAW &amp; ORDER: UNITA' SPECIALE XIX</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411014900 +0200" stop="20210411024500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411013500 +0200" stop="20210411021500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Law &amp; Order: Unita' speciale</title>
     <sub-title lang="it">MUSICA D'ATMOSFERA - LAW &amp; ORDER: UNITA' SPECIALE XIX</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411024500 +0200" stop="20210411032600 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411021500 +0200" stop="20210411025900 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">TERRA DI NESSUNO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411032600 +0200" stop="20210411032700 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411025900 +0200" stop="20210411030000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Tgcom24</title>
     <sub-title lang="it">TGCOM24 D</sub-title>
     <category lang="it">TELEGIORNALI</category>
   </programme>
-  <programme start="20210411032700 +0200" stop="20210411040700 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411030000 +0200" stop="20210411034000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">DIAMANTI DI SANGUE - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411040700 +0200" stop="20210411044700 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411034000 +0200" stop="20210411042000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">FAMIGLIA A PEZZI - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411044700 +0200" stop="20210411052700 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411042000 +0200" stop="20210411050000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">L' ORSO ASSASSINO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411052700 +0200" stop="20210411060700 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411050000 +0200" stop="20210411054500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">TRIPLA MINACCIA - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
+  </programme>
+  <programme start="20210411054500 +0200" stop="20210411060400 +0200" channel="topcrime.guidatv.sky.it">
+    <title lang="it">Doppia indagine</title>
+    <sub-title lang="it">L'AMORE MOLESTO (BILOTTI) - DOPPIA INDAGINE</sub-title>
+    <category lang="it">REALITY</category>
   </programme>
   <programme start="20210410060500 +0200" channel="yoyo.raisat.it">
     <title lang="it">LA PIMPA</title>
@@ -5364,11 +5366,11 @@
     <title lang="it">Doraemon</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410075500 +0200" stop="20210410080500 +0200" channel="www.boingtv.it">
+  <programme start="20210410075500 +0200" stop="20210410080000 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410080500 +0200" stop="20210410082000 +0200" channel="www.boingtv.it">
+  <programme start="20210410080000 +0200" stop="20210410082000 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5380,36 +5382,40 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410084500 +0200" stop="20210410085500 +0200" channel="www.boingtv.it">
+  <programme start="20210410084500 +0200" stop="20210410085000 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410085500 +0200" stop="20210410091000 +0200" channel="www.boingtv.it">
+  <programme start="20210410085000 +0200" stop="20210410090500 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410091000 +0200" stop="20210410092000 +0200" channel="www.boingtv.it">
+  <programme start="20210410090500 +0200" stop="20210410091500 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410092000 +0200" stop="20210410093500 +0200" channel="www.boingtv.it">
+  <programme start="20210410091500 +0200" stop="20210410093000 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410093500 +0200" stop="20210410094500 +0200" channel="www.boingtv.it">
+  <programme start="20210410093000 +0200" stop="20210410094000 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410094500 +0200" stop="20210410095500 +0200" channel="www.boingtv.it">
+  <programme start="20210410094000 +0200" stop="20210410095000 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410095500 +0200" stop="20210410101000 +0200" channel="www.boingtv.it">
+  <programme start="20210410095000 +0200" stop="20210410100500 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410101000 +0200" stop="20210410114500 +0200" channel="www.boingtv.it">
+  <programme start="20210410100500 +0200" stop="20210410113500 +0200" channel="www.boingtv.it">
     <title lang="it">Scooby doo e il mostro di Loch Ness</title>
+    <category lang="it">CARTOON</category>
+  </programme>
+  <programme start="20210410113500 +0200" stop="20210410114500 +0200" channel="www.boingtv.it">
+    <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
   <programme start="20210410114500 +0200" stop="20210410115500 +0200" channel="www.boingtv.it">
@@ -5456,35 +5462,35 @@
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410135500 +0200" stop="20210410141000 +0200" channel="www.boingtv.it">
+  <programme start="20210410135500 +0200" stop="20210410141500 +0200" channel="www.boingtv.it">
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410141000 +0200" stop="20210410142000 +0200" channel="www.boingtv.it">
+  <programme start="20210410141500 +0200" stop="20210410142500 +0200" channel="www.boingtv.it">
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410142000 +0200" stop="20210410143000 +0200" channel="www.boingtv.it">
+  <programme start="20210410142500 +0200" stop="20210410143500 +0200" channel="www.boingtv.it">
     <title lang="it">Craig</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410143000 +0200" stop="20210410144500 +0200" channel="www.boingtv.it">
+  <programme start="20210410143500 +0200" stop="20210410145000 +0200" channel="www.boingtv.it">
     <title lang="it">Craig</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410144500 +0200" stop="20210410145500 +0200" channel="www.boingtv.it">
+  <programme start="20210410145000 +0200" stop="20210410150000 +0200" channel="www.boingtv.it">
     <title lang="it">Craig</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410145500 +0200" stop="20210410150500 +0200" channel="www.boingtv.it">
+  <programme start="20210410150000 +0200" stop="20210410151000 +0200" channel="www.boingtv.it">
     <title lang="it">Craig</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410150500 +0200" stop="20210410152000 +0200" channel="www.boingtv.it">
+  <programme start="20210410151000 +0200" stop="20210410152500 +0200" channel="www.boingtv.it">
     <title lang="it">Craig</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410152000 +0200" stop="20210410155000 +0200" channel="www.boingtv.it">
+  <programme start="20210410152500 +0200" stop="20210410155000 +0200" channel="www.boingtv.it">
     <title lang="it">Dragons: I cavalieri di Berk</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5500,15 +5506,15 @@
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410162500 +0200" stop="20210410164000 +0200" channel="www.boingtv.it">
+  <programme start="20210410162500 +0200" stop="20210410164500 +0200" channel="www.boingtv.it">
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410164000 +0200" stop="20210410165000 +0200" channel="www.boingtv.it">
+  <programme start="20210410164500 +0200" stop="20210410165500 +0200" channel="www.boingtv.it">
     <title lang="it">Clarence</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410165000 +0200" stop="20210410171000 +0200" channel="www.boingtv.it">
+  <programme start="20210410165500 +0200" stop="20210410171000 +0200" channel="www.boingtv.it">
     <title lang="it">Clarence</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5568,19 +5574,19 @@
     <title lang="it">Ben 10: La Sfida</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410201500 +0200" stop="20210410204500 +0200" channel="www.boingtv.it">
+  <programme start="20210410201500 +0200" stop="20210410204000 +0200" channel="www.boingtv.it">
     <title lang="it">Ben 10: La Sfida</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410204500 +0200" stop="20210410211000 +0200" channel="www.boingtv.it">
+  <programme start="20210410204000 +0200" stop="20210410210500 +0200" channel="www.boingtv.it">
     <title lang="it">Ben 10: La Sfida</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410211000 +0200" stop="20210410212000 +0200" channel="www.boingtv.it">
+  <programme start="20210410210500 +0200" stop="20210410211500 +0200" channel="www.boingtv.it">
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410212000 +0200" stop="20210410213500 +0200" channel="www.boingtv.it">
+  <programme start="20210410211500 +0200" stop="20210410213500 +0200" channel="www.boingtv.it">
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5604,23 +5610,19 @@
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410231500 +0200" stop="20210410233500 +0200" channel="www.boingtv.it">
+  <programme start="20210410231500 +0200" stop="20210410234500 +0200" channel="www.boingtv.it">
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210410233500 +0200" stop="20210411000000 +0200" channel="www.boingtv.it">
+  <programme start="20210410234500 +0200" stop="20210411000500 +0200" channel="www.boingtv.it">
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411000000 +0200" stop="20210411001000 +0200" channel="www.boingtv.it">
+  <programme start="20210411000500 +0200" stop="20210411001500 +0200" channel="www.boingtv.it">
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411001000 +0200" stop="20210411002000 +0200" channel="www.boingtv.it">
-    <title lang="it">Mr Bean</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411002000 +0200" stop="20210411003000 +0200" channel="www.boingtv.it">
+  <programme start="20210411001500 +0200" stop="20210411003000 +0200" channel="www.boingtv.it">
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5640,39 +5642,39 @@
     <title lang="it">Power Players</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411011000 +0200" stop="20210411012000 +0200" channel="www.boingtv.it">
+  <programme start="20210411011000 +0200" stop="20210411012500 +0200" channel="www.boingtv.it">
     <title lang="it">Power Players</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411012000 +0200" stop="20210411013000 +0200" channel="www.boingtv.it">
+  <programme start="20210411012500 +0200" stop="20210411013500 +0200" channel="www.boingtv.it">
     <title lang="it">Power Players</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411013000 +0200" stop="20210411014000 +0200" channel="www.boingtv.it">
+  <programme start="20210411013500 +0200" stop="20210411014500 +0200" channel="www.boingtv.it">
     <title lang="it">Power Players</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411014000 +0200" stop="20210411015000 +0200" channel="www.boingtv.it">
+  <programme start="20210411014500 +0200" stop="20210411015500 +0200" channel="www.boingtv.it">
     <title lang="it">Power Players</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411015000 +0200" stop="20210411020500 +0200" channel="www.boingtv.it">
+  <programme start="20210411015500 +0200" stop="20210411020500 +0200" channel="www.boingtv.it">
     <title lang="it">Power Players</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411020500 +0200" stop="20210411021500 +0200" channel="www.boingtv.it">
+  <programme start="20210411020500 +0200" stop="20210411022000 +0200" channel="www.boingtv.it">
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411021500 +0200" stop="20210411022500 +0200" channel="www.boingtv.it">
+  <programme start="20210411022000 +0200" stop="20210411023000 +0200" channel="www.boingtv.it">
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411022500 +0200" stop="20210411023500 +0200" channel="www.boingtv.it">
+  <programme start="20210411023000 +0200" stop="20210411024000 +0200" channel="www.boingtv.it">
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411023500 +0200" stop="20210411030000 +0200" channel="www.boingtv.it">
+  <programme start="20210411024000 +0200" stop="20210411030000 +0200" channel="www.boingtv.it">
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5684,39 +5686,35 @@
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411034500 +0200" stop="20210411040500 +0200" channel="www.boingtv.it">
+  <programme start="20210411034500 +0200" stop="20210411041000 +0200" channel="www.boingtv.it">
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411040500 +0200" stop="20210411041500 +0200" channel="www.boingtv.it">
+  <programme start="20210411041000 +0200" stop="20210411042000 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411041500 +0200" stop="20210411042500 +0200" channel="www.boingtv.it">
+  <programme start="20210411042000 +0200" stop="20210411043000 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411042500 +0200" stop="20210411043500 +0200" channel="www.boingtv.it">
+  <programme start="20210411043000 +0200" stop="20210411044000 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411043500 +0200" stop="20210411044500 +0200" channel="www.boingtv.it">
+  <programme start="20210411044000 +0200" stop="20210411045000 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411044500 +0200" stop="20210411045500 +0200" channel="www.boingtv.it">
+  <programme start="20210411045000 +0200" stop="20210411050000 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411045500 +0200" stop="20210411050500 +0200" channel="www.boingtv.it">
+  <programme start="20210411050000 +0200" stop="20210411051000 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411050500 +0200" stop="20210411051500 +0200" channel="www.boingtv.it">
-    <title lang="it">Lo straordinario mondo di Gumball</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411051500 +0200" stop="20210411052500 +0200" channel="www.boingtv.it">
+  <programme start="20210411051000 +0200" stop="20210411052500 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>

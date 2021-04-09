@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210408221000" stop="20210408223500">
     <title>Nous, les Européens</title>
     <desc lang="fr">Chaque numéro est thématisé autour d'un pays européen avec un reportage de quinze minutes sur une initiative inspirante, un invité en plateau pour savoir si le modèle présenté est applicable à la France et une chronique sur les actualités.</desc>

@@ -72,6 +72,10 @@
     <display-name>Gulli</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/482.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <channel id="C1404.api.telerama.fr">
     <display-name>TF1 Séries Films</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1404.png" />
@@ -876,6 +880,26 @@ Ken Loach filme la discorde qui grandit au sein de la famille, tout en soulignan
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9dd06b350ab8423d10440cdb82770b867f5aca35.jpg" />
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210411224200" stop="20210411230800">
+    <title>Cultissime</title>
+    <desc lang="fr">Cinéma, expositions, danse, littérature, théâtre, chaque semaine, l'actualité culturelle est passée au crible à travers des reportages tournés dans toute la France, des chroniques, mais aussi l'interview inédite d'un invité au coeur de l'actualité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">26</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4bd831c52254f52c81181def1689ecdf60123221.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210411230800" stop="20210412004000">
+    <title>La grande librairie</title>
+    <desc lang="fr">L'actualité littéraire présentée par François Busnel en plateau autour des invités venus présenter leurs nouveautés.</desc>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">92</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c4caa0d41ac15ac8cef0b6f9a479ff233b825ec.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

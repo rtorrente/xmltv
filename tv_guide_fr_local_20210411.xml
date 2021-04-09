@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210410233000 +0200" stop="20210411013500 +0200">
     <title>On est en direct</title>
     <desc lang="fr">Laurent Ruquier est toujours présent à l'antenne le samedi en deuxième partie de soirée, mais pour un tout nouveau rendez-vous. L'émission se veut un lieu où l'on parle de culture, d'actualité et où les chanteurs, comédiens, écrivains peuvent prendre le temps de parler de leurs dernières oeuvres.</desc>
@@ -1907,6 +1911,17 @@ Tant de frénésie dans un « cross over » des deux apathiques séries de Franc
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">28</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3b2cc0addccc8b80791fa2a4e292f2200b7647fa.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410234800 +0200" stop="20210411004800 +0200">
+    <title>Main Square Festival</title>
+    <sub-title>Caravan Palace</sub-title>
+    <desc lang="fr">Rachat de 3 concerts du Main Square Festival pour l'antenne éphémère Culturebox : Cypress Hill (2019), Arnaud Rebotini (2019), Caravan Palace (2019).</desc>
+    <category lang="fr">variétés</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/36ce45e5b8f6e9b58ab9fd24e45bddd7c35e0b2b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

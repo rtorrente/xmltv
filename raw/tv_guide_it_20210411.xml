@@ -487,25 +487,24 @@
     <sub-title lang="it">METEO.IT WE</sub-title>
     <category lang="it">ATTUALITA'</category>
   </programme>
-  <programme start="20210411084500 +0200" stop="20210411100000 +0200" channel="www.canale5.com">
+  <programme start="20210411084500 +0200" stop="20210411095000 +0200" channel="www.canale5.com">
     <title lang="it">Tg5 - Speciale</title>
     <sub-title lang="it">BUD, EROE GENTILE DALLE MILLE VITE! - SPECIALE TG5</sub-title>
     <category lang="it">ATTUALITA'</category>
   </programme>
-  <programme start="20210411100000 +0200" stop="20210411105000 +0200" channel="www.canale5.com">
-    <title lang="it">Santa messa</title>
+  <programme start="20210411095000 +0200" stop="20210411102000 +0200" channel="www.canale5.com">
+    <title lang="it">I misteri del Santo Sepolcro</title>
   </programme>
-  <programme start="20210411105000 +0200" stop="20210411112000 +0200" channel="www.canale5.com">
+  <programme start="20210411102000 +0200" stop="20210411121000 +0200" channel="www.canale5.com">
+    <title lang="it">Santa messa (vaticano s.padre)</title>
+    <sub-title lang="it">SANTA MESSA</sub-title>
+  </programme>
+  <programme start="20210411121000 +0200" stop="20210411124100 +0200" channel="www.canale5.com">
     <title lang="it">Le storie di Melaverde</title>
     <category lang="it">ATTUALITA'</category>
   </programme>
-  <programme start="20210411112000 +0200" stop="20210411120000 +0200" channel="www.canale5.com">
+  <programme start="20210411124100 +0200" stop="20210411130000 +0200" channel="www.canale5.com">
     <title lang="it">Le storie di Melaverde</title>
-    <category lang="it">ATTUALITA'</category>
-  </programme>
-  <programme start="20210411120000 +0200" stop="20210411130000 +0200" channel="www.canale5.com">
-    <title lang="it">Melaverde - editing</title>
-    <sub-title lang="it">MELAVERDE</sub-title>
     <category lang="it">ATTUALITA'</category>
   </programme>
   <programme start="20210411130000 +0200" stop="20210411133900 +0200" channel="www.canale5.com">
@@ -582,13 +581,29 @@
     <sub-title lang="it">PAPERISSIMA SPRINT DOMENICA</sub-title>
     <category lang="it">INTRATTENIMENTO</category>
   </programme>
-  <programme start="20210412031700 +0200" stop="20210412050300 +0200" channel="www.canale5.com">
+  <programme start="20210412031700 +0200" stop="20210412043500 +0200" channel="www.canale5.com">
     <title lang="it">6 passi nel giallo - Gemelle</title>
     <sub-title lang="it">6 PASSI NEL GIALLO - GEMELLE (DI R. BAVA)</sub-title>
     <category lang="it">FILM TV</category>
   </programme>
-  <programme start="20210412050300 +0200" stop="20210412060000 +0200" channel="www.canale5.com">
+  <programme start="20210412043500 +0200" stop="20210412051100 +0200" channel="www.canale5.com">
+    <title lang="it">Melaverde - editing</title>
+    <sub-title lang="it">MELAVERDE</sub-title>
+    <category lang="it">ATTUALITA'</category>
+  </programme>
+  <programme start="20210412051100 +0200" stop="20210412052400 +0200" channel="www.canale5.com">
+    <title lang="it">Melaverde - le storie</title>
+    <sub-title lang="it">LE STORIE DI MELAVERDE</sub-title>
+    <category lang="it">ATTUALITA'</category>
+  </programme>
+  <programme start="20210412052400 +0200" stop="20210412053500 +0200" channel="www.canale5.com">
     <title lang="it">Centovetrine</title>
+    <sub-title lang="it">CENTOVETRINE XV, 3144</sub-title>
+    <category lang="it">SOAP</category>
+  </programme>
+  <programme start="20210412053500 +0200" stop="20210412060000 +0200" channel="www.canale5.com">
+    <title lang="it">Centovetrine</title>
+    <sub-title lang="it">CENTOVETRINE XV, 3145</sub-title>
     <category lang="it">SOAP</category>
   </programme>
   <programme start="20210411060000 +0200" stop="20210411060500 +0200" channel="cartoonito.guidatv.sky.it">
@@ -671,11 +686,7 @@
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411105000 +0200" stop="20210411105500 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Simone</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411105500 +0200" stop="20210411110000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210411105000 +0200" stop="20210411110000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -683,11 +694,7 @@
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411111000 +0200" stop="20210411111500 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Simone</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411111500 +0200" stop="20210411112000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210411111000 +0200" stop="20210411112000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Simone</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -807,11 +814,7 @@
     <title lang="it">Yabba Dabba Dinosaurs</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411203500 +0200" stop="20210411204500 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Yabba Dabba Dinosaurs</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411204500 +0200" stop="20210411205500 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210411203500 +0200" stop="20210411205500 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Yabba Dabba Dinosaurs</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -863,11 +866,7 @@
     <title lang="it">Daniel Tiger</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411224000 +0200" stop="20210411225000 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">Daniel Tiger</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411225000 +0200" stop="20210411230000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210411224000 +0200" stop="20210411230000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">Daniel Tiger</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -931,11 +930,7 @@
     <title lang="it">SimsalaGrimm</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210412031000 +0200" stop="20210412033500 +0200" channel="cartoonito.guidatv.sky.it">
-    <title lang="it">SimsalaGrimm</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210412033500 +0200" stop="20210412040000 +0200" channel="cartoonito.guidatv.sky.it">
+  <programme start="20210412031000 +0200" stop="20210412040000 +0200" channel="cartoonito.guidatv.sky.it">
     <title lang="it">SimsalaGrimm</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -1583,23 +1578,13 @@
     <title lang="it">X-Style</title>
     <category lang="it">ATTUALITA'</category>
   </programme>
-  <programme start="20210412020300 +0200" stop="20210412044000 +0200" channel="la5.mediaset.it">
+  <programme start="20210412020300 +0200" stop="20210412043300 +0200" channel="la5.mediaset.it">
     <title lang="it">Verissimo</title>
     <category lang="it">ATTUALITA'</category>
   </programme>
-  <programme start="20210412044000 +0200" stop="20210412050500 +0200" channel="la5.mediaset.it">
-    <title lang="it">G21 - Ricostruiamo il futuro</title>
-    <sub-title lang="it">SPECIALE G21 - RICOSTRUIAMO IL FUTURO</sub-title>
-  </programme>
-  <programme start="20210412050500 +0200" stop="20210412053000 +0200" channel="la5.mediaset.it">
-    <title lang="it">Vivere</title>
-    <sub-title lang="it">378 - VIVERE II</sub-title>
-    <category lang="it">SOAP</category>
-  </programme>
-  <programme start="20210412053000 +0200" stop="20210412060000 +0200" channel="la5.mediaset.it">
-    <title lang="it">Vivere</title>
-    <sub-title lang="it">379 - VIVERE II</sub-title>
-    <category lang="it">SOAP</category>
+  <programme start="20210412043300 +0200" stop="20210412060000 +0200" channel="la5.mediaset.it">
+    <title lang="it">Un estate da cani - Il ritorno di Zeus</title>
+    <category lang="it">FILM TV</category>
   </programme>
   <programme start="20210411060000 +0200" stop="20210411060500 +0200" channel="mediasetextra.mediaset.it">
     <title lang="it">Tgcom24</title>
@@ -1617,9 +1602,9 @@
     <category lang="it">SITCOM</category>
   </programme>
   <programme start="20210411062500 +0200" stop="20210411071500 +0200" channel="mediasetextra.mediaset.it">
-    <title lang="it">Avanti un altro!</title>
-    <sub-title lang="it">AVANTI UN ALTRO</sub-title>
-    <category lang="it">INTRATTENIMENTO</category>
+    <title lang="it">Matrimoni e altre follie</title>
+    <sub-title lang="it">VIVA LA MAMMA - MATRIMONI E ALTRE FOLLIE</sub-title>
+    <category lang="it">SERIE</category>
   </programme>
   <programme start="20210411071500 +0200" stop="20210411081500 +0200" channel="mediasetextra.mediaset.it">
     <title lang="it">Avanti un altro!</title>
@@ -2369,7 +2354,7 @@
     <title lang="it">STEREONOTTE BRASIL</title>
   </programme>
   <programme start="20210412010000 +0200" channel="radio1.rai.it">
-    <title lang="it">GR1</title>
+    <title lang="it">GR 1</title>
   </programme>
   <programme start="20210412010200 +0200" channel="radio1.rai.it">
     <title lang="it">segue POP SPORT</title>
@@ -2390,10 +2375,10 @@
     <title lang="it">GR 1</title>
   </programme>
   <programme start="20210412030500 +0200" channel="radio1.rai.it">
-    <title lang="it">segue POP SPORT</title>
+    <title lang="it">RADIO1 ALL MUSIC</title>
   </programme>
   <programme start="20210412030500 +0200" channel="radio1.rai.it">
-    <title lang="it">RADIO1 ALL MUSIC</title>
+    <title lang="it">segue POP SPORT</title>
   </programme>
   <programme start="20210412040000 +0200" channel="radio1.rai.it">
     <title lang="it">GR 1</title>
@@ -2408,19 +2393,19 @@
     <title lang="it">GR 1</title>
   </programme>
   <programme start="20210412050500 +0200" channel="radio1.rai.it">
-    <title lang="it">segue POP SPORT</title>
+    <title lang="it">DISCO SVEGLIA</title>
   </programme>
   <programme start="20210412050500 +0200" channel="radio1.rai.it">
-    <title lang="it">DISCO SVEGLIA</title>
+    <title lang="it">segue POP SPORT</title>
   </programme>
   <programme start="20210412053000 +0200" channel="radio1.rai.it">
     <title lang="it">GR 1</title>
   </programme>
   <programme start="20210412053500 +0200" channel="radio1.rai.it">
-    <title lang="it">segue POP SPORT</title>
+    <title lang="it">segue DISCO SVEGLIA</title>
   </programme>
   <programme start="20210412053500 +0200" channel="radio1.rai.it">
-    <title lang="it">segue DISCO SVEGLIA</title>
+    <title lang="it">segue POP SPORT</title>
   </programme>
   <programme start="20210411060000 +0200" channel="radio1.rai.it">
     <title lang="it">GR 1</title>
@@ -3689,10 +3674,10 @@
     <title lang="it">Ribattute del Web Rai Scuola Scrivere un classico nel Novecento: La metamorfosi di Franz Kafka Replica</title>
   </programme>
   <programme start="20210411200000 +0200" channel="raiscuola.rai.it">
-    <title lang="it">Digital World Puntata 26 Replica</title>
+    <title lang="it">Ribattute del Web Rai Scuola Scrivere un classico nel Novecento: Il nome della rosa di Umberto Eco Prima TV per Rai</title>
   </programme>
   <programme start="20210411200000 +0200" channel="raiscuola.rai.it">
-    <title lang="it">Ribattute del Web Rai Scuola Scrivere un classico nel Novecento: Il nome della rosa di Umberto Eco Prima TV per Rai</title>
+    <title lang="it">Digital World Puntata 26 Replica</title>
   </programme>
   <programme start="20210411203000 +0200" channel="raiscuola.rai.it">
     <title lang="it">3Ways 2 3Ways2 serie2 p.15</title>
@@ -4087,72 +4072,82 @@
   <programme start="20210411223000 +0200" stop="20210411060000 +0200" channel="tgcom24.mediaset.it">
     <title lang="it">NEWS DELLA NOTTE</title>
   </programme>
-  <programme start="20210411060700 +0200" stop="20210411072500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411060400 +0200" stop="20210411064400 +0200" channel="topcrime.guidatv.sky.it">
+    <title lang="it">The Fix</title>
+    <sub-title lang="it">LA MICROSPIA - THE FIX I</sub-title>
+    <category lang="it">SERIE</category>
+  </programme>
+  <programme start="20210411064400 +0200" stop="20210411065600 +0200" channel="topcrime.guidatv.sky.it">
+    <title lang="it">Donne in noir</title>
+    <sub-title lang="it">SARA BILOTTI - DONNE IN NOIR</sub-title>
+    <category lang="it">REALITY</category>
+  </programme>
+  <programme start="20210411065600 +0200" stop="20210411074000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">SCANDALO - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411072500 +0200" stop="20210411081500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411074000 +0200" stop="20210411083000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIG. MONK E L'UOMO PIU' MORTO CHE MAI - MONK V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411081500 +0200" stop="20210411091000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411083000 +0200" stop="20210411092000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIG. MONK VA IN OSPEDALE</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411091000 +0200" stop="20210411100000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411092000 +0200" stop="20210411102000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">L' AGENDA NERA - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411100000 +0200" stop="20210411105500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411102000 +0200" stop="20210411111500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">IMPETO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411105500 +0200" stop="20210411115000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411111500 +0200" stop="20210411121500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">APPENA UCCISO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411115000 +0200" stop="20210411124500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411121500 +0200" stop="20210411130500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">BRUCIATO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411124500 +0200" stop="20210411134000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411130500 +0200" stop="20210411140500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">INTERRUTORE D'EMERGENZA - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411134000 +0200" stop="20210411153500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411140500 +0200" stop="20210411155000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Sotto accusa - Bad blood</title>
     <sub-title lang="it">TV MOVIE</sub-title>
     <category lang="it">FILM TV</category>
   </programme>
-  <programme start="20210411153500 +0200" stop="20210411163000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411155000 +0200" stop="20210411164000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">BUGIE - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411163000 +0200" stop="20210411172500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411164000 +0200" stop="20210411173500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">IL FUGGITIVO - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411172500 +0200" stop="20210411182000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411173500 +0200" stop="20210411183000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The Fix</title>
     <sub-title lang="it">SUSSURRI DALL'ALDILA' - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411182000 +0200" stop="20210411191500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411183000 +0200" stop="20210411192500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">The fix</title>
     <sub-title lang="it">REGINA DEL GIORNO - THE FIX I</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411191500 +0200" stop="20210411201500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411192500 +0200" stop="20210411201500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Monk</title>
     <sub-title lang="it">IL SIGNOR MONK E LA FAN OSSESSIVA - MONK VI</sub-title>
     <category lang="it">SERIE</category>
@@ -4162,54 +4157,54 @@
     <sub-title lang="it">IL SIGNOR MONK E IL RAPPER - MONK VI</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411211000 +0200" stop="20210411225000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411211000 +0200" stop="20210411230500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Il ritorno di Colombo</title>
     <sub-title lang="it">DONNE PERICOLOSE PER IL TENENTE COLOMBO - IL RITORNO DI COLOMBO V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210411225000 +0200" stop="20210412003500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210411230500 +0200" stop="20210412010000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Poirot: La parola alla difesa</title>
     <sub-title lang="it">TV MOVIE</sub-title>
     <category lang="it">FILM TV</category>
   </programme>
-  <programme start="20210412003500 +0200" stop="20210412012500 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412010000 +0200" stop="20210412014500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">L' AGENDA NERA - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210412012500 +0200" stop="20210412022000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412014500 +0200" stop="20210412023000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">IMPETO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210412022000 +0200" stop="20210412030000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412023000 +0200" stop="20210412031500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">APPENA UCCISO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210412030000 +0200" stop="20210412034000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412031500 +0200" stop="20210412035500 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">BRUCIATO - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210412034000 +0200" stop="20210412042000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412035500 +0200" stop="20210412043900 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">C.S.I. Miami</title>
     <sub-title lang="it">INTERRUTORE D'EMERGENZA - C.S.I. MIAMI V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
-  <programme start="20210412042000 +0200" stop="20210412042100 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412043900 +0200" stop="20210412044000 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Tgcom24</title>
     <sub-title lang="it">TGCOM24 C1</sub-title>
     <category lang="it">TELEGIORNALI</category>
   </programme>
-  <programme start="20210412042100 +0200" stop="20210412050000 +0200" channel="topcrime.guidatv.sky.it">
-    <title lang="it">Southland</title>
-    <sub-title lang="it">SALTO NEL VUOTO - SOUTHLAND III</sub-title>
-    <category lang="it">SERIE</category>
-  </programme>
-  <programme start="20210412050000 +0200" stop="20210412060000 +0200" channel="topcrime.guidatv.sky.it">
+  <programme start="20210412044000 +0200" stop="20210412053400 +0200" channel="topcrime.guidatv.sky.it">
     <title lang="it">Longmire</title>
     <sub-title lang="it">UN BUON RICORDO - LONGMIRE V</sub-title>
+    <category lang="it">SERIE</category>
+  </programme>
+  <programme start="20210412053400 +0200" stop="20210412070200 +0200" channel="topcrime.guidatv.sky.it">
+    <title lang="it">Longmire</title>
+    <sub-title lang="it">L' APPARENZA - LONGMIRE V</sub-title>
     <category lang="it">SERIE</category>
   </programme>
   <programme start="20210411060500 +0200" channel="yoyo.raisat.it">
@@ -5237,11 +5232,7 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411093500 +0200" stop="20210411094500 +0200" channel="www.boingtv.it">
-    <title lang="it">Teen Titans Go!</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411094500 +0200" stop="20210411095500 +0200" channel="www.boingtv.it">
+  <programme start="20210411093500 +0200" stop="20210411095500 +0200" channel="www.boingtv.it">
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5301,11 +5292,7 @@
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411133500 +0200" stop="20210411134500 +0200" channel="www.boingtv.it">
-    <title lang="it">Steven Universe</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411134500 +0200" stop="20210411135500 +0200" channel="www.boingtv.it">
+  <programme start="20210411133500 +0200" stop="20210411135500 +0200" channel="www.boingtv.it">
     <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5417,12 +5404,8 @@
     <title lang="it">Teen Titans Go!</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210411195000 +0200" stop="20210411210500 +0200" channel="www.boingtv.it">
+  <programme start="20210411195000 +0200" stop="20210411211500 +0200" channel="www.boingtv.it">
     <title lang="it">DC Super Heroes-Justice League: Legion of Doom all'attacco!</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210411210500 +0200" stop="20210411211500 +0200" channel="www.boingtv.it">
-    <title lang="it">Steven Universe</title>
     <category lang="it">CARTOON</category>
   </programme>
   <programme start="20210411211500 +0200" stop="20210411212500 +0200" channel="www.boingtv.it">
@@ -5477,11 +5460,7 @@
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210412004000 +0200" stop="20210412005000 +0200" channel="www.boingtv.it">
-    <title lang="it">Mr Bean</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210412005000 +0200" stop="20210412010000 +0200" channel="www.boingtv.it">
+  <programme start="20210412004000 +0200" stop="20210412010000 +0200" channel="www.boingtv.it">
     <title lang="it">Mr Bean</title>
     <category lang="it">CARTOON</category>
   </programme>
@@ -5537,11 +5516,7 @@
     <title lang="it">Ninjago</title>
     <category lang="it">CARTOON</category>
   </programme>
-  <programme start="20210412040500 +0200" stop="20210412041500 +0200" channel="www.boingtv.it">
-    <title lang="it">Lo straordinario mondo di Gumball</title>
-    <category lang="it">CARTOON</category>
-  </programme>
-  <programme start="20210412041500 +0200" stop="20210412042500 +0200" channel="www.boingtv.it">
+  <programme start="20210412040500 +0200" stop="20210412042500 +0200" channel="www.boingtv.it">
     <title lang="it">Lo straordinario mondo di Gumball</title>
     <category lang="it">CARTOON</category>
   </programme>

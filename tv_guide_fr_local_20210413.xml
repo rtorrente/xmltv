@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210412230500 +0200" stop="20210413001500 +0200">
     <title>La vie au grand âge</title>
     <desc lang="fr">Immersion dans un Ehpad pas tout à fait comme les autres, organisé en coopérative. A Lépine, les résidents, le personnel et les familles sont également soucieux de la bonne marche de l'établissement. Au-delà de la viabilité économique du projet, ils ont une volonté commune : trouver une nouvelle façon de prendre en charge le grand âge. Les réalisateurs ont passé presque deux ans à Lépine, le temps de saisir les émotions, de comprendre les possibilités et les limites du changement, de s'attacher à tous et de s'installer dans cette maison de retraite transformée en champ d'expérimentation.</desc>
@@ -31771,6 +31775,228 @@ Ce triomphe était plutôt mérité : Les Inconnus, issus de la télé et du caf
     <category lang="fr">journal</category>
     <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3341002d8cc55dd1434bed5654142b3ff74bd7ab.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210412234400 +0200" stop="20210413010100 +0200">
+    <title>Alice et autres merveilles</title>
+    <desc lang="fr">Captation des deux pièces "Alice et autres Merveilles" et "Alice traverse le mroir", au Théâtre de la ville de Paris, Où l'on réouvre le fascinant livre d'Alice, héroïne éternelle dont les mystérieuses aventures fascinent toutes les générations. value: Captation des deux pièces "Alice et autres Merveilles" et "Alice traverse le mroir", au Théâtre de la ville de Paris, Où l'on réouvre le fascinant livre d'Alice, héroïne éternelle dont les mystérieuses aventures fascinent toutes les générations.</desc>
+    <category lang="fr">vaudeville</category>
+    <length units="minutes">77</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7173fb25abd014a3b327fb9339dc90704656fba8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413010100 +0200" stop="20210413021900 +0200">
+    <title>Alice traverse le miroir</title>
+    <desc lang="fr">Captation des deux pièces "Alice et autres Merveilles" et "Alice traverse le mroir", au Théâtre de la ville de Paris, Où l'on réouvre le fascinant livre d'Alice, héroïne éternelle dont les mystérieuses aventures fascinent toutes les générations. value: Captation des deux pièces "Alice et autres Merveilles" et "Alice traverse le mroir", au Théâtre de la ville de Paris, Où l'on réouvre le fascinant livre d'Alice, héroïne éternelle dont les mystérieuses aventures fascinent toutes les générations.</desc>
+    <category lang="fr">vaudeville</category>
+    <length units="minutes">78</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/567eafd14ce789fa3497d9f23699850021203831.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413023700 +0200" stop="20210413033300 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413033900 +0200" stop="20210413040900 +0200">
+    <title>13h15, le samedi...</title>
+    <sub-title>Une vie de soliste</sub-title>
+    <desc lang="fr">Portrait du violoniste Renaud Capuçon, 41 ans, un musicien de renommée internationale qui donne plus de 180 concerts par an.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/44f645ce1e3c2d4832cddbcbab10d4a8e8e7c225.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413042900 +0200" stop="20210413070000 +0200">
+    <title>Le grand échiquier</title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">151</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6e2fe237b5a96b8944d8961090de87a2a061c306.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413070000 +0200" stop="20210413075500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413075500 +0200" stop="20210413092000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">85</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ccc26d7620195414e2aa6db5e03629488fd16d3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413092000 +0200" stop="20210413105100 +0200">
+    <title>Les trésors de l'Opéra de Paris</title>
+    <desc lang="fr">L'opéra, qui fait rayonner Paris dans le monde depuis 350 ans, ouvre ses portes pour révéler les nombreux trésors qu'il recèle. Le plus grand opéra d'Europe est envié par le monde entier notamment pour l'architecture spectaculaire du Palais Garnier et les machineries uniques de l'Opéra Bastille. Des livrets, des costumes, des maquettes et des décors conservés dans les archives incroyables de l'Opéra ou du Centre National du costume de Scène seront présentés. La réputation de l'opéra est également due à l'excellence des meilleurs danseurs sacrés "étoile", une exception à la française, et aux savoir-faire ancestraux des métiers tels que les perruquiers, les décorateurs, les costumiers et les sculpteurs.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : musique classique</category>
+    <length units="minutes">91</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e549a56081a4a709719082ad519013058a550f7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413105100 +0200" stop="20210413120000 +0200">
+    <title>Danser sa peine</title>
+    <desc lang="fr">Elles s'appellent Sylvia, Litale, Sophia, Annie et Malika, elles n'ont jamais dansé et sont incarcérées à Marseille dans le quartier des longues peines. Pendant quatre mois, deux fois par semaine, elles vont suivre l'atelier du célèbre chorégraphe Angelin Preljocaj. Un projet fou et audacieux, celui d'entraîner et faire danser les détenues qui se produiront "hors les murs" sur des grandes scènes prestigieuses comme celle du pavillon noir à Aix et à Montpellier au Festival International de la danse. Un autre regard sur la prison, sur l'enfermement des corps et sur le processus de création.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">69</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fcec7d5c7423a1ef647c35885c03d46d5d31e60a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413120000 +0200" stop="20210413125500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413125500 +0200" stop="20210413135000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ccc26d7620195414e2aa6db5e03629488fd16d3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413135000 +0200" stop="20210413154900 +0200">
+    <title>L'Outre-mer fait son Olympia</title>
+    <category lang="fr">jeu</category>
+    <length units="minutes">119</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/98f20daf987b453274bcca01ee1c2c568b7125dd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413154900 +0200" stop="20210413164700 +0200">
+    <title>Christine Salem Sinfonik: Francofolies 2019</title>
+    <desc lang="fr">Rare voix féminine du maloya, ce blues hérité des esclaves, Christine Salem en est aussi l'une des plus abruptes, par son timbre grave et androgyne, son flow ensorcelé et ses textes à l'amertume rageuse.</desc>
+    <category lang="fr">world music</category>
+    <length units="minutes">58</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be8706dc0a09e3cb89956880dae6f319b43cd8ad.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413164700 +0200" stop="20210413171000 +0200">
+    <title>Échappées sonores</title>
+    <sub-title>Baloji</sub-title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">23</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f8d3a4dfbaa902b9832cd210203610d3c62eaf8b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413171000 +0200" stop="20210413173800 +0200">
+    <title>Vinyle</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413173800 +0200" stop="20210413180600 +0200">
+    <title>Vinyle</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413180600 +0200" stop="20210413182000 +0200">
+    <title>Basique, les sessions</title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">14</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae7cfa064f09397f12486cb004f3dafd60360e3f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413182000 +0200" stop="20210413184300 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">23</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4bd831c52254f52c81181def1689ecdf60123221.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413184300 +0200" stop="20210413191500 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">32</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e549a56081a4a709719082ad519013058a550f7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413191500 +0200" stop="20210413201000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ccc26d7620195414e2aa6db5e03629488fd16d3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413201000 +0200" stop="20210413210500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ccc26d7620195414e2aa6db5e03629488fd16d3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413210500 +0200" stop="20210413232100 +0200">
+    <title>Les P'tites Michu</title>
+    <desc lang="fr">En 1793, au moment où les autorités révolutionnaires s'apprêtent à arrêter le marquis des Ifs, l'épouse de ce dernier perd la vie en donnant le jour à une petite fille. Le marquis confie l'enfant aux époux Michu, dont la femme vient également d'accoucher d'une fille, avant de disparaître pour échapper à ses poursuivants. À quelque temps de là, le père Michu se charge de baigner les enfants. Il les met ensemble dans la baignoire, puis, au moment de les rhabiller, est incapable de les distinguer l'une de l'autre. Cent ving ans après sa triomphale création, l'oeuvre n'a rien perdu de sa légèreté. Difficile de résister au charme exquis de cette musique avec laquelle André Messager sut apprêter ce drame pour rire et sourire.</desc>
+    <category lang="fr">opérette</category>
+    <length units="minutes">136</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e8176e566ee2e7a192a6153c277b108965a58d44.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210413232100 +0200" stop="20210414012200 +0200">
+    <title>Tout doit disparaître</title>
+    <desc lang="fr">Avec Tout doit disparaître, Philippe Decouflé invite le public à une déambulation dans le théâtre et dans l'histoire passée et présente de la Compagnie DCA. Une sorte de surprise-partie unique. Captation au Théâtre Chaillot à Paris Avec Tout doit disparaître, Philippe Decouflé invite le public à une déambulation dans le théâtre et dans l'histoire passée et présente de la Compagnie DCA. Une sorte de surprise-partie unique. Captation au Théâtre Chaillot à Paris</desc>
+    <category lang="fr">chorégraphique</category>
+    <length units="minutes">121</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7365b097f1088c51131515df10376637a543ec79.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

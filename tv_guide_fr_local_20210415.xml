@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210414225000 +0200" stop="20210415002000 +0200">
     <title>6 à la maison</title>
     <desc lang="fr">Artistes, humoristes, intellectuels, acteurs de l'actualité : chaque soir, quatre invités se réunissent autour d'Anne-Elisabeth Lemoine et Patrick Cohen pour proposer aux téléspectateurs une émission à la fois sérieuse et légère autour de la culture et de l'actualité, dans une ambiance chaleureuse et moderne.</desc>
@@ -31303,6 +31307,268 @@ Cette variante contemporaine de La Vache et le Prisonnier est donc un conte de f
     <category lang="fr">journal</category>
     <length units="minutes">8</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5e9a89049ce394229858f64e75844bd7deaac105.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210414231400 +0200" stop="20210415001200 +0200">
+    <title>Concerts aux Francofolies</title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">58</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/36ce45e5b8f6e9b58ab9fd24e45bddd7c35e0b2b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415001200 +0200" stop="20210415005700 +0200">
+    <title>Concerts aux Francofolies</title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f22f9c7c687649b8f3fae8faf36ece25899054dc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415005700 +0200" stop="20210415022000 +0200">
+    <title>Tri Yann, le concert des 50 ans</title>
+    <desc lang="fr">Dernière tournée pour les Tri Yann avant de raccrocher les costumes ! TRI YANN a décidé de mettre un terme aux tournées de concerts à partir de fin mars 2020. Tri Yann (" Les trois Jean ") est un groupe folk rock français, originaire de Nantes, en Loire-Atlantique. Le style musical du groupe est principalement influencé par la musique et la chanson bretonne. Captation le 20 juillet 2019 dans le cadre du Festival Les Nuits Salines Dernière tournée pour les Tri Yann avant de raccrocher les costumes ! TRI YANN a décidé de mettre un terme aux tournées de concerts à partir de fin mars 2020. Tri Yann (" Les trois Jean ") est un groupe folk rock français, originaire de Nantes, en Loire-Atlantique. Le style musical du groupe est principalement influencé par la musique et la chanson bretonne.</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">83</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/56504d502312d830eb9dd9c4f1f26fb80c607a7d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415022000 +0200" stop="20210415031300 +0200">
+    <title>Alan Stivell à l'Olympia</title>
+    <desc lang="fr">40 ans, pratiquement jour pour jour après son premier Olympia en 1972, Stivell revisite son répertoire avec les artistes de la première heure et ceux de la plus jeune génération comme Nolwenn Leroy, Pat O May, René Werneer. Un concert mémorable ponctué par des interviews de l'artiste et des séquences coulisses inédites.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/36ce45e5b8f6e9b58ab9fd24e45bddd7c35e0b2b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415031300 +0200" stop="20210415042900 +0200">
+    <title>Denez Prigent</title>
+    <desc lang="fr">Reprise du concert de Denez Prigent, diffusé sur F3 Bretagne</desc>
+    <category lang="fr">autre</category>
+    <length units="minutes">76</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d5588d3b76a4caa4071a2d0071a355ebfe8cdc85.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415042900 +0200" stop="20210415052400 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415052400 +0200" stop="20210415070000 +0200">
+    <title>Les Vieilles Canailles</title>
+    <desc lang="fr">Les Vieilles Canailles reviennent sur scène dès le 10 juin 2017. Un événement très attendu des fans du trio de légende ! Les trois compères, Jacques Dutronc, Johnny Hallyday et Eddy Mitchell, ont ainsi programmé 17 dates à travers la France, la Suisse et la Belgique, et notamment cette halte à Bercy, diffusée en direct. Ils interprètent leurs plus grands succès et s'amusent de leur complicité, restée intacte malgré le passage des années. Pour l'occasion, les caméras se sont même immiscées dans les coulisses de l'événement, afin de faire partager aux téléspectateurs les derniers préparatifs des Canailles et de leur staff.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">96</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/01674cb2ed841966dcc342fdcfb1c0c779c8e2c3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415070000 +0200" stop="20210415075500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415075500 +0200" stop="20210415092000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">85</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415092000 +0200" stop="20210415101400 +0200">
+    <title>Ernest Pignon-Ernest, à taille humaine</title>
+    <desc lang="fr">Documentaire produit par MC4, avec la participation de France Télévisions et avec le soutien du CNC. 2019. Auteur et réalisateur : Yann Coquart. Précurseur dès les années 60 de ce que l'on nomme aujourd'hui le " street art ", Ernest Pignon-Ernest continue d'arpenter le monde pour y coller ses images. Il est une référence pour beaucoup tant ses dessins racontent avec force et poésie notre histoire, nos grands mythes, notre temps. Reproduites sur un support fragile et soumis aux aléas de la rue et du temps, certaines de ses images sont devenues iconiques tel le Rimbaud en jeans qu'il colla en 1978 sur les murs de la capitale.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : culture</category>
+    <length units="minutes">54</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f30d91c348c223457fbc8826b1ba81825ee106d6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415101400 +0200" stop="20210415110700 +0200">
+    <title>Yan Pei-Ming, de Ornans à Shanghai</title>
+    <desc lang="fr">Documentaire coproduit par Premières Lignes/Pendant ce temps-là/Musée d'Orsay/Musée de l'Orangerie, avec la participation de France Télévisions. 2019. Un film de Michel Quinejure. Le réalisateur Michel Quinejure a repris la caméra pour filmer les dernières aventures de Yan Pei-Ming. Ils ont l'habitude de travailler ensemble, l'un peint, l'autre filme. Une collaboration qui dure depuis près de 30 ans. Dans ce documentaire, Yan Pei-Ming prépare une exposition au Musée Courbet à Ornans. Le peintre originaire de Shanghai rend hommage au peintre natif d'Ornans. Il confronte sa peinture et sa gestuelle libre et spontanée aux tableaux de Gustave Courbet.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : beaux-arts</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a53ff3c68a0a379562318333f4ca7b0aa7199e10.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415110700 +0200" stop="20210415120000 +0200">
+    <title>Nadia et Fernand Léger, la face cachée d'un maître</title>
+    <desc lang="fr">Documentaire produit par France.TV Studio, avec la participation de France Télévisions. 2018. Auteures : Catherine Aventurier et Aurelia Rouvier. Réalisatrice : Catherine Aventurier. Du couple Léger, on ne retient que lui, l'artiste de la modernité, le colosse, l'inclassable. Mais sans elle, une petite femme boulotte et autoritaire originaire de Biélorussie, la carrière de Fernand Léger aurait eu un tout autre destin. A son retour des Etats-Unis après la guerre, en 1946, Léger est quelque peu oublié. Nadia relance alors sa carrière, dirige sa vie, son atelier et en fait - comme son adversaire Picasso - un peintre du Parti communiste. Fernand et Nadia se sont rencontrés grâce à l'art, pour l'art et ont été intimes pendant plus de 25 ans.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : beaux-arts</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a53ff3c68a0a379562318333f4ca7b0aa7199e10.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415120000 +0200" stop="20210415125500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415125500 +0200" stop="20210415135000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415135000 +0200" stop="20210415151600 +0200">
+    <title>Le concert des étoiles</title>
+    <sub-title>Mozart</sub-title>
+    <desc lang="fr">A travers les airs et les morceaux les plus marquants de son répertoire, de grands artistes lyriques et instrumentistes venus du monde entier se produisent sur la scène du Théâtre des Champs-Elysées, en l'honneur de l'un des plus célèbres compositeurs de l'histoire de la musique classique : Wolfgang Amadeus Mozart. Accompagnés par l'Orchestre de Chambre de Paris, sous la direction d'Yvan Cassar, ils rendent hommage à cet immense compositeur, transmettant au public l'esprit qui l'animait. L'émission alterne d'une part images d'archives des plus grands interprètes mozartiens et des plus belles mises en scène de ses opéras; et de l'autre, airs d'opéra et extraits d'oeuvres instrumentales interprétés sur la scène du Théâtre des Champs-Elysées par une nouvelle génération d'artistes internationaux.</desc>
+    <category lang="fr">classique</category>
+    <length units="minutes">86</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3b030b8198d5a3ae6505ac087b0f62b74a54228c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415151600 +0200" stop="20210415170000 +0200">
+    <title>Le meilleur du Violon sur le sable</title>
+    <desc lang="fr">Divertissement musical produit par la Belle Télé. 2020. Chaque année, Royan, petite cité balnéaire de Charente-Maritime, accueille la crème de l'art lyrique français et international, pour proposer des concerts à 60 000 spectateurs, réunis chaque soir. La tête dans les étoiles et les pieds dans le sable, ce programme invite le téléspectateur à revivre, sur scène et en coulisses, les plus beaux moments de l'un des plus beaux festivals d'été dédiés à l'art lyrique. Avec au programme la cantatrice Vannina Santoni, le violoniste Nemanja Radulovic ou encore la grande pianiste Khatia Buniatishvili.</desc>
+    <category lang="fr">classique</category>
+    <length units="minutes">104</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/21f6fa3e2db14e9f3b6e9c53d3807d09afab482f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415170000 +0200" stop="20210415172900 +0200">
+    <title>Vinyle</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415172900 +0200" stop="20210415175800 +0200">
+    <title>Vinyle</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">29</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415175800 +0200" stop="20210415181500 +0200">
+    <title>Basique, les sessions</title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">17</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae7cfa064f09397f12486cb004f3dafd60360e3f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415181500 +0200" stop="20210415182900 +0200">
+    <title>Basique, les sessions</title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">14</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a52e9b15bbb561191ba09cf13f44264b6e4572a2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415182900 +0200" stop="20210415184900 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415184900 +0200" stop="20210415191500 +0200">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">26</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73985c59126da9f0b277119abe1e8e323f0bf368.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415191500 +0200" stop="20210415201000 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415201000 +0200" stop="20210415210500 +0200">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2ccc26d7620195414e2aa6db5e03629488fd16d3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415210500 +0200" stop="20210415221000 +0200">
+    <title>Gims &amp; Friends à Marrakech</title>
+    <desc lang="fr">Une nouvelle fois, Gims investit la place Jemaa el Fna de Marrakech pour un concert exceptionnel et gratuit. L'interprète de "Sapés comme jamais" ou "La même" partage la scène avec d'autres artistes, comme Dadju et Lartiste. L'ancien membre du groupe Sexion d'Assaut, réputé pour son sens du spectacle, et les autres chanteurs qui l'accompagnent, ne manqueront pas de combler les attentes de son public.</desc>
+    <category lang="fr">rap %26 techno</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0ef100f80c90fd4de5ac07be5c843a9a46fa0239.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415221000 +0200" stop="20210415230000 +0200">
+    <title>Gims &amp; Friends à Marrakech</title>
+    <desc lang="fr">Gims revient à Marrakech avec ses amis pour mettre le feu à la place Jemaa El Fna ! Pour sa troisième édition, l'événement Stars in the Place aura lieu le 29 décembre pour un concert gratuit et exceptionnel. Les organisateurs ont déjà annoncé la présence de Gims qui sera accompagné des chanteurs et rappeurs Dadju et l'Artiste..</desc>
+    <category lang="fr">rap %26 techno</category>
+    <length units="minutes">50</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e740ace61a35560eb5efdd13035c4c3dc9505daa.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210415230000 +0200" stop="20210416004500 +0200">
+    <title>Bâtiment B</title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">105</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9e6e6ec9d3d2ad3243c3192982a85372ab68fbd5.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

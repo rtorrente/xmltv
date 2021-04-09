@@ -1,5 +1,5 @@
 
-# Start script at 09/04/2021 12:25:53
+# Start script at 09/04/2021 13:54:50
 
 # Remove all XMLTV files in root directory
 
@@ -9,128 +9,153 @@
 	* Grab TV guides of day 09/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210409.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 0 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210409.xml
-			* Final file size: 2602862 bytes
+			* Final file size: 2626041 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210409.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 0 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210409.xml
-			* Final file size: 0 bytes
+			* Final file size: 32719 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210409.xml
-			* This file already exists (size: 292134 bytes) --> Nothing to do
+			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 0 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210409.xml
+			* Final file size: 292619 bytes
 	* Grab TV guides of day 10/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210410.xml
 			* Force file update (delta is 1) --> run grabber
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 1 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210410.xml
-			* Final file size: 3002896 bytes
+			* Final file size: 3022503 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210410.xml
 			* Force file update (delta is 1) --> run grabber
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 1 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210410.xml
-			* Final file size: 0 bytes
+			* Final file size: 31535 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210410.xml
 			* Force file update (delta is 1) --> run grabber
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 1 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210410.xml
-			* Final file size: 277632 bytes
+			* Final file size: 277602 bytes
 	* Grab TV guides of day 11/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210411.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 2 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210411.xml
-			* Final file size: 14870 bytes
+			* Final file size: 1453870 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210411.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 2 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210411.xml
-			* Final file size: 0 bytes
+			* Final file size: 33146 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210411.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 2 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210411.xml
-			* Final file size: 270076 bytes
+			* Final file size: 268903 bytes
 	* Grab TV guides of day 12/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210412.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 3 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210412.xml
-			* Final file size: 2918572 bytes
+			* Final file size: 2945249 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210412.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 3 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210412.xml
-			* Final file size: 0 bytes
+			* Final file size: 34707 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210412.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 3 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210412.xml
-			* Final file size: 282535 bytes
+			* Final file size: 281860 bytes
 	* Grab TV guides of day 13/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210413.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 4 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210413.xml
-			* Final file size: 2204530 bytes
+			* Final file size: 2219058 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210413.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 4 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210413.xml
-			* Final file size: 0 bytes
+			* Final file size: 35926 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210413.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 4 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210413.xml
-			* Final file size: 279125 bytes
+			* Final file size: 278773 bytes
 	* Grab TV guides of day 14/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210414.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 5 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210414.xml
-			* Final file size: 2032550 bytes
+			* Final file size: 2047579 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210414.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 5 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210414.xml
-			* Final file size: 0 bytes
+			* Final file size: 34922 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210414.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 5 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210414.xml
-			* Final file size: 287036 bytes
+			* Final file size: 287024 bytes
 	* Grab TV guides of day 15/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210415.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 6 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210415.xml
-			* Final file size: 2119218 bytes
+			* Final file size: 2138720 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210415.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 6 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210415.xml
-			* Final file size: 0 bytes
+			* Final file size: 35948 bytes
 		- Grab TV guide of tv_grab_it grabber in /home/admin/xmltv/scripts/../raw/tv_guide_it_20210415.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it --config-file /home/admin/xmltv/scripts/tv_grab_it/tv_grab_it.conf --days 1 --offset 6 --output /home/admin/xmltv/scripts/../raw/tv_guide_it_20210415.xml
-			* Final file size: 261273 bytes
+			* Final file size: 261276 bytes
 	* Grab TV guides of day 16/04/2021
 		- Grab TV guide of tv_grab_fr_telerama grabber in /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210416.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama --config-file /home/admin/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama.conf --no_htmltags --casting --days 1 --offset 7 --output /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210416.xml
-			* Final file size: 2132124 bytes
+			* Final file size: 2149472 bytes
 		- Grab TV guide of tv_grab_uk_tvguide grabber in /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210416.xml
 			* Run cmd: /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide --config-file /home/admin/xmltv/scripts/tv_grab_uk_tvguide/tv_grab_uk_tvguide.conf --days 1 --offset 7 --output /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210416.xml
-			* Final file size: 0 bytes
+			* Final file size: 34405 bytes
 
 # Parse all raw XMLTV files
 
 	* Processing of tv_grab_fr_telerama grabber's raw files:
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210409.xml file
-			- This file contains 73 channels
-			- This file contains 3376 TV shows
+			- This file contains 74 channels
+			- This file contains 3407 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210410.xml file
-			- This file contains 73 channels
-			- This file contains 3723 TV shows
+			- This file contains 74 channels
+			- This file contains 3752 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210411.xml file
-			- This file seems to be corrupt :-/, delete it (no element found: line 296, column 12)
+			- This file seems to be corrupt :-/, delete it (no element found: line 22595, column 14)
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210412.xml file
-			- This file contains 73 channels
-			- This file contains 3533 TV shows
+			- This file contains 74 channels
+			- This file contains 3568 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210413.xml file
-			- This file contains 73 channels
-			- This file contains 2694 TV shows
+			- This file contains 74 channels
+			- This file contains 2716 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210414.xml file
-			- This file contains 73 channels
-			- This file contains 2580 TV shows
+			- This file contains 74 channels
+			- This file contains 2604 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210415.xml file
-			- This file contains 73 channels
-			- This file contains 2636 TV shows
+			- This file contains 74 channels
+			- This file contains 2662 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_fr_telerama_20210416.xml file
-			- This file contains 73 channels
-			- This file contains 2714 TV shows
+			- This file contains 74 channels
+			- This file contains 2738 TV shows
 
 	* Processing of tv_grab_uk_tvguide grabber's raw files:
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210409.xml file
+			- This file contains 13 channels
+			- This file contains 54 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210410.xml file
+			- This file contains 13 channels
+			- This file contains 52 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210411.xml file
+			- This file contains 13 channels
+			- This file contains 54 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210412.xml file
+			- This file contains 13 channels
+			- This file contains 57 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210413.xml file
+			- This file contains 13 channels
+			- This file contains 59 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210414.xml file
+			- This file contains 13 channels
+			- This file contains 58 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210415.xml file
+			- This file contains 13 channels
+			- This file contains 60 TV shows
+		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_uk_tvguide_20210416.xml file
+			- This file contains 13 channels
+			- This file contains 57 TV shows
 
 	* Processing of tv_grab_it grabber's raw files:
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_it_20210409.xml file
 			- This file contains 145 channels
-			- This file contains 1333 TV shows
+			- This file contains 1335 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_it_20210410.xml file
 			- This file contains 145 channels
-			- This file contains 1269 TV shows
+			- This file contains 1267 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_it_20210411.xml file
 			- This file contains 145 channels
-			- This file contains 1228 TV shows
+			- This file contains 1221 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_it_20210412.xml file
 			- This file contains 145 channels
-			- This file contains 1289 TV shows
+			- This file contains 1286 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_it_20210413.xml file
 			- This file contains 145 channels
-			- This file contains 1270 TV shows
+			- This file contains 1268 TV shows
 		* Parse /home/admin/xmltv/scripts/../raw/tv_guide_it_20210414.xml file
 			- This file contains 145 channels
 			- This file contains 1293 TV shows
@@ -142,9 +167,9 @@
 
 	* Processing of fr country
 		- Write full xmltv file in tv_guide_fr.xml
-			- Final file contains 19177 TV shows
+			- Final file contains 19368 TV shows
 		- Write full_local xmltv file in tv_guide_fr_local.xml
-			- Final file contains 19177 TV shows
+			- Final file contains 19368 TV shows
 		- Write day 20210407 in tv_guide_fr_20210407.xml
 			- Final file contains 0 TV shows
 		- Write day 20210407 in tv_guide_fr_local_20210407.xml
@@ -154,43 +179,43 @@
 		- Write day 20210408 in tv_guide_fr_local_20210408.xml
 			- Final file contains 0 TV shows
 		- Write day 20210409 in tv_guide_fr_20210409.xml
-			- Final file contains 3215 TV shows
+			- Final file contains 3249 TV shows
 		- Write day 20210409 in tv_guide_fr_local_20210409.xml
-			- Final file contains 3040 TV shows
+			- Final file contains 3071 TV shows
 		- Write day 20210410 in tv_guide_fr_20210410.xml
-			- Final file contains 3195 TV shows
+			- Final file contains 3222 TV shows
 		- Write day 20210410 in tv_guide_fr_local_20210410.xml
-			- Final file contains 3445 TV shows
+			- Final file contains 3475 TV shows
 		- Write day 20210411 in tv_guide_fr_20210411.xml
-			- Final file contains 210 TV shows
+			- Final file contains 212 TV shows
 		- Write day 20210411 in tv_guide_fr_local_20210411.xml
-			- Final file contains 65 TV shows
+			- Final file contains 66 TV shows
 		- Write day 20210412 in tv_guide_fr_20210412.xml
-			- Final file contains 3226 TV shows
+			- Final file contains 3261 TV shows
 		- Write day 20210412 in tv_guide_fr_local_20210412.xml
-			- Final file contains 3244 TV shows
+			- Final file contains 3279 TV shows
 		- Write day 20210413 in tv_guide_fr_20210413.xml
-			- Final file contains 2491 TV shows
+			- Final file contains 2514 TV shows
 		- Write day 20210413 in tv_guide_fr_local_20210413.xml
-			- Final file contains 2472 TV shows
+			- Final file contains 2495 TV shows
 		- Write day 20210414 in tv_guide_fr_20210414.xml
-			- Final file contains 2326 TV shows
+			- Final file contains 2352 TV shows
 		- Write day 20210414 in tv_guide_fr_local_20210414.xml
-			- Final file contains 2361 TV shows
+			- Final file contains 2386 TV shows
 		- Write day 20210415 in tv_guide_fr_20210415.xml
-			- Final file contains 2436 TV shows
+			- Final file contains 2462 TV shows
 		- Write day 20210415 in tv_guide_fr_local_20210415.xml
-			- Final file contains 2418 TV shows
+			- Final file contains 2445 TV shows
 		- Write day 20210416 in tv_guide_fr_20210416.xml
-			- Final file contains 2387 TV shows
+			- Final file contains 2411 TV shows
 		- Write day 20210416 in tv_guide_fr_local_20210416.xml
-			- Final file contains 2516 TV shows
+			- Final file contains 2541 TV shows
 
 	* Processing of fr_tnt country
 		- Write full xmltv file in tv_guide_fr_tnt.xml
-			- Final file contains 5624 TV shows
+			- Final file contains 5815 TV shows
 		- Write full_local xmltv file in tv_guide_fr_tnt_local.xml
-			- Final file contains 5624 TV shows
+			- Final file contains 5815 TV shows
 		- Write day 20210407 in tv_guide_fr_tnt_20210407.xml
 			- Final file contains 0 TV shows
 		- Write day 20210407 in tv_guide_fr_tnt_local_20210407.xml
@@ -200,37 +225,37 @@
 		- Write day 20210408 in tv_guide_fr_tnt_local_20210408.xml
 			- Final file contains 0 TV shows
 		- Write day 20210409 in tv_guide_fr_tnt_20210409.xml
-			- Final file contains 937 TV shows
+			- Final file contains 971 TV shows
 		- Write day 20210409 in tv_guide_fr_tnt_local_20210409.xml
-			- Final file contains 897 TV shows
+			- Final file contains 928 TV shows
 		- Write day 20210410 in tv_guide_fr_tnt_20210410.xml
-			- Final file contains 895 TV shows
+			- Final file contains 922 TV shows
 		- Write day 20210410 in tv_guide_fr_tnt_local_20210410.xml
-			- Final file contains 956 TV shows
+			- Final file contains 986 TV shows
 		- Write day 20210411 in tv_guide_fr_tnt_20210411.xml
-			- Final file contains 68 TV shows
+			- Final file contains 70 TV shows
 		- Write day 20210411 in tv_guide_fr_tnt_local_20210411.xml
-			- Final file contains 26 TV shows
+			- Final file contains 27 TV shows
 		- Write day 20210412 in tv_guide_fr_tnt_20210412.xml
-			- Final file contains 929 TV shows
+			- Final file contains 964 TV shows
 		- Write day 20210412 in tv_guide_fr_tnt_local_20210412.xml
-			- Final file contains 921 TV shows
+			- Final file contains 956 TV shows
 		- Write day 20210413 in tv_guide_fr_tnt_20210413.xml
-			- Final file contains 774 TV shows
+			- Final file contains 797 TV shows
 		- Write day 20210413 in tv_guide_fr_tnt_local_20210413.xml
-			- Final file contains 772 TV shows
+			- Final file contains 795 TV shows
 		- Write day 20210414 in tv_guide_fr_tnt_20210414.xml
-			- Final file contains 708 TV shows
+			- Final file contains 734 TV shows
 		- Write day 20210414 in tv_guide_fr_tnt_local_20210414.xml
-			- Final file contains 717 TV shows
+			- Final file contains 742 TV shows
 		- Write day 20210415 in tv_guide_fr_tnt_20210415.xml
-			- Final file contains 719 TV shows
+			- Final file contains 745 TV shows
 		- Write day 20210415 in tv_guide_fr_tnt_local_20210415.xml
-			- Final file contains 726 TV shows
+			- Final file contains 753 TV shows
 		- Write day 20210416 in tv_guide_fr_tnt_20210416.xml
-			- Final file contains 724 TV shows
+			- Final file contains 748 TV shows
 		- Write day 20210416 in tv_guide_fr_tnt_local_20210416.xml
-			- Final file contains 761 TV shows
+			- Final file contains 786 TV shows
 
 	* Processing of be country
 		- Write full xmltv file in tv_guide_be.xml
@@ -417,12 +442,12 @@
 			- Final file contains 75 TV shows
 
 	* Merge all country tv guides in tv_guide_all.xml
-		- Final file contains 30132 TV shows
+		- Final file contains 30762 TV shows
 
 	* Merge all country tv guides in tv_guide_all_local.xml
-		- Final file contains 30132 TV shows
+		- Final file contains 30762 TV shows
 
-# Exit script at 09/04/2021 13:35:46
+# Exit script at 09/04/2021 17:16:16
 
 - Force push changes
 

@@ -260,6 +260,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme channel="C4.api.telerama.fr" start="20210409230500" stop="20210410000500">
     <title>Ça commence aujourd'hui</title>
     <desc lang="fr">Tous les jours, Faustine Bollaert accueille sur le plateau de "Ça commence aujourd'hui" des hommes et des femmes qui évoquent des événements marquants de leur existence, pour permettre à d'autres d'avancer dans leur parcours: un rendez-vous positif et optimiste.</desc>
@@ -39613,6 +39617,288 @@ Tant de frénésie dans un « cross over » des deux apathiques séries de Franc
     <category lang="fr">magazine d'actualité</category>
     <length units="minutes">28</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3b2cc0addccc8b80791fa2a4e292f2200b7647fa.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210409233700" stop="20210410011100">
+    <title>Frou-Frou les Bains</title>
+    <desc lang="fr">1910. Frou-Frou les Bains, une station thermale réputée pour son eau de source, est dirigée d'une main de fer par son directeur. Sa fille Juliette est éperdument amoureuse de Batistin, l'employé gaffeur et maladroit, terrorisé par son patron. Mais un problème de taille ne tarde pas à survenir : il n'y a plus d'eau. Bientôt, c'est la panique dans toute la station, alors qu'arrivent les premiers curistes : la baronne de Morton la Garenne, toujours prête à la gaudriole, le fils de celle-ci, un grand benêt coincé dans une minerve et dans un plâtre, mademoiselle Moulin, une jolie fille "fleur bleue" un brin dépressive...</desc>
+    <credits>
+      <director>Jacques Décombe</director>
+      <actor>Urbain Cancelier</actor>
+      <actor>Patrick Haudecoeur</actor>
+      <actor>Isabelle Spade</actor>
+      <actor>Isabelle Tanakil</actor>
+      <actor>Jean-Pierre Azzerini</actor>
+      <actor>Guillaume Laffy</actor>
+      <actor>Paola Landolt</actor>
+      <actor>Patricia Grégoire</actor>
+    </credits>
+    <category lang="fr">théâtre : pièce de théâtre</category>
+    <length units="minutes">94</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9c8de20a2f03b9515d171a70ee7dd1b4007dfbc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410011100" stop="20210410030200">
+    <title>Palace sur scène</title>
+    <desc lang="fr">En 1988, Christian Fechner, producteur de films à succès, appela Jean-Michel Ribes pour évoquer avec lui un projet d'émission comique à grand spectacle. Ce dernier lui proposa l'idée d'un grand hôtel de luxe où le monde entier et ses absurdité pouvait apporter sa folie. L'émission "Palace" était née. Jean-Michel Ribes réunit les principaux auteurs de "Merci Bernard", à savoir Roland Topor, Jean-Marie Gourio, Gébé et François Rollin, qui furent rejoints par les dessinateurs Wolinski et Willem. Aujourd'hui, c'est sur scène que Lady Palace et autres personnages cultes se retrouvent et font revivre un humour féroce et absurde.</desc>
+    <category lang="fr">humour</category>
+    <length units="minutes">111</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ecad6c0630a7135f5469f516ce1cee710d251775.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410030200" stop="20210410040200">
+    <title>Culturebox festival</title>
+    <sub-title>Le Villejuif Underground</sub-title>
+    <desc lang="fr">Pour la 1ere année Culturebox lance son festival avec 6 concerts et 6 sessions. Culturebox offre ainsi une scène aux artistes qui s'apprêtaient à révéler cet été leurs dernières créations et met en avant l'extraordinaire inventivité de la scène musicale française. Ce festival en huis clos à La Cigale, est aussi l'occasion d'expérimenter de nouvelles relations aux publics et de nouvelles représentations de la musique live filmée. Seront présents : Pépite, Villejuif underground, Brigitte fontaine, Gystere, Meryl et d'autres...</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd8db7bad090d63743b7da603c0d9382a7849dda.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410040200" stop="20210410045900">
+    <title>Ours Samplus X Orchestra</title>
+    <desc lang="fr">Hautbois, violoncelles et piano réunis, laissent une place aux platines d'Ours Samplus, l'un des duos les plus prolifiques du moment, et ça se parle, et ça joue, et ça rejoue... Et ça prend du plaisir, comment avons-nous passé autant de temps sans nous rencontrer ? Et ça crée, ça s'amuse, ça se surprend, ça se bouscule. Capté au Théâtre Grand Sud de Lille</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">57</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/28c62acf7aa09fffd4b553e58205b9922cc311b1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410045900" stop="20210410050100">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>La projection</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410050100" stop="20210410055600">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410055600" stop="20210410065100">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410065100" stop="20210410074700">
+    <title>Concerts aux Francofolies</title>
+    <sub-title>Raphael</sub-title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/56504d502312d830eb9dd9c4f1f26fb80c607a7d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410074700" stop="20210410074800">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Tenir ensemble</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410074800" stop="20210410084300">
+    <title>Concerts aux Francofolies</title>
+    <sub-title>Gaëtan Roussel</sub-title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/56504d502312d830eb9dd9c4f1f26fb80c607a7d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410084300" stop="20210410092800">
+    <title>Concerts aux Francofolies</title>
+    <sub-title>Radio Elvis</sub-title>
+    <category lang="fr">variétés</category>
+    <length units="minutes">45</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a8e21169deae3bad72b6ba65fcbffea074605d31.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410092900" stop="20210410100000">
+    <title>Jump</title>
+    <desc lang="fr">Dans cette collection de portraits documentaires, nous suivons plusieurs stars montantes de la musique française, à un point de bascule de leurs carrières. Cette collection pourrait s'articuler autour des 4 artistes suivants : Clara Luciani, Angèle, Lomepal et Moha La Squale.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/36ce45e5b8f6e9b58ab9fd24e45bddd7c35e0b2b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410100000" stop="20210410105500">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410105500" stop="20210410115100">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410115100" stop="20210410132100">
+    <title>6 à la maison</title>
+    <desc lang="fr">Magazine hebdomadaire traitant de l'actualité du monde de l'art et du spectacle, autour d'un invité principal. Diffusé sur France 2 en S2.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5dd4d588a4e21f4f102705a16ca91ef2dbe708a4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410132100" stop="20210410132200">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>La projection</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410132200" stop="20210410145400">
+    <title>La grande librairie</title>
+    <desc lang="fr">L'actualité littéraire présentée par François Busnel en plateau autour des invités venus présenter leurs nouveautés.</desc>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">92</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c4caa0d41ac15ac8cef0b6f9a479ff233b825ec.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410145400" stop="20210410152500">
+    <title>Page 19</title>
+    <sub-title>Beata Umubyeyi</sub-title>
+    <desc lang="fr">Saison:6 - Magazine hebdomadaire littéraire présenté par Daniel Picouly qui a comme une mission originale de découvrir l'univers d'un auteur du Sud à partir de la page 19 de son dernier roman.</desc>
+    <category lang="fr">magazine littéraire</category>
+    <length units="minutes">31</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f616ff354e64285f35d111d3a5c50155451623a9.jpg" />
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410152500" stop="20210410161700">
+    <title>Renversant</title>
+    <desc lang="fr">Renversant est un magazine culturel régional qui vous emmène à la rencontre des artistes de la région Centre-Val de Loire. Avec Raphäl Yem et Elise Chassaing, ce programme sera diffusé sur la chaîne éphèmère CULTUREBOX TV.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">52</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8d13edfc74d9e23ccfa1cbba563b9a88c79bab27.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410161700" stop="20210410170900">
+    <title>Renversant</title>
+    <desc lang="fr">Renversant est un magazine culturel régional qui vous emmène à la rencontre des artistes de la région Centre-Val de Loire. Avec Raphäl Yem et Elise Chassaing, ce programme sera diffusé sur la chaîne éphèmère CULTUREBOX TV.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">52</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/8d13edfc74d9e23ccfa1cbba563b9a88c79bab27.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410170900" stop="20210410171000">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Tenir ensemble</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410171500" stop="20210410181000">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410181000" stop="20210410190500">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410190500" stop="20210410201000">
+    <title>Chica</title>
+    <desc lang="fr">Pour ce concert, La Chica sera accompagnée de Guests tels que Yael Naim, Yseult, Oxmo Puccino, Sandra Nkake et Hausmane.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">65</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/147cae6bfdfba0d28b89dab66cf5da7cd4242539.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410201000" stop="20210410201100">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>La projection</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410201100" stop="20210410214800">
+    <title>Yael Naim et David Donatien à la Philharmonie de Paris</title>
+    <desc lang="fr">Quinze mois après leur dernier concert parisien, Yael Naim et David Donatien reviennent pour une création commune. Ces deux multi-instrumentistes dévoilent de nouvelles compositions de leur futur album, en compagnie d'invités venus d'horizons pluriels, dans un parcours entre solo, duo et collaborations originales.</desc>
+    <category lang="fr">world music</category>
+    <length units="minutes">97</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d205e6862ce857a791866882f2443616a5bc1045.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C3163.api.telerama.fr" start="20210410214800" stop="20210410224800">
+    <title>Main Square Festival</title>
+    <sub-title>Caravan Palace</sub-title>
+    <desc lang="fr">Rachat de 3 concerts du Main Square Festival pour l'antenne éphémère Culturebox : Cypress Hill (2019), Arnaud Rebotini (2019), Caravan Palace (2019).</desc>
+    <category lang="fr">variétés</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/36ce45e5b8f6e9b58ab9fd24e45bddd7c35e0b2b.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

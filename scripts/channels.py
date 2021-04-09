@@ -68,7 +68,8 @@ COUNTRIES_CHANNELS = {
             'C1942.api.telerama.fr',
             'C1943.api.telerama.fr',
             'C1944.api.telerama.fr',
-            'C2111.api.telerama.fr'
+            'C2111.api.telerama.fr',
+            'C3163.api.telerama.fr'  # Culturebox
         ]
     },
     'fr_tnt': {
@@ -92,6 +93,7 @@ COUNTRIES_CHANNELS = {
             'C226.api.telerama.fr',  # CNEWS
             'C458.api.telerama.fr',  # CSTAR
             'C482.api.telerama.fr',  # Gulli
+            'C3163.api.telerama.fr',  # Culturebox
             'C1404.api.telerama.fr',  # TF1 Séries Films
             'C1401.api.telerama.fr',  # L'équipe
             'C1403.api.telerama.fr',  # 6ter

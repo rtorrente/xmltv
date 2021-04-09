@@ -294,6 +294,10 @@
     <display-name>Franceinfo</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/2111.png" />
   </channel>
+  <channel id="C3163.api.telerama.fr">
+    <display-name>Culturebox</display-name>
+    <icon src="https://television.telerama.fr/" />
+  </channel>
   <programme start="20210409001000 +0200" stop="20210409003500 +0200" channel="C4.api.telerama.fr">
     <title>Nous, les Européens</title>
     <desc lang="fr">Chaque numéro est thématisé autour d'un pays européen avec un reportage de quinze minutes sur une initiative inspirante, un invité en plateau pour savoir si le modèle présenté est applicable à la France et une chronique sur les actualités.</desc>
@@ -41339,5 +41343,330 @@ Michèle Laroque a l’habitude de coucher avec son baby-sitter, qui a la moiti�
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+  </programme>
+  <programme start="20210409024400 +0200" stop="20210409034200 +0200" channel="C3163.api.telerama.fr">
+    <title>Ours Samplus X Orchestra</title>
+    <desc lang="fr">Hautbois, violoncelles et piano réunis, laissent une place aux platines d'Ours Samplus, l'un des duos les plus prolifiques du moment, et ça se parle, et ça joue, et ça rejoue... Et ça prend du plaisir, comment avons-nous passé autant de temps sans nous rencontrer ? Et ça crée, ça s'amuse, ça se surprend, ça se bouscule. Capté au Théâtre Grand Sud de Lille</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">58</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/28c62acf7aa09fffd4b553e58205b9922cc311b1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409034200 +0200" stop="20210409044200 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox festival</title>
+    <sub-title>Le Villejuif Underground</sub-title>
+    <desc lang="fr">Pour la 1ere année Culturebox lance son festival avec 6 concerts et 6 sessions. Culturebox offre ainsi une scène aux artistes qui s'apprêtaient à révéler cet été leurs dernières créations et met en avant l'extraordinaire inventivité de la scène musicale française. Ce festival en huis clos à La Cigale, est aussi l'occasion d'expérimenter de nouvelles relations aux publics et de nouvelles représentations de la musique live filmée. Seront présents : Pépite, Villejuif underground, Brigitte fontaine, Gystere, Meryl et d'autres...</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd8db7bad090d63743b7da603c0d9382a7849dda.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409044200 +0200" stop="20210409053000 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox festival</title>
+    <sub-title>Gystere</sub-title>
+    <desc lang="fr">Pour la 1ere année Culturebox lance son festival avec 6 concerts et 6 sessions. Culturebox offre ainsi une scène aux artistes qui s'apprêtaient à révéler cet été leurs dernières créations et met en avant l'extraordinaire inventivité de la scène musicale française. Ce festival en huis clos à La Cigale, est aussi l'occasion d'expérimenter de nouvelles relations aux publics et de nouvelles représentations de la musique live filmée. Seront présents : Pépite, Villejuif underground, Brigitte fontaine, Gystere, Meryl et d'autres...</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">48</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/dd8db7bad090d63743b7da603c0d9382a7849dda.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409053000 +0200" stop="20210409055800 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox festival</title>
+    <sub-title>Pépite</sub-title>
+    <desc lang="fr">Pour la 1ere année Culturebox lance son festival avec 6 concerts et 6 sessions. Culturebox offre ainsi une scène aux artistes qui s'apprêtaient à révéler cet été leurs dernières créations et met en avant l'extraordinaire inventivité de la scène musicale française. Ce festival en huis clos à La Cigale, est aussi l'occasion d'expérimenter de nouvelles relations aux publics et de nouvelles représentations de la musique live filmée. Seront présents : Pépite, Villejuif underground, Brigitte fontaine, Gystere, Meryl et d'autres...</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/109897c90e100cf11da2db6cfbc2c5c1526f3214.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409055800 +0200" stop="20210409055900 +0200" channel="C3163.api.telerama.fr">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Tenir ensemble</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409055900 +0200" stop="20210409060400 +0200" channel="C3163.api.telerama.fr">
+    <title>L'ombre en lumière</title>
+    <desc lang="fr">Hommage à celles et ceux qui incarnent la culture et la fabriquent, à ceux qui la créent ensemble et souffrent de la crise sanitaire qui dure. Rencontre d'un artiste de renom et d'un homme ou d'une femme de l'ombre (ingénieur du son, scénariste de bande-dessinée, perruquière, vidéaste, styliste, jardinier, etc.) indispensable à l'exercice de son métier et de son art.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1e549a56081a4a709719082ad519013058a550f7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409060400 +0200" stop="20210409065700 +0200" channel="C3163.api.telerama.fr">
+    <title>Clair Obscur</title>
+    <desc lang="fr">Durant 52 minutes, Sébastien Folin revient sur les grands moments de la vie de son invité en résonance à des images d'actualités, dans le cadre du Studio Harcourt.</desc>
+    <category lang="fr">magazine des beaux-arts</category>
+    <length units="minutes">53</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e844b6527f8cc720be79274fedd38a7d1783174c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409065700 +0200" stop="20210409070000 +0200" channel="C3163.api.telerama.fr">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>La projection</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409070000 +0200" stop="20210409075600 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409075600 +0200" stop="20210409085100 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409085100 +0200" stop="20210409091500 +0200" channel="C3163.api.telerama.fr">
+    <title>Passage des arts</title>
+    <desc lang="fr">Claire Chazal présente l'actualité culturelle avec 1 ou 2 invités du lundi au vendredi.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">24</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f84ed7825da5acd243aa688b96d5bdd121f051a9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409091500 +0200" stop="20210409092000 +0200" channel="C3163.api.telerama.fr">
+    <title>L'ombre en lumière</title>
+    <sub-title>Gautier Capuçon et Caroline Sypniewski</sub-title>
+    <desc lang="fr">Hommage à celles et ceux qui incarnent la culture et la fabriquent, à ceux qui la créent ensemble et souffrent de la crise sanitaire qui dure. Rencontre d'un artiste de renom et d'un homme ou d'une femme de l'ombre (ingénieur du son, scénariste de bande-dessinée, perruquière, vidéaste, styliste, jardinier, etc.) indispensable à l'exercice de son métier et de son art.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/377a91e64847f427b43621439e1c905c220cf224.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409092000 +0200" stop="20210409110000 +0200" channel="C3163.api.telerama.fr">
+    <title>Patrick Bruel, entre les lignes</title>
+    <desc lang="fr">En 2019, Patrick Bruel célèbre un double anniversaire : ses 40 ans de carrière de comédien depuis "Le Coup de sirocco" d'Alexandre Arcady, et les 30 ans de la "Bruelmania". Bruel est à la fois chanteur, acteur, champion de poker et joueur d'échecs. Artiste exigeant et chanteur populaire, il affiche une réussite insolente, tout en cachant des blessures profondes. Cet entretien à coeur ouvert, ponctué de nombreuses archives et d'images des coulisses de sa dernière tournée, permet de découvrir le vrai Bruel, qui se raconte lui-même, entre anecdotes révélatrices, confidences, silences et sourires.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : culture</category>
+    <length units="minutes">100</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/605f89dbf21e66ec1bfe4bc2ac872d439ffd40c0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409110000 +0200" stop="20210409115200 +0200" channel="C3163.api.telerama.fr">
+    <title>Si tu veux on parle de moi</title>
+    <desc lang="fr">Plus de 20 ans après la mise en orbite du groupe emblématique Louise Attaque, le chanteur Gaëtan Roussel revient sur son parcours.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire : musique</category>
+    <length units="minutes">52</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f22f9c7c687649b8f3fae8faf36ece25899054dc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409115200 +0200" stop="20210409115400 +0200" channel="C3163.api.telerama.fr">
+    <title>D'art d'art !</title>
+    <sub-title>"Heal the world", de Barthelemy Toguo</sub-title>
+    <desc lang="fr">Comment rendre l'art des musées accessible à tout un chacun ? En racontant la petite histoire d'une ?uvre choisie parmi les plus belles pièces des collections publiques. En une minute et demie, Frédéric Taddeï donne aux téléspectateurs l'envie d'aller voir et d'ouvrir les portes des musées.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/de4724084688a0d7cf45c0914f33fe0f9ab4b524.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409115400 +0200" stop="20210409125000 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c6629ea115319addc7f61d55b35038a2c4f78e29.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409125000 +0200" stop="20210409134500 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409134500 +0200" stop="20210409154600 +0200" channel="C3163.api.telerama.fr">
+    <title>La vie secrète des chansons</title>
+    <sub-title>Sous le soleil exactement</sub-title>
+    <desc lang="fr">C'est l'été, et André Manoukian sort de son loft pour s'installer en bord de mer afin de recevoir tous ses invités autour de son piano blanc. Dans cet épisode de saison, il revisite les "tubes de l'été", ces chansons qui ont animé et égayé les soirées estivales et ont rythmé les vacances. C'est le cas de "Pour le plaisir" d'Herbert Léonard, "1er Gaou" de Magic System, "Il tape sur des bambous" de Philippe Lavil, sans oublier des tubes devenus planétaires comme "Zouk-la sé sel médikaman nou ni" de Kassav', "Bamboleo" de Chico &amp; the Gypsies, et "Alors on danse" de Stromae. Et que dire d'"I will survive" de Gloria Gaynor, un tube devenu l'hymne de la coupe du monde 98 ?</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire : musique</category>
+    <length units="minutes">121</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/87296e0b6205324420ee68f6473fb8bb2fb62a5f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210409154600 +0200" stop="20210409171600 +0200" channel="C3163.api.telerama.fr">
+    <title>Basique, le concert</title>
+    <sub-title>Étienne Daho</sub-title>
+    <desc lang="fr">Alors qu'il aborde bientôt sa quarantième année de carrière, Etienne Daho peut se réjouir : sa musique n'a pas pris une ride. Il a donné ses lettres de noblesse à la pop française et il surprend par sa créativité, son implication scénique et la ferveur partagée avec son public. Son dernier album aux accents floydiens a occasionné une tournée de plus d'un an qui s'est achevée en décembre 2018 à Rennes, la ville de son enfance. Daho a bien sûr fait entendre la plupart de ses tubes, revisitant à cette occasion : "Epaule Tatoo" ou encore "Tombé pour la France". Accompagné de cinq musiciens sur scène, dans une ambiance pop-rock raffinée, il a embarqué les spectateurs rennais dans un univers plus sombre qu'à l'accoutumée.</desc>
+    <category lang="fr">pop %26 rock</category>
+    <length units="minutes">90</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7917c77b08a5fbb47f66f31d9b99768823a07c70.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409171600 +0200" stop="20210409174400 +0200" channel="C3163.api.telerama.fr">
+    <title>Vinyle</title>
+    <desc lang="fr">Saison:2 - Le nom d'Eric Toledano est indissociable de celui de son complice Olivier Nakache, avec lequel il a réalisé six longs métrages, parmi lesquels on trouve "Intouchables", en 2011, qui a remporté un immense succès tant commercial que critique. En compagnie de Juan Massenya, il évoque son parcours et son amitié avec Omar Sy.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409174400 +0200" stop="20210409181200 +0200" channel="C3163.api.telerama.fr">
+    <title>Vinyle</title>
+    <desc lang="fr">Saison:2 -</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">28</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bbf3220af78fddbaa0659e2d0dd21b2557468466.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409181200 +0200" stop="20210409182300 +0200" channel="C3163.api.telerama.fr">
+    <title>Basique, les sessions</title>
+    <sub-title>Simony</sub-title>
+    <desc lang="fr">Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">11</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9873318148e36be6956e9932d66f23a9c02e60e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409182300 +0200" stop="20210409183600 +0200" channel="C3163.api.telerama.fr">
+    <title>Basique, les sessions</title>
+    <sub-title>Poupie</sub-title>
+    <desc lang="fr">Saison:2 - Découvrez ceux qui feront la scène musicale de demain. Devant nos caméras, sur la scène du Bus Palladium, à Paris, ces jeunes artistes à l'univers foisonnant nous parlent d'eux, de leur parcours, de leur musique... et nous offrent trois titres en live, dont une reprise de leur choix.</desc>
+    <category lang="fr">magazine musical</category>
+    <length units="minutes">13</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9873318148e36be6956e9932d66f23a9c02e60e.jpg" />
+    <episode-num system="xmltv_ns">1..</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409183600 +0200" stop="20210409183700 +0200" channel="C3163.api.telerama.fr">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>La projection</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409183700 +0200" stop="20210409185300 +0200" channel="C3163.api.telerama.fr">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">16</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b4c3be79d43c7c7cb781bb46bd30bdbd7984310.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409185300 +0200" stop="20210409191500 +0200" channel="C3163.api.telerama.fr">
+    <title>Moonwalk</title>
+    <desc lang="fr">Renouvellement de la production éxécutive avec France.tv studio sur le deuxième semestre 2019.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">22</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/73985c59126da9f0b277119abe1e8e323f0bf368.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409191500 +0200" stop="20210409191600 +0200" channel="C3163.api.telerama.fr">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>Tenir ensemble</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409191600 +0200" stop="20210409201000 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">54</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409201000 +0200" stop="20210409210500 +0200" channel="C3163.api.telerama.fr">
+    <title>Culturebox, l'émission</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">55</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/815ffc422a939b4fbfeebcd4282d9510c08ee50b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409230300 +0200" stop="20210409230500 +0200" channel="C3163.api.telerama.fr">
+    <title>Spot campagne FTV HD</title>
+    <sub-title>La projection</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4f1bf65b04faf8c1f5996a9d452713e9f7610935.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20210409230500 +0200" stop="20210410002800 +0200" channel="C3163.api.telerama.fr">
+    <title>Génération Paname</title>
+    <desc lang="fr">Après deux premières soirées tournées au Panam'Art Café , "Génération Paname" revient à l'antenne, cette fois-ci avec un spectacle capté à la Cigale. Mathieu Madenian anime une soirée de "stand-up", au cours de laquelle il accueille sur scène la fine fleur de l'humour français. Paul Mirabel, la nouvelle sensation de la scène actuelle, ouvre le spectacle, suivi de Charles Nouveau, Morgane Cadinan, Jérémy Lorca, Yazid Assoumani, Christine Berrou, Ayoub Marceau, Yassine Hitch, Ghislain Blique, avant de finir avec une prestation musicale de Marie Reno. Ce nouveau numéro de "Génération Paname" permet de découvrir de jeunes artistes qui incarnent le stand-up 2.0.</desc>
+    <category lang="fr">humour</category>
+    <length units="minutes">83</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/596d807b7c3fd3ea03275f221b858f2d22cc2ce5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
 </tv>
