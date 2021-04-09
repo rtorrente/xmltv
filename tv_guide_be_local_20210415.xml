@@ -2,35 +2,35 @@
 <tv>
   <channel id="C23.api.telerama.fr">
     <display-name>één</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
   </channel>
   <channel id="C50.api.telerama.fr">
     <display-name>Club RTL</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
   </channel>
   <channel id="C164.api.telerama.fr">
     <display-name>La Une</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
   </channel>
   <channel id="C168.api.telerama.fr">
     <display-name>RTL TVI</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
   </channel>
   <channel id="C187.api.telerama.fr">
     <display-name>La Deux</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
   </channel>
   <channel id="C377.api.telerama.fr">
     <display-name>Plug RTL</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
   </channel>
   <channel id="C892.api.telerama.fr">
     <display-name>La Trois</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
   <channel id="C1280.api.telerama.fr">
     <display-name>Ketnet</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
   <programme channel="C23.api.telerama.fr" start="20210414232000 +0200" stop="20210415090000 +0200">
     <title>Journaallus</title>
@@ -39,84 +39,6 @@
     <category lang="fr">journal</category>
     <length units="minutes">580</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae7564cf564802473c61a3241daf2965710d63d4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C50.api.telerama.fr" start="20210414235000 +0200" stop="20210415050000 +0200">
-    <title>Télé-achat</title>
-    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
-    <category lang="fr">magazine de télé-achat</category>
-    <length units="minutes">310</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fcdc44c8b8432319baf69c4344a15336ef1e367a.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210414235700 +0200" stop="20210415000600 +0200">
-    <title>Quel temps !</title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20210414235500 +0200" stop="20210415000500 +0200">
-    <title>Loïc, fou de cuisine</title>
-    <category lang="fr">magazine culinaire</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7cc1b8179a7d8de7b20fa6e41e5c083689791dba.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20210414224300 +0200" stop="20210415001000 +0200">
-    <title>Le Marais, le quartier le plus fou de Paris</title>
-    <desc lang="fr">Le Marais, un quartier historiquement ouvrier, est devenu en quelques décennies l'un des endroits les plus branchés de la capitale. Situé en plein centre de Paris, ce lieu indissociable de l'histoire juive est désormais le quartier gay parisien. Mais comment ce quartier populaire est-il devenu l'un des plus prisés de la ville ? Et comment cohabitent fêtards et riverains ?</desc>
-    <date>2018</date>
-    <category lang="fr">documentaire : société</category>
-    <length units="minutes">87</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2bf7317cc8cb61a94ce0d1f8922f73998d9a081.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20210414234000 +0200" stop="20210415003000 +0200">
-    <title>Les Marseillais à Dubaï</title>
-    <desc lang="fr">Saison:10 - Episode:39 - Pour cette nouvelle saison, la grande famille des Marseillais se retrouve à Dubaï, plus en forme que jamais ! Véritable mirage au coeur du désert, avec ses plages de rêve et ses paysages des mille et une nuits, Dubaï la magnifique n'a pas fini de les surprendre. Ensemble, les Marseillais sont déterminés à relever tous les défis que leur proposera Jessica Aidi, leur bookeuse exigeante qu'ils ne devront jamais décevoir... Avec elle, les Marseillais venus " en touriste " n'ont qu'à bien se tenir s'ils ne souhaitent pas voir leur aventure s'arrêter...</desc>
-    <category lang="fr">série de téléréalité</category>
-    <length units="minutes">50</length>
-    <episode-num system="xmltv_ns">9.38.</episode-num>
-    <premiere />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20210414234500 +0200" stop="20210415003600 +0200">
-    <title>Le doc du bourlingueur</title>
-    <sub-title>Green Cops Indonésie</sub-title>
-    <desc lang="fr">Green Cops indonesie: Depuis deux décennies, les eaux indonesiennes sont le terrain de chasse des pêcheurs illégaux. Pour mettre fin à leurs agissements, des commandos spéciaux utilisent des méthodes très expédditives la pollution et les dégâts collatéraux...ils n'en ont rien à cirer.</desc>
-    <category lang="fr">magazine de reportages</category>
-    <length units="minutes">51</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cefa1262277f0984708b2c36776a89f2e0aa8bb4.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>-10</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
-    </rating>
-  </programme>
-  <programme channel="C1280.api.telerama.fr" start="20210414212500 +0200" stop="20210415060000 +0200">
-    <title>Programma onderbreking</title>
-    <desc lang="fr">programma onderbreking.</desc>
-    <category lang="fr">emission spéciale</category>
-    <length units="minutes">515</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/57aaf38464e14262eb3fc5df851c31df1d61e275.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -534,6 +456,16 @@
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C50.api.telerama.fr" start="20210414235000 +0200" stop="20210415050000 +0200">
+    <title>Télé-achat</title>
+    <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">310</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fcdc44c8b8432319baf69c4344a15336ef1e367a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20210415063000 +0200" stop="20210415065500 +0200">
     <title>Heidi *2015</title>
     <sub-title>La montagne en danger</sub-title>
@@ -620,7 +552,7 @@
     <desc lang="fr">Saison:22 - Episode:36 - Après leur dernier combat contre Lunala et Necrozma, Sacha et ses amis reprennent paisiblement le cours de leur vie sur l'archipel d'Alola. Mais, c'est sans compter sur les nombreux obstacles que l'équipe va devoir affronter...</desc>
     <category lang="fr">jeunesse : dessin animé manga</category>
     <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/acae3ddecef98b0af6525f868cd29d147984f820.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/de50ee1e88985e46f113cdbaf465d22f555ae4b2.jpg" />
     <episode-num system="xmltv_ns">21.35.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -739,7 +671,7 @@
       <actor>Jan Ivan Dorin</actor>
       <actor>Marianne Muellerleile</actor>
       <writer>Glen A. Larson</writer>
-      <writer>Don Bellisario</writer>
+      <writer>Donald P. Bellisario</writer>
       <writer>Andrew Schneider</writer>
     </credits>
     <category lang="fr">série d'aventures</category>
@@ -764,8 +696,8 @@
       <actor>Jeff MacKay</actor>
       <actor>Lance LeGault</actor>
       <writer>Glen A. Larson</writer>
-      <writer>Don Bellisario</writer>
-      <writer>Don Bellisario</writer>
+      <writer>Donald P. Bellisario</writer>
+      <writer>Donald P. Bellisario</writer>
     </credits>
     <category lang="fr">série d'aventures</category>
     <length units="minutes">50</length>
@@ -936,6 +868,17 @@
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">305</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/868ba77dadc7b2149edca7ec538832821c77ddad.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210414235700 +0200" stop="20210415000600 +0200">
+    <title>Quel temps !</title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1383,13 +1326,13 @@
       <actor>Carole Richert</actor>
       <actor>Jean Dell</actor>
       <actor>Thomas Chomel</actor>
-      <actor>Maëva Pasquali</actor>
+      <actor>Maeva Pasquali</actor>
       <actor>Yann Sundberg</actor>
       <actor>Elina Solomon</actor>
       <actor>Elsa Houben</actor>
       <actor>Lily Nambininsoa</actor>
       <writer>Adrien Léveillé</writer>
-      <writer>Inan Cicek</writer>
+      <writer>Inan Ciçek</writer>
       <writer>Florian Spitzer</writer>
       <writer>Elise Ayrault</writer>
       <writer>Caroline Francke</writer>
@@ -1419,7 +1362,7 @@
       <actor>Cristiana Reali</actor>
       <actor>Karina Testa</actor>
       <writer>Caroline Francke</writer>
-      <writer>Inan Cicek</writer>
+      <writer>Inan Ciçek</writer>
       <writer>Elise Ayrault</writer>
       <writer>Adrien Léveillé</writer>
       <writer>Florian Spitzer</writer>
@@ -1463,6 +1406,16 @@
     <category lang="fr">magazine du consommateur</category>
     <length units="minutes">45</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/98b08643b239dd9718f8887d6c4b33cde22620a4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20210414235500 +0200" stop="20210415000500 +0200">
+    <title>Loïc, fou de cuisine</title>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7cc1b8179a7d8de7b20fa6e41e5c083689791dba.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1589,7 +1542,7 @@
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
     <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfdfb08872e1ba17afb27161d36487fa21a2603.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9189822115b78465a342c3b0b3bc3bbffc29699a.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1612,7 +1565,7 @@
     <sub-title>Avignon et sa banlieue : Thibaut - Maryline - Charley</sub-title>
     <category lang="fr">jeu</category>
     <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/74103d6a25793d9fb73aba233dca1bac99726f0b.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/450483f354763b78cf4bc743c4decae35d448dde.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1707,6 +1660,18 @@
     <star-rating>
       <value>1/5</value>
     </star-rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210414224300 +0200" stop="20210415001000 +0200">
+    <title>Le Marais, le quartier le plus fou de Paris</title>
+    <desc lang="fr">Le Marais, un quartier historiquement ouvrier, est devenu en quelques décennies l'un des endroits les plus branchés de la capitale. Situé en plein centre de Paris, ce lieu indissociable de l'histoire juive est désormais le quartier gay parisien. Mais comment ce quartier populaire est-il devenu l'un des plus prisés de la ville ? Et comment cohabitent fêtards et riverains ?</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire : société</category>
+    <length units="minutes">87</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f2bf7317cc8cb61a94ce0d1f8922f73998d9a081.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme channel="C187.api.telerama.fr" start="20210415001000 +0200" stop="20210415001900 +0200">
     <title>Vews</title>
@@ -2021,7 +1986,7 @@ Un scénario sans grande originalité qui présente l'avantage de laisser toute 
     <desc lang="fr">Pour cette session de "DECIBELS", Calumny donne rendez-vous à ses fans au Delta, situé à Namur. Ce duo vous a fait bouger tout l'été avec leur morceau "What I Desire". Avec leur électro énergique et positive, Bastien et Quentin ont mis le feu à la scène.</desc>
     <category lang="fr">emission musicale</category>
     <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f707ee19f270bdbd199d6d86d05ed4645eb7d193.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3e3c1f3ff6ca0f1037ff713397a9c93bae88f229.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -2046,6 +2011,18 @@ Un scénario sans grande originalité qui présente l'avantage de laisser toute 
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e8ac85aedc912ec5af26974b85daa101fe7a72f1.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20210414234000 +0200" stop="20210415003000 +0200">
+    <title>Les Marseillais à Dubaï</title>
+    <desc lang="fr">Saison:10 - Episode:39 - Pour cette nouvelle saison, la grande famille des Marseillais se retrouve à Dubaï, plus en forme que jamais ! Véritable mirage au coeur du désert, avec ses plages de rêve et ses paysages des mille et une nuits, Dubaï la magnifique n'a pas fini de les surprendre. Ensemble, les Marseillais sont déterminés à relever tous les défis que leur proposera Jessica Aidi, leur bookeuse exigeante qu'ils ne devront jamais décevoir... Avec elle, les Marseillais venus " en touriste " n'ont qu'à bien se tenir s'ils ne souhaitent pas voir leur aventure s'arrêter...</desc>
+    <category lang="fr">série de téléréalité</category>
+    <length units="minutes">50</length>
+    <episode-num system="xmltv_ns">9.38.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C377.api.telerama.fr" start="20210415003000 +0200" stop="20210415003500 +0200">
@@ -2332,6 +2309,19 @@ Un scénario sans grande originalité qui présente l'avantage de laisser toute 
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20210414234500 +0200" stop="20210415003600 +0200">
+    <title>Le doc du bourlingueur</title>
+    <sub-title>Green Cops Indonésie</sub-title>
+    <desc lang="fr">Green Cops indonesie: Depuis deux décennies, les eaux indonesiennes sont le terrain de chasse des pêcheurs illégaux. Pour mettre fin à leurs agissements, des commandos spéciaux utilisent des méthodes très expédditives la pollution et les dégâts collatéraux...ils n'en ont rien à cirer.</desc>
+    <category lang="fr">magazine de reportages</category>
+    <length units="minutes">51</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cefa1262277f0984708b2c36776a89f2e0aa8bb4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20210415003600 +0200" stop="20210415010500 +0200">
@@ -2817,7 +2807,7 @@ Un scénario sans grande originalité qui présente l'avantage de laisser toute 
     <desc lang="fr">Saison:1 - Episode:27 - Marine trouve un petit mot dans son sac, qu'elle croit avoir été écrit par un "namoureux" mystère. Mais Marine ne veut surtout pas d'un amoureux, et Wendy va lui prêter main forte pour découvrir qui est l'auteur du message...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
     <length units="minutes">12</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c090cb770922043f118b3ab7a48cc6e53295812c.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/63db0af885c1e17f6522086b1da1d538bdd711f4.jpg" />
     <episode-num system="xmltv_ns">0.26.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3037,7 +3027,7 @@ C’est cette rupture fraternelle, pres­que passionnelle, que saisit le réalis
       <actor>Malika Birèche</actor>
       <actor>Salma Lahmer</actor>
       <actor>Saïda Bekkouche</actor>
-      <actor>Christopher Gendreau</actor>
+      <actor>Christophe Gendreau</actor>
       <actor>Abdoulaye Fofana</actor>
       <writer>Rebecca Zlotowski</writer>
       <writer>Teddy Lussi-Modeste</writer>
@@ -3060,6 +3050,16 @@ C’est cette rupture fraternelle, pres­que passionnelle, que saisit le réalis
     <category lang="fr">magazine politique</category>
     <length units="minutes">30</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5f5995a284624ac0544cc4f992a5dd904c2ddafe.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C1280.api.telerama.fr" start="20210414212500 +0200" stop="20210415060000 +0200">
+    <title>Programma onderbreking</title>
+    <desc lang="fr">programma onderbreking.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="minutes">515</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/57aaf38464e14262eb3fc5df851c31df1d61e275.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

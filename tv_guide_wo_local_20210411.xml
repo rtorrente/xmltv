@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="C205.api.telerama.fr">
+    <display-name>TV5MONDE</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/205.png" />
+  </channel>
+  <programme channel="C111.api.telerama.fr" start="20210410234500 +0200" stop="20210411001500 +0200">
+    <title>Square idée</title>
+    <sub-title>Les enfants en danger ?</sub-title>
+    <desc lang="fr">Depuis le début de la pandémie, des effets secondaires dont les enfants souffriraient tout particulièrement sont passés sous silence. "Square idée" en débat avec des spécialistes.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ef335df9d9fa1f244519492b194406a5f4512ed4.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C205.api.telerama.fr" start="20210410232200 +0200" stop="20210411005500 +0200">
+    <title>Les petits meurtres d'Agatha Christie</title>
+    <sub-title>Mélodie mortelle</sub-title>
+    <desc lang="fr">Saison:2 - Episode:23 - Nicky est une populaire chanteuse de variété française qui a l'habitude de faire la Une du magazine «Salut Les Copains». Mais sa carrière est bouleversée lorsque Mike, son fiancé et guitariste, est retrouvé assassiné. Désespérée, Nicky décide d'annuler tous ses concerts même si elle sait qu'elle met ainsi sa carrière en péril. Contacté pour enquêter, Laurence débute ses investigations dans un milieu qu'il n'apprécie guère : celui des maisons de disques et des chanteurs yéyés. Le producteur de Nicky ne lui plaît pas beaucoup non plus. D'autant qu'il affirme qu'Avril peut devenir une vedette, la nouvelle Sheila. Or, un assassin sème la panique dans les studios d'enregistrement. Laurence et Marlène réalisent que dans le show-biz, les haines peuvent être mortelles...</desc>
+    <credits>
+      <director>Christophe Campos</director>
+      <actor>Samuel Labarthe</actor>
+      <actor>Blandine Bellavoir</actor>
+      <actor>Elodie Frenck</actor>
+      <actor>Cyril Gueï</actor>
+      <actor>Dominique Thomas</actor>
+      <actor>Natacha Lindinger</actor>
+      <actor>Roxane Bret</actor>
+      <actor>Clément Moreau</actor>
+      <actor>Nicolas Cornille</actor>
+      <actor>Camille Hersant</actor>
+      <actor>Arthur Defays</actor>
+      <actor>David Ayala</actor>
+      <writer>Anne Giafferi</writer>
+      <writer>Murielle Magellan</writer>
+      <writer>Jennifer Have</writer>
+      <writer>Anne Peyrègne</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">93</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0def1b8b-c519-4d97-8e77-6c703d4f2454.jpg" />
+    <episode-num system="xmltv_ns">1.22.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

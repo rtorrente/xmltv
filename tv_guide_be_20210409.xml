@@ -2,46 +2,36 @@
 <tv>
   <channel id="C23.api.telerama.fr">
     <display-name>één</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
   </channel>
   <channel id="C50.api.telerama.fr">
     <display-name>Club RTL</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
   </channel>
   <channel id="C164.api.telerama.fr">
     <display-name>La Une</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
   </channel>
   <channel id="C168.api.telerama.fr">
     <display-name>RTL TVI</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
   </channel>
   <channel id="C187.api.telerama.fr">
     <display-name>La Deux</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
   </channel>
   <channel id="C377.api.telerama.fr">
     <display-name>Plug RTL</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
   </channel>
   <channel id="C892.api.telerama.fr">
     <display-name>La Trois</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
   </channel>
   <channel id="C1280.api.telerama.fr">
     <display-name>Ketnet</display-name>
-    <icon src="http://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
-  <programme channel="C1280.api.telerama.fr" start="20210408192500" stop="20210409040000">
-    <title>Programma onderbreking</title>
-    <desc lang="fr">programma onderbreking.</desc>
-    <category lang="fr">emission spéciale</category>
-    <length units="minutes">515</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/57aaf38464e14262eb3fc5df851c31df1d61e275.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
   <programme channel="C23.api.telerama.fr" start="20210408221500" stop="20210409070000">
     <title>Journaallus</title>
     <sub-title>Doorlopende herhalingen</sub-title>
@@ -392,36 +382,6 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C23.api.telerama.fr" start="20210409203000" stop="20210409211500">
-    <title>Riviera</title>
-    <sub-title>Le mistral</sub-title>
-    <desc lang="fr">Saison:3 - Episode:2 - A contrecoeur, Georgina est de retour à Saint-Tropez et tente de comprendre pourquoi tant de gens sont prêts à tout pour mettra la main sur un rosaire. Au cours de ses investigations, elle recroise la route de Nico Eltham, également à la recherche de l'artefact. Daphne Eltham lui confie qu'elle ne sait plus quoi penser de son frère jumeau depuis qu'elle a découvert qu'il est capable d'aller jusqu'au meurtre.</desc>
-    <credits>
-      <director>Paul Walker</director>
-      <actor>Rupert Graves</actor>
-      <actor>Julia Stiles</actor>
-      <actor>Clare-Hope Ashitey</actor>
-      <actor>Synnøve Macody Lund</actor>
-      <actor>Poppy Delevingne</actor>
-      <actor>Jack Fox</actor>
-      <actor>Franco Masini</actor>
-      <actor>Eliseo Barrionuevo</actor>
-      <actor>Gabriel Corrado</actor>
-      <actor>Amira Ghazalla</actor>
-      <actor>Marco Luraschi</actor>
-      <actor>María Luz Morteo</actor>
-      <writer>Neil Jordan</writer>
-      <writer>John Jackson</writer>
-    </credits>
-    <category lang="fr">série dramatique</category>
-    <length units="minutes">45</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/083f3f75-9a05-46f4-9442-3e630795c9fb.jpg" />
-    <episode-num system="xmltv_ns">2.1.</episode-num>
-    <rating system="CSA">
-      <value>-12</value>
-      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
-    </rating>
-  </programme>
   <programme channel="C23.api.telerama.fr" start="20210409211500" stop="20210409230500">
     <title>La vie, l'amour, les vaches</title>
     <desc lang="fr">Mitch Robbins voit approcher la quarantaine avec inquiétude. Tout l'ennuie et il broie du noir à longueur de journée. Ses amis Ed et Phil lui offrent une semaine d'aventures «western» dans l'espoir de le dérider. Les trois copains rejoignent un groupe composé de quelques autres citadins neurasthéniques, d'une belle jeune femme solitaire, de deux cow-boys désagréables et de Curly, un vieux briscard compréhensif. Ils se retrouvent sur les pistes poussiéreuses de l'Ouest sauvage, où ils sont chargés d'escorter un troupeau vers le Colorado. Grâce à la complicité de Curly, Mitch s'adapte doucement à ce nouveau mode de vie, auquel il prend presque goût... - Critique : Trois amis, que l'approche de la quarantaine inquiète, retournent brièvement à la terre avant de rejoindre le confort de leur vie urbaine. Un cocktail d'auto-ironie, de satire de l'american way of life et d'humanisme non feint. Charmant ou carrément nunuche, selon l'humeur...</desc>
@@ -466,6 +426,62 @@
       <value>1/5</value>
     </star-rating>
   </programme>
+  <programme channel="C23.api.telerama.fr" start="20210409230500" stop="20210409232500">
+    <title>Iedereen beroemd</title>
+    <desc lang="fr">Reportageprogramma waarin elke dag iets nieuws te ontdekken valt.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd7290cc9041300bedf899cd623bbfc4a5525f12.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20210409232500" stop="20210409234000">
+    <title>Dagelijkse kost</title>
+    <desc lang="fr">Saison:11 - Jeroen Meus zet elke dag van de week een smakelijk gerecht op tafel. Hij bewijst dat koken een plezier is voor iedereen, voor elk moment of evenement en naar ieders smaak.</desc>
+    <category lang="fr">magazine de la gastronomie</category>
+    <length units="minutes">15</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa53bf72f908b80fc55e9215a58c92760673ab6b.jpg" />
+    <episode-num system="xmltv_ns">10..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20210409234000" stop="20210409235000">
+    <title>Het Journaal Laat</title>
+    <desc lang="fr">Nieuws en sport</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b08fbe93f38afb3b36456ec753438f34795047a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20210409235000" stop="20210409235500">
+    <title>Het weer</title>
+    <desc lang="fr">Weervoorspelling voor de komende dagen.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/27cda6fc36ab743437d8b3d3e25cd5f315c5e23f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C23.api.telerama.fr" start="20210409235500" stop="20210410060000">
+    <title>Journaallus</title>
+    <sub-title>Doorlopende herhalingen</sub-title>
+    <desc lang="fr">En beursberichten.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">365</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae7564cf564802473c61a3241daf2965710d63d4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C50.api.telerama.fr" start="20210408220500" stop="20210409030000">
     <title>Best of Shopping</title>
     <desc lang="fr">Avec Best of Shopping, découvrez le meilleur du téléachat mondial sélectionné pour vous dans de nombreux univers : la cuisine, l'entretien de la maison, le bricolage, la forme et la beauté.</desc>
@@ -482,7 +498,7 @@
     <desc lang="fr">Suivez les actualités du journal télévisé en luxembourgeois.</desc>
     <category lang="fr">journal</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/99e7de060185d45cf4e490abf2fc49fdf650ac27.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f4cc6dc9305c124ace7d5db4af05927c31a7569d.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -493,7 +509,7 @@
     <desc lang="fr">Tous vos produits préférés pour la cuisine, la salle de bain, votre voiture, votre bien-être, bref de quoi améliorer votre vie au quotidien, tout cela présenté en détail.</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="hours">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/785b1d47d6a710601b6b38ba8f6f6e571990f75d.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/be460e8ca34876d87108ce7a7cf0ea8c1a63f649.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -580,7 +596,7 @@
   </programme>
   <programme channel="C50.api.telerama.fr" start="20210409061500" stop="20210409073000">
     <title>La boutique</title>
-    <desc lang="fr">Secrets de beauté, magie des bijoux, création de mode, cuisine conviviale et gourmande, entretien et décoration de la maison, etc. La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique.</desc>
+    <desc lang="fr">Secrets de beauté, magie des bijoux, création de mode, cuisine conviviale et gourmande, entretien et décoration de la maison... La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique !</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="minutes">75</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bb316ff940c2e27e439fd31cfc843452866e5fd0.jpg" />
@@ -689,7 +705,7 @@
       <actor>Larry Manetti</actor>
       <actor>Roger E. Mosley</actor>
       <writer>Glen A. Larson</writer>
-      <writer>Don Bellisario</writer>
+      <writer>Donald P. Bellisario</writer>
       <writer>Lawrence Doheny</writer>
     </credits>
     <category lang="fr">série d'aventures</category>
@@ -705,7 +721,7 @@
     <sub-title>Pièges</sub-title>
     <desc lang="fr">Saison:1 - Episode:15 - Agatha Kimball, une femme riche et aveugle, demande à Magnum de sortir sa petite-fille Amy d'une situation difficile...</desc>
     <credits>
-      <director>Winrich Kolbe</director>
+      <director>Rick Kolbe</director>
       <actor>Tom Selleck</actor>
       <actor>Mercedes McCambridge</actor>
       <actor>Andrea Marcovicci</actor>
@@ -715,7 +731,7 @@
       <actor>Ted Danson</actor>
       <actor>Jim Reynolds</actor>
       <writer>Glen A. Larson</writer>
-      <writer>Don Bellisario</writer>
+      <writer>Donald P. Bellisario</writer>
       <writer>TJ Miles</writer>
     </credits>
     <category lang="fr">série d'aventures</category>
@@ -759,7 +775,7 @@
     <desc lang="fr">Saison:14 - Pour cette septième étape de l'aventure, les candidats découvrent la Turquie. Ils débutent la course dans la troisième plus grande ville du pays : Izmir. Ils découvrent ensuite la cité antique de Hiérapolis, mais surtout le site unique de Pamukkale avec ses piscines thermales riches en minéraux.</desc>
     <category lang="fr">jeu</category>
     <length units="minutes">130</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9f4a90fce248ae0e0ad0f556d8efbeb7d148834d.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ce7df8bec2133eaea1308114c50b2d951746d845.jpg" />
     <episode-num system="xmltv_ns">13..</episode-num>
     <premiere />
     <rating system="CSA">
@@ -810,7 +826,7 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20210408234800" stop="20210409002500">
+  <programme channel="C164.api.telerama.fr" start="20210408234700" stop="20210409002400">
     <title>Animaux à adopter : nouvelle famille pour une nouvelle vie</title>
     <desc lang="fr">Chaque année plus de 100 000 animaux sont abandonnés en France. La SPA en recueille près de 44 000 dont environ 10 000 l'été. Plongée en immersion dans trois centres de la SPA : le refuge de Plaisir dans les Yvelines, celui de Saint-Omer dans le Pas-de-Calais et Morée dans le Loir-et-Cher. Ce documentaire transporte les téléspectateurs au coeur des histoires touchantes d'animaux et retrace leur parcours, depuis l'arrivée au refuge jusqu'à leur adoption et leur départ pour une nouvelle vie, avec une famille aimante.</desc>
     <date>2018</date>
@@ -821,191 +837,191 @@
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409002500" stop="20210409003000">
+  <programme channel="C164.api.telerama.fr" start="20210409002400" stop="20210409003000">
     <title>L'agenda ciné</title>
     <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
     <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">5</length>
+    <length units="minutes">6</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409003000" stop="20210409004000">
-    <title>Quel temps !</title>
-    <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409004000" stop="20210409004100">
-    <title>Quel Temps chez vous</title>
-    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409004100" stop="20210409004300">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409004300" stop="20210409011900">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">36</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409011900" stop="20210409012400">
-    <title>L'agenda ciné</title>
-    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
-    <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409012400" stop="20210409013400">
-    <title>Quel temps !</title>
-    <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409013400" stop="20210409013500">
-    <title>Quel Temps chez vous</title>
-    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409013500" stop="20210409013700">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409013700" stop="20210409021300">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">36</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409021300" stop="20210409021800">
-    <title>L'agenda ciné</title>
-    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
-    <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409021800" stop="20210409022800">
-    <title>Quel temps !</title>
-    <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409022800" stop="20210409022900">
-    <title>Quel Temps chez vous</title>
-    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409022900" stop="20210409023100">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409023100" stop="20210409030700">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">36</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409030700" stop="20210409031200">
-    <title>L'agenda ciné</title>
-    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
-    <category lang="fr">magazine du cinéma</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409031200" stop="20210409032100">
+  <programme channel="C164.api.telerama.fr" start="20210409003000" stop="20210409003900">
     <title>Quel temps !</title>
     <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
     <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
     <category lang="fr">météo</category>
     <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409003900" stop="20210409004000">
+    <title>Quel Temps chez vous</title>
+    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409004000" stop="20210409004300">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409004300" stop="20210409011800">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409011800" stop="20210409012400">
+    <title>L'agenda ciné</title>
+    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
+    <category lang="fr">magazine du cinéma</category>
+    <length units="minutes">6</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409012400" stop="20210409013300">
+    <title>Quel temps !</title>
+    <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409013300" stop="20210409013400">
+    <title>Quel Temps chez vous</title>
+    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409013400" stop="20210409013700">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409013700" stop="20210409021200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409021200" stop="20210409021700">
+    <title>L'agenda ciné</title>
+    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
+    <category lang="fr">magazine du cinéma</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409021700" stop="20210409022700">
+    <title>Quel temps !</title>
+    <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409022700" stop="20210409022800">
+    <title>Quel Temps chez vous</title>
+    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409022800" stop="20210409023100">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409023100" stop="20210409030600">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409030600" stop="20210409031100">
+    <title>L'agenda ciné</title>
+    <desc lang="fr">Magazine cinéma de la rtbf, l'agenda ciné présente, de manière hebdomadaire, toutes les sorties cinéma de la semaine.</desc>
+    <category lang="fr">magazine du cinéma</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c64f6f19528b683373fba24738f48032ca81fec1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409031100" stop="20210409032100">
+    <title>Quel temps !</title>
+    <sub-title>Les aurores de Jupiter-Entre mer et océan-Bus sans chauffeur</sub-title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1776b80eac39ad838a4f51363531fe04b24e7fbc.jpg" />
     <previously-shown />
     <rating system="CSA">
@@ -1085,7 +1101,7 @@
     <date>2020</date>
     <category lang="fr">documentaire : santé</category>
     <length units="minutes">79</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/2a83e0c33206ec6123e7a7e26af9a4bf7436adbb.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4651d406d14411eb1f909c7cb9198ef6b00c1620.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1512,6 +1528,115 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <value>Tout public</value>
     </rating>
   </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409220200" stop="20210409221100">
+    <title>Quel temps !</title>
+    <sub-title>Bali, l'île aux macaques-Trontinettes tout terrain-On est fan...des radis</sub-title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ab3b9d7abaa10a9673755e2ff554bb4d2adbcb44.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409221100" stop="20210409221200">
+    <title>Quel Temps chez vous</title>
+    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409221200" stop="20210409221500">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409221500" stop="20210409225100">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">36</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409231600" stop="20210409231800">
+    <title>Studio Foot</title>
+    <sub-title>Championnat de Belgique D1A, 33e journée : Eupen / Standard de Liège</sub-title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6d023f9956d6771af152fa994384699ea5da5f4c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409231900" stop="20210409233500">
+    <title>Studio Foot</title>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">16</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ad3578aa13871a11cd135d30fe83c1852e270a4e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409233500" stop="20210409234400">
+    <title>Quel temps !</title>
+    <sub-title>Bali, l'île aux macaques-Trontinettes tout terrain-On est fan...des radis</sub-title>
+    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">9</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ab3b9d7abaa10a9673755e2ff554bb4d2adbcb44.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409234400" stop="20210409234500">
+    <title>Quel Temps chez vous</title>
+    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409234500" stop="20210409234800">
+    <title>Météo</title>
+    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C164.api.telerama.fr" start="20210409234800" stop="20210410002300">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C168.api.telerama.fr" start="20210408235500" stop="20210409015500">
     <title>Jeux de nuit</title>
     <category lang="fr">jeu</category>
@@ -1598,30 +1723,64 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409113000" stop="20210409132500">
-    <title>Un amour irrésistible</title>
-    <sub-title>Un amour irrésistible</sub-title>
-    <desc lang="fr">Ellen, avvocato a New York, riceve dalla nonna defunta una misteriosa lettera che dovrà consegnare personalmente a uno sconosciuto che vive in una cittadina del Maine. Un incarico che si rivela più complesso del previsto, un'avventura che permette a Ellen di scovare dettagli inediti sulla vita della nonna e di scoprire un mondo che l'affascina più della grande città.</desc>
-    <category lang="fr">téléfilm sentimental</category>
-    <length units="minutes">115</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7748ac88df45e31e58469ebdb70a258da05edf5e.jpg" />
+  <programme channel="C168.api.telerama.fr" start="20210409113000" stop="20210409133500">
+    <title>La Belle et la Bête</title>
+    <desc lang="fr">Pimpant remake en prises de vues réelles et effets spéciaux numériques du dessin animé Disney d'après le fameux conte. La « belle » Emma Watson déborde de charme, dans un gentil décor d'opérette plein de seconds rôles pas si « bêtes ». - Critique : | Genre : copie quasi conforme.
+
+« Il était encore une fois… » Telle pourrait désormais être la devise des studios Dis­ney, attachés depuis quelque temps à refaire leurs dessins animés en prises de vues réelles. Après Cendrillon et Le Livre de la jungle, voici donc la deuxième Belle et la deuxième Bête, dans un décalque chromo, mignonnet et pimpant du film de 1991. Des séquen­ces de comédie musicale à l’aspect du prince maudit, en passant par la collection d’objets enchantés et ­bavards qui égayent le film, on est invité à jouer au jeu des sept erreurs, tant les deux versions du fameux conte restent pro­ches. Relevons pourtant dans ce spectacle coloré comme une opérette quel­ques nouveautés. Gracieusement interprétée par Emma Watson, la Belle n’est plus seulement une prisonnière sentimentale, mais une aventurière féministe, qui finit par débarrasser son prétendant de ses poils superflus, et surtout de son ­machisme bougon. Fable traditionnelle sur le rapport à l’apparence et aux préjugés, le film s’enrichit aussi d’un plaidoyer inédit pour le droit à la différence. Du jamais-vu chez Dis­ney : le personnage du valet, sorte de Figaro crypto-gay, multiplie les allusions malicieuses aux charmes de son maître, le viril Gaston. Aussi aimable, drôle et inoffensif soit-il, ce personnage déclencha même une ­mini-polémique aux Etats-Unis…</desc>
+    <credits>
+      <director>Bill Condon</director>
+      <actor>Emma Watson</actor>
+      <actor>Luke Evans</actor>
+      <actor>Zoe Rainey</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Dan Stevens</actor>
+      <actor>Adrian Schiller</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Josh Gad</actor>
+      <actor>Ray Fearon</actor>
+      <actor>Haydn Gwynne</actor>
+      <actor>Ewan McGregor</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Emma Thompson</actor>
+      <actor>Nathan Mack</actor>
+      <actor>Audra McDonald</actor>
+      <actor>Gugu Mbatha-Raw</actor>
+      <actor>Clive Rowe</actor>
+      <actor>Gizmo Gizmo</actor>
+      <actor>Rita Davies</actor>
+      <actor>Harriet Jones</actor>
+      <actor>Tom Turner</actor>
+      <actor>Jimmy Johnston</actor>
+      <writer>Stephen Chbosky</writer>
+      <writer>Evan Spiliotopoulos</writer>
+      <writer>Linda Woolverton</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">film : fantastique</category>
+    <length units="minutes">125</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/43_emi_807661.jpg" />
+    <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409132500" stop="20210409141000">
+  <programme channel="C168.api.telerama.fr" start="20210409133500" stop="20210409141500">
     <title>Les mamans</title>
     <desc lang="fr">Pour cette nouvelle saison, 9 jeunes mamans nous font partager leur quotidien de mère, leur vie de femme, leurs petits succès, leurs grandes victoires et leurs combats : un mariage, une naissance, l'entrée à l'école maternelle, les premiers pas des enfants, les joies, mais aussi les difficultés du quotidien. Durant plusieurs semaines, nous les avons suivies au gré de leur vie : entourées de leurs enfants, de leurs conjoints, de leurs familles et amis. Elles se livrent sans tabou et sous le regard toujours bienveillant de nos caméras !</desc>
     <date>2019</date>
     <category lang="fr">documentaire : société</category>
-    <length units="minutes">45</length>
+    <length units="minutes">40</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7dfdfb08872e1ba17afb27161d36487fa21a2603.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409141000" stop="20210409151000">
+  <programme channel="C168.api.telerama.fr" start="20210409141500" stop="20210409151500">
     <title>Les reines du shopping</title>
     <sub-title>Spéciale mannequins : osez une pièce de lingerie dans votre tenue</sub-title>
     <desc lang="fr">Qui de Viktoria, Misa, Séréna, Doralyse et Muriel, 5 mannequins professionnels, trouvera le look idéal sur le thème "Osez une pièce de lingerie dans votre tenue", avec un budget de 500 euros ?</desc>
@@ -1633,12 +1792,12 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409151000" stop="20210409161500">
+  <programme channel="C168.api.telerama.fr" start="20210409151500" stop="20210409161500">
     <title>Chasseurs d'appart'</title>
     <sub-title>Location de vacances Côte basque : Jessica - David - Cédric</sub-title>
     <category lang="fr">jeu</category>
-    <length units="minutes">65</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/450483f354763b78cf4bc743c4decae35d448dde.jpg" />
+    <length units="hours">1</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fe99e1fc4691cf87846435bbb23dd947edf62b83.jpg" />
     <premiere />
     <rating system="CSA">
       <value>Tout public</value>
@@ -1693,7 +1852,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     <sub-title>L'amour à la russe</sub-title>
     <category lang="fr">magazine de reportages</category>
     <length units="minutes">40</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3252e8a76571614b1853da9d673d6d9bfa1681eb.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/516f566de98f243cf8446f82463f9b297380a37f.jpg" />
     <premiere />
     <rating system="CSA">
       <value>-10</value>
@@ -1805,30 +1964,73 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210408234300" stop="20210409001300">
-    <title>N'oubliez pas les paroles</title>
-    <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson. Présenté par Nagui.</desc>
-    <category lang="fr">jeu</category>
-    <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f22f9c7c687649b8f3fae8faf36ece25899054dc.jpg" />
+  <programme channel="C168.api.telerama.fr" start="20210409220500" stop="20210409221500">
+    <title>Loïc, fou de cuisine</title>
+    <sub-title>Ravioli soupe tomates</sub-title>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">10</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5287c038b739a2d23b113bde2424f149f75dc000.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409001300" stop="20210409001500">
+  <programme channel="C168.api.telerama.fr" start="20210409221500" stop="20210409222000">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bacd5fec32cd1eac26ae5ded761efabcdea77ec9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20210409222000" stop="20210409230000">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3b5d3e19f4a3ec9d88404fd77abb2ee6a1f1b704.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C168.api.telerama.fr" start="20210409230000" stop="20210410010000">
+    <title>Jeux de nuit</title>
+    <category lang="fr">jeu</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bed3c3d3001c2b73e0f3b4066b81c657ed71651c.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210408233600" stop="20210409000600">
+    <title>N'oubliez pas les paroles</title>
+    <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson. Présenté par Nagui.</desc>
+    <category lang="fr">jeu</category>
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4bf4c7b12d9236de9921ff9f0bed173f2300e61f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409000600" stop="20210409000800">
     <title>Le Parlophone</title>
     <sub-title>Richard Ruben présente Rudy Goddin</sub-title>
     <desc lang="fr">Dans ces capsules, les humoristes viennent sonner au ministère de l'humour pour vanter les qualités d'autres humoristes. A travers le parlophone, ils tentent de convaincre la réceptionniste qu'une rencontre avec le ministre est très importante! L'objectif lui parler d'un confrère ou d'une consœur dont le ministre doit absolument faire connaissance !</desc>
     <category lang="fr">divertissement-humour</category>
     <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b60778a7fb79e07842dbfac3f9f3dd908ff50219.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d3f1b9d85921c356d8de220846f0d0a9fcb3c3dc.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409001500" stop="20210409002200">
+  <programme channel="C187.api.telerama.fr" start="20210409000800" stop="20210409001500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson. Présenté par Nagui.</desc>
     <category lang="fr">jeu</category>
@@ -1839,30 +2041,30 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409002200" stop="20210409005200">
+  <programme channel="C187.api.telerama.fr" start="20210409001500" stop="20210409004500">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson. Présenté par Nagui.</desc>
     <category lang="fr">jeu</category>
     <length units="minutes">30</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f22f9c7c687649b8f3fae8faf36ece25899054dc.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4bf4c7b12d9236de9921ff9f0bed173f2300e61f.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409005200" stop="20210409005400">
+  <programme channel="C187.api.telerama.fr" start="20210409004500" stop="20210409004700">
     <title>Le Parlophone</title>
     <sub-title>Richard Ruben présente Rudy Goddin</sub-title>
     <desc lang="fr">Dans ces capsules, les humoristes viennent sonner au ministère de l'humour pour vanter les qualités d'autres humoristes. A travers le parlophone, ils tentent de convaincre la réceptionniste qu'une rencontre avec le ministre est très importante! L'objectif lui parler d'un confrère ou d'une consœur dont le ministre doit absolument faire connaissance !</desc>
     <category lang="fr">divertissement-humour</category>
     <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b60778a7fb79e07842dbfac3f9f3dd908ff50219.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d3f1b9d85921c356d8de220846f0d0a9fcb3c3dc.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409005400" stop="20210409010100">
+  <programme channel="C187.api.telerama.fr" start="20210409004700" stop="20210409005400">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson. Présenté par Nagui.</desc>
     <category lang="fr">jeu</category>
@@ -1873,13 +2075,45 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <value>Tout public</value>
     </rating>
   </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409010100" stop="20210409040000">
+  <programme channel="C187.api.telerama.fr" start="20210409005400" stop="20210409012400">
     <title>N'oubliez pas les paroles</title>
     <desc lang="fr">Accompagnés par un orchestre, les candidats chantent en karaoké. Mais les paroles affichées ne sont pas complètes. A eux de combler les vides. Pour cela, ils doivent se souvenir des mots exacts de la chanson. Présenté par Nagui.</desc>
     <category lang="fr">jeu</category>
-    <length units="minutes">179</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f22f9c7c687649b8f3fae8faf36ece25899054dc.jpg" />
+    <length units="minutes">30</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4bf4c7b12d9236de9921ff9f0bed173f2300e61f.jpg" />
     <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409012400" stop="20210409012600">
+    <title>Le Parlophone</title>
+    <sub-title>Richard Ruben présente Rudy Goddin</sub-title>
+    <desc lang="fr">Dans ces capsules, les humoristes viennent sonner au ministère de l'humour pour vanter les qualités d'autres humoristes. A travers le parlophone, ils tentent de convaincre la réceptionniste qu'une rencontre avec le ministre est très importante! L'objectif lui parler d'un confrère ou d'une consœur dont le ministre doit absolument faire connaissance !</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d3f1b9d85921c356d8de220846f0d0a9fcb3c3dc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409012600" stop="20210409013300">
+    <title>Vews</title>
+    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cd5aed5ee11e503ed3e5fa621d83b81bf62cab8d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409013300" stop="20210409040000">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">26' du Meilleur de l'Humour du lundi au vendredi</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">147</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1d5f321a899f148826fc379a13d832595496aa6f.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -2001,7 +2235,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <actor>Frédéric Diefenthal</actor>
       <actor>Aurélie Pons</actor>
       <actor>Julie Sassoust</actor>
-      <actor>Azize Diabaté Abdoulaye</actor>
+      <actor>Abdoulaye-Azize Diabaté</actor>
       <actor>Agustin Galiana</actor>
       <actor>Lucia Passaniti</actor>
     </credits>
@@ -2030,7 +2264,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     <desc lang="fr">Saison:17 - Episode:4256 - Tandis qu'Abdel se démène pour défendre Elsa, Valentin va-t-il sauver Laetitia de la Maison Domotique? Quant à Noé, il est prêt à aider Lola contre vents et marées.</desc>
     <category lang="fr">feuilleton réaliste</category>
     <length units="minutes">29</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d36dd3351d1ec7d7c9237c4e9a921dbb45cf6b2f.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e27a9ac82372d733de5fb44f3bbe47b60708e04c.jpg" />
     <episode-num system="xmltv_ns">16.4255.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2064,7 +2298,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     </credits>
     <category lang="fr">téléfilm de suspense</category>
     <length units="minutes">89</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9fe61065b08d2ba3964703657c47ed5cdef4faab.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/9989c14657174fdae1a67ca23008ce8d424a00e8.jpg" />
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
@@ -2100,7 +2334,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     <desc lang="fr">Saison:17 - Episode:4256 - Tandis qu'Abdel se démène pour défendre Elsa, Valentin va-t-il sauver Laetitia de la Maison Domotique? Quant à Noé, il est prêt à aider Lola contre vents et marées.</desc>
     <category lang="fr">feuilleton réaliste</category>
     <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/d36dd3351d1ec7d7c9237c4e9a921dbb45cf6b2f.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/e27a9ac82372d733de5fb44f3bbe47b60708e04c.jpg" />
     <episode-num system="xmltv_ns">16.4255.</episode-num>
     <previously-shown />
     <rating system="CSA">
@@ -2209,7 +2443,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     <date>2018</date>
     <category lang="fr">documentaire : gastronomie</category>
     <length units="minutes">29</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/41550d5e933281c874eeb38358d880e1df641683.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0076b8c0f2548e7f3752b46e938a202e3e5bb22d.jpg" />
     <episode-num system="xmltv_ns">0..</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -2277,6 +2511,98 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
       <value>2/5</value>
     </star-rating>
   </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409225400" stop="20210409230200">
+    <title>Vews</title>
+    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">8</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cd5aed5ee11e503ed3e5fa621d83b81bf62cab8d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409230200" stop="20210409232200">
+    <title>DECIBELS Le live</title>
+    <sub-title>Charles</sub-title>
+    <category lang="fr">emission musicale</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6a6f5ea90e15394e0d3032f9684c522d9ff65a76.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409232200" stop="20210409232900">
+    <title>Vews</title>
+    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">7</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cd5aed5ee11e503ed3e5fa621d83b81bf62cab8d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409232900" stop="20210409233200">
+    <title>Le Parlophone</title>
+    <sub-title>Zidani présente Dena</sub-title>
+    <desc lang="fr">Dans ces capsules, les humoristes viennent sonner au ministère de l'humour pour vanter les qualités d'autres humoristes. A travers le parlophone, ils tentent de convaincre la réceptionniste qu'une rencontre avec le ministre est très importante! L'objectif lui parler d'un confrère ou d'une consœur dont le ministre doit absolument faire connaissance !</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9c8de20a2f03b9515d171a70ee7dd1b4007dfbc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409233200" stop="20210409235200">
+    <title>DECIBELS Le live</title>
+    <sub-title>Charles</sub-title>
+    <category lang="fr">emission musicale</category>
+    <length units="minutes">20</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6a6f5ea90e15394e0d3032f9684c522d9ff65a76.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409235200" stop="20210409235500">
+    <title>Le Parlophone</title>
+    <sub-title>Zidani présente Dena</sub-title>
+    <desc lang="fr">Dans ces capsules, les humoristes viennent sonner au ministère de l'humour pour vanter les qualités d'autres humoristes. A travers le parlophone, ils tentent de convaincre la réceptionniste qu'une rencontre avec le ministre est très importante! L'objectif lui parler d'un confrère ou d'une consœur dont le ministre doit absolument faire connaissance !</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/a9c8de20a2f03b9515d171a70ee7dd1b4007dfbc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C187.api.telerama.fr" start="20210409235500" stop="20210410000200">
+    <title>Sous le soleil</title>
+    <sub-title>Malgré nos différences</sub-title>
+    <desc lang="fr">Saison:9 - Episode:19 - Aurélie est furieuse lorsqu'elle découvre que son père sort avec Louise, une de ses amies. Elle décide alors de ne plus les voir. Hugo, quant à lui, vient de passer avec succès son examen à l'université, comme le souhaitait Caroline...</desc>
+    <credits>
+      <director>Denis Thybaud</director>
+      <actor>Julie Boulanger</actor>
+      <actor>Julien Guéris</actor>
+      <actor>Adeline Blondieau</actor>
+      <actor>Julie-Anne Muzard</actor>
+      <actor>Jean-Pierre Germain</actor>
+      <actor>Christine Lemler</actor>
+      <actor>Philippe Visconti</actor>
+      <actor>François Montagut</actor>
+      <writer>Olivier Brémond</writer>
+      <writer>Pascal Breton</writer>
+      <writer>Lorène Delannoy</writer>
+    </credits>
+    <category lang="fr">série sentimentale</category>
+    <length units="minutes">7</length>
+    <episode-num system="xmltv_ns">8.18.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
   <programme channel="C377.api.telerama.fr" start="20210408230500" stop="20210409010500">
     <title>Luna Park</title>
     <category lang="fr">jeu</category>
@@ -2311,7 +2637,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
   </programme>
   <programme channel="C377.api.telerama.fr" start="20210409073000" stop="20210409093000">
     <title>La boutique</title>
-    <desc lang="fr">Secrets de beauté, magie des bijoux, création de mode, cuisine conviviale et gourmande, entretien et décoration de la maison, etc. La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique.</desc>
+    <desc lang="fr">Secrets de beauté, magie des bijoux, création de mode, cuisine conviviale et gourmande, entretien et décoration de la maison... La Boutique RTL TVI explore les nouvelles tendances et vous fait vivre une expérience d'achat unique !</desc>
     <category lang="fr">magazine de télé-achat</category>
     <length units="hours">2</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bb316ff940c2e27e439fd31cfc843452866e5fd0.jpg" />
@@ -2368,7 +2694,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     <desc lang="fr">Saison:11 -</desc>
     <category lang="fr">téléréalité</category>
     <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/88076912e4433c5e28a243d5e55aafc1a94a02c5.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/7704a75382f701b76498dff32468f051a192746e.jpg" />
     <episode-num system="xmltv_ns">10..</episode-num>
     <rating system="CSA">
       <value>-10</value>
@@ -2393,7 +2719,7 @@ Dans les rôles des capitaines Alice ­Castel et Pascal Loubet, Helena Noguerra 
     <desc lang="fr">Saison:6 -</desc>
     <category lang="fr">téléréalité</category>
     <length units="minutes">55</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/eef1b528d154f02e54fe93c5f6e2c6d1e581dfa1.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fd366aa8b6207c89685c64552a6f97c84208debe.jpg" />
     <episode-num system="xmltv_ns">5..</episode-num>
     <premiere />
     <rating system="CSA">
@@ -2545,6 +2871,61 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <rating system="CSA">
       <value>-10</value>
       <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20210409224000" stop="20210409224500">
+    <title>Scènes de ménages</title>
+    <desc lang="fr">Saison:9 - Episode:236 - Les couples de la série partent à l'aventure sous des latitudes exotiques, de belles crises en perspective ! Huguette et Raymond ont gagné un séjour de luxe dans un petit paradis lointain. Eux qui n'ont jamais mis les pieds dans un palace risquent sans nul doute de détonner au milieu de ce décor ! Emma et Fabien ont décidé de partir en voyage humanitaire en Amérique du Sud pour distribuer des fournitures scolaires dans un village isolé au milieu de la jungle. José est élu maire ! Pour leur premier voyage officiel, direction La Réunion. Philippe et Camille se retrouvent sous les tropiques pour raisonner le père de Philippe, qui a tout quitté pour suivre une femme de 20 ans !</desc>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">5</length>
+    <episode-num system="xmltv_ns">8.235.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20210409224500" stop="20210409225000">
+    <title>Scènes de ménages</title>
+    <desc lang="fr">Saison:6 - Episode:216 - Suivez le quotidien de plusieurs couples, dont la vie est loin d'être un long fleuve tranquille.</desc>
+    <credits>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Audrey Lamy</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f187e90e-019d-484f-b5a6-401748f5604b.jpg" />
+    <episode-num system="xmltv_ns">5.215.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20210409225000" stop="20210409225500">
+    <title>Scènes de ménages</title>
+    <desc lang="fr">Saison:6 - Episode:217 - Suivez le quotidien de plusieurs couples, dont la vie est loin d'être un long fleuve tranquille.</desc>
+    <credits>
+      <actor>Marion Game</actor>
+      <actor>Gérard Hernandez</actor>
+      <actor>Valérie Karsenti</actor>
+      <actor>Audrey Lamy</actor>
+    </credits>
+    <category lang="fr">série humoristique</category>
+    <length units="minutes">5</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f187e90e-019d-484f-b5a6-401748f5604b.jpg" />
+    <episode-num system="xmltv_ns">5.216.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C377.api.telerama.fr" start="20210409225500" stop="20210410005500">
+    <title>Luna Park</title>
+    <category lang="fr">jeu</category>
+    <length units="hours">2</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5f0407eab4bff0d5c1e0378aca181f20a0798b80.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
     </rating>
   </programme>
   <programme channel="C892.api.telerama.fr" start="20210408231000" stop="20210409000200">
@@ -2943,13 +3324,12 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
   </programme>
   <programme channel="C892.api.telerama.fr" start="20210409093400" stop="20210409095800">
     <title>Droners</title>
-    <sub-title>La course Totem</sub-title>
-    <desc lang="fr">Saison:1 - Episode:9 - La course du jour opposera exceptionnellement trois équipes : les Tikis, les Sirènes et les Tao Twins qui devront récupérer un totem caché sur dans le circuit des Toiles. Persuadée que Sun et Corto vont s'allier contre elle, Mina décide de créer la zizanie entre les deux amoureux afin de perturber leur course et de remporter la mise.</desc>
+    <sub-title>La course de Big Moe</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - Big Moe, le papa de Mouse ayant découvert que sa fille participe aux courses de drones, se rend sur l'île de la Baleine dans le but de la ramener à la maison. Mouse devra s'affirmer devant son père et lui prouver qu'elle a toute sa place dans la compétition.</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">24</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/82b1e3e3-a39b-4dbb-a45b-d99c21e0548f.jpg" />
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <previously-shown />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3083,7 +3463,7 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <desc lang="fr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle ? Un objet toujours surprenant qui les amène à s'intéresser à des sujets très divers, allant de l'histoire des emojis au tri des poubelles ou à la musique électro.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fa4fb79e5bca71d236b7d29cbc1d9c5ab2adb197.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1a0674f9be65ba651dd228ee38a054427434048c.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>
@@ -3128,7 +3508,7 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <desc lang="fr">Saison:1 - Episode:19 - Alors que Wendy rêve d'avoir un appareil dentaire, Marine est convaincue que le dentiste, qui est également le père de Rachel, la rivale de sa soeur, va lui installer un dispositif affreux. Elle tente alors de sauver sa soeur...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
     <length units="minutes">12</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bad61b6b83149effe5bf29e8a725772a28b03984.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c090cb770922043f118b3ab7a48cc6e53295812c.jpg" />
     <episode-num system="xmltv_ns">0.18.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3140,7 +3520,7 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <desc lang="fr">Saison:1 - Episode:20 - Pour se débarrasser de sa soeur, Wendy fait croire à Marine qu'elle n'est pas invitée à la fête qu'organise Sammie. La benjamine découvre la vérité et décide de se venger...</desc>
     <category lang="fr">jeunesse : dessin animé</category>
     <length units="minutes">13</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/c090cb770922043f118b3ab7a48cc6e53295812c.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/29dd1697973c8cde192256028518908cb1183cff.jpg" />
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <rating system="CSA">
       <value>Tout public</value>
@@ -3148,12 +3528,12 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
   </programme>
   <programme channel="C892.api.telerama.fr" start="20210409152200" stop="20210409154500">
     <title>Droners</title>
-    <sub-title>La course Totem</sub-title>
-    <desc lang="fr">Saison:1 - Episode:9 - La course du jour opposera exceptionnellement trois équipes : les Tikis, les Sirènes et les Tao Twins qui devront récupérer un totem caché sur dans le circuit des Toiles. Persuadée que Sun et Corto vont s'allier contre elle, Mina décide de créer la zizanie entre les deux amoureux afin de perturber leur course et de remporter la mise.</desc>
+    <sub-title>La course de Big Moe</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - Big Moe, le papa de Mouse ayant découvert que sa fille participe aux courses de drones, se rend sur l'île de la Baleine dans le but de la ramener à la maison. Mouse devra s'affirmer devant son père et lui prouver qu'elle a toute sa place dans la compétition.</desc>
     <category lang="fr">série d'animation</category>
     <length units="minutes">23</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/82b1e3e3-a39b-4dbb-a45b-d99c21e0548f.jpg" />
-    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3186,7 +3566,7 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <desc lang="fr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle ? Un objet toujours surprenant qui les amène à s'intéresser à des sujets très divers, allant de l'histoire des emojis au tri des poubelles ou à la musique électro.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fa4fb79e5bca71d236b7d29cbc1d9c5ab2adb197.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1a0674f9be65ba651dd228ee38a054427434048c.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3198,7 +3578,7 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <desc lang="fr">Chaque jour, Rocky et Lily reçoivent une nouvelle boîte sur le plateau. Mais que contient-elle ? Un objet toujours surprenant qui les amène à s'intéresser à des sujets très divers, allant de l'histoire des emojis au tri des poubelles ou à la musique électro.</desc>
     <category lang="fr">emission jeunesse</category>
     <length units="minutes">9</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fa4fb79e5bca71d236b7d29cbc1d9c5ab2adb197.jpg" />
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1a0674f9be65ba651dd228ee38a054427434048c.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -3319,7 +3699,7 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
   <programme channel="C892.api.telerama.fr" start="20210409192700" stop="20210409195800">
     <title>Strip-tease</title>
     <sub-title>Best of</sub-title>
-    <desc lang="fr">C'est archivé près de chez vous, la suite. Best of, Strip-Tease: Radio Chevauchoir et Pas de nouvelles, bonnes nouvelles</desc>
+    <desc lang="fr">Array</desc>
     <category lang="fr">magazine de société</category>
     <length units="minutes">31</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/0f989d72225bbbf4f344fd2ec9283d5955fc5305.jpg" />
@@ -3354,6 +3734,60 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <category lang="fr">magazine culturel</category>
     <length units="minutes">26</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3fe03d95b6c4989679c1f80515182c91a0a4fd31.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20210409221000" stop="20210409224500">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">Tous les jours, retrouvez le JT de 19h30 traduit en simultané en langue des signes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20210409224500" stop="20210409224800">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c19ff1914fc266bb450fee2c20e695830797901.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20210409224800" stop="20210409225200">
+    <title>Madame, Monsieur, bonsoir !</title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/647d97d8d36cc4238084e70e18811b4f82a881e1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20210409225200" stop="20210409234800">
+    <title>Dites-moi</title>
+    <sub-title>Yolande Mukagasana</sub-title>
+    <desc lang="fr">L'émission consacrée en avril 2000 à Yolande Mukagasana est particulièrement bouleversante. Après avoir vécu dans sa chair les atrocités du Rwanda, cette mère tutsi qui a perdu tous les êtres qui lui étaient chers, se bat pour perpétuer leur mémoire, pour que justice soit faite.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">56</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b6564553cdee016b54545cb0dcfe582ba166ab5b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C892.api.telerama.fr" start="20210409234800" stop="20210410002300">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">Tous les jours, retrouvez le JT de 19h30 traduit en simultané en langue des signes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
     <previously-shown />
     <rating system="CSA">
       <value>Tout public</value>
@@ -4054,328 +4488,6 @@ L’approche est un suspense en soi, une forte expérience d’immersion sensori
     <category lang="fr">emission spéciale</category>
     <length units="minutes">515</length>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/57aaf38464e14262eb3fc5df851c31df1d61e275.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20210409230500" stop="20210409232500">
-    <title>Iedereen beroemd</title>
-    <desc lang="fr">Reportageprogramma waarin elke dag iets nieuws te ontdekken valt.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">20</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd7290cc9041300bedf899cd623bbfc4a5525f12.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20210409232500" stop="20210409234000">
-    <title>Dagelijkse kost</title>
-    <desc lang="fr">Saison:11 - Jeroen Meus zet elke dag van de week een smakelijk gerecht op tafel. Hij bewijst dat koken een plezier is voor iedereen, voor elk moment of evenement en naar ieders smaak.</desc>
-    <category lang="fr">magazine de la gastronomie</category>
-    <length units="minutes">15</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/aa53bf72f908b80fc55e9215a58c92760673ab6b.jpg" />
-    <episode-num system="xmltv_ns">10..</episode-num>
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20210409234000" stop="20210409235000">
-    <title>Het journaal laat</title>
-    <desc lang="fr">Nieuws en sport</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6b08fbe93f38afb3b36456ec753438f34795047a.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20210409235000" stop="20210409235500">
-    <title>Het weer</title>
-    <desc lang="fr">Weervoorspelling voor de komende dagen.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/27cda6fc36ab743437d8b3d3e25cd5f315c5e23f.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C23.api.telerama.fr" start="20210409235500" stop="20210410060000">
-    <title>Journaallus</title>
-    <sub-title>Doorlopende herhalingen</sub-title>
-    <desc lang="fr">En beursberichten.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">365</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ae7564cf564802473c61a3241daf2965710d63d4.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409220100" stop="20210409221100">
-    <title>Quel temps !</title>
-    <sub-title>Bali, l'île aux macaques-Trontinettes tout terrain-On est fan...des radis</sub-title>
-    <desc lang="fr">Découvrez les coulisses du climat chez nous et à l'autre bout du monde. Des changements climatiques aux énergies renouvelables, toutes les questions scientifiques seront abordées.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409221100" stop="20210409221200">
-    <title>Quel Temps chez vous</title>
-    <desc lang="fr">Les photos et vidéos de la météo chez vous</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">1</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/22f595534b4cefaf024a29b21db0a21b10b9a327.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409221200" stop="20210409221500">
-    <title>Météo</title>
-    <desc lang="fr">Tout au long de la journée, retrouvez les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bd88819665058ce7b744158d602c7a9c82e1bc85.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409221500" stop="20210409225000">
-    <title>JT 19h30</title>
-    <desc lang="fr">Tous les jours, le JT de 19h30 vous informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/25b6181fc1b4e89feb09126b67a2879cddef174f.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409225000" stop="20210409231600">
-    <title>Les Belges du bout du monde</title>
-    <desc lang="fr">Tous ces Belges sont allés au bout de leurs rêves, par hasard ou par nécessité. La série "Les Belges du bout du monde" propose de découvrir les portraits intimes et les parcours de vie particulièrement riches de ces individus installés aux quatre coins de la planète.</desc>
-    <category lang="fr">magazine de société</category>
-    <length units="minutes">26</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fcdc9d513dcd4d44e02cc99a4dc86ce840f6c5c3.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409231600" stop="20210409231800">
-    <title>Studio Foot</title>
-    <sub-title>Championnat de Belgique D1A, 33e journée : Eupen / Standard de Liège</sub-title>
-    <category lang="fr">sport : football</category>
-    <length units="minutes">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/6d023f9956d6771af152fa994384699ea5da5f4c.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C164.api.telerama.fr" start="20210409231800" stop="20210410040000">
-    <title>Boucle de nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">282</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5136d02ad1932525abb717fbcc1988b3c43b3f30.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409220500" stop="20210409221500">
-    <title>Loïc, fou de cuisine</title>
-    <category lang="fr">magazine culinaire</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5287c038b739a2d23b113bde2424f149f75dc000.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409221500" stop="20210409222000">
-    <title>Météo</title>
-    <desc lang="fr">Quel temps fera-t-il demain ? Nos bulletins météo vous tiennent au courant des prévisions. La pluie et le beau temps, annoncés par nos spécialistes.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bacd5fec32cd1eac26ae5ded761efabcdea77ec9.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409222000" stop="20210409230000">
-    <title>RTL info 19 heures</title>
-    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">40</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3b5d3e19f4a3ec9d88404fd77abb2ee6a1f1b704.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C168.api.telerama.fr" start="20210409230000" stop="20210410004500">
-    <title>Jeux de nuit</title>
-    <category lang="fr">jeu</category>
-    <length units="minutes">105</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/bed3c3d3001c2b73e0f3b4066b81c657ed71651c.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409224700" stop="20210409225700">
-    <title>Vews</title>
-    <desc lang="fr">Vews propose des vidéos d'actualité destinées au web. Elles apportent un regard différent sur l'info avec un ton direct et authentique. L'expérience se prolonge sous la forme d'un JT basé sur les vidéos de la journée, enrichies avec des directs, du décryptage et de la découverte.</desc>
-    <category lang="fr">magazine d'actualité</category>
-    <length units="minutes">10</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/cd5aed5ee11e503ed3e5fa621d83b81bf62cab8d.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409225700" stop="20210409232000">
-    <title>DECIBELS Le live</title>
-    <sub-title>Charles</sub-title>
-    <category lang="fr">emission musicale</category>
-    <length units="minutes">23</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/437c27c6cbcdd9ea0b0d9e0c831921a53c08762c.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409232000" stop="20210409232300">
-    <title>Capsules humour Tipik</title>
-    <category lang="fr">divertissement-humour</category>
-    <length units="minutes">3</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ec201bb9ec244c537b0639e30121844d6b48b4a7.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C187.api.telerama.fr" start="20210409232300" stop="20210410053300">
-    <title>Boucle de nuit</title>
-    <category lang="fr">journal</category>
-    <length units="minutes">370</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5136d02ad1932525abb717fbcc1988b3c43b3f30.jpg" />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20210409224000" stop="20210409224500">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:9 - Episode:236 - Les couples de la série partent à l'aventure sous des latitudes exotiques, de belles crises en perspective ! Huguette et Raymond ont gagné un séjour de luxe dans un petit paradis lointain. Eux qui n'ont jamais mis les pieds dans un palace risquent sans nul doute de détonner au milieu de ce décor ! Emma et Fabien ont décidé de partir en voyage humanitaire en Amérique du Sud pour distribuer des fournitures scolaires dans un village isolé au milieu de la jungle. José est élu maire ! Pour leur premier voyage officiel, direction La Réunion. Philippe et Camille se retrouvent sous les tropiques pour raisonner le père de Philippe, qui a tout quitté pour suivre une femme de 20 ans !</desc>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <episode-num system="xmltv_ns">8.235.</episode-num>
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20210409224500" stop="20210409225000">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:6 - Episode:216 - Suivez le quotidien de plusieurs couples, dont la vie est loin d'être un long fleuve tranquille.</desc>
-    <credits>
-      <actor>Marion Game</actor>
-      <actor>Gérard Hernandez</actor>
-      <actor>Valérie Karsenti</actor>
-      <actor>Audrey Lamy</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f187e90e-019d-484f-b5a6-401748f5604b.jpg" />
-    <episode-num system="xmltv_ns">5.215.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20210409225000" stop="20210409225500">
-    <title>Scènes de ménages</title>
-    <desc lang="fr">Saison:6 - Episode:217 - Suivez le quotidien de plusieurs couples, dont la vie est loin d'être un long fleuve tranquille.</desc>
-    <credits>
-      <actor>Marion Game</actor>
-      <actor>Gérard Hernandez</actor>
-      <actor>Valérie Karsenti</actor>
-      <actor>Audrey Lamy</actor>
-    </credits>
-    <category lang="fr">série humoristique</category>
-    <length units="minutes">5</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/f187e90e-019d-484f-b5a6-401748f5604b.jpg" />
-    <episode-num system="xmltv_ns">5.216.</episode-num>
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C377.api.telerama.fr" start="20210409225500" stop="20210410005500">
-    <title>Luna Park</title>
-    <category lang="fr">jeu</category>
-    <length units="hours">2</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/5f0407eab4bff0d5c1e0378aca181f20a0798b80.jpg" />
-    <premiere />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20210409220100" stop="20210409222800">
-    <title>Plan Cult</title>
-    <sub-title>Emilie Dequenne</sub-title>
-    <desc lang="fr">Félicien Bogaerts accueille la comédienne belge Emilie Dequenne, qui vient d'être récompensée du César du meilleur second rôle pour sa prestation dans le film d'Emmanuel Mouret, "Les choses qu'on dit, les choses qu'on fait". Ils se retrouvent dans un nouveau lieu, le Pavillon, situé au coeur de la Citadelle namuroise, entièrement dédié à la technologie numérique.</desc>
-    <category lang="fr">magazine culturel</category>
-    <length units="minutes">27</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/3fe03d95b6c4989679c1f80515182c91a0a4fd31.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20210409222800" stop="20210409230300">
-    <title>JT 19h30 avec interprétation en langue des signes</title>
-    <desc lang="fr">Tous les jours, retrouvez le JT de 19h30 traduit en simultané en langue des signes.</desc>
-    <category lang="fr">journal</category>
-    <length units="minutes">35</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/924c6ba154795ad3e3b86b3ed368fe4be337e198.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20210409230300" stop="20210409230700">
-    <title>Météo internationale</title>
-    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
-    <category lang="fr">météo</category>
-    <length units="minutes">4</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/1c19ff1914fc266bb450fee2c20e695830797901.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20210409230700" stop="20210409231500">
-    <title>Madame, Monsieur, bonsoir !</title>
-    <category lang="fr">magazine d'information</category>
-    <length units="minutes">8</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/45cff6565d8638dc08d5bcc60479f4d051af49c0.jpg" />
-    <previously-shown />
-    <rating system="CSA">
-      <value>Tout public</value>
-    </rating>
-  </programme>
-  <programme channel="C892.api.telerama.fr" start="20210409231500" stop="20210410040000">
-    <title>Boucle de la nuit</title>
-    <category lang="fr">programme indéterminé</category>
-    <length units="minutes">285</length>
-    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/b0a65f2f8cdfb8d98113950c3e9aceb499e19167.jpg" />
     <rating system="CSA">
       <value>Tout public</value>
     </rating>

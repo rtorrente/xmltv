@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="C205.api.telerama.fr">
+    <display-name>TV5MONDE</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/205.png" />
+  </channel>
+  <programme channel="C111.api.telerama.fr" start="20210408231000" stop="20210409004500">
+    <title>Mort ou riche</title>
+    <desc lang="fr">Erich Kessel, dont les problèmes de drogue ont fait capoter le mariage, est prêt à tout pour reconquérir sa femme et ses enfants. Il apprend alors que Mohammed, une vieille connaissance, s'apprête à dévaliser la banque dont il est client. Sa fille Ruby, malade, est prise en otage lors du braquage... - Critique : Après s’être assagi et avoir réglé ses problèmes de drogue, l’inspecteur Erich Kessel réintègre la police hambourgeoise, où il retrouve son collègue de toujours, Mario Diller. Kessel espère aussi reconquérir sa femme et sa fille. Mais tout bascule quand, après un malheureux concours de circonstances, celles-ci sont prises en otage lors d’un braquage de banque dont Kessel et Diller ont été prévenus trop tard…
+
+Âpre, violent, baignant dans une atmosphère noire et très contemporaine, ce polar d’outre-Rhin est une bonne surprise. Grâce à l’ambiguïté de ses personnages, surtout : les flics Kessel et Diller (déjà vus dans deux autres téléfilms, Entre ennemis et Trop tôt pour mourir) sont d’authentiques ripoux, à peine plus aimables que les truands qu’ils poursuivent. Ici, malfrats comme policiers sont juste de pauvres types noyés dans leurs problèmes qui font le mauvais choix pour tenter de s’en sortir… Le scénario, imprévisible, et la mise en scène, percutante, tiennent en haleine jusqu’au bout.</desc>
+    <credits>
+      <director>Lars Becker</director>
+      <actor>Fritz Karl</actor>
+      <actor>Jessica Schwarz</actor>
+      <actor>Nicholas Ofczarek</actor>
+      <actor>Anna Loos</actor>
+      <actor>Sahin Eryilmaz</actor>
+      <actor>Melika Foroutan</actor>
+      <actor>Martin Brambach</actor>
+      <actor>Felix Everding</actor>
+      <actor>Francis Fulton-Smith</actor>
+      <actor>Moritz Uhl</actor>
+      <actor>Cya Emma Blaack</actor>
+      <actor>Tedros Teclebrhan</actor>
+      <writer>Lars Becker</writer>
+      <writer>Georg M. Oswald</writer>
+    </credits>
+    <category lang="fr">téléfilm policier</category>
+    <length units="minutes">95</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/ca3bb96e50f5128f3c470919e0171d7c3f92bff5.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C205.api.telerama.fr" start="20210408225100" stop="20210408231700">
+    <title>TV5MONDE, le journal Afrique</title>
+    <desc lang="fr">Toute l'actualité africaine proposée par la rédaction de TV5MONDE.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">26</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/008e5ed3f52ececb801299ac00ca387a7594835f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C205.api.telerama.fr" start="20210408231700" stop="20210408232100">
+    <title>Météo</title>
+    <desc lang="fr">Le bulletin météorologique international.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/4544499bc15aed5387177f050e6b90b7d6400e47.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C205.api.telerama.fr" start="20210408232100" stop="20210409000900">
+    <title>Tout compte fait</title>
+    <sub-title>Quand les marques dérapent !</sub-title>
+    <desc lang="fr">Saison:6 - Array</desc>
+    <category lang="fr">magazine de l'économie</category>
+    <length units="minutes">48</length>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/fdfe9401688dae0ddb24af4664e328bf44a4d4b4.jpg" />
+    <episode-num system="xmltv_ns">5..</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
