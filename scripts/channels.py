@@ -7,6 +7,7 @@ COUNTRIES_CHANNELS = {
             'C4.api.telerama.fr',
             'C34.api.telerama.fr',
             'C47.api.telerama.fr',
+            'C64.api.telerama.fr',  # Equidia
             'C78.api.telerama.fr',
             'C80.api.telerama.fr',
             'C110.api.telerama.fr',
@@ -120,20 +121,67 @@ COUNTRIES_CHANNELS = {
     'it': {
         'dst': 'tv_guide_it{}.xml',
         'channels': [
-            'www.raiuno.rai.it'
+            'www.la7.it',  # La7
+            'www.raiuno.rai.it',  # Rai 1
+            'www.raidue.rai.it',  # Rai 2
+            'www.raitre.rai.it',  # Rai 3
+            'rai4.raisat.it',  # Rai 4
+            'rai5.rai.it',  # Rai 5
+            'raimovie.rai.it',  # Rai Movie
+            'yoyo.raisat.it',  # Yoyo
+            'raigulp.rai.it',  # Rai Gulp
+            'raistoria.rai.it',  # Rai Storia
+            'raiscuola.rai.it',  # Rai Scuola
         ]
     },
-    'en': {
-        'dst': 'tv_guide_en{}.xml',
+    'uk': {
+        'dst': 'tv_guide_uk{}.xml',
         'channels': [
-            '74.tvguide.co.uk'
+            '178.tvguide.co.uk',  # STV Central
+            '185.tvguide.co.uk',  # Magic
+            '182.tvguide.co.uk',  # Kiss TV
+            '257.tvguide.co.uk',  # Sky News
+            '267.tvguide.co.uk',  # Box Hits
+            '279.tvguide.co.uk',  # The Box
+            '320.tvguide.co.uk',  # Yesterday
+            '422.tvguide.co.uk',  # Really
+            '432.tvguide.co.uk',  # Dave
+            '454.tvguide.co.uk',  # DMAX
+            '559.tvguide.co.uk',  # Quest
+            '596.tvguide.co.uk',  # Food Network
+            '871.tvguide.co.uk',  # Drama
+            '1013.tvguide.co.uk',  # Blaze
+            '1014.tvguide.co.uk',  # Quest Red
+            '1154.tvguide.co.uk',  # Birmingham TV
+            '1157.tvguide.co.uk',  # Bristol TV
+            '1171.tvguide.co.uk',  # Cardiff TV
+            '1207.tvguide.co.uk',  # Kerrang!
+            '1210.tvguide.co.uk',  # Leeds TV
+            '1212.tvguide.co.uk',  # Liverpool TV
+            '1255.tvguide.co.uk'  # Tyne & Wear TV
+        ]
+    },
+    'ch': {
+        'dst': 'tv_guide_ch{}.xml',
+        'channels': [
+            'C59.api.telerama.fr',  # SRF 1
+            'C200.api.telerama.fr',  # RSI La 1
+            'C201.api.telerama.fr',  # RSI La 2
+            'C183.api.telerama.fr',  # RTS Deux
+            'C202.api.telerama.fr'  # RTS Un
         ]
     },
     'wo': {
         'dst': 'tv_guide_wo{}.xml',
         'channels': [
+            '140.tvguide.co.uk'  # EuroNews UK
+            '853.tvguide.co.uk'  # RT UK
+            '1183.tvguide.co.uk'  # France 24 UK
+            'C61.api.telerama.fr',  # DW UK
             'C111.api.telerama.fr',  # Arte FR
             'C205.api.telerama.fr'  # TV5 Monde
+            'C529.api.telerama.fr',  # France 24 FR
+            'euronews.rai.it'  # EuroNews IT
         ]
     }
 }
