@@ -1,0 +1,1320 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme channel="C59.api.telerama.fr" start="20211204224000" stop="20211205001500">
+    <title>Kommissar Beck</title>
+    <sub-title>Die ausgestreckte Hand</sub-title>
+    <desc lang="fr">Episode:3 - Die alleinerziehende Manuela bereitet den Geburtstag für ihre zehnjährige Tochter Maria vor. Als diese von der Schule nach Hause kommt, liegt Manuela leblos am Fuß der Treppe. Kommissar Steinar und sein Team übernehmen den Fall, der zunächst wie ein tragischer Unfall aussieht. Verdächtig ist jedoch, dass Mutter und Tochter unter falscher Identität gelebt haben, da Manuelas Ex-Mann Fredrik in der Vergangenheit Gewalt ausgeübt hat. Tags darauf wird klar, dass Fredrik erfolglos versucht hat, bei den Behörden Besuchsrecht für Maria zu erwirken. Als Steinar erfährt, dass Manuela kurz vor ihrem Tod eine eigentümliche SMS von ihrem Chef, dem Verwaltungsbeamten Bernt, erhalten hat, schickt er seine Ermittler los, auch diesen zu befragen.</desc>
+    <date>2018</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/04/19/6aa5248c-7e64-44e2-bd1e-6f259e11c15a.jpg" />
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205001500" stop="20211205021500">
+    <title>Wer wohnt wo?</title>
+    <sub-title>Traumobjekte</sub-title>
+    <category lang="fr">divertissement</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/5ea7a375aa7e521c68d67e1992b74951da3620df.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205021500" stop="20211205023500">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/7ba5dc68eb73553a88dfc8ec7251e3dcbd1e4112.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205023500" stop="20211205025000">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>SZ, UR, TI, VS, BE, VD</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/13/bf975c54b6d081de66f4caded26c9a073a006a32.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205025000" stop="20211205032500">
+    <title>Mona mittendrin</title>
+    <sub-title>Bei Spitzenköchin Tanja Grandits</sub-title>
+    <desc lang="fr">Drei Tage an der Seite der besten Köchin des Landes - für viele ein Traum, für Mona Vetsch ein Horrorszenario. Denn die Küche ist so gar nicht ihr Terrain. Je länger sie indes Tanja Grandits und deren Team "unterstützt", desto mehr schmelzen Monas Vorurteile gegenüber der Spitzengastronomie.</desc>
+    <category lang="fr">documentaire autre</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/e8ecda7107adaf022f6c0bba5b8b4dc6764af7d4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205032500" stop="20211205040500">
+    <title>Raus aus der Krise</title>
+    <desc lang="fr">Die Corona-Situation hat viele Menschen gezwungen, sich neu zu orientieren. Die dreiteilige Doku-Serie "Raus aus der Krise" zeigt drei Personen, die aus ihrem Alltagstrott ausgebrochen sind und durch die Krise eine ganz neue Welt entdeckt haben.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/0f989d72225bbbf4f344fd2ec9283d5955fc5305.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205040500" stop="20211205083000">
+    <title>SRF bi de Lüt</title>
+    <sub-title>Maja Tappolet aus Wilchingen SH</sub-title>
+    <desc lang="fr">Die Landfrau Maja Tappolet und ihr Ehemann Kai bewohnen zusammen mit ihren sieben Kindern eine ehemalige Pferdewechselstation. Das Ehepaar betreibt aus Überzeugung einen Biohof, denn die Natur liegt ihnen am Herzen. Auf 40 Hektaren Land kultivieren sie verschiedene Getreidesorten.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/0449ba64c6783e4257324288c1f019b76be727f4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205083000" stop="20211205090000">
+    <title>gesundheitheute</title>
+    <sub-title>Liebe kennt kein Alter</sub-title>
+    <category lang="fr">magazine médical</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/581a4491c614251a69864dd3be14e523c35e8b5d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205090000" stop="20211205100000">
+    <title>Sternstunde Religion</title>
+    <sub-title>Richard Powers - Wir Menschen sind Teil der Natur</sub-title>
+    <category lang="fr">magazine religieux</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/26/863a8c4f2e224b49b2e72be586c3800f279c25ee.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205100000" stop="20211205110000">
+    <title>Sternstunde Philosophie</title>
+    <sub-title>Erben: Ungerecht weil unverdient?</sub-title>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/a45335b955e76936c8b5f79b5b403a81994c24a5.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205110000" stop="20211205121000">
+    <title>Focus Iran, l'audace au premier plan</title>
+    <sub-title>Alfred Hitchcock und die Liebe seines Lebens</sub-title>
+    <desc lang="fr">Bei seinem letzten öffentlichen Auftritt ging Alfred Hitchcocks Dank an die Frau, die für ihn alles in einem war: Ehefrau, Mutter der gemeinsamen Tochter, Cutterin, Co-Drehbuchautorin, lebenslange Partnerin: Alma Reville. Der Film "Mr. und Mrs. Hitchcock" ehrt das Ausnahmepaar der Filmgeschichte.</desc>
+    <category lang="fr">documentaire beaux-arts</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/53136ac624de2970690eb4c52eed10ee8fd5e8cc.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205121000" stop="20211205131000">
+    <title>Südostschweiz Standpunkte</title>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/a40be7b82da465ce617a13a4db80e898a5c65d60.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205131000" stop="20211205141500">
+    <title>Raus aus der Krise</title>
+    <desc lang="fr">Die Corona-Situation hat viele Menschen gezwungen, sich neu zu orientieren. Die dreiteilige Doku-Serie "Raus aus der Krise" zeigt drei Personen, die aus ihrem Alltagstrott ausgebrochen sind und durch die Krise eine ganz neue Welt entdeckt haben.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/0f989d72225bbbf4f344fd2ec9283d5955fc5305.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205141500" stop="20211205162500">
+    <title>Des îles d'enfer !</title>
+    <sub-title>Höllische Paradiese - Pianosa</sub-title>
+    <desc lang="fr">A mi-chemin entre la Corse et le sud de la Toscane, la minuscule île italienne de Pianosa est devenue un parc naturel d'une extrême richesse.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/12/e60d5a1c05020b1f47b20edb576918a35b8f59a4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205162500" stop="20211205174500">
+    <title>Cuntrasts</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/19/bf018996f8211a63d8b276b107173ce5f559c68a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205174500" stop="20211205190500">
+    <title>Glanz &amp; Gloria Weekend</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/68232e9cff071f07e54d1c1cdfca0a5d3f371f6b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205190500" stop="20211205205000">
+    <title>Platzspitzbaby</title>
+    <desc lang="fr">Primavera 1995: dopo la chiusura della scena aperta della droga a Zurigo, Mia, di 11 anni, e sua madre si trasferiscono nell'Oberland zurighese. La nuova casa è lungi dall'essere il paradiso per Mia. Sua madre è fortemente dipendente dalle droghe e non avrebbe mai dovuto ottenere la custodia. Mia si rifugia in un mondo immaginario con un'amico altrettanto immaginario. Grazie a lui e ad altri trova gradualmente la forza di staccarsi dalla madre.</desc>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/09c3fdecb82b108cd65c7c67121a9c7f24900391.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C59.api.telerama.fr" start="20211205214500" stop="20211206000500">
+    <title>Libye - La boîte de Pandore de l'après Kadhafi</title>
+    <sub-title>Libyen - Gaddafis blutiges Erbe</sub-title>
+    <desc lang="fr">Malgré de multiples tentatives de médiation, la Libye reste aujourd'hui un pays fragmenté et gangrené par la violence, où tribus et milices se disputent le pouvoir. L'économie s'est effondrée, plus d'un million de personnes ont fui et, comme la Syrie, la Libye se retrouve au centre d'un conflit international par procuration entre la Russie et la Turquie, soutenues par leurs alliés respectifs. Au lendemain du printemps arabe à Tripoli, réprimé dans le sang, l'intervention de l'Otan en 2011, soutenue par l'ONU, a conduit au renversement du dictateur Kadhafi, mais a entraîné aussi le pays dans des années de guerre civile, l'Occident ne parvenant pas à proposer un plan viable de transition démocratique.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/20/6a5b3519c92bfcef9879f4b8c66ccf89d288604c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211204222000" stop="20211205002000">
+    <title>Coup de foudre à Notting Hill</title>
+    <desc lang="fr">Célibataire, William Thacker partage sagement sa vie entre sa petite librairie de Notting Hill, un quartier branché de Londres, et son appartement, dans lequel réside également son ami Spike, un Gallois rachitique, aussi simplet qu'attachant. Son existence plutôt morne est bouleversée le jour où Anna Scott, la plus grande star hollywoodienne du moment, franchit la porte de son modeste commerce. Après cette première rencontre, William revoit la ravissante actrice et renverse par mégarde du jus d'orange sur son tee-shirt. C'est le début d'une idylle entre ces deux êtres que tout oppose a priori. Mais elle ne sera pas de tout repos, entre hasards, gaffes et susceptibilités... - Critique : L’amour, ça tient parfois à peu de chose : à un gobelet de jus d’orange, par exemple, qu’un charmant libraire renverse sur le tee-shirt blanc d’une star de cinéma en goguette, incognito dans les rues de Londres. Il est très très british ; elle est très très hollywoodienne. Ils n’auraient jamais dû se rencontrer, mais leur coup de foudre est instantané. L’idée forte de cette séduisante comédie britannique est de ne jamais chercher à justifier cette improbable histoire d’amour, mais d’imaginer toutes les bonnes raisons qui pourraient la contrarier…
+
+On admirera le travail de grande précision accompli par le scénariste Richard Curtis : ses dialogues pétillants rendent ce conte de fées crédible et donnent corps à une flopée de personnages secondaires. L’interprétation fait le reste : on ne dira jamais assez le talent et le charme de Hugh Grant. Julia Roberts n’est pas mal non plus et fait preuve d’un sacré abattage. Entre eux se crée cette irrésistible alchimie des couples mythiques…</desc>
+    <date>1999</date>
+    <category lang="fr">film : comédie sentimentale</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/88b33a18-4479-44d1-969c-c6df0c501447.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205002000" stop="20211205012000">
+    <title>The Bridge-Bron</title>
+    <sub-title>Episodio 6</sub-title>
+    <desc lang="fr">Saison:4 - Episode:6 - Henrik pense avoir trouvé ce qui relie tous les meurtres faisant ainsi progresser l'enquête de manière significative. Il réalise alors que le danger est bien plus proche que ce qu'il imaginait et qu'il pourrait être la prochaine victime. Cela n'est pas pour le rassurer, alors qu'il s'éloigne de plus en plus de Saga, qui a pris une décision qu'il réprouve...</desc>
+    <date>2018</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/04/26/a928a739-d59d-409c-ac3f-c5de88c729f8.jpg" />
+    <episode-num system="xmltv_ns">3.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205012000" stop="20211205040000">
+    <title>Repliche Informazione</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">160</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205040000" stop="20211205050000">
+    <title>In volo sulla Svizzera italiana</title>
+    <category lang="fr">documentaire voyage</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/2fc8317fe174b89835c0de0143c7f285ab054dce.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205050000" stop="20211205050500">
+    <title>Meteo notte</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/15/1a68077b22efa77cdad92e454935e5b5b2cc00bf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205050500" stop="20211205061000">
+    <title>Info notte</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/7577d6773c24362fe486664cae254fc4473df0c7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205061000" stop="20211205072500">
+    <title>Cuntrasts</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/13/ffa9b1f63c6384c5e610a5ef3ca48f55b9833721.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205072500" stop="20211205073000">
+    <title>Patamuse</title>
+    <sub-title>Sam le chimpanzé</sub-title>
+    <desc lang="fr">Saison:1 - Episode:18 - Une voix, avec l'aide de sa palette magique, invite les petits à l'accompagner pour créer des animaux en pâte à modeler : les Patamuse.</desc>
+    <date>2017</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/711c3ae8eb6343f89937408832713b427f259db7.jpg" />
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205073000" stop="20211205073500">
+    <title>Wissper</title>
+    <sub-title>Fort comme un cheval</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - Herbert le cheval est persuadé qu'il a perdu sa force. Il va voir Wissper en espérant qu'elle pourra la faire revenir. Les deux amis se rendent à la rivière, où Herbert essaie de tirer des rondins pour aider les castors. Mais les rondins ne bougent pas d'un pouce. C'est une mission pour Dan le panda, qui, comme à son habitude, apporte un autre regard sur la situation.</desc>
+    <date>2015</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/e079a15ce013e87dbf06b461f7b699729fb890de.jpg" />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205073500" stop="20211205074000">
+    <title>Dimitri</title>
+    <sub-title>La belle étoile</sub-title>
+    <desc lang="fr">Saison:1 - Episode:14 - Dimitri, petit étourneau qui s'est égaré sur le continent africain lors d'une migration, va partir à la découverte de l'univers de la savane et des animaux qui y vivent.</desc>
+    <date>2014</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/03/d94cb7c1-5a79-404d-83c6-e86bc16b2a54.jpg" />
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205074000" stop="20211205080000">
+    <title>Il était une fois... la vie</title>
+    <sub-title>La bouche et les dents</sub-title>
+    <desc lang="fr">Saison:1 - Episode:14 - Pierrot et Pierrette dégustent un sandwich, et font découvrir le travail de la bouche et des dents lors d'un repas. L'ennemi des dents est le sucre, qui fortifie les bactéries sommeillant près des gencives. Attaquant l'émail, elles causent des caries...</desc>
+    <date>1986</date>
+    <category lang="fr">jeunesse : dessin animé dessin animé</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/c55dee5a-28a3-402d-9e5d-f07bbf63638a.jpg" />
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205080000" stop="20211205080500">
+    <title>Will</title>
+    <sub-title>Le coach</sub-title>
+    <desc lang="fr">Episode:18 - Les péripéties de Will, un jeune garçon qui se déplace en fauteuil roulant, et de son petit groupe d'amis.</desc>
+    <date>2017</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/20/95dc34255ac9450fe516f5224437d71525c2ff25.jpg" />
+    <episode-num system="xmltv_ns">.17.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205080500" stop="20211205114500">
+    <title>Miraculous, les aventures de Ladybug et Chat Noir</title>
+    <sub-title>Le dislocoeur</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - C'est la Saint-Valentin, et Marinette découvre qu'Adrien a écrit un poème à une jeune fille qu'il voit tous les jours. Elle pense qu'il s'agit d'elle. Pour le découvrir, elle décide d'écrire une carte à Adrien dans laquelle elle lui déclare sa flamme. Dans son enthousiasme, elle encourage Kim à avouer lui aussi ses sentiments à Chloé. Mais cette dernière se moque de lui et le rejette. Humilié, Kim est akumatisé par Le Papillon et devient l'ange noir Dislocoeur. Armé d'un arc et de roses maléfiques, il veut faire disparaître l'amour et l'amitié du cœur des Parisiens pour les remplacer par la haine...</desc>
+    <date>2016</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">220</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/c0b8360c-d56c-42f5-9dac-7329cacadd02.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205114500" stop="20211205133000">
+    <title>McDonald &amp; Dodds</title>
+    <sub-title>Dobbiamo parlare di Doreen</sub-title>
+    <desc lang="fr">Saison:2 - Episode:2 - A Bath Lauren McDonald, energica e ambiziosa nuova ispettrice, e il goffo ma arguto sergente Dodds formano una insolita coppia di poliziotti e indagano sui crimini commessi nella tranquilla cittadina del sud dell'Inghilterra.</desc>
+    <date>2021</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/7e74ad44ac3c46e547780bf34a3c7bac6c79d6ef.jpg" />
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205151500" stop="20211205160500">
+    <title>L'aventure de la vie</title>
+    <sub-title>L'héritage de la vie</sub-title>
+    <desc lang="fr">Saison:2 - Episode:3 - Life for animals is an epic struggle to pass on genes to the next generation and preserve their legacy. Only the strongest and most determined will find and fight for mates, and only the best parents will have the skills to keep their young alive.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/04/01/043b334d-f6e8-4c17-a469-882828e877ca.jpg" />
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205160500" stop="20211205210000">
+    <title>Meurtres au paradis</title>
+    <sub-title>La lettre à Elise</sub-title>
+    <desc lang="fr">Episode:4 - La police enquête après la découverte du corps d'un homme sur une barque à 3km au large de l'île de Sainte Marie. Il s'agit de Christopher Williams, 33 ans, le fils du pasteur de l'église de Port Royal. Le jeune homme a disparu après un barbecue et rien ne laissait présager qu'il était en danger jusqu'à ce que son père reçoive un appel à l'aide de sa part juste avant sa mort. Par ailleurs, la fille de l'inspecteur Mooney revient sur l'île pour rendre visite à son père. Celui-ci doit prendre une décision importante concernant son avenir...</desc>
+    <date>2020</date>
+    <category lang="fr">série de suspense</category>
+    <length units="minutes">295</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/680568926c854b12a191eb684d2bd88312843f10.jpg" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205210000" stop="20211205213000">
+    <title>Tempi moderni</title>
+    <category lang="fr">magazine de l'économie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/9d8f2cfc2e1f3e971da35aa615121d7d133a1f69.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205213000" stop="20211205214000">
+    <title>Info notte</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/7577d6773c24362fe486664cae254fc4473df0c7.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205214000" stop="20211205215000">
+    <title>Meteo notte</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/15/1a68077b22efa77cdad92e454935e5b5b2cc00bf.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C200.api.telerama.fr" start="20211205234000" stop="20211206040000">
+    <title>Un moment d'égarement</title>
+    <desc lang="fr">Antoine et Laurent sont amis depuis des années. Divorcés, ils décident de passer des vacances ensemble, avec Marie et Louna, leurs filles de 17 et 18 ans, dans une maison en Corse. Antoine est très proche de sa fille et ne peut envisager qu'elle grandisse. Il ne comprend pas quand elle lui annonce être amoureuse, et d'un homme de 45 ans qui plus est. Furieux, Antoine veut découvrir qui il est et ensuite le " tuer ". Or, il s'agit de Laurent qui s'est laissé embrasser par Louna lors d'un bain de minuit. La jeune fille a des sentiments, lui considère que c'était un moment d'égarement. Vu l'état de son ami, Laurent hésite à lui dire la vérité... - Critique : | Genre : VAUDEVILLE POUSSÉ. Deux pères voient leur amitié menacée le jour où l'un d'eux succombe au charme de la fille de l'autre, pas encore majeure... Ce remake d'une comédie douce-amère que Claude Berri tourna en 1977 a été produit par son fils, Thomas Langmann. Plus qu'un hommage au père, il s'agit d'une ­reprise en main musclée du joli scénario original, centré sur les flottements, les maladresses, l'hébétement face au désir. Rien de tel ici : il faut que ça percute. Succédant à un Victor Lanoux sanguin mais placide, François Cluzet campe un père en permanence à cran, susceptible d'entrer dans une rage stratosphérique. Face à lui, reprenant le personnage de Jean-Pierre Marielle, Vincent Cassel est un fautif félin, déterminé à tout contrôler. On est, cette fois, franchement dans la comédie, la farce même, et les deux stars jouent le jeu avec talent, excès compris. Cela donne de la vie à une partition trop calculée et finalement un peu mécanique. — Frédéric Strauss</desc>
+    <date>2015</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">260</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/5ffd7cf9-a621-40d2-8837-0722e364e851.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211204235000" stop="20211205000000">
+    <title>Minisguard</title>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/42972245b914c6befbf60493b15103f61c98b865.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205000000" stop="20211205011000">
+    <title>Automobilismo Formula Uno</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/18/41235b01f7f76e2d1f9d673d21b4233d94996e3c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205011000" stop="20211205040000">
+    <title>Repliche Informazione</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">170</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/217e1ea11e689d1b2348394c88d1aeef7da35da0.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205040000" stop="20211205053000">
+    <title>Il quotidiano</title>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/a4fc728ce4104d475557da337775b89a0d029787.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205053000" stop="20211205061000">
+    <title>In volo sulla Svizzera italiana</title>
+    <desc lang="fr">Una prospettiva meravigliosa per ammirare un territorio pieno di natura, di laghi e di sole (quando c'è). Un volo in elicottero sorvolando la Svizzera italiana. Una prospettiva meravigliosa per ammirare un territorio che, dal punto di vista paesaggistico, non ha nulla da invidiare alla zone più verdi del mondo. Un polmone verde, pieno di laghi e sole.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/b9b653cc0ea9ab31a9f8446ee1b61c472c4504c4.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205061000" stop="20211205064000">
+    <title>La storia del Regionale</title>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/28/4cf83e4dae6f88c60dcd3dcbd0d583cacbc953d3.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205064000" stop="20211205070500">
+    <title>La storia del Regionale</title>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/ac3d61f24144608dcee5c41ebc9b290a3ab4dc53.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205070500" stop="20211205080000">
+    <title>Panorama</title>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/8dba67a507c3ca53a404355e471ccbda6b322d6e.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205080000" stop="20211205081500">
+    <title>Minisguard</title>
+    <category lang="fr">magazine régional</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/42972245b914c6befbf60493b15103f61c98b865.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205081500" stop="20211205094500">
+    <title>Saut à ski : Coupe du monde</title>
+    <category lang="fr">sport : saut à ski</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/165626c279cb573b45469acee06d24faf9b852d1.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205094500" stop="20211205101000">
+    <title>Panorama</title>
+    <category lang="fr">magazine de l'art de vivre</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/8dba67a507c3ca53a404355e471ccbda6b322d6e.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205101000" stop="20211205104000">
+    <title>Il prima e dopo sport</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/11/1162a2bd531c62b7814940234f4d8747f0d30fb7.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205104000" stop="20211205113500">
+    <title>Saut à ski : Coupe du monde</title>
+    <category lang="fr">sport : saut à ski</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/01/07ae8eb8dcd1b4b04590d7c4e31605d78224ddeb.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205113500" stop="20211205123500">
+    <title>Cherif</title>
+    <sub-title>Quand Cherif rencontre Huggy</sub-title>
+    <desc lang="fr">Episode:7 - Cherif se voit confier une nouvelle enquête qui l'amène à collaborer avec Jo, au sujet de l'inquiétante disparition d'un homme. Or, rapidement, Cherif est étonné de constater un lien entre cette affaire et un mémorable épisode de la série policière américaine "Starsky &amp; Hutch". Osera-t-il prendre cette coïncidence au sérieux ? Se montrant imprudent, il tombe malencontreusement dans un guet-apens au cours duquel il reçoit un violent coup sur la tête. C'est alors qu'il se retrouve face à l'ineffable Huggy-les-bons-tuyaux. Un bon génie qu'il est le seul à voir et à entendre et qui s'amuse à tester Kader sur ses talents de "héros de série TV"...</desc>
+    <date>2017</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/03/87390b90-1150-4bb4-872b-ad926c3752af.jpg" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205123500" stop="20211205144000">
+    <title>Hook ou la revanche du capitaine Crochet</title>
+    <desc lang="fr">Peter Pan, à présent adulte, est devenu Peter Banning, un avocat d'affaires débordé. Il a tiré un trait sur son passé, s'est marié et a eu deux enfants, qu'il a tendance à négliger. A l'occasion de Noël, il se retrouve avec sa famille chez Wendy, devenue grand-mère. La nuit même, le capitaine Crochet kidnappe ses enfants afin de provoquer son vieil ennemi en duel. Pour sauver sa progéniture, Peter n'a plus qu'une solution : revenir au Pays de Jamais Jamais. Mais il doit regagner l'estime des Garçons perdus, peu décidés à suivre ce quadragénaire bedonnant qui a tout oublié, jusqu'à la faculté de voler. A force d'efforts et de persévérance, Peter retrouve le principe qui lui permettait jadis de voler : concevoir une pensée heureuse. Elle survient le jour où il réalise ce que ses enfants représentent pour lui... - Critique : | Genre : fable fantastique. Hook n'a pas été bien accueilli, la presse, notamment, s'acharnant sur cette fantaisie spielbergienne jugée empesée et dégoulinante de bons sentiments. Critique assez injuste : certes, Spielberg a raté l'aspect visuel de son film, mais sa balourdise esthétique, son goût répété du chromo ne sont pas nouveaux. Cela mis à part, Hook est un agréable spectacle. L'idée de base du scénario — un Peter Pan vieilli qui ne sait plus rien de ses origines — est astucieuse, et la première partie du film nourrit une réflexion souvent émouvante sur la famille. Si la suite est un peu plus convenue, elle offre tout de même des numéros d'acteurs ­savoureux : les joutes opposant Dustin Hoffman à Robin Williams ne manquent pas d'éclat, Julia Roberts prête son charme à Clochette, et Bob Hoskins est épatant en Monsieur Mouche. — Aurélien Ferenczi</desc>
+    <date>1991</date>
+    <category lang="fr">film fantastique</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/7f0b5f99-711c-4d39-b79b-171d08fc5b25.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205144000" stop="20211205152000">
+    <title>Saut à ski : Coupe du monde</title>
+    <category lang="fr">sport : saut à ski</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/165626c279cb573b45469acee06d24faf9b852d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205152000" stop="20211205172500">
+    <title>Bending Gates</title>
+    <desc lang="fr">Marco Odermatt e Loïc Meillard - Rivali nelle discese, amici fuori dalle piste. Per questo documentario Bending Gates, entrambi sono stati seguiti in esclusiva per 6 mesi nel loro perigrinare attorno al globo.</desc>
+    <category lang="fr">documentaire sport</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/748e9c9057dcecfd23ca013d35cc8e993e59f123.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205172500" stop="20211205183500">
+    <title>Ski alpin : Coupe du monde</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/41eeca49edcf210ca1f25c8fb839f14eb6921759.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205183500" stop="20211205185500">
+    <title>Sportsera</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/f1cf38496f9126bd28111fc4bdaaac5a7dfe25ee.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205185500" stop="20211205200500">
+    <title>Ski alpin : Coupe du monde</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/aa580951e2197b21046f535697cdb57385b66634.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205200500" stop="20211205202000">
+    <title>Domenica Sprint</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/19/26398fa3db94e67a43ff49d687aba6c97bab1ea6.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205202000" stop="20211205221500">
+    <title>Automobilismo Formula Uno</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/748e9c9057dcecfd23ca013d35cc8e993e59f123.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205221500" stop="20211205235000">
+    <title>Sguardi sul mondo</title>
+    <desc lang="fr">- Nadia Murad</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/16cd2775760299643e4379c14530e85423d639a9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C201.api.telerama.fr" start="20211205235000" stop="20211206040000">
+    <title>Ski alpin : Coupe du monde</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">250</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/41eeca49edcf210ca1f25c8fb839f14eb6921759.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211204235500" stop="20211205003000">
+    <title>Le 19h30</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205003000" stop="20211205010000">
+    <title>Sport dernière</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/b84f47796010b1cfa87044aca1ca80bb0a38d72a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205010000" stop="20211205045500">
+    <title>Le 19h30</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">235</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205045500" stop="20211205060000">
+    <title>RTS Info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/25/f4e6d3c5b97cca5445488c83db695796156bccff.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205060000" stop="20211205075500">
+    <title>RTS Info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/fd080c6b1dac567328f4d2c0cf0dde9fa63563a7.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205075500" stop="20211205083000">
+    <title>Sport dernière</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/b84f47796010b1cfa87044aca1ca80bb0a38d72a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205083000" stop="20211205100000">
+    <title>RTS Info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/fd080c6b1dac567328f4d2c0cf0dde9fa63563a7.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205100000" stop="20211205113000">
+    <title>Les beaux parleurs</title>
+    <category lang="fr">talk-show</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205113000" stop="20211205122000">
+    <title>RTS Info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/fd080c6b1dac567328f4d2c0cf0dde9fa63563a7.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205122000" stop="20211205124200">
+    <title>Le 12h45</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205124200" stop="20211205124500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/cf8f274ea63ee59451a97dc621a7a11a66f121be.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205124500" stop="20211205150000">
+    <title>RTS Info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/25/f4e6d3c5b97cca5445488c83db695796156bccff.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205150000" stop="20211205154500">
+    <title>Ça joue</title>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/3b3d8601b058fb21bf484965f6f031045b8133ea.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205154500" stop="20211205170000">
+    <title>RTS Info</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/99e7de060185d45cf4e490abf2fc49fdf650ac27.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205170000" stop="20211205172000">
+    <title>Forum</title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205172000" stop="20211205185000">
+    <title>Ski alpin : Coupe du monde à Lake Louise</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/c327e376fc377d23aae7bdc43dd62e53435a2295.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205185000" stop="20211205201500">
+    <title>Ski alpin : Coupe du monde à Beaver Creek</title>
+    <category lang="fr">sport : ski</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/a04c175bb2b935cab434cc1843a029e7bb148c0d.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205201500" stop="20211205211000">
+    <title>La diplomatie du vaccin</title>
+    <desc lang="fr">Face au COVID-19, c'est une véritable course mondiale qui s'est ouverte entre laboratoires pharmaceutiques, gouvernements et continents. Alors que la santé de tous appelait la coopération internationale, ce sont des rapports de force géopolitiques qui ont prévalu. Le vaccin, outil de santé, est aussi devenu un moyen de suggérer ou d'imposer sa puissance économique et politique.</desc>
+    <category lang="fr">documentaire géopolitique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/7b4fcdccee8f00e29dbf43cf9dd15aadf97b8b35.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205211000" stop="20211205221500">
+    <title>Fly So Far</title>
+    <desc lang="fr">Au Salvador, l'avortement est strictement interdit et réprimé. Le plus grave est que si une femme fait une fausse couche, elle est accusée d'avortement et risque jusqu'à trente ans de prison. Elle-même condamnée et emprisonnée, Teodora Vasquez mène le combat avec ses codétenues pour changer la loi.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/0f989d72225bbbf4f344fd2ec9283d5955fc5305.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C183.api.telerama.fr" start="20211205221500" stop="20211206003000">
+    <title>Formule 1 : Grand Prix d'Arabie Saoudite</title>
+    <category lang="fr">sport : formule 1</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/25/0c6d529246473766892ee986056a46b29f606cce.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211204214500" stop="20211205000500">
+    <title>Midway</title>
+    <desc lang="fr">Le désastre de l'attaque de Pearl Harbor est le résultat d'une énorme erreur des services secrets. Edwin Layton, officier du renseignement, est persuadé que les Japonais ne vont en rester là et prendre pour cible Midway, un petit atoll isolé du pacifique nord. Washington ne croit pas à cette théorie. Mais comme Layton l'avait prévue, l'attaque a bien lieu. L'amiral Nimitz, à la tête de la flotte américaine, est bien décidé à contrecarrer les plans des Japonais. De son côté Layton tente de percer le code ennemi... - Critique : En 1942, John Ford avait tourné un documentaire sur place. En 1976, le réalisateur Jack Smight travaillait avec des images d’archives. En 2019, Roland Emmerich utilise, lui, des effets spéciaux numériques pour représenter la bataille aéronavale de Midway : un tournant de la Seconde Guerre mondiale, qui opposa, du 5 au 7 juin 1942, les États-Unis au Japon dans le Pacifique Nord. Sa reconstitution évite l’excès de patriotisme, en rappelant que les Américains ne partaient pas gagnants — après l’attaque de Pearl Harbor en décembre 1941 face à des Japonais au sommet de leur puissance. Le cinéaste adopte d’ailleurs, par moments, le point de vue adverse.
+
+Filmer la guerre comme un sport extrême, c’est la dimension la plus surprenante de Midway. La plus ambiguë aussi. Un réarmement inopportun des avions nippons, cloués sur leurs navires, entraîne la défaite des troupes impériales — comme un coureur de F1 perdrait une course à cause d’un arrêt au stand après un mauvais choix de pneus. Pas de frappe chirurgicale : le film montre, avec un réalisme inédit, comment des pilotes casse-cou (convaincant Ed Skrein, vu cette année dans Alita : Battle Angel) doivent s’approcher dangereusement d’un bateau ennemi, en piqué, à travers les projectiles, pour faire mouche. Peu inspiré par les discussions d’état-major (scènes académiques), Roland Emmerich est à son meilleur quand l’intrigue se concentre dans les cockpits. Car il n’a pas son pareil pour diriger des séquences immersives — comme dans Independence Day (1996) —, jamais loin de la voltige aérienne.</desc>
+    <date>2019</date>
+    <category lang="fr">film de guerre</category>
+    <length units="minutes">140</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/8834e2f7-b4fb-44d2-89c3-0f9a45849f6b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205000500" stop="20211205015000">
+    <title>Jeu trouble</title>
+    <desc lang="fr">Lorsque Claire, sa petite amie, disparaît mystérieusement, David se lance à sa recherche et découvre qu'elle lui a menti sur son passé et ses activités...</desc>
+    <date>2016</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/df515edf-61e8-4572-9670-802f0fff6f3b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205015000" stop="20211205022000">
+    <title>Sport dernière</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/fdc59efaca181795807fede3adf66e71a02e98ba.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205022000" stop="20211205025400">
+    <title>Le 19h30</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">34</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/09/6e12e3612bea150d7524e5cf8bd5b1486c679c55.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205025400" stop="20211205025500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/06d2d7164edac7dddf279d1c6850138240aae3d2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205025500" stop="20211205050500">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>B (TI, VS, BE)</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/13/bf975c54b6d081de66f4caded26c9a073a006a32.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205050500" stop="20211205091500">
+    <title>RTS Kids</title>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">250</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/12/333c5c90d1bb33695603aa004c53d26b9d846c26.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205091500" stop="20211205092000">
+    <title>Quel temps fait-il ?</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/15/e1112f40d8fd4f431e9775590cdbc909b9d2446d.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205092000" stop="20211205101500">
+    <title>Pas si bêtes !</title>
+    <sub-title>Les chèvres savantes</sub-title>
+    <desc lang="fr">Réputée belliqueuse, capricieuse et vagabonde, la chèvre est le plus indocile des animaux d'élevage. Pourtant elle révèle une sensibilité et une intelligence insoupçonnées.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/ac491677-5ae1-44cd-a42e-ab3580b3a430.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205101500" stop="20211205105000">
+    <title>Faut pas croire</title>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/20/1b5729f18f9ae841a423b79fa056c65e9433251c.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205105000" stop="20211205113000">
+    <title>Amuse-gueule</title>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/d754c8bfdbc44dbd914b6078af602efe02f32da3.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205113000" stop="20211205114500">
+    <title>Ensemble</title>
+    <sub-title>Apia, Mexico</sub-title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/0c5092077741d9eaceec7d28f1bda7dc4c018f80.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205114500" stop="20211205121000">
+    <title>Le 12h45</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205121000" stop="20211205121500">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/96d0c9e25cc19540b7c5e9701ead914bcdbb96bc.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205121500" stop="20211205122500">
+    <title>Zoom Zen</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/01/18b90e3522a928c155d89a4e95242c5d06a6f137.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205122500" stop="20211205131500">
+    <title>Géopolitis</title>
+    <sub-title>Peur du black-out</sub-title>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/10/8b3befefd6aa88e6d44a299537f421621b78f6fe.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205131500" stop="20211205140000">
+    <title>SOKO Kitzbühel</title>
+    <sub-title>Les échantillons</sub-title>
+    <desc lang="fr">Saison:18 - Episode:12 - Trois élèves d'une école de police intègrent le commissariat. Lukas est chargé de leur formation. Leur première enquête porte sur un jeune homme assassiné dans les toilettes d'un restaurant d'altitude. La victime, Chris Feldner, était moniteur de ski l'hiver et moniteur de rafting et d'escalade l'été, mais les inspecteurs découvrent rapidement qu'il vendait aussi de la drogue...</desc>
+    <date>2019</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/38837a81-ad6d-4469-84ab-17f25a4b708d.jpg" />
+    <episode-num system="xmltv_ns">17.11.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205140000" stop="20211205145500">
+    <title>His Dark Materials - A la croisée des mondes</title>
+    <sub-title>Le vol</sub-title>
+    <desc lang="fr">Episode:3 - Après la destruction de leur territoire par le Magisterium, les sorcières jurent de se venger. Ignorant l'aléthiomètre, Lyra retourne à Oxford voir Mary Malone mais elle y croise le chemin de l'inspecteur Walters, qui se lance à sa poursuite. Toujours à la recherche de Stanislaus Gumman, Lee Scoresby voit son ballon prendre la direction de Yenisei. A Cittàgazze, Will aperçoit quelqu'un dans la Tour des anges, dans laquelle il est pourtant impossible de rentrer.</desc>
+    <date>2020</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/00c91936-8bd1-45ac-b7bd-2ae39c8b86f0.jpg" />
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205145500" stop="20211205155000">
+    <title>His Dark Materials - A la croisée des mondes</title>
+    <sub-title>La tour des anges</sub-title>
+    <desc lang="fr">Episode:4 - A Cittàgaze, Lyra et Will cherchent un moyen de s'introduire dans la Tour des anges pour y récupérer un poignard. De son côté, Lee Scoresby retrouve enfin Grunman. Lord Boreal propose de financer les recherches d'Oliver et Mary, mais celle-ci refuse que ses travaux servent à des fins militaires.</desc>
+    <date>2020</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/dec94436-a171-4b91-beaa-98b64da7b698.jpg" />
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205155000" stop="20211205163500">
+    <title>Chicago Fire</title>
+    <sub-title>La remplaçante</sub-title>
+    <desc lang="fr">Saison:9 - Episode:10 - Après une série d'incendies suspects, les pompiers enquêtent. Casey va de moins en moins bien tandis que Mouch tente de réaliser son plus grand rêve.</desc>
+    <date>2020</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/21/d20268f0ff030529883e997ea7f18e8aba6e464a.jpg" />
+    <episode-num system="xmltv_ns">8.9.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205163500" stop="20211205172500">
+    <title>Chicago Fire</title>
+    <sub-title>Encore une chance</sub-title>
+    <desc lang="fr">Saison:9 - Episode:11 - Une nouvelle recrue met la patience de Serveride à rude épreuve. Après avoir reçu un mot bien mystérieux, Violet tente de découvrir l'auteur du message.</desc>
+    <date>2020</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/22/7d572e7795302a58094cc0800e8a6b8631209bcd.jpg" />
+    <episode-num system="xmltv_ns">8.10.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205172500" stop="20211205182000">
+    <title>Sport dimanche</title>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/570667c35ec4711074cc9045211295da9c8572c3.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205182000" stop="20211205183000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/28/00a3750b926581fa2fe036dfb8a669e8bc745165.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205183000" stop="20211205190500">
+    <title>Le 19h30</title>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205190500" stop="20211205191000">
+    <title>Météo</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/15/1a68077b22efa77cdad92e454935e5b5b2cc00bf.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205191000" stop="20211205200500">
+    <title>Mise au point</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/fd72c314964e63d0c72a46ba55f593d836b057c0.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205200500" stop="20211205205500">
+    <title>New Amsterdam</title>
+    <sub-title>Bienvenue à Lenapehoking</sub-title>
+    <desc lang="fr">Saison:3 - Episode:10 - Leyla a fait valider son diplôme et va pouvoir faire son internat aux Etats-Unis. De joie, elle embrasse fougueusement Bloom, qui prend la fuite. Sharpe recrute Mina à l'hôpital pour archiver ses dossiers dans la base de données. Max prend en charge Jane Munsee, professeure amérindienne amenée par ses étudiants, victime d'une phlébite. Agnès Kao a de plus en plus de doutes sur le docteur Lucio, recruté pour succéder à Kapoor. Iggy traite Saffy, une adolescente obèse qui souhaite subir un bypass gastrique, contre l'avis de sa mère, elle aussi en surpoids. Sharpe et Max se rapprochent. En rentrant chez elle, Bloom trouve Leyla en train de faire ses bagages et la dissuade de déménager par un baiser.</desc>
+    <date>2021</date>
+    <category lang="fr">série hospitalière</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/9c799a6443c963f166065db690a38844994c3e95.jpg" />
+    <episode-num system="xmltv_ns">2.9.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205223000" stop="20211205233000">
+    <title>Bordertown</title>
+    <sub-title>La femme dans le miroir</sub-title>
+    <desc lang="fr">Episode:7 - Une femme décède de brûlures provoquées par le chlore à Lauritasala. Kari Sorjonen découvre que la victime était membre d'une congrégation religieuse qui vit totalement coupée du monde. Le policier décide d'enquêter au sein de cette communauté et fait ainsi la connaissance de Markus Laurila, qui se présente comme un guide spirituel. Apôtre d'une vie stricte et sans péché, celui-ci n'est peut-être pas aussi irréprochable qu'il veut le faire croire...</desc>
+    <date>2019</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/644dd98e964132a7593df2345384691c8840a61a.jpg" />
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme channel="C202.api.telerama.fr" start="20211205232500" stop="20211206003000">
+    <title>Bordertown</title>
+    <sub-title>La femme dans le miroir</sub-title>
+    <desc lang="fr">Episode:8 - Le corps sans vie de Markus Laurila, le guide spirituel de la communauté, est retrouvé dans son véhicule, immergé sous la glace qui recouvre le lac Saimaa. Sorjonen ne pense pas que ce décès signifie la fin de son enquête. Mais des problèmes domestiques interfèrent avec ses investigations...</desc>
+    <date>2019</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/644dd98e964132a7593df2345384691c8840a61a.jpg" />
+    <episode-num system="xmltv_ns">.7.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
