@@ -1,2 +1,380 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv />
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <programme start="20211214232500 +0100" channel="C111.api.telerama.fr" stop="20211215002000 +0100">
+    <title>1996, hold-up à Moscou</title>
+    <desc lang="fr">En 1996, Boris Eltsine, malade et détesté, brigue un second mandat à la présidence de la Russie. Face à lui, un candidat communiste, Guennadi Ziouganov, porté aux nues par les oubliés de la transition post-soviétique. Crédité en début de course d'à peine 3% des intentions de vote, Eltsine parvient pourtant contre toute attente à se faire réélire avec près de 54% des voix. Comment a-t-il pu gagner ?</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b64bf1cb394009d2a5ec96fe7f40fc10b0f936bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211215062000 +0100" channel="C111.api.telerama.fr" stop="20211215065000 +0100">
+    <title>Reinhold Messner, l'homme des sommets</title>
+    <sub-title>L'histoire et le mythe</sub-title>
+    <desc lang="fr">Episode:3 - L'histoire de la région du Haut-Adige joue un rôle important dans l'identité des habitants. Dès 1922, Mussolini y mène une politique d'italianisation agressive.</desc>
+    <category lang="fr">documentaire aventures</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/03/80deabb0b69a6e025fe12ae1b14a5a736d5465a9.jpg" />
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215065000 +0100" channel="C111.api.telerama.fr" stop="20211215065500 +0100">
+    <title>ARTE Journal Junior</title>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/08/8a559c91dafcd9b0c4398bed8a817114c6a05e36.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215065500 +0100" channel="C111.api.telerama.fr" stop="20211215075000 +0100">
+    <title>360°-GEO</title>
+    <sub-title>Canada, le vieil homme et la rivière</sub-title>
+    <desc lang="fr">La forêt du Grand Ours, dans le Grand Nord canadien, ne possède ni routes ni sentiers, mais d'innombrables cours d'eau qui serpentent vers l'océan. Depuis toujours, des bancs de saumons remontent les rivières de ce vaste écosystème pour frayer. Stan Hutchings y observe leurs migrations pour le gouvernement canadien depuis bientôt quarante ans. La fonction requiert un sens aigu de l'orientation, une robuste condition physique et un certain goût pour la solitude. Mais bien que ses comptages soient essentiels pour la connaissance des stocks de saumon, son poste va être supprimé. Inquiet des conséquences du changement climatique et des dérives de l'industrie de la pêche, Stan espère encore se trouver un successeur.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/7b9f74ce-b41b-41d8-85d1-0e1276df72ec.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215075000 +0100" channel="C111.api.telerama.fr" stop="20211215083500 +0100">
+    <title>Archipel New York</title>
+    <sub-title>Le retour de la nature</sub-title>
+    <desc lang="fr">S'il est aujourd'hui interdit de se rendre sur Swinburne Island, l'île artificielle sur laquelle, jusqu'en 1920, les immigrants européens effectuaient leur quarantaine avant d'être autorisés à entrer dans le pays, c'est notamment parce que ses ruines constituent un environnement de choix pour de nombreuses espèces d'oiseaux. À Staten Island, la plus importante décharge des États-Unis - si vaste que des astronautes étaient parvenus à la photographier depuis l'espace - a été transformée en oasis de verdure à travers la création du parc naturel de Fresh Kills.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/24/851b3187a5298fc0df5206e8a2177d5c9cae6b1b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215083500 +0100" channel="C111.api.telerama.fr" stop="20211215092500 +0100">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/01/2fa8aa766d4b9d82dbb9d592d7c7d4cbfb61aa5b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215092500 +0100" channel="C111.api.telerama.fr" stop="20211215101500 +0100">
+    <title>Un jour au Moyen Age en 1218</title>
+    <desc lang="fr">En 1218, la vie bat son plein au château de Münzenberg. Au coeur du Saint Empire romain germanique, dans l'actuel Land de la Hesse, Eberhard von Münzenberg gère le domaine, collecte les impôts et supervise la garde de l'édifice. Enfant illégitime, Eberhard n'est pas le véritable maître des lieux : c'est à son demi-frère Ulrich Ier que revient le château. Au milieu de ce tableau emblématique de l'époque, une querelle avec une autre maison noble et un mariage sur le point de tomber à l'eau viennent bouleverser la vieille demeure, et toute l'organisation de la vie qui va avec. Négociations, intrigues et histoires de famille agitent ce microcosme.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/28/9c0c2b5b8e587829e5e7e9950bc99c8831425bef.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215101500 +0100" channel="C111.api.telerama.fr" stop="20211215112000 +0100">
+    <title>Un jour à New York en 1882</title>
+    <sub-title>New York 1882</sub-title>
+    <desc lang="fr">New York, 1882. Georg Schmidt, un jeune Allemand fraîchement arrivé aux Etats-Unis, laisse derrière lui un Reich mené par la main de fer du chancelier Bismarck. Il a traversé l'Atlantique avec des rêves d'ascension sociale, comme nombre de ses concitoyens. Il a pu y devenir avocat en trois ans, et se retrouve aujourd'hui au coeur d'un important procès où se jouent des histoires de gangs. Sa fiancée, qui l'a rejoint après des mois de séparation, vient d'arriver dans cette métropole qui compte presque autant d'Allemands que Berlin ou Vienne. Arrêtée au port après la découverte dans ses bagages de biens volés, elle se retrouve en prison. Le jeune avocat se tourne alors vers les bandits de New York, les seuls en mesure de l'aider à prouver l'innocence de sa bien-aimée.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/28/0f9f5eeef55e61ef77632b069609efb78c096aad.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215112000 +0100" channel="C111.api.telerama.fr" stop="20211215120500 +0100">
+    <title>Merveilles d'Afrique</title>
+    <sub-title>La vallée de la Luangwa</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Dans l'est de la Zambie, la vallée encaissée du fleuve Luangwa, qui s'étend sur environ 800 kilomètres, abrite à la saison humide un écosystème varié.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/9dd9f14ac953a718c5c3375b79807ea732a698a7.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215120500 +0100" channel="C111.api.telerama.fr" stop="20211215125000 +0100">
+    <title>Merveilles d'Afrique</title>
+    <sub-title>Le delta de l'Okavango</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Né dans les montagnes de l'Angola, le fleuve Okavango n'atteint jamais aucun océan : il termine sa course au nord du Botswana, au coeur du désert du Kalahari. Sa myriade de bras et de canaux héberge une faune d'une prodigieuse diversité.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/31/59e20f39e0f34b6da6cd59e7454dcbdc28859926.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215125000 +0100" channel="C111.api.telerama.fr" stop="20211215130000 +0100">
+    <title>Arte journal</title>
+    <sub-title>Édition de la mi-journée</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/08/8a559c91dafcd9b0c4398bed8a817114c6a05e36.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215130000 +0100" channel="C111.api.telerama.fr" stop="20211215133500 +0100">
+    <title>Arte regards</title>
+    <sub-title>Maltraitance infantile : La violence à l'ombre de la pandémie</sub-title>
+    <desc lang="fr">Nie gab es mehr häusliche Gewalt gegen Kinder und Jugendliche als während des Lockdowns. Rechtsmedizinerin Sarah Kölzer untersucht als eine der Ersten misshandelte Kinder und versucht, mit ihnen zu sprechen. Kann das Kind in der Familie bleiben oder muss es raus? Im ersten Pandemiejahr wurden in Deutschland rund 4.500 Kinder und Jugendliche geschüttelt, geschlagen oder einfach vergessen. 152 Kinder kamen gewaltsam zu Tode. Sozialarbeiterin Vivian Osterhoff besucht Familien zuhause, auch im Notfall. Was ist jetzt sofort das Beste für das Kind? Hilft noch ein Gespräch mit den Eltern?</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/b3388336c204f182391ec824d47aa41997655b95.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215133500 +0100" channel="C111.api.telerama.fr" stop="20211215154500 +0100">
+    <title>J. Edgar</title>
+    <desc lang="fr">En 1924, J. Edgar Hoover prend la direction du Bureau d'investigation américain. Sous son impulsion, le bureau lutte contre le grand banditisme des années de prohibition et modernise les techniques policières. C'est à cette époque qu'il rencontre Clyde Tolson, qui deviendra son bras droit et son alter ego. En 1935, Hoover crée le FBI avec l'ambition d'en faire une machine de guerre impitoyable contre la subversion. Pendant près de cinquante ans, jusqu'à sa mort, l'homme fort du FBI aura l'occasion de développer ses méthodes : contre les nazis, puis les communistes, mais également contre certains de ses compatriotes, n'hésitant pas à ficher, pour les faire chanter, ses opposants les plus tenaces. Or, sa propre vie privée n'est pas exempte de zones d'ombre... - Critique : Officiellement, c’est le por­trait d’un patron du FBI, J. Edgar Hoover, en poste de 1924 à 1972. Secrètement, c’est le mélange de l’Eastwood sentimental de Sur la route de Madison et du Clint crépusculaire de Million Dollar Baby. Mais patience : d’abord, l’évocation du superflic (DiCaprio, inspiré, transformé) est impitoyable : autoritarisme ignoble, pratiques d’investigation et de fichage illicites, chanta­ges au scandale sexuel…
+
+La beauté tragique de cette histoire ne concerne que l’homme privé, « J. Edgar » . Pendant près d’un demi-siècle, il a déjeuné et dîné tous les jours avec son bras droit, Clyde Tolson, qui partageait aussi ses week-ends et auquel il a légué tous ses biens. La nature de leur relation n’a jamais été établie. Mais Eastwood filme cette idylle au long cours avec pudeur et délicatesse, comme si elle était ce qu’il y a de mieux chez son personnage. Étrangement, J. Edgar restera comme l’un de ses rares films d’amour.
+
+À la fin, le film montre aussi un homme qui ne sait pas s’arrêter et s’acharne à continuer, au fil des décennies, avec les mêmes collaborateurs et les mêmes ennemis — des communistes, même quand il n’y en a plus. Dans son empire du renseignement, il accumule des secrets compromettants sur huit présidents successifs pour mieux se maintenir, mais ne dispose d’aucun dossier à opposer au temps qui passe.</desc>
+    <credits>
+      <director>Clint Eastwood</director>
+      <actor>Cheryl Lawson</actor>
+      <actor>Leonardo DiCaprio</actor>
+      <actor>Armie Hammer</actor>
+      <actor>Judi Dench</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Josh Hamilton</actor>
+      <actor>Gunner Wright</actor>
+      <actor>Naomi Watts</actor>
+      <actor>Josh Lucas</actor>
+      <actor>Geoff Pierson</actor>
+      <writer>Dustin Lance</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">film : biographie</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/d89b3c6d-8310-49d9-8345-7e5260aed8ed.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211215154500 +0100" channel="C111.api.telerama.fr" stop="20211215165500 +0100">
+    <title>Flâneries dans les Balkans</title>
+    <sub-title>Bucarest</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Pendant la dictature de Nicolae Ceausescu, la capitale de la Roumanie a connu des transformations brutales. Aujourd'hui, la ville se cherche une nouvelle identité.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/02/a499c30bb820e6d7e0951de7a360625ea3768453.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215165500 +0100" channel="C111.api.telerama.fr" stop="20211215174000 +0100">
+    <title>Les parcs naturels... en Minuscule</title>
+    <sub-title>Aso-Kuju, Japon</sub-title>
+    <desc lang="fr">Saison:2 - Episode:1 - Dans le Sud-Ouest du Japon, le parc national d'Aso-Kuju, créé en 1934, symbolise le "pays de feu". Troisième plus grande caldera du monde, ce sanctuaire de 720 kilomètres carrés alterne volcan, forêts d'arbres géants, prairies verdoyantes et sources d'eau chaude.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/01/a95d6966b50aafabfd935814adadfc04c4c896c2.jpg" />
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215174000 +0100" channel="C111.api.telerama.fr" stop="20211215182500 +0100">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/02/552f49a77c9731505ccb7ff42108c03b2bf35cb9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215182500 +0100" channel="C111.api.telerama.fr" stop="20211215185500 +0100">
+    <title>Invitation au voyage : Nos inspirations</title>
+    <sub-title>Vénéneux tropiques</sub-title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/4bd831c52254f52c81181def1689ecdf60123221.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215185500 +0100" channel="C111.api.telerama.fr" stop="20211215194500 +0100">
+    <title>Les parcs naturels... en Minuscule</title>
+    <sub-title>Norvège, Dovrefjell-Sunndalsfjella</sub-title>
+    <desc lang="fr">Au coeur de la Norvège, le parc de Dovrefjell-Sunndalsfjella présente des paysages contrastés, façonnés depuis des millénaires par les éléments.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/20/279dfbeb4ef2c9565f312ab0937c5cd246a26414.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215194500 +0100" channel="C111.api.telerama.fr" stop="20211215200500 +0100">
+    <title>Arte journal</title>
+    <sub-title>Édition du soir</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/08/8a559c91dafcd9b0c4398bed8a817114c6a05e36.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215200500 +0100" channel="C111.api.telerama.fr" stop="20211215205100 +0100">
+    <title>28 minutes</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">46</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/08/8a559c91dafcd9b0c4398bed8a817114c6a05e36.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215205100 +0100" channel="C111.api.telerama.fr" stop="20211215205500 +0100">
+    <title>A Musée Vous, A Musée Moi</title>
+    <sub-title>"Arlequin et Pierrot" : Une question d'odeur</sub-title>
+    <desc lang="fr">Episode:2 - Arlequin et Pierrot, deux personnages emblématiques de la commedia dell'arte, proposent leur interprétation très personnelle du fauvisme...</desc>
+    <credits>
+      <director>Fabrice Maruca</director>
+      <actor>Sebastien Gill</actor>
+      <actor>Marc Riso</actor>
+      <writer>Fouzia Kechkech</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">série à sketches</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/02/654e45b6336e9abc04687bbb7d0007a84abfeaf8.jpg" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211215205500 +0100" channel="C111.api.telerama.fr" stop="20211215230000 +0100">
+    <title>La douleur</title>
+    <desc lang="fr">En juin 1944, Robert Antelme, écrivain et grand résistant, est arrêté et déporté. Son épouse, la romancière Marguerite Duras, qui l'accompagne dans ses combats, est bien décidée à le retrouver. Elle croise Pierre Rabier, l'agent français de la Gestapo qui a participé à l'arrestation de son mari. Sous le charme, et dans le but de lui soutirer des informations, Rabier veut la revoir. Chacun pense qu'il peut manipuler l'autre. Cette relation trouble se déroule sous le regard de Dionys, également résistant et amant de Marguerite. Quand l'armistice est enfin signée, commence alors pour Marguerite une angoissante attente avant le retour possible de l'être aimé... - Critique : Dans La Douleur, grand livre sur l’absence, Marguerite Duras retrace l’attente de son mari déporté, Robert Antelme, au cours des derniers mois de la Seconde Guerre mondiale, puis son retour des camps. Un texte âpre, ardent, magnifique, dont Emmanuel Finkiel parvient à restituer la violence des sentiments, mais aussi, grâce à une mise en scène audacieuse, la distanciation propre à l’écriture durassienne. Sans jamais sacrifier l’émotion…
+
+La douleur de Duras est d’abord une peur, mêlée de honte : celle de dépendre d’une « ordure » pour sauver son époux. Entre la jeune romancière (et résistante) et l’inspecteur (et collabo) Pierre Rabier débute un jeu du chat et de la souris ambigu. Benoît Magimel apporte une douceur inquiétante à ce flic trouble, dont l’admiration presque enfantine pour la jeune romancière n’est, peut-être, qu’un leurre pour la manipuler.
+
+La seconde heure du film plonge plus profondément dans la vie intérieure de la narratrice. Paris, dans la grisaille de l’Occupation puis de la Libération, n’est perceptible qu’à travers sa vision fragmentée, parfois fantasmatique. Pour dire le monologue intérieur de Marguerite Duras, Mélanie Thierry scande les phrases de longs silences qui en accentuent la dimension incantatoire, hypnotique. L’actrice exprime avec intensité « le désordre phénoménal de la pensée et du sentiment » évoqué dans le préambule du roman. Elle est constamment crédible, trouve toujours la note juste, y compris dans les réactions les plus inattendues de son personnage.</desc>
+    <credits>
+      <director>Finkiel Emmanuel</director>
+      <actor>Bertrand Schefer</actor>
+      <actor>François Prodromidès</actor>
+      <actor>Lukas Trotta</actor>
+      <actor>Barouch Rafiq</actor>
+      <actor>Fabrice Adde</actor>
+      <actor>Benjamin Biolay</actor>
+      <actor>Claire Ruppli</actor>
+      <actor>Marielle de</actor>
+      <actor>Stanislas Nordey</actor>
+      <actor>Olivier Veillon</actor>
+      <actor>Salomé Richard</actor>
+      <actor>Joanna Grudzinska</actor>
+      <actor>Anne-Lise Heimburger</actor>
+      <actor>Perrine Rostand</actor>
+      <actor>Shulamit Adar</actor>
+      <actor>Mélanie Thierry</actor>
+      <actor>Raphaël Maillet</actor>
+      <actor>Emmanuel Bourdieu</actor>
+      <actor>Mathias Labelle</actor>
+      <actor>Elsa Amiel</actor>
+      <actor>Vincent Ozanon</actor>
+      <actor>Giappiconi Laure</actor>
+      <actor>Benoît Magimel</actor>
+      <actor>Patrick Lizana</actor>
+      <actor>Nathan Gabily</actor>
+      <actor>Grégoire Leprince-Ringuet</actor>
+      <actor>Elodie Mareau</actor>
+      <actor>Caroline Ducey</actor>
+      <actor>Eric Breton</actor>
+      <actor>Tiennet Simonnin</actor>
+      <writer>Marguerite Duras</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/e7cc4bff-c489-44c1-9524-d0f92e0a276f.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211215230000 +0100" channel="C111.api.telerama.fr" stop="20211215235500 +0100">
+    <title>Pornotropic : Marguerite Duras et l'illusion coloniale</title>
+    <desc lang="fr">En 1950, le prix Goncourt échappe à Marguerite Duras, en lice avec "Un barrage contre le Pacifique". Si l'écrivaine décèle dans ce revers la sanction de son engagement communiste, le propos même de ce grand roman, trop subversif et antipatriotique pour l'époque, a certainement suffi à refroidir le jury. Alors que la population française adhère encore massivement aux valeurs du colonialisme, ce récit inspiré de sa jeunesse miséreuse en Indochine, résonne comme une charge violente contre un système prédateur, pornographe, raciste et brutal. Au fil de lectures d'extraits, d'interviews de la romancière, d'archives inédites de l'Indochine des années 1930 et d'éclairages de spécialistes, le film décrypte les rouages du "grand vampirisme colonial".</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/da87a5e5-34ec-46f2-b3a6-45070416ad87.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211215235500 +0100" channel="C111.api.telerama.fr" stop="20211216000500 +0100">
+    <title>Bulle</title>
+    <desc lang="fr">Tiffany, 41 ans, cheffe d'entreprise, revient vivre à Paris après plusieurs années passées à l'étranger et décide de faire un enfant toute seule. Elle a recours à une procréation médicalement assistée à l'étranger, car la France ne l'autorise pas pour les femmes célibataires.</desc>
+    <credits>
+      <director>Jessica Bros</director>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/10/891c6f53e8593f228db8b56b152552809ea6b23d.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

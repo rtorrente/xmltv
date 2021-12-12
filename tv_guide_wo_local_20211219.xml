@@ -1,2 +1,347 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv />
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <programme start="20211218222500 +0100" channel="C111.api.telerama.fr" stop="20211219000000 +0100">
+    <title>La panthère</title>
+    <desc lang="fr">Dans l'aube dorée, une panthère hisse sur une branche d'olivier la carcasse d'un jeune éland du Cap tué dans la nuit. Chasseuse redoutable et mère d'une infinie patience, elle cache là une proie dont elle destine une portion à son petit, un mâle âgé de cinq mois. Tous deux vivent au cœur de la plaine du Serengeti, une savane à cheval sur la Tanzanie et le Kenya qui regorge de proies pour les fauves qui se disputent le territoire. Parcourant des dizaines de kilomètres, le grand félin tacheté passe l'essentiel de son temps à chercher la pitance de sa progéniture. Avant de quitter le giron maternel, le bébé panthère doit survivre à bien des périls, notamment la menace d'une lionne qui voit d'un mauvais œil un autre félin empiéter son domaine.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/135714f7-5734-4c9c-9c32-66701946e9aa.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211219062000 +0100" channel="C111.api.telerama.fr" stop="20211219071000 +0100">
+    <title>Retour à l'âge de pierre</title>
+    <sub-title>S'adapter</sub-title>
+    <desc lang="fr">Equipés de peaux de bête et d'un canoë, huit experts en techniques primitives s'adonnent à la cueillette, à la pêche et créent des équipements à l'aide d'outils préhistoriques.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/17/e3935e07105d428c5b3fdf9788293de0519d7935.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219071000 +0100" channel="C111.api.telerama.fr" stop="20211219080500 +0100">
+    <title>Retour à l'âge de pierre</title>
+    <sub-title>Collaborer</sub-title>
+    <desc lang="fr">La pêche ayant échoué, le groupe se risque dans les montagnes. Hélas, le temps se dégrade alors que la chasse mobilise déjà toutes les énergies.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/09/655a76c75ebf74a78d5adf38bf3a6e469b20d9f7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219080500 +0100" channel="C111.api.telerama.fr" stop="20211219090000 +0100">
+    <title>Retour à l'âge de pierre</title>
+    <sub-title>Se perfectionner</sub-title>
+    <desc lang="fr">Après trois semaines sans viande fraîche, les membres de la tribu travaillent leur adresse au tir pour ne plus rentrer de la chasse bredouilles.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/17/e3935e07105d428c5b3fdf9788293de0519d7935.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219090000 +0100" channel="C111.api.telerama.fr" stop="20211219091500 +0100">
+    <title>ARTE Junior, le mag</title>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/18/c05eebf88dc7b43b3005a8c9ac3902bf19ef1f6d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219091500 +0100" channel="C111.api.telerama.fr" stop="20211219100000 +0100">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Pourquoi manger ce qu'on mange ?</sub-title>
+    <desc lang="fr">Thé ou café ? Viande ou poisson ? Les humains aiment varier les plaisirs et aucune espèce ne se préoccupe autant de ses repas. Or tous les aliments ne sont pas bons pour la santé.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/07/818589861da1d21019b7a5e580e1e23814d59c3d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219100000 +0100" channel="C111.api.telerama.fr" stop="20211219104500 +0100">
+    <title>La petite épicerie au bord du lac Baïkal</title>
+    <desc lang="fr">Sur les rives du lac Baïkal, en Sibérie, le village de Bolchyïé Koty est peuplé de 40 habitants. Deux soeurs sexagénaires y tiennent l'unique épicerie à des kilomètres à la ronde.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/c634ed2ff342804020b1378021aa3a80616d40b3.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219104500 +0100" channel="C111.api.telerama.fr" stop="20211219111000 +0100">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Carélie</sub-title>
+    <desc lang="fr">En Carélie, dans le nord-ouest de la Russie, tout près de la Finlande, la cuisine traditionnelle privilégie les plats mijotés, de préférence dans une vaisselle en terre cuite.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/20/c09f505b76cc799b577875c1103115c2696833ee.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219111000 +0100" channel="C111.api.telerama.fr" stop="20211219115500 +0100">
+    <title>La Russie vue du ciel</title>
+    <sub-title>De Kazan à Vladivostok</sub-title>
+    <desc lang="fr">Cap sur le Daghestan et sa flore exceptionnelle, sur Rostov, grand pôle industriel, scientifique et culturel du sud de la Russie, et enfin sur le delta de la Volga.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/c7c13b09aeb695b10dff45ae36a6a3c8b0a07e7d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219115500 +0100" channel="C111.api.telerama.fr" stop="20211219124000 +0100">
+    <title>La Russie vue du ciel</title>
+    <sub-title>Kamtchatka</sub-title>
+    <desc lang="fr">A la découverte de la péninsule du Kamtchatcka et de ses volcans actifs, puis de Vladivostock, la ville la plus orientale de Russie, sorte de San Francisco russe.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/c79cc74fcf707f40e100f38adf376126ac46df68.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219124000 +0100" channel="C111.api.telerama.fr" stop="20211219132500 +0100">
+    <title>La Russie vue du ciel</title>
+    <sub-title>L'Extrême-Orient russe et l'océan Arctique</sub-title>
+    <desc lang="fr">Des eaux gelées de l'océan Arctique au delta de la Lena, du cap Schmidt à la péninsule de Yamal, l'on découvre des arabesques de glace, des ours, des éleveurs de rennes.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/5ada1174ae521988fc33226d9a034229346065b0.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219132500 +0100" channel="C111.api.telerama.fr" stop="20211219151000 +0100">
+    <title>Raspoutine</title>
+    <desc lang="fr">A la fin du XIXe siècle, dans une Russie en proie aux doutes et aux troubles, l'arrivée du mystique Grigori Raspoutine à la Cour impériale provoque un profond malaise. Lorsque l'étrange guérisseur, originaire des confins de la Sibérie, sauve Alexis, le fils unique du Tsar, atteint d'une maladie du sang, tous crient au miracle et l'impératrice Alexandra en fait son confident. Raspoutine a désormais ses entrées permanentes au Palais de Saint-Pétersbourg et dans l'impériale résidence d'été. Mais le vertige de la puissance et la débauche auront bientôt raison des bonnes résolutions de ce "saint diable" qui a su mettre le tsar sous son emprise... - Critique : Diable ou saint ? Homme providentiel ou imposteur assoiffé de pouvoir ? A la légende noire de Raspoutine, sorcier intrigant qui dicta sa loi au tsar, démiurge vénéré et craint, le téléfilm de Josée Dayan répond en livrant une image plus nuancée et plus humaine du personnage. Depardieu s'en est emparé à bras-le-corps. Il offre sa démesure au moine jouisseur dans les nuits de ­débauche menées au rythme de la musique tzigane. Il émeut en ogre mélancolique sincèrement attaché au tsarévitch, l'enfant qu'il a soigné grâce à ses dons de guérisseur (présentés comme une évidence). Le scénario amorce une réhabilitation plutôt séduisante : sans gommer toutes ses ambiguïtés, ce Raspoutine troque ses ­habits sombres de démon contre ceux du bouc émissaire, vaincu par l'arsenic et les balles autant que par la marche de l'histoire. Un peu à contresens, Josée Dayan filme la cour du tsar comme un monde pétrifié, peine à insuffler de la vie sous les ors des ­palais de Saint-Pétersbourg. On lui pardonne une scène d'assassinat grotesque, mais pas le manque de souffle romanesque de son Raspoutine. — Isabelle Poitte</desc>
+    <credits>
+      <director>Josée Dayan</director>
+      <actor>Filipp Yankovsky</actor>
+      <actor>Irina Alfyorova</actor>
+      <actor>Elena Liseleva</actor>
+      <actor>Yuri Kolokolnikov</actor>
+      <actor>Snigir Yuliya</actor>
+      <actor>Leonid Koromiov</actor>
+      <actor>Danila Kozlovsky</actor>
+      <actor>Fanny Ardant</actor>
+      <actor>Pyotr Zhuravlyov</actor>
+      <actor>Svetlana Kireeva</actor>
+      <actor>Sergey Zhukovich</actor>
+      <actor>Gérard Depardieu</actor>
+      <actor>Olga Korotyayeva</actor>
+      <actor>Vladimir Glazkov</actor>
+      <actor>Maksim Mityashin</actor>
+      <actor>Sergey Zamorev</actor>
+      <actor>Leonid Mozgovoy</actor>
+      <actor>Andrey Kharitonov</actor>
+      <actor>Anna Michalkowa</actor>
+      <actor>Igor Sergeev</actor>
+      <actor>Aleksandr Ryazantsev</actor>
+      <actor>Mashkov Vladimir</actor>
+      <actor>Natalya Shvets</actor>
+      <actor>Kseniya Rappoport</actor>
+      <actor>Pyotr Gavrilyuk</actor>
+      <actor>Khabenskiy Konstantin</actor>
+      <actor>Ernst Romanov</actor>
+      <actor>Tamara Kolesnikova</actor>
+      <writer>Pierre Aknine</writer>
+      <writer>Irakli Kvirikadze</writer>
+      <writer>Besson Philippe</writer>
+      <writer>Vincent Fargeat</writer>
+    </credits>
+    <category lang="fr">téléfilm historique</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/a4fced754ec1c07c2b6f6f778b7aa6a2adbeef69.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211219151000 +0100" channel="C111.api.telerama.fr" stop="20211219160500 +0100">
+    <title>Raspoutine</title>
+    <desc lang="fr">Grigori Efimovitch Raspoutine est introduit en 1907 dans l'intimité de la famille impériale russe, à Saint-Pétersbourg. Nicolas II et son épouse Alexandra espèrent que ce mystique, guérisseur et prédicateur itinérant pourra guérir leur fils Alexis, atteint d'hémophilie. Cent ans après son assassinat, le 29 décembre 1916, celui dont l'influence néfaste sur la tsarine, voire sur son époux, aurait contribué à précipiter la Russie dans la révolution, continue de susciter un débat passionné, notamment en Russie. Mérite-t-il sa réputation sulfureuse ? Historiens et archivistes témoignent.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/28/4cf83e4dae6f88c60dcd3dcbd0d583cacbc953d3.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211219160500 +0100" channel="C111.api.telerama.fr" stop="20211219170000 +0100">
+    <title>A la recherche du trésor des Romanov</title>
+    <desc lang="fr">L'une des conséquences inattendues de l'effondrement de l'URSS a été un regain d'intérêt pour l'or, les bijoux et les objets précieux du tsar et de ses proches. Nadejda Danilevitch, qui a fait partie de la commission d'enquête sur l'exécution de Nicolas II, tente ainsi de retracer le parcours des biens des Romanov. L'oligarque Alexeï Ivanov, lui, rachète les mythiques oeufs Fabergé, fleurons du trésor du tsar.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/07/2e42f52385842359f19e17e3f376ecd827e54905_E78A2067FEAE4AB02915F2E85BB4B9CB.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211219170000 +0100" channel="C111.api.telerama.fr" stop="20211219172500 +0100">
+    <title>Les maîtres des abeilles</title>
+    <sub-title>Russie, les cavaliers du miel</sub-title>
+    <desc lang="fr">Dans l'Oural, le village de Gadel-Gareyéro, avec ses isbas colorées, est installé au milieu de collines recouvertes de chênes, de bouleaux, de trembles, d'érables et de tilleuls. L'apiculture y est omniprésente et la moitié des 400 habitants la pratiquent de manière traditionnelle. Appelés "borteviki", ils perpétuent la technique ancestrale du bort, la récolte du miel sauvage des abeilles de Bourzian, endémiques en Russie centrale.</desc>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/07/4af2205379f64ff045def31ab21a2b0159619d62.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219172500 +0100" channel="C111.api.telerama.fr" stop="20211219181000 +0100">
+    <title>La Russie vue du ciel</title>
+    <sub-title>La Sibérie et ses grands fleuves</sub-title>
+    <desc lang="fr">Episode:3 - Le lac Baïkal, les montagnes de l'Altaï, la ville de Novossibirsk et la taïga déserte sont au programme de ce volet aux images saisissantes.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/40b0a4d26cdc4dfe851ada3879f4b48bca918564.jpg" />
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219181000 +0100" channel="C111.api.telerama.fr" stop="20211219185500 +0100">
+    <title>La Russie vue du ciel</title>
+    <sub-title>L'héritage européen</sub-title>
+    <desc lang="fr">Episode:1 - Un portrait aérien de la Russie, qui débute par un survol de Saint-Pétersbourg et Moscou avant de sillonner le delta de la Volga et les sommets du Caucase.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/203879897a5e23cfc4a82cfb4e5536f911d9781f.jpg" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219185500 +0100" channel="C111.api.telerama.fr" stop="20211219194500 +0100">
+    <title>Féerie Tchaïkovski</title>
+    <desc lang="fr">Sous la baguette de Mikko Franck, l'Orchestre philharmonique de Radio France s'empare d'extraits du "Lac des cygnes" et de "Casse-Noisette", les deux ballets les plus célèbres de Tchaïkovski, sont définitivement associées à la féerie de l'enfance.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/88b20a660a25ce1b6a845ba9a8c14226631083e4.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219194500 +0100" channel="C111.api.telerama.fr" stop="20211219200500 +0100">
+    <title>Arte journal</title>
+    <sub-title>Édition du soir</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/14/7c0fa1d8814720c9c671c9f5232fa28af553b9be.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219200500 +0100" channel="C111.api.telerama.fr" stop="20211219210000 +0100">
+    <title>Le musée de l'Ermitage, Saint-Pétersbourg</title>
+    <desc lang="fr">Le musée de l'Ermitage est réputé pour ses vastes collections de peintures et sculptures, mais, à l'instar du Louvre, il possède également une riche et somptueuse collection d'arts décoratifs italiens, français et anglais.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/1c78a862-5a6c-4a8d-9bfd-8c2030bc7e39.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211219210000 +0100" channel="C111.api.telerama.fr" stop="20211220001000 +0100">
+    <title>Le docteur Jivago</title>
+    <desc lang="fr">Enfant adopté, Youri est devenu un médecin estimé, poursuivi par le démon de la poésie. Il épouse Tonya, la fille de ses parents d'adoption, et devient père. Mais Youri fait la connaissance de la belle Lara et de ses deux amants, Komarovsky et Pasha, juste avant que la Première Guerre mondiale n'éclate... - Critique : | Genre : romanesque, camarade.
+
+« Un film grandiose, une belle histoire, de belles images », résumait Télérama à la sortie de cette superproduction, en 1966. Avec une pointe d’ironie ? Quarante ans après, on pique du nez et des fous rires devant cet « archipel du goulasch » (Libération) qui cuisine la révolution russe à la sauce hollywoodienne.
+
+On connaît l’histoire : Youri Jivago, médecin et poète moscovite, épouse Tonya, la fille de ses parents adoptifs, puis croise le chemin de Lara, infirmière bolchevique. Entre la brune et la blonde, son cœur balance ­pendant trois longues, très longues heures, agitées par d’inévitables morceaux de bravoure : l’arrivée du train en gare de Moscou, la chevauchée sur lac gelé à la Alexandre Nevski, la datcha cryogénisée, les sept mille jonquilles… Et la fameuse scène finale des retrouvailles ratées entre Omar Sharif et Julie Christie (qui fait hurler de douleur Nanni Moretti dans Palombella Rossa, à chaque fois qu’il la revoit à la télé­vision). Sans parler du sirop flonflonnant de Maurice Jarre, qui tuerait un diabétique. Un monument d’ennui, mais un monument. — Jérémie Couston</desc>
+    <credits>
+      <director>David Lean</director>
+      <actor>Jeffrey Rockland</actor>
+      <actor>Wolf Frees</actor>
+      <actor>Lili Muráti</actor>
+      <actor>Maxwell Roger</actor>
+      <actor>Mark Eden</actor>
+      <actor>Geoffrey Keen</actor>
+      <actor>Geraldine Chaplin</actor>
+      <actor>Omar Sharif</actor>
+      <actor>Lucy Westmore</actor>
+      <actor>Alec Guinness</actor>
+      <actor>McKenna Siobhan</actor>
+      <actor>Tarek Sharif</actor>
+      <actor>Bernard Kay</actor>
+      <actor>Rita Tushingham</actor>
+      <actor>Willman Noel</actor>
+      <actor>Corri Adrienne</actor>
+      <actor>Ralph Richardson</actor>
+      <actor>Klaus Kinski</actor>
+      <actor>Jack MacGowran</actor>
+      <actor>Peter Madden</actor>
+      <actor>Luana Alcañiz</actor>
+      <actor>Julie Christie</actor>
+      <actor>Rod Steiger</actor>
+      <actor>Erik Chitty</actor>
+      <actor>Nelson Gwen</actor>
+      <actor>Gérard Tichy</actor>
+      <actor>Tom Courtenay</actor>
+      <writer>Robert Bolt</writer>
+      <writer>Boris Pasternak</writer>
+    </credits>
+    <date>1965</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">190</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/08195995582eab1d40fcb32ec2122e6b25e4ae6a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+</tv>
