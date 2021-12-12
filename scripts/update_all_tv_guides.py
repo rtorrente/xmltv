@@ -82,44 +82,48 @@ def remove_old_raw_files():
                 print('\t* Remove file ' + f, flush=True)
                 os.remove(f)
 
+def update_raw_specific_delta(delta):
+    day_to_grab = TODAY + timedelta(days=delta)
+    my_env = os.environ.copy()
+    my_env['HOME'] = SCRIPTS_DIRECTORY
+    print('\t* Grab TV guides of day {}'.format(day_to_grab.strftime("%d/%m/%Y")), flush=True)
+    for grabber, grabber_infos in GRABBERS.items():
+        if delta not in grabber_infos['allowed_offsets']:
+            continue
+        xmltv_fp = RAW_DIRECTORY + grabber_infos['raw'].format('_' + day_to_grab.strftime("%Y%m%d"))
+        print('\t\t- Grab TV guide of {} grabber in {}'.format(grabber, xmltv_fp), flush=True)
+        run_cmd = True
+        if delta == 1:  # If delta is 1, force grabber to run (fix issue #7)
+            print('\t\t\t* Force file update (delta is 1) --> run grabber', flush=True)
+        elif os.path.exists(xmltv_fp):
+            xmltv_file_size = os.path.getsize(xmltv_fp)
+            if xmltv_file_size < grabber_infos['raw_min_size']:
+                print(
+                    '\t\t\t* This file already exists but its size is small 0_o ({} bytes) --> run grabber again'.format(
+                        xmltv_file_size), flush=True)
+            else:
+                print('\t\t\t* This file already exists (size: {} bytes) --> Nothing to do'.format(xmltv_file_size),
+                      flush=True)
+                run_cmd = False
+        if run_cmd:
+            stdout_f = open(xmltv_fp + '_stdout_stderr.log', 'w')
+            cmd = grabber_infos['run_cmd']
+            cmd[-1] = xmltv_fp
+            cmd[-3] = str(delta)
+            print('\t\t\t* Run cmd:', ' '.join(cmd), flush=True)
+            subprocess.run(cmd, env=my_env, stdout=stdout_f, stderr=stdout_f)
+            stdout_f.close()
+            try:
+                final_size = os.path.getsize(xmltv_fp)
+            except Exception:
+                final_size = 0
+            print('\t\t\t* Final file size: {} bytes'.format(final_size), flush=True)
 
 def update_raw_files():
     """Update raw XMLTV files from grabbers."""
     print('\n# Update raw XMLTV files from grabbers', flush=True)
-    my_env = os.environ.copy()
-    my_env['HOME'] = SCRIPTS_DIRECTORY
     for delta in range(0, 8):
-        day_to_grab = TODAY + timedelta(days=delta)
-        print('\t* Grab TV guides of day {}'.format(day_to_grab.strftime("%d/%m/%Y")), flush=True)
-        for grabber, grabber_infos in GRABBERS.items():
-            if delta not in grabber_infos['allowed_offsets']:
-                continue
-            xmltv_fp = RAW_DIRECTORY + grabber_infos['raw'].format('_' + day_to_grab.strftime("%Y%m%d"))
-            print('\t\t- Grab TV guide of {} grabber in {}'.format(grabber, xmltv_fp), flush=True)
-            run_cmd = True
-            if delta == 1:  # If delta is 1, force grabber to run (fix issue #7)
-                print('\t\t\t* Force file update (delta is 1) --> run grabber', flush=True)
-            elif os.path.exists(xmltv_fp):
-                xmltv_file_size = os.path.getsize(xmltv_fp)
-                if xmltv_file_size < grabber_infos['raw_min_size']:
-                    print('\t\t\t* This file already exists but its size is small 0_o ({} bytes) --> run grabber again'.format(xmltv_file_size), flush=True)
-                else:
-                    print('\t\t\t* This file already exists (size: {} bytes) --> Nothing to do'.format(xmltv_file_size), flush=True)
-                    run_cmd = False
-            if run_cmd:
-                stdout_f = open(xmltv_fp + '_stdout_stderr.log', 'w')
-                cmd = grabber_infos['run_cmd']
-                cmd[-1] = xmltv_fp
-                cmd[-3] = str(delta)
-                print('\t\t\t* Run cmd:', ' '.join(cmd), flush=True)
-                subprocess.run(cmd, env=my_env, stdout=stdout_f, stderr=stdout_f)
-                stdout_f.close()
-                try:
-                    final_size = os.path.getsize(xmltv_fp)
-                except Exception:
-                    final_size = 0
-                print('\t\t\t* Final file size: {} bytes'.format(final_size), flush=True)
-
+        update_raw_specific_delta(delta)
 
 def parse_raw_xmltv_files():
     """Parse all xmltv files to deserialize info in dict."""
@@ -342,8 +346,8 @@ def generate_root_xmltv_files_md5():
 def main():
     print('\n# Start script at', datetime.now().strftime("%d/%m/%Y %H:%M:%S"), flush=True)
     remove_root_xmltv_files()
-    remove_old_raw_files()
-    update_raw_files()
+    #remove_old_raw_files()
+    #update_raw_files()
     (all_data, all_channels, all_programmes, all_programmes_local) = parse_raw_xmltv_files()
     generate_new_xmltv_files(all_data, all_channels, all_programmes, all_programmes_local)
     generate_root_xmltv_files_md5()
