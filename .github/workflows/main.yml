@@ -24,9 +24,16 @@ jobs:
           python-version: "3.8"
       - name: Install pip deps
         run: pip3 install -r scripts/requirements.txt
-      - name: Install XMLTV
-        run: sudo apt install xmltv
-      - name: Run scripts
-        run: cd scripts/ && python3 ./update_all_tv_guides.py
-      - name: LS Directory
-        run: ls ../raw
+    #  - name: Install XMLTV
+    #    run: sudo apt install xmltv
+    #  - name: Run scripts
+    #    run: cd scripts/ && python3 ./update_all_tv_guides.py
+      - name: Create Test File
+        run: date +"%d/%m/%Y %H:%M:%S-%Z" > file1.txt
+      - name: Commit report
+        run: |
+          export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
+          git config --global user.name 'XMLTV GithubAction'
+          git config --global user.email 'XMLTV@users.noreply.github.com'
+          git commit -am "Auto update TV guides ($now)"
+          git push -f origin
