@@ -35,5 +35,6 @@ jobs:
           export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
           git config --global user.name 'XMLTV GithubAction'
           git config --global user.email 'XMLTV@users.noreply.github.com'
+          git add --all
           git commit -am "Auto update TV guides ($now)"
           git push -f origin
