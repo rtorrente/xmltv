@@ -26,9 +26,7 @@ jobs:
         run: pip3 install -r scripts/requirements.txt
       - name: Install XMLTV
         run: sudo apt install xmltv
-      - name: CD to Scripts
-        run: cd scripts/
       - name: Run scripts
-        run: python3 update_all_tv_guides.py
+        run: cd scripts/ && python3 ./update_all_tv_guides.py
       - name: LS Directory
         run: ls ../raw
