@@ -28,13 +28,35 @@ jobs:
         with:
           name: raw-${{ matrix.delta }}
           path: raw
-        
-        
-   #   - name: Commit to origin
-   #     run: |
-   #       export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
-   #       git config --global user.name 'XMLTV GithubAction'
-   #       git config --global user.email 'XMLTV@users.noreply.github.com'
-   #       git add --all
-   #       git commit -am "Auto update TV guides ($now)"
-   #       git push -f origin
+          
+  computeAndPush:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: "actions/setup-python@v2"
+        with:
+          python-version: "3.8"
+      - name: Install pip deps
+        run: pip3 install -r scripts/requirements.txt
+      - name: Install XMLTV lib
+        run: sudo apt install xmltv
+      - name: Clean old directory
+        run: rm raw/*
+      - name: Download all workflow run artifacts
+        uses: actions/download-artifact@v2
+        with:
+          path: raw
+      - name: Display structure of downloaded files
+        run: ls -R
+        working-directory: raw
+      - name: Run Python update_all_tv_guides script
+        run: cd scripts/ && python3 ./update_all_tv_guides.py
+      - name: Commit to origin
+        run: |
+          export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
+          git config --global user.name 'XMLTV GithubAction'
+          git config --global user.email 'XMLTV@users.noreply.github.com'
+          git add --all
+          git commit -am "Auto update TV guides ($now)"
+          git push -f origin
