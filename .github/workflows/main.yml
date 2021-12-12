@@ -42,52 +42,13 @@ jobs:
       - name: Install XMLTV lib
         run: sudo apt install xmltv
       - name: Clean old directory
-        run: rm -r raw/*
-      - name: Download 0 artefact
+        run: rm -R raw/*
+      - name: Download all artefacts
         uses: actions/download-artifact@v2
         with:
-          name: 'raw-0'
           path: raw
-      - name: Download 1 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-1'
-          path: raw
-      - name: Download 2 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-2'
-          path: raw
-      - name: Download 3 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-3'
-          path: raw
-      - name: Download 4 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-4'
-          path: raw
-      - name: Download 5 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-5'
-          path: raw
-      - name: Download 6 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-6'
-          path: raw
-      - name: Download 7 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-7'
-          path: raw
-      - name: Download 8 artefact
-        uses: actions/download-artifact@v2
-        with:
-          name: 'raw-8'
-          path: raw
+      - name: Clean Raw Directory
+        run: cd raw && cp raw*/** ./ && rm -r raw*
       - name: Display structure of downloaded files
         run: ls -R
         working-directory: raw
