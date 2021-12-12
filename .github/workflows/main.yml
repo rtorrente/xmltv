@@ -5,8 +5,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  downloadAndPush:
+  download:
     runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        delta: [0,1,2,3,4,5,6,7,8]
 
     steps:
       - uses: actions/checkout@v2
@@ -18,12 +22,19 @@ jobs:
       - name: Install XMLTV lib
         run: sudo apt install xmltv
       - name: Run Python update_all_tv_guides script
-        run: cd scripts/ && python3 ./update_all_tv_guides.py
-      - name: Commit to origin
-        run: |
-          export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
-          git config --global user.name 'XMLTV GithubAction'
-          git config --global user.email 'XMLTV@users.noreply.github.com'
-          git add --all
-          git commit -am "Auto update TV guides ($now)"
-          git push -f origin
+        run: cd scripts/ && python3 ./update_raw_delta.py ${{ matrix.delta }}
+      - name: Upload raw to artefact
+        uses: actions/upload-artifact@v2
+        with:
+          name: raw-${{ matrix.delta }}
+          path: raw
+        
+        
+   #   - name: Commit to origin
+   #     run: |
+   #       export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
+   #       git config --global user.name 'XMLTV GithubAction'
+   #       git config --global user.email 'XMLTV@users.noreply.github.com'
+   #       git add --all
+   #       git commit -am "Auto update TV guides ($now)"
+   #       git push -f origin
