@@ -346,8 +346,8 @@ def generate_root_xmltv_files_md5():
 def main():
     print('\n# Start script at', datetime.now().strftime("%d/%m/%Y %H:%M:%S"), flush=True)
     remove_root_xmltv_files()
-    #remove_old_raw_files()
-    #update_raw_files()
+    remove_old_raw_files()
+    update_raw_files()
     (all_data, all_channels, all_programmes, all_programmes_local) = parse_raw_xmltv_files()
     generate_new_xmltv_files(all_data, all_channels, all_programmes, all_programmes_local)
     generate_root_xmltv_files_md5()
