@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20211219224500" channel="C59.api.telerama.fr" stop="20211220001500">
+    <title>Die Kinder vom Napf</title>
+    <sub-title>Leben auf einem Bergbauernhof</sub-title>
+    <desc lang="fr">50 Bergbauernkinder, zehn Kilometer Schulweg, mitten im Herzen der Schweiz. Frühmorgens müssen die Kinder los, um rechtzeitig in die Dorfschule zu kommen. Im Winter durch hohen Schnee, im Sommer über saftige Wiesen. Nachmittags zurück zum Bauernhof. Schon früh treten die Kinder in die Stapfen des Bergbauernberufes. Der Film führt uns von Hof zu Hof in ein isoliertes, aber auch geborgenes Leben.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/605f220ffaf42e44a27c2ecff91b5a950c459903.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>

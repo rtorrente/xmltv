@@ -1,0 +1,2265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20211217055000" channel="C111.api.telerama.fr" stop="20211217055500">
+    <title>ARTE Journal Junior</title>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/28/f854f6254b467e0c03f554a57351b98c9d85b14c.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217055500" channel="C111.api.telerama.fr" stop="20211217065000">
+    <title>360°-GEO</title>
+    <sub-title>Curaçao, des dauphins thérapeutes</sub-title>
+    <desc lang="fr">Depuis 2004, l'île de Curaçao accueille dans un centre de delphinothérapie des personnes en situation de handicap physique ou mental. Cinq dauphins les aident à reprendre espoir.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217065000" channel="C111.api.telerama.fr" stop="20211217073500">
+    <title>Les parcs naturels... en Minuscule</title>
+    <sub-title>Brière et Guérande</sub-title>
+    <desc lang="fr">Le parc naturel régional de Brière et les marais salants de Guérande, labyrinthes sculptés par une eau impétueuse, abritent quelque 280 espèces d'oiseaux.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/8c8576feb0c10bc5bfb7b433263250f43826e03d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217073500" channel="C111.api.telerama.fr" stop="20211217082000">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/26/221183504503a01b535f2bac4e078b19b2a3eb37.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217082000" channel="C111.api.telerama.fr" stop="20211217095500">
+    <title>La grande famine en Irlande</title>
+    <desc lang="fr">En 1845, le mildiou, provoqué par un parasite importé d'Amérique du sud dans les soutes des navires de commerce, dévaste les récoltes de pommes de terre dans le nord de l'Europe. Sur le continent, la France, la Prusse, la Belgique et les Pays-Bas dénombrent plus de cent mille morts. Mais en Irlande, l'hécatombe se révèle d'une tout autre ampleur. D'une pauvreté abyssale, un tiers de la population rurale dépend pour subsister de la pomme de terre, tubercule très nourrissant qui pousse partout. Le climat humide favorisant la propagation du parasite, les récoltes sont entièrement détruites. La famine va durer sept ans et décimer un million de personnes, jetant sur les routes de l'exode deux millions de malheureux.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/f323d08b296c980e56b089240dd44b31ae9f9ca3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211217095500" channel="C111.api.telerama.fr" stop="20211217110500">
+    <title>Irlande : La frontière de la discorde</title>
+    <desc lang="fr">La question de l'identité religieuse fracture protestants et catholiques en Irlande depuis la colonisation britannique de l'île et la promulgation des statuts de Kilkenny (1366) qui, entre autres, proscrivent les mariages mixtes. La violence continuelle entre Ulster et Eire a depuis endeuillé les deux camps, avec pour sombre apogée la fin du XXe siècle (près de de 3 500 morts de 1969 à 1998, dont les tristement célèbres 14 assassinats du Bloody Sunday, des civils désarmés, abattus dans le dos) qui laisse une société traumatisée par la guerre. Depuis l'accord du Vendredi saint en 1998 et le retrait de l'armée anglaise, conjuguée au démantèlement des milices paramilitaires, chacun panse ses plaies et tente de se tourner vers le futur.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/57537f55-a2ce-46fd-9d3f-fb890debd97b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217110500" channel="C111.api.telerama.fr" stop="20211217115000">
+    <title>Les superpouvoirs des aigles</title>
+    <desc lang="fr">A travers l'observation d'une famille de pygargues à tête blanche et l'étude des capacités d'un aigle royal, gros plan sur les techniques de chasse et les manœuvres de vol de ces grands rapaces.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/15/003f22c55d08f8f1ac0f6abbb76fd4a73081589a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217115000" channel="C111.api.telerama.fr" stop="20211217120000">
+    <title>Arte journal</title>
+    <sub-title>Édition de la mi-journée</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/14/7c0fa1d8814720c9c671c9f5232fa28af553b9be.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217120000" channel="C111.api.telerama.fr" stop="20211217123500">
+    <title>Arte regards</title>
+    <sub-title>La mine de Turow : L'eau au coeur d'une controverse transfrontalière</sub-title>
+    <desc lang="fr">Das Ehepaar Kukuc ist wütend, seit 20 Jahren arbeiten beide im polnischen Tagebau Turow, doch nun steht der Weiterbetrieb in Frage. Sie und tausende polnische Bergarbeiter haben Angst um ihre Zukunft. Ganz in der Nähe, im tschechischen Uhelna misst Michael Martin jeden Tag den Wasserstand im Brunnen. Der Grundwasserspiegel sinkt seit Jahren. Bald geht dem Dorf das Wasser aus. Die tschechische Regierung hat vor dem Europäischen Gerichtshof geklagt. Die Richter in Luxemburg haben den sofortigen Stopp des Tagebaubetriebs und eine hohe Geldstrafe verlangt. Die Fronten sind verhärtet.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/16/0f989d72225bbbf4f344fd2ec9283d5955fc5305.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217123500" channel="C111.api.telerama.fr" stop="20211217142500">
+    <title>L'héritière</title>
+    <desc lang="fr">Catherine Sloper vit avec son père, médecin, dans une belle demeure de Washington Square. Sa mère, dotée d'une grande beauté et de toutes les qualités, est morte en la mettant au monde. Depuis, le docteur Sloper veille sur elle comme sur un trésor. Lors d'un bal, Catherine rencontre Morris Townsend. C'est le coup de foudre. Morris demande Catherine en mariage, mais se heurte au refus de son père, qui ne voit en lui qu'un vulgaire coureur de dot. Monsieur Sloper entraîne Catherine dans un voyage en Europe, espérant ainsi lui faire oublier Morris. Constatant son échec, il déshérite sa fille, qui persuade son soupirant de l'enlever... - Critique : 
+
+1850, à New York. Une grande maison sur Washington Square, fermée sur elle-même. Les rideaux sont tirés, les lourdes portes en bois coulissantes enferment les pièces, comme dans un jeu de construction. À l’intérieur, un veuf inconsolable et son héritière maladivement timide et terne. Elle lance à ce père adoré des regards de petite fille confiante et ne reçoit en retour que mépris et déception. Olivia de Havilland joue la gourde avec un naturel désarmant. Quand un beau jeune homme tombe — enfin — amoureux d’elle, elle se donne complètement à lui et se moque de connaître les vraies motivations de cet amour providentiel.
+
+William Wyler s’intéresse peu au jeune couple, reléguant Montgomery Clift à un petit rôle de manipulateur cynique pas très fouillé. En revanche, il ne s’éloigne jamais longtemps du père et de la fille, les filmant dans ce même plan où Ralph Richardson écrase de sa prestance la jeune femme apeurée. L’acteur est glaçant en père tourné vers le passé qui idéalise sa femme morte et se venge de ce décès sur sa fille, qu’il ne trouve pas à la hauteur. Il y a beaucoup plus de passion entre ces deux-là qu’entre le jeune arriviste et sa proie. Longtemps privée de sentiments, la pauvre Catherine en veut finalement plus à son père de ne pas l’avoir suffisamment aimée qu’à son prétendant de ne l’avoir désirée que pour son argent. Dans la scène finale, Olivia de Havilland ferme une dernière fois les rideaux avant de remonter l’immense escalier sans fin, ne laissant derrière elle que l’obscurité. Elle est magistrale.</desc>
+    <credits>
+      <director>William Wyler</director>
+      <actor>Selena Royle</actor>
+      <actor>David Thursby</actor>
+      <actor>Vanessa Brown</actor>
+      <actor>Ray Collins</actor>
+      <actor>Harry Antrim</actor>
+      <actor>Mona Freeman</actor>
+      <actor>Betty Linley</actor>
+      <actor>Olivia de Havilland</actor>
+      <actor>Russ Conway</actor>
+      <actor>Miriam Hopkins</actor>
+      <actor>Paul Lees</actor>
+      <actor>Ralph Richardson</actor>
+      <actor>Montgomery Clift</actor>
+      <writer>Ruth </writer>
+      <writer>Henry James</writer>
+      <writer>Ruth Goetz</writer>
+      <writer>Augustus Goetz</writer>
+    </credits>
+    <date>1949</date>
+    <category lang="fr">film : mélodrame</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/30/2f14b8118f556ecc8360d929b0d1a8a69f4952b0.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211217142500" channel="C111.api.telerama.fr" stop="20211217152500">
+    <title>Olivia de Havilland, l'Insoumise</title>
+    <desc lang="fr">Repérée par Max Reinhardt, Olivia de Havilland débute sur les planches dans "Le Songe d'une nuit d'été", avant de reprendre le rôle de Hermia sur grand écran à Hollywood. Séduits par son élégance sage, Hal Wallis et Jack Warner lui offrent un contrat de sept ans, l'actrice enchaînant alors les rôles avec Errol Flynn. Mais jouer les faire-valoir de partenaires masculins la lasse. En 1938, l'étoile montante, défiant Jack Warner, auditionne clandestinement pour "Autant en emporte le vent", et le doux personnage de Melanie la propulse au sommet. Remportant deux Oscars, pour "A chacun son destin" en 1947 et "L'Héritière" en 1950, la comédienne s'installe en France après son mariage avec le journaliste Pierre Galante. Ce portrait retrace le parcours d'une star libre, qui n'a jamais sacrifié son exigence à sa notoriété.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/30/ffe83540e7e341cad3faab61544e57eefdc84f53.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217152500" channel="C111.api.telerama.fr" stop="20211217155500">
+    <title>Reinhold Messner, l'homme des sommets</title>
+    <sub-title>Dieu, le monde et moi</sub-title>
+    <desc lang="fr">Le château de Juval se dresse au sommet d'un éperon rocheux du val Venosta, à l'extrême ouest du Haut-Adige. Dans les années 1980, Reinhold Messner est tombé amoureux de cet édifice, dont il a aussitôt entrepris la rénovation. Après y avoir élu domicile, l'alpiniste y a installé un musée dédié à la dimension religieuse de la montagne.</desc>
+    <category lang="fr">documentaire aventures</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/04/a376c080d814e46a8dfa860ecd5e2b2bbc63d82f.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217155500" channel="C111.api.telerama.fr" stop="20211217164000">
+    <title>Dunes : les paysages mouvants d'Europe</title>
+    <desc lang="fr">Présentes le long des côtes européennes mais aussi à l'intérieur des terres, les dunes, déplacées par les vents, sont en perpétuel mouvement.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/20/279dfbeb4ef2c9565f312ab0937c5cd246a26414.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217164000" channel="C111.api.telerama.fr" stop="20211217172500">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217172500" channel="C111.api.telerama.fr" stop="20211217175500">
+    <title>Invitation au voyage : Nos inspirations</title>
+    <sub-title>Une imagination débordante</sub-title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/03/84cc5e66440a088f9f6cb2cdee5ffe3987c72cb0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217175500" channel="C111.api.telerama.fr" stop="20211217184500">
+    <title>Tanzanie, royaume des lionnes</title>
+    <desc lang="fr">Dans le parc national de Ruaha, en Tanzanie, une lionne, devenue reine de son clan, se bat pour maintenir sa tribu au cœur de la savane malgré la sécheresse.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/979e834882455b87fb6edafa6a0be5ee09647336.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217184500" channel="C111.api.telerama.fr" stop="20211217190500">
+    <title>Arte journal</title>
+    <sub-title>Édition du soir</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/14/7c0fa1d8814720c9c671c9f5232fa28af553b9be.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217190500" channel="C111.api.telerama.fr" stop="20211217195000">
+    <title>28 minutes</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/02/9eb9e14fb21d38a907fb0383a280e23fcd54d164.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217195000" channel="C111.api.telerama.fr" stop="20211217195500">
+    <title>A Musée Vous, A Musée Moi</title>
+    <sub-title>"Degas et Évariste de Valernes" : Copier-coller</sub-title>
+    <desc lang="fr">Episode:14 - Variation sur l'autoportrait peint par Degas vers 1865 : ce dernier est moqué par son ami Evariste à cause de ses débuts peu glorieux...</desc>
+    <credits>
+      <actor>Jean-François Pages</actor>
+      <actor>Marc Maurille</actor>
+      <writer>Fabrice Maruca</writer>
+      <writer>Fouzia Kechkech</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">série à sketches</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/64f1acb1a09d02007d0bd22f2a7c58f2e4122934.jpg" />
+    <episode-num system="xmltv_ns">.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211217195500" channel="C111.api.telerama.fr" stop="20211217213000">
+    <title>La bonne conduite</title>
+    <desc lang="fr">Quinze ans déjà que Pierre, maître principal dans la Marine nationale, a largué les amarres de la cité du nord de la France où il a grandi. Après des années de silence, il fait sur la pointe des pieds son retour entre les tours après avoir appris que son père, avec lequel il a coupé les ponts, est hospitalisé. Pour épauler Félix, le seul employé de l'auto-école paternelle, il accepte d'assurer un temps l'intérim auprès des candidats au permis de conduire. Mais entre les valeurs et les principes défendus bec et ongles par ce militaire de carrière et la débrouille, le dilettantisme, la pesanteur des rigueurs religieuses et la petite criminalité à l'oeuvre chez les habitants de ces grands ensembles, le fossé semble difficile à combler. - Critique : Quand il apprend que son père, gérant d’une auto-école, doit être hospitalisé, Pierre, militaire de carrière, accepte de prêter main-forte à Félix, moniteur tendance marxiste laxiste. L’arène, comme on dit dans le jargon de la fiction, est prometteuse : une petite entreprise de conduite dans son jus, au pied des tours d’une cité. Et, microcosme dans le microcosme, l’habitacle de la voiture, bulle idéale pour parler des routes toutes tracées de l’existence et de ces itinéraires bis qui font rêver…
+
+Cela aurait pu être une comédie sociale comme en font, avec tant d’allant, les Anglais. Surtout que la tension contenue d’Alban Lenoir, dans le premier rôle, l’idéalisme de terrain de l’ex-Deschiens Olivier Saladin, dans celui de Félix, ou la gaieté railleuse de Jisca Kalvanda, l’une des candidates au permis, séduisent au quart de tour. Malheureusement, le scénario perd beaucoup de points à force de bons sentiments sur le fil de la condescendance et de représentations réductrices : personnages féminins dont la liberté – et notamment le droit à conduire – est systématiquement menacée par la tutelle masculine, ou kakou du quartier qui fantasme une auto-école avec monitrices en minijupes… Malgré les intentions affichées de divertissement rassembleur, on feel pas si good.</desc>
+    <credits>
+      <director>Arnaud Bédouet</director>
+      <actor>André Wilms</actor>
+      <actor>Alban Lenoir</actor>
+      <actor>Mohamed Makhtoumi</actor>
+      <actor>Derriachi Aïmen</actor>
+      <actor>Nailia Harzoune</actor>
+      <actor>Olivier Saladin</actor>
+      <actor>Le Tony</actor>
+      <actor>Arab Samir</actor>
+    </credits>
+    <category lang="fr">téléfilm humoristique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/d8da9780fec1395bd74fc1bb110a81b38c70ce4b.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211217213000" channel="C111.api.telerama.fr" stop="20211217222500">
+    <title>Nueva York : Une histoire musicale du New York latino</title>
+    <desc lang="fr">Quand, en 1961, West Side Story déferle sur les écrans après avoir conquis Broadway, c'est toute la communauté portoricaine de New York, ostracisée et privée de rêve américain, qui accède dans la fièvre à la visibilité. Du Spanish Harlem au Bronx, où sévissent la misère, la drogue et les gangs, la musique et la danse latinos vont alors porter la révolution identitaire, le barrio s'embrasant et ondulant aux rythmes afro-caribéens, emmené par "le roi des timbales" Tito Puente. Bientôt métissés de soul, de jazz et de blues des voisins noirs, qui partagent souffrances et stigmates du racisme, les genres se multiplient : mambo, rumba, cha-cha-cha, merengue, boogaloo. Tous les hispaniques d'Amérique centrale et du Sud rejoignent alors le mouvement.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/04/639427ddb19fda7b2b9a8b6b2bbe69cab562eb63.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211217222500" channel="C111.api.telerama.fr" stop="20211217232000">
+    <title>West Side Story, le hit de Leonard Bernstein</title>
+    <desc lang="fr">Mêlant jazz et musique latino-américaine, l'oeuvre la plus connue de Leonard Bernstein rompt avec les codes de la comédie musicale traditionnelle.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211213050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213051300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213052400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213053600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213054800" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213060000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213061200" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213062400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213063600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213064700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213070000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213071100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213072300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213073400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213074600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213080000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213081100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213082400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213083500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213084700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213090000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213091200" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213092200" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213093400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213094600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213100000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213101300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213102700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213104100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213110000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213111200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213112400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213113700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213114800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213120000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213121200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213122400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213123500" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211213124900" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213130000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213131300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213132500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213133700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213134800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213140000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213141100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213142500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213143700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213144800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213150000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213151300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213152600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213153800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213154900" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213160000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213161100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213162300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213163700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213164800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211213170000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213171200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213172400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213173500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213174800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211213180000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213181600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213182900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213184100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213190000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213191800" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213193000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213194200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213200000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213201700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213202900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213204200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213210000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213211600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213212800" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213214100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213214800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211213220000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213221600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213222900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213224300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213230000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213231700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213233100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211213234300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214000000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214001400" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214002700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214004200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214010000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214011600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214013000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214014200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214020000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214021700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214023100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214024300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214030000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214031700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214033100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214034300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211214040000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211214041600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211214043000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211214044300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211213050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215051700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215053100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215054300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215060000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215061200" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215062400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215063600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215064700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215070000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215071100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215072300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215073400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215074600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215080000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215081100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215082300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215083500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215084700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215090000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215091400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215093300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215094600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215100000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215101300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215102700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215104100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215110000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215111200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215112400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215113700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215114700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215120000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215121100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211215122100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215123400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215124600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215130000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215131300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215132500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215133700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215134800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215140000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215141100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215142500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215143700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215144700" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211215150000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215151300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215152600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215153800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215160000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215161100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215162300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215163700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215164800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215170000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215171200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215172400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215173500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215174800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211215180000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215181600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215182900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215184100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215190000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215191800" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215193000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215194300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215200000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215201700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215202900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215204200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215210000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215211500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215212900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215214100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215220000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215221600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215222900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215224300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215230000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215231700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215233100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211215234300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216000000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216001600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216003000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216004100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216010000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216011600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216013000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216014200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216020000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216021700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216023100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216024300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216030000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216031700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216033100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216034300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216040000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216041600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216043000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216044300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211215050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216051700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216053100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216054300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216060000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216061200" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216062400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216063600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216064700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216070000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216071100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216072300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216073400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216074600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216080000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216081100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216082300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216083500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216084700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216090000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216091400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216092500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216093600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216094600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216100000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216101300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216102700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216104100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216110000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216111200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216112400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216113700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216114800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216120000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216121300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216122400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216123600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216124700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216130000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216131300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216132500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216133700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216134800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211216140000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216141100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216142500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216143700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216144800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216150000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216151300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216152400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211216153300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216154600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216160000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216161100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216162800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216164200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216170000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216171200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216172400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216173500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216174800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211216180000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216181600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216182900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216184100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216190000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216191800" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216193000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216194300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216200000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216201700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216202900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216204200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216210000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216211500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216212900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216214100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216220000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216221600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216222900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216224300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216230000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216231700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216233100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211216234300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217000000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217001600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217003000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217004100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217010000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217011600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217013000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217014200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217020000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217021700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217023100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217024300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217030000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217031700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217033100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217034300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217040000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217041600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217043000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217044300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211216050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217051700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217053100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217054300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217060000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217061200" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217062400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217063600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217064700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217070000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217071100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217072300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217073400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217074600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217080000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217081100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217082300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217083500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217084700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217090000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217091300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217092500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217093500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217094600" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217100000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217101300" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217102700" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217104100" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211217110000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217111200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217112400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217113700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217114800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217120000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217121200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217122400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217123600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217124700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217130000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217131300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217132500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217133700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217134800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217140000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217141100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217142500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217143700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217150000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217151300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217152600" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217153700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217154900" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217160000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217161100" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217162300" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217163700" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217164800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217170000" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217171200" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217172400" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217173500" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217174800" channel="euronews.rai.it">
+    <title lang="it">Euronews Now</title>
+  </programme>
+  <programme start="20211217180000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217181300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217182600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217183700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217184900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217190000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217191300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217192500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217193800" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217194700" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211217200000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217201300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217202700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217204500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217210000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217211100" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217212300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217213500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217214700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217220000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217221400" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217222600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217223900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211217225000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211217230000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211217231500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211217232600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211217234300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218000000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218001500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218002700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218004000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218010000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218011500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218012700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211218013600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218014800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218020000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218021600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218022800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218024200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218030000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218031500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218032700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218034500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218040000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218041500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218042600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218044200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211217050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218051500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218052600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218054100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218054900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211218060000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218061400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218062600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218063900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218070000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218071600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218072900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218074000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211218074700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218080000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218081400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218082600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218083400" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211218084300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218090000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218091200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218092500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218094200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218100000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218101600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218102900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218104100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218110000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218111400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218113200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218114800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218120000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218121500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218122600" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211218123400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218124700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218130000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218131400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218132500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218134400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218140000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218141200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218143000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218144500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218150000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218151400" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211218152600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218154600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218160000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218161500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218162800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218164800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218170000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218171600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218173200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218174600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218180000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218181100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211218183300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218184700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211218190000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218191500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218193300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218194800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218200000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218201600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218203100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218204700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218210000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218211600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218213000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218214500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218220000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218221700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218223100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218224500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218230000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218231100" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211218232100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218234100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218235100" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219000000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219001400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219003600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219010000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219011200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219012500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219013800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219014900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219020000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219020800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219021600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219022900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219030000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219031200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219032300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219033600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219034700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219040000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219041200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219042400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219043600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219044700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211218050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219050000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219051300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219052300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219053700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219055000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219060000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219061100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219062600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219063900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219064800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219070000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219070800" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211219071800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219072900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219074900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219080000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219081300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219082400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219083700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219084800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219090000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219090800" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219091500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219092900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219094300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219100000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219101300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219102600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219103700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219104800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219110000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219111500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219112300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219113600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219114800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219120000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219121600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219123100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219124600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219130000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219131400" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219132600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219133700" channel="euronews.rai.it">
+    <title lang="it">News</title>
+  </programme>
+  <programme start="20211219134600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219140000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219141800" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219143000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219144300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219150000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219151600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219153300" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219154600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219160000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219161600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219162900" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219164600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219170000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219171700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219173600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219174700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219180000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219181600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219183100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219184500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219190000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219191500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219193100" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219194500" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219200000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219201600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219203200" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219204600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219210000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219211600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219213000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219214600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219220000" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219221700" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219223600" channel="euronews.rai.it">
+    <title lang="it">Global Week-End</title>
+  </programme>
+  <programme start="20211219225000" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211219230000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211219231400" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211219232900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211219234500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220000000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220001400" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220002900" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220004700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220010000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220011200" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220012400" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220013700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220014700" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211220020000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220021600" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220023000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220024500" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220030000" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220031300" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220032700" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220033800" channel="euronews.rai.it">
+    <title lang="it">Euronews Tonight</title>
+  </programme>
+  <programme start="20211220034900" channel="euronews.rai.it">
+    <title lang="it">State Of The Union</title>
+  </programme>
+  <programme start="20211220040000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211220041400" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211220042900" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211220044500" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+  <programme start="20211219050000" channel="euronews.rai.it">
+    <title lang="it">Good Morning Europe</title>
+  </programme>
+</tv>
