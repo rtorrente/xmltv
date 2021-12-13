@@ -18,12 +18,7 @@ jobs:
       - name: Install XMLTV lib
         run: sudo apt install xmltv
       - name: Run Python update_all_tv_guides script
-        run: cd scripts/ && python3 ./update_all_tv_guides.py
+        run: python3 ./scripts/update_all_tv_guides.py
       - name: Commit to origin
-        run: |
-          export now=$(date +"%d/%m/%Y %H:%M:%S-%Z")
-          git config --global user.name 'XMLTV GithubAction'
-          git config --global user.email 'XMLTV@users.noreply.github.com'
-          git add --all
-          git commit -am "Auto update TV guides ($now)"
-          git push -f origin
+        run: bash ./scripts/ga_publish_git.sh
+
