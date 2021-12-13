@@ -18,7 +18,7 @@ jobs:
       - name: Install pip deps
         run: pip3 install -r scripts/requirements.txt
       - name: Install XMLTV lib
-        run: sudo apt install xmltv
+        run: sudo apt-get install xmltv -y
       - name: Run Python update_all_tv_guides script
         run: python3 ./scripts/update_all_tv_guides.py
       - name: Commit to origin
