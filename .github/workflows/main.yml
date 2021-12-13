@@ -42,7 +42,7 @@ jobs:
       - name: Install XMLTV lib
         run: sudo apt install xmltv
       - name: Remove old raw files
-        run: python3 scripts/ga_remove_old_raw_files.py
+        run: rm -rfv raw/*
       - name: Display structure of downloaded files
         run: ls -R
         working-directory: raw
@@ -54,7 +54,7 @@ jobs:
         run: ls -R
         working-directory: raw
       - name: Extract all raw files from raw-* directories
-        run:  find raw-*/ -type f -print0 | xargs -0 mv -t . && rm -r raw-*
+        run:  find raw/raw-*/ -type f -print0 | xargs -0 mv -t ./raw && rm -r raw/raw-*
       - name: Display structure of downloaded files
         run: ls -R
         working-directory: raw
