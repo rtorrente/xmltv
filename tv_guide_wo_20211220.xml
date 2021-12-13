@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <programme start="20211220052000" channel="C111.api.telerama.fr" stop="20211220055000">
+    <title>Des volcans et des hommes</title>
+    <sub-title>La Réunion, au coeur des volcans</sub-title>
+    <desc lang="fr">Saison:1 - Episode:13 - L'île de La Réunion invite à un voyage dans le temps volcanique. Le tout jeune Piton de la Fournaise est aujourd'hui l'un des volcans les plus actifs au monde.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/20/279dfbeb4ef2c9565f312ab0937c5cd246a26414.jpg" />
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220055000" channel="C111.api.telerama.fr" stop="20211220055500">
+    <title>ARTE Journal Junior</title>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/02/6f5ed1a9d115f7e2715d77f80c5ff6e5a2ad34d9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220055500" channel="C111.api.telerama.fr" stop="20211220065000">
+    <title>360°-GEO</title>
+    <sub-title>Frioul, une vallée tout en musique</sub-title>
+    <desc lang="fr">Située dans les Alpes juliennes, la vallée de Resia est une zone montagneuse reculée du nord de l'Italie où les habitants ont leurs propres langue et culture.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/aa68b38b-eddb-478c-9fed-37d9a9feef9b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220065000" channel="C111.api.telerama.fr" stop="20211220073500">
+    <title>Les parcs naturels... en Minuscule</title>
+    <sub-title>Brière et Guérande</sub-title>
+    <desc lang="fr">Le parc naturel régional de Brière et les marais salants de Guérande, labyrinthes sculptés par une eau impétueuse, abritent quelque 280 espèces d'oiseaux.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/8c8576feb0c10bc5bfb7b433263250f43826e03d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220073500" channel="C111.api.telerama.fr" stop="20211220082500">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220082500" channel="C111.api.telerama.fr" stop="20211220091500">
+    <title>360°-GEO</title>
+    <sub-title>Huskies, top départ !</sub-title>
+    <desc lang="fr">En cinq participations à la Finnmarkslopet, la course de chiens de traîneaux la plus longue d'Europe, la Norvégienne Marit Beate Kasin, s'est hissée deux fois sur le podium.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/c867a348-6a91-466f-9580-711ef3de3989.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220091500" channel="C111.api.telerama.fr" stop="20211220102000">
+    <title>360°-GEO</title>
+    <sub-title>Le renouveau du vignoble français</sub-title>
+    <desc lang="fr">Pour lutter contre ce déclin annoncé des vignes, une nouvelle génération de viticulteurs français privilégie des méthodes de production dans le respect de la nature.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/18/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220102000" channel="C111.api.telerama.fr" stop="20211220111500">
+    <title>Le retour des envahisseurs invisibles</title>
+    <desc lang="fr">Toujours plus nombreux, parfois venus de très loin, les insectes, parasites et autres envahisseurs microscopiques sont de plus en plus nuisibles. Avec la multiplication des voyages et des flux de marchandises, mais aussi grâce au réchauffement climatique, ils s'adaptent aux régions tempérées. Une situation qui inquiète d'autant plus les autorités sanitaires que certaines de ces petites bêtes, comme le moustique tigre et la tique, peuvent transmettre des maladies graves, le chikungunya et la maladie de Lyme notamment. Recherche de vaccins contre les acariens, recours aux chiens dans les aéroports pour débusquer les punaises de lit, mise à contribution de la génétique pour maîtriser la reproduction des moustiques tigres : partout en Europe, on rivalise d'ingéniosité afin de contrôler leur prolifération.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/05/f6ae46249c357d2edefb168b2a33528f77bc7d87.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211220111500" channel="C111.api.telerama.fr" stop="20211220115000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La province autonome de Voïvodine, Serbie</sub-title>
+    <desc lang="fr">Ana Vrbaški et Marko Dinjaški vivent dans une petite maison forestière en Voïvodine, le grenier de la Serbie. Ils cultivent des légumes et de nombreuses plantes aromatiques.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/21/18a2d7006ba0f9e1bf23ddd1f1b5fed9a7da2bca.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220115000" channel="C111.api.telerama.fr" stop="20211220120000">
+    <title>Arte journal</title>
+    <sub-title>Édition de la mi-journée</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/14/7c0fa1d8814720c9c671c9f5232fa28af553b9be.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220120000" channel="C111.api.telerama.fr" stop="20211220123500">
+    <title>Arte regards</title>
+    <sub-title>Vers un Noël écoresponsable ?</sub-title>
+    <desc lang="fr">Weihnachten ohne Baum - für die meisten undenkbar. Fast 30 Millionen Exemplare stehen auch dieses Jahr in deutschen Wohnzimmern. Doch kurz nach dem Fest sind sie bereits ein Wegwerfartikel. Was sind die Alternativen zum konventionellen Weihnachtsbaum? Die Biotanne, der Baum mit Wurzel oder die DIY-Variante zum Selberbasteln: Wie nachhaltig geht Weihnachten?</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/07/91e2ac3dc8dc50a6cc443f6f08a9f7e8fdaf4f73.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220123500" channel="C111.api.telerama.fr" stop="20211220140000">
+    <title>Basse saison</title>
+    <desc lang="fr">A La Grande-Motte, sur le littoral héraultais, l'hiver et ses pluies diluviennes ont chassé les derniers touristes. Dans l'un des seuls appartements encore occupés, au dernier étage de la "Grande Pyramide", deux quinquagénaires, Carole et Richard Lazure, sont au bord du gouffre. Escroqués par leur conseiller fiscal, qu'ils surnomment "le rat", ils ont dû liquider leur société d'import-export et leur maison pour éponger une partie de leurs dettes. Ayant en outre été mal défendus par un avocat incompétent, ils doivent aussi acquitter les dépenses de leur procès perdu. Depuis, ils squattent le T4 que les parents de Richard louent l'été aux vacanciers. C'est alors qu'Anthony, qui fut le meilleur copain de Richard quand ils étaient enfants, réapparaît après des décennies d'absence. Il leur propose une solution. - Critique : Il fait un temps de chien sur La Grande-Motte. La tempête hivernale a balayé la station balnéaire désertée par les touristes. Carole, une quinqua manifestement déprimée, sort malgré tout faire ses courses au supermarché du coin. Réduite à compter au centime près, elle se trouve contrainte de piquer des rouleaux de papier toilette dans le Caddie d’un petit vieux… De retour dans l’appartement de vacances qu’on lui a prêté au dernier étage de la Grande Pyramide, elle somme Richard, son mari, de trouver une solution pour mettre un terme à leur calvaire financier. Évidemment, tout va aller de mal en pis…
+
+Dans la vie, tout est question de timing. Dans la comédie, aussi. Ça tombe bien, ces deux constats se conjuguent délicieusement dans Basse Saison. Un téléfilm qui sublime la lose avec talent. Laurent Herbiet et Iris Wong y dessinent avec beaucoup d’esprit les tribulations de ce couple de quinquas fauchés, au bout du rouleau, prêts à tout, et surtout au pire, pour se sortir de la mouise. Une proposition burlesque généreusement servie par Emmanuelle Devos, Éric Caravaca et Simon Abkarian. La drolatique et inventive réalisation de Laurent Herbiet métamorphose les téléspectateurs en sadiques impénitents !</desc>
+    <credits>
+      <director>Laurent Herbiet</director>
+      <actor>Simon Abkarian</actor>
+      <actor>Estheban Lombard</actor>
+      <actor>Robert Plagnol</actor>
+      <actor>Christophe Tek</actor>
+      <actor>Lise Lamétrie</actor>
+      <actor>Olivier Dores</actor>
+      <actor>Eliette Rousset</actor>
+      <actor>Dominique Ratonnat</actor>
+      <actor>Anne-Eve Seignalet</actor>
+      <actor>Sylvain Baumlin</actor>
+      <actor>Victor Sansano</actor>
+      <actor>Leslie Duteuil</actor>
+      <actor>Stefan Crepon</actor>
+      <actor>Charo Beltran</actor>
+      <actor>Kevin Bourges</actor>
+      <actor>Amel Guiraudou</actor>
+      <actor>Louis Beyler</actor>
+      <actor>Jérémy B.</actor>
+      <actor>Robin Denoyer</actor>
+      <actor>Kpéré Julie</actor>
+      <actor>Etienne Caloone</actor>
+      <actor>Emmanuelle Devos</actor>
+      <actor>Éric Caravaca</actor>
+      <actor>Igor Skreblin</actor>
+      <actor>Mathis Gil</actor>
+      <writer>Iris Wong</writer>
+    </credits>
+    <category lang="fr">téléfilm d'espionnage</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/13/53c2832c8c9d20c596ea7cdf97a1d95d02bb13e7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211220140000" channel="C111.api.telerama.fr" stop="20211220155500">
+    <title>La bonne conduite</title>
+    <desc lang="fr">Quinze ans déjà que Pierre, maître principal dans la Marine nationale, a largué les amarres de la cité du nord de la France où il a grandi. Après des années de silence, il fait sur la pointe des pieds son retour entre les tours après avoir appris que son père, avec lequel il a coupé les ponts, est hospitalisé. Pour épauler Félix, le seul employé de l'auto-école paternelle, il accepte d'assurer un temps l'intérim auprès des candidats au permis de conduire. Mais entre les valeurs et les principes défendus bec et ongles par ce militaire de carrière et la débrouille, le dilettantisme, la pesanteur des rigueurs religieuses et la petite criminalité à l'oeuvre chez les habitants de ces grands ensembles, le fossé semble difficile à combler. - Critique : Quand il apprend que son père, gérant d’une auto-école, doit être hospitalisé, Pierre, militaire de carrière, accepte de prêter main-forte à Félix, moniteur tendance marxiste laxiste. L’arène, comme on dit dans le jargon de la fiction, est prometteuse : une petite entreprise de conduite dans son jus, au pied des tours d’une cité. Et, microcosme dans le microcosme, l’habitacle de la voiture, bulle idéale pour parler des routes toutes tracées de l’existence et de ces itinéraires bis qui font rêver…
+
+Cela aurait pu être une comédie sociale comme en font, avec tant d’allant, les Anglais. Surtout que la tension contenue d’Alban Lenoir, dans le premier rôle, l’idéalisme de terrain de l’ex-Deschiens Olivier Saladin, dans celui de Félix, ou la gaieté railleuse de Jisca Kalvanda, l’une des candidates au permis, séduisent au quart de tour. Malheureusement, le scénario perd beaucoup de points à force de bons sentiments sur le fil de la condescendance et de représentations réductrices : personnages féminins dont la liberté – et notamment le droit à conduire – est systématiquement menacée par la tutelle masculine, ou kakou du quartier qui fantasme une auto-école avec monitrices en minijupes… Malgré les intentions affichées de divertissement rassembleur, on feel pas si good.</desc>
+    <credits>
+      <actor>Derriachi Aïmen</actor>
+      <actor>Mohamed Makhtoumi</actor>
+      <actor>Arab Samir</actor>
+      <actor>Olivier Saladin</actor>
+      <actor>Le Tony</actor>
+      <actor>Alban Lenoir</actor>
+      <actor>André Wilms</actor>
+      <actor>Nailia Harzoune</actor>
+      <writer>Arnaud Bédouet</writer>
+    </credits>
+    <category lang="fr">téléfilm humoristique</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/d8da9780fec1395bd74fc1bb110a81b38c70ce4b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211220155500" channel="C111.api.telerama.fr" stop="20211220164000">
+    <title>Merveilles de la nature *2021</title>
+    <sub-title>Les chutes d'Iguaçu, trésor écologique</sub-title>
+    <desc lang="fr">Episode:2 - Entre le Brésil et l'Argentine, les chutes d'Iguazú sont au coeur d'une vaste forêt abritant des centaines d'espèces d'oiseaux ou de mammifères.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/20/279dfbeb4ef2c9565f312ab0937c5cd246a26414.jpg" />
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220164000" channel="C111.api.telerama.fr" stop="20211220172500">
+    <title>Invitation au voyage</title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/11/e3622aaa-0da0-4eb7-b579-0587958f7fb1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220172500" channel="C111.api.telerama.fr" stop="20211220175500">
+    <title>Invitation au voyage : Nos inspirations</title>
+    <sub-title>Sous acide</sub-title>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/b247ba2bc56c0a9756b73edadc7b42df58a4e433.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220175500" channel="C111.api.telerama.fr" stop="20211220184500">
+    <title>Merveilles de la nature *2021</title>
+    <sub-title>Le monde perdu des Galapagos</sub-title>
+    <desc lang="fr">Episode:1 - À plus d'un millier de kilomètres des côtes de l'Équateur, les îles Galápagos abritent des espèces animales endémiques qui s'y sont développées à l'écart du monde extérieur.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/12/8c8576feb0c10bc5bfb7b433263250f43826e03d.jpg" />
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220184500" channel="C111.api.telerama.fr" stop="20211220190500">
+    <title>Arte journal</title>
+    <sub-title>Édition du soir</sub-title>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/14/7c0fa1d8814720c9c671c9f5232fa28af553b9be.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220190500" channel="C111.api.telerama.fr" stop="20211220194800">
+    <title>28 minutes</title>
+    <sub-title>L'Algérie et la réparation mémorielle</sub-title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">43</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/08/0add9f4c1a78e37351d34e6f283808b44dd86d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220194900" channel="C111.api.telerama.fr" stop="20211220195500">
+    <title>A Musée Vous, A Musée Moi</title>
+    <sub-title>Les raboteurs de parquet : RTT</sub-title>
+    <desc lang="fr">Episode:6 - Trois raboteurs de parquet découvrent que le droit du travail a bien évolué depuis le XIXe siècle...</desc>
+    <credits>
+      <writer>Fabrice Maruca</writer>
+      <writer>Fouzia Kechkech</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">série à sketches</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/30/64f1acb1a09d02007d0bd22f2a7c58f2e4122934.jpg" />
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211220195500" channel="C111.api.telerama.fr" stop="20211220214500">
+    <title>Elle et lui</title>
+    <desc lang="fr">Nickie Ferrante est sur le point de rejoindre sa future femme, une riche héritière. Sur le transatlantique qui le conduit vers sa promise, il fait la connaissance de Terry McKay, qui va retrouver son fiancé de l'autre côté de l'océan. Les deux jeunes gens s'éprennent et annulent leur mariage respectif... - Critique : Objet d’adoration cinéphilique et cas étrange d’« auto-remake » (la première version, avec Irène Dunne et Charles Boyer, datant de 1939), ce grand mélo narre une passion peu commune, source de communion entre un play-boy oisif et une chanteuse de cabaret, tous deux pas vraiment vieux mais plus tout jeunes.
+
+Débutant dans le registre de la comédie sophistiquée, ce diamant romantique s’intensifie au fil d’une histoire qui va toujours plus loin dans l’analyse du sentiment, comme si ce couple, conscient de vivre des moments rares et décisifs, s’efforçait d’être à leur hauteur (et à celle de l’Empire State Building) pour en faire plus tard des souvenirs merveilleux.
+
+Ce destin en marche, conjugué à un accident totalement imprévisible, crée un suspense inédit. La finesse psychologique des dialogues, le jeu à la fois précis et en demi-teinte des acteurs, ainsi que les couleurs flamboyantes concourent à la beauté de ce tendre et calme tableau. Rarement un film ­aura porté (deux fois, donc !) le sentiment amoureux à un tel degré d’élévation.</desc>
+    <credits>
+      <director>Leo McCarey</director>
+      <actor>Mary Bayless</actor>
+      <actor>Cary Grant</actor>
+      <actor>Richard Allen</actor>
+      <actor>George Calliga</actor>
+      <actor>Mary Carroll</actor>
+      <actor>Steve Carruthers</actor>
+      <actor>Deborah Kerr</actor>
+      <actor>Cathleen Nesbitt</actor>
+      <actor>Ken DuMain</actor>
+      <actor>Bain Al</actor>
+      <actor>Brian Corcoran</actor>
+      <actor>Richard Denning</actor>
+      <actor>Dino Bolognese</actor>
+      <actor>Paul Bradley</actor>
+      <actor>Norman Champion</actor>
+      <actor>Walt Davis</actor>
+      <actor>Michka Egan</actor>
+      <actor>Fortunio Bonanova</actor>
+      <actor>Frank Baker</actor>
+      <actor>Neva Patterson</actor>
+      <actor>Matt Moore</actor>
+      <actor>Suzanne Ellers</actor>
+      <actor>Anthony De</actor>
+      <actor>Charles Watts</actor>
+      <actor>Kathleen Charney</actor>
+      <actor>Adams Dorothy</actor>
+      <actor>Minta Durfee</actor>
+      <actor>Robert Q.</actor>
+      <writer>Donald Ogden</writer>
+      <writer>Mildred Cram</writer>
+      <writer>Delmer Daves</writer>
+    </credits>
+    <date>1957</date>
+    <category lang="fr">film : mélodrame</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/06/2195712ff005d0306c793a598787b7378c27464a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211220214500" channel="C111.api.telerama.fr" stop="20211220224000">
+    <title>Cary Grant, de l'autre côté du miroir</title>
+    <desc lang="fr">Né Archibald Alexander Leach, en 1904 à Bristol, Cary Grant se retrouve à 11 ans pratiquement orphelin quand son père fait interner sa mère sans le lui dire dans une institution psychiatrique et s'en va refaire sa vie ailleurs. Le futur héros de "La Mort aux trousses", disparu en 1986, vit l'absence maternelle comme un abandon qui le suit la majeure partie de sa vie, au fil des échecs successifs de ses relations amoureuses. N'appartenant tout à fait ni à l'Angleterre de ses origines ni à l'Amérique de son succès, l'acteur tente de résoudre ses fêlures identitaires à travers des séances de psychothérapie sous LSD.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/02/2b71ab76aa91e7ff71e8677acba63b1fcc552a64.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211220224000" channel="C111.api.telerama.fr" stop="20211221000500">
+    <title>M</title>
+    <desc lang="fr">A Los Angeles, la police doit faire face à un tueur d'enfants. Insaisissable, ce criminel plonge la population dans l'angoisse. Face à l'hystérie collective qui gagne la Californie, les autorités fédérales s'engagent à neutraliser au plus vite l'auteur de ces infanticides. Une forte récompense est promise à qui pourra donner des informations et la police de Los Angeles multiplie les rafles et les contrôles dans toute la ville. Très vite, la pègre voit ses activités contrariées par les perquisitions continuelles et l'afflux de policiers dans les bars tenus par le milieu du crime. Un mafieux décide de mettre ses hommes sur l'affaire afin de stopper le tueur. Un vendeur de ballons aveugle fait savoir qu'il est en mesure de reconnaître le criminel...</desc>
+    <credits>
+      <director>Joseph Losey</director>
+      <actor>Karen Morley</actor>
+      <actor>Anders Glenn</actor>
+      <actor>Wayne David</actor>
+      <actor>Jorja Curtright</actor>
+      <actor>Martin Gabel</actor>
+      <actor>Robin Fletcher</actor>
+      <actor>Walter Burke</actor>
+      <actor>Norman Lloyd</actor>
+      <actor>Steve Brodie</actor>
+      <actor>Raymond Burr</actor>
+      <actor>Luther Adler</actor>
+      <actor>Howard Da</actor>
+      <writer>Salt Waldo</writer>
+      <writer>Katcher Leo</writer>
+      <writer>Norman Reilly</writer>
+    </credits>
+    <date>1951</date>
+    <category lang="fr">film noir</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/16/24475792.jpg" />
+    <premiere />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+</tv>

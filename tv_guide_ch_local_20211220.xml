@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20211219234500 +0100" channel="C59.api.telerama.fr" stop="20211220011500 +0100">
+    <title>Die Kinder vom Napf</title>
+    <sub-title>Leben auf einem Bergbauernhof</sub-title>
+    <desc lang="fr">50 Bergbauernkinder, zehn Kilometer Schulweg, mitten im Herzen der Schweiz. Frühmorgens müssen die Kinder los, um rechtzeitig in die Dorfschule zu kommen. Im Winter durch hohen Schnee, im Sommer über saftige Wiesen. Nachmittags zurück zum Bauernhof. Schon früh treten die Kinder in die Stapfen des Bergbauernberufes. Der Film führt uns von Hof zu Hof in ein isoliertes, aber auch geborgenes Leben.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/22f3a809f8af4f074eccd9ffa416a5cc3d103ef9.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20211219225500 +0100" channel="C201.api.telerama.fr" stop="20211220002000 +0100">
+    <title>Sguardi sul mondo</title>
+    <desc lang="fr">- Paul Nizon, scrittore ribelle</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/16cd2775760299643e4379c14530e85423d639a9.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20211219230000 +0100" channel="C183.api.telerama.fr" stop="20211220000500 +0100">
+    <title>Volontaires</title>
+    <desc lang="fr">Quatre femmes suisses, Katja, Lisa, Hélène et Mireille ont un jour apporté leur aide aux migrants. Se heurtant aux préjugés, au manque d'intérêt de leurs concitoyens, elles luttent et ne lâchent rien. Leur engagement questionne notre société, mais aussi notre histoire personnelle, dans un monde où le " chacun pour soi " semble prendre parfois le dessus. Sommes-nous prêts, au détriment de vies humaines, à assumer le drame qui se déroule sous nos yeux ?</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/7f7eea883528f2c454c05748b12b769a3d1c620e.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20211219224000 +0100" channel="C202.api.telerama.fr" stop="20211220002500 +0100">
+    <title>Birds of Prey et la fantabuleuse histoire de Harley Quinn</title>
+    <desc lang="fr">Rien ne va plus pour Harley Quinn qui vient de se séparer du Joker. Elle reprend du service lorsque Roman Sionis, l'ennemi le plus abominable — et le plus narcissique — de Gotham, et son fidèle acolyte Zsasz décident de s'en prendre à une certaine Cass. Harley s'associe avec la Chasseuse, Black Canary et Renee Montoya. Ce quatuor improbable va tout faire pour mettre Roman hors d'état de nuire... - Critique : Pour ceux qui ne maîtrisent pas leur DC Comics, sachez que Harley Quinn, la diplômée en psychiatrie, est la compagne du Joker, qu’elle a rencontré (dans les BD) à l’asile d’Arkham avant de devenir aussi timbrée que lui. Ou plutôt, elle était sa compagne, puisque ce film débute sur leur rupture. Pourquoi commencer cette critique avec cette précision peu féministe (une femme n’existe que par son compagnon) ? Parce que cette « fantabuleuse histoire » ne cesse d’évoquer ce fait, de le rappeler via la voix off, omniprésente et piailleuse, de son héroïne : je suis désespérée de cette rupture, je suis furax contre LUI, je veux m’émanciper de LUI, mais sans LUI et sa toxique protection, comment vais-je survivre contre tous les autres tordus de Gotham city ?
+
+Pour exister, la demoiselle arlequin décide de prouver au monde à quel point elle est fondue. Face à elle, Ewan McGregor s’ennuie ouvertement à renouveler l’image du super vilain – pas Joker, un autre, dont l’activité préférée est d’arracher les visages de ses victimes. D’où sans doute l’interdiction au moins de 12 ans du film.
+
+L’histoire ? Ah oui, on oubliait, et c’est normal tant elle est superfétatoire : un diamant ingéré par une petite pickpocket provoque un empilage, fatigant, de bastons au ralenti ou en accéléré, où Harley et d’autres pas drôles de dames balancent à répétition des coups de pieds dans l’entrejambe de tous les hommes à leur portée. Ou se lancent, à moto ou en roller, dans des courses poursuites à peine dignes des années 90. Le tout au son de tubes pop ou rock pas neufs, dont un carrément emprunté à la première version de Charlie’s angels par McG en 2000, qui passe, à côté, pour un parangon de féminisme pulp et pop.
+
+Entre deux explosions de canons à paillettes, deux coups de batte dans le plexus, et des flashback censés dynamiter la narration mais accusant, en fait, la pauvreté du scénario, on a deux secondes pour bailler et se pincer : comment ce film dû à une scénariste, une réalisatrice et une productrice, peut, à ce point, être creux sur le sujet de la place de la femme dans la société et pervertir le concept de sororité ?
+
+Déterminé, certes, à dénoncer la sentence du début – « Derrière chaque homme qui réussit se cache une meuf badass » –, Birds of Prey et la fantabuleuse histoire de Harley Quinn prend la forme sans âme du revenge movie où chaque fille (une flic, une orpheline, une chanteuse, et Harley) se bat pour elle-même et contre les autres. Ce n’est que lors du dernier quart d’heure, que naît, enfin, une alliance de circonstances : il y a trop de mecs en face. Sororité cynique dont seule réchappe Black Canary, la chanteuse qui castagne par bonté d’âme et pour aider les copines. Quant au personnage de Harley, surjoué par Margot Robbie, il correspond exactement à cette réplique, déçue, de la jeune voleuse de diamant : « Je croyais pourtant que tu étais particulière… ». Non : seulement une créature de bruit et de fureur dans un objet « fantabuleux » comme un soda secoué.</desc>
+    <credits>
+      <director>Yan Cathy</director>
+      <actor>Ewan McGregor</actor>
+      <actor>Smollett-Bell Jurnee</actor>
+      <actor>Mary Elizabeth</actor>
+      <actor>Margot Robbie</actor>
+      <actor>Messina Chris</actor>
+      <actor>Charlene Amoia</actor>
+      <actor>Wilson Derek</actor>
+      <actor>Jay Ella</actor>
+      <actor>Rosie Perez</actor>
+      <writer>Christina Hodson</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/28/49b055be-7fb5-4359-9eb1-91b0f6b9cd34.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+</tv>

@@ -32,4 +32,23 @@
     <display-name>Ketnet</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
   </channel>
+  <programme start="20211219223000" channel="C23.api.telerama.fr" stop="20211220010000">
+    <title>De Warmste Week</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/31/02d72d02c6f9030fe808a74b3a83bf1e05cbc21c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219224100" channel="C164.api.telerama.fr" stop="20211220050000">
+    <title>Viva for life</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">379</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/64bc40abaaa99d04e7f7aba3cac7a1e614373ebf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
 </tv>

@@ -1,4 +1,6 @@
-                                                  getting listings...Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
+getting listings: (nothing to do)
+getting listings: (nothing to do)
+Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
@@ -246,6 +248,7 @@ Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/x
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
+getting listings: (nothing to do)
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
@@ -320,5 +323,6 @@ Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/x
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1169.
 Use of uninitialized value $chname in pattern match (m//) at /home/runner/work/xmltv/xmltv/scripts/tv_grab_fr_telerama/tv_grab_fr_telerama line 1172.
+getting listings: (nothing to do)
 Aucun programme pour la chaîne 3163 Culturebox le 2021-12-14
-Grabber process finished in 434 seconds for 79 chans, 203 api calls : 199 api_casting, 3 api_grille, 1 api_init, 135 cached api_casting
+Grabber process finished in 412 seconds for 79 chans, 203 api calls : 199 api_casting, 3 api_grille, 1 api_init, 135 cached api_casting

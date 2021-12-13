@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20211219233000 +0100" channel="C23.api.telerama.fr" stop="20211220020000 +0100">
+    <title>De Warmste Week</title>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">150</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/31/02d72d02c6f9030fe808a74b3a83bf1e05cbc21c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219215500 +0100" channel="C50.api.telerama.fr" stop="20211220000000 +0100">
+    <title>C'est pas tous les jours dimanche</title>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/b3b5a3d096b887f1ba4e0d5e831d3f9ea49d36b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219234100 +0100" channel="C164.api.telerama.fr" stop="20211220060000 +0100">
+    <title>Viva for life</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">379</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/12/06/64bc40abaaa99d04e7f7aba3cac7a1e614373ebf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219232000 +0100" channel="C168.api.telerama.fr" stop="20211220002000 +0100">
+    <title>Et si on se rencontrait ?</title>
+    <category lang="fr">divertissement</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/28/742a60619390dd4437c11f06cfe143ac9a490149.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20211219221000 +0100" channel="C187.api.telerama.fr" stop="20211220002100 +0100">
+    <title>Jason Bourne : l'héritage</title>
+    <desc lang="fr">Du programme Treadstone, dont Jason Bourne était le cobaye, est né "Outcome". Aaron Cross est l'un des agents de ce groupe, qui a pour objectif non seulement de former des tueurs, mais surtout des hommes capables d'assurer des missions à haut risque. Mais désormais le destin de ces agents est compromis : Jason Bourne, en dévoilant une partie de cette organisation, les a condamnés à une liquidation brutale. Ils seront effacés à jamais afin que le fondateur du programme, le colonel Byer, puisse poursuivre ses activités machiavéliques sans être dérangé. Le premier agent à éliminer est Aaron Cross : il réussit à s'enfuir et fait équipe avec le docteur Marta Shearing, une généticienne... - Critique : 
+
+Sans Matt Damon, qui n’a pas voulu reprendre le personnage et a été remplacé par Jeremy Renner, ces quatrièmes aventures du héros sans identité réactivent le thriller d’espionnage dans la tradition des romans de Robert Ludlum, l’inventeur de Bourne.
+
+Une division de la CIA a utilisé des hommes amnésiques pour en faire des agents d’un genre nouveau. L’expérience est devenue compromettante, les agents sont supprimés. L’un d’eux résiste. Il s’appelle Aaron Cross et a toutes les qualités de Bourne : il ne sait pas d’où il vient, mais sait s’échapper de partout.
+
+Le scénario se révèle plus qu’un prétexte à des scènes d’action très réussies. Cette exploration d’un univers de guerre technologique éclaire des zones d’ombre du monde militaire d’aujourd’hui, où l’on projette de « fabriquer » des soldats génétiquement modifiés. Scénariste de la saga depuis ses débuts, Tony Gilroy réussit à rendre le personnage de Cross attachant en faisant de lui un symbole de l’affirmation de soi, de la liberté.</desc>
+    <credits>
+      <actor>Edward Norton</actor>
+      <actor>Scott Glenn</actor>
+      <actor>Stacy Keach</actor>
+      <actor>Donna Murphy</actor>
+      <actor>Rachel Weisz</actor>
+      <actor>Albert Finney</actor>
+      <actor>Arthur Ingram</actor>
+      <actor>David Strathairn</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Joan Allen</actor>
+      <actor>Alice Gainer</actor>
+      <actor>Corey Stoll</actor>
+      <writer>Tony Gilroy</writer>
+      <writer>Dan Gilroy</writer>
+      <writer>Ludlum Robert</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">131</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/93e89a1e-7770-420c-b437-018f385690b2.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20211219233000 +0100" channel="C377.api.telerama.fr" stop="20211220002000 +0100">
+    <title>Supernatural</title>
+    <sub-title>Talon d'Achille</sub-title>
+    <desc lang="fr">Saison:15 - Episode:8 - Sam, Deam et Castiel continuent leurs recherches pour vaincre Chuck. Ce qui va les conduire dans des lieux inattendus et surtout vers des alliés improbables...</desc>
+    <credits>
+      <director>Richard Speight</director>
+      <actor>Misha Collins</actor>
+      <actor>Jake Abel</actor>
+      <actor>Rob Benedict</actor>
+      <actor>Jared Padalecki</actor>
+      <actor>Jensen Ackles</actor>
+      <actor>Anna Grace</actor>
+      <actor>Keith Szarabajka</actor>
+      <actor>Shoshannah Stern</actor>
+      <writer>Eugenie Ross-Leming</writer>
+      <writer>Brad Buckner</writer>
+      <writer>Eric Kripke</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">série fantastique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/30/acb1d3f93abfe7aee60862d3fab118e283bd1bc4.jpg" />
+    <episode-num system="xmltv_ns">14.7.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20211219235100 +0100" channel="C892.api.telerama.fr" stop="20211220001300 +0100">
+    <title>La couleur des rois</title>
+    <desc lang="fr">Adel est un jeune co-pilote. Un soir, à la sortie d'un examen de routine, il se fait violemment agresser par deux hommes qui lui brisent une bouteille sur le visage. Dix jours plus tard, Adel fait face à Nadji Abelhouab, chirurgien de l'oeil à l'Hôpital des Quinze-Vingt. Pendant que Nadji effectue le diagnostic de l'oeil blessé d'Adel, les deux hommes échangent pudiquement sur leurs vies. Cette évocation nous plonge trois ans plus tôt, lors d'un retour d'Adel parmi les siens. On y découvre l'immense fierté et le regard bienveillant que la famille porte sur ce fils prodigue. Lors d'une déambulation dans le jardin familial, on prend peu à peu conscience de la violence de l'environnement duquel Adel a réussi à s'extraire.</desc>
+    <credits>
+      <director>Dara Julien</director>
+      <actor>Salim Talbi</actor>
+      <actor>Tinani Mounir</actor>
+      <actor>Malik Zidi</actor>
+      <actor>M'Hamdi Seloua</actor>
+      <actor>Buyssens Arthur</actor>
+      <actor>Sébastien Houbani</actor>
+      <actor>Henri-Noël Tabary</actor>
+      <actor>Eloy Alain</actor>
+      <actor>Baptiste Sornin</actor>
+      <actor>Rachid Djaïdani</actor>
+      <actor>Ramdi Driss</actor>
+      <writer>Dara Simon</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : court métrage dramatique</category>
+    <length units="minutes">22</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/08/9c799a6443c963f166065db690a38844994c3e95.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
