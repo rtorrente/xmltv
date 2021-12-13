@@ -43,6 +43,9 @@ jobs:
         run: sudo apt install xmltv
       - name: Clean old directory
         run: rm -R raw/*
+      - name: Display structure of downloaded files
+        run: ls -R
+        working-directory: raw
       - name: Download all artefacts
         uses: actions/download-artifact@v2
         with:
