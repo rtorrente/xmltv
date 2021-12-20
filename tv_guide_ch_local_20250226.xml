@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250225235500 +0100" channel="C59.api.telerama.fr" stop="20250226002000 +0100">
+    <title>I'm Not a Robot</title>
+    <desc lang="fr">Après plusieurs tentatives infructueuses pour compléter un CAPTCHA, Lara est confrontée à l'inquiétante question : est-elle un robot ? Aurait-elle été achetée par son petit ami ?</desc>
+    <credits>
+      <actor>Thekla Reuten</actor>
+      <actor>Juliette van Ardenne</actor>
+      <actor>Henry van</actor>
+      <actor>Ellen Parren</actor>
+      <actor>Sieger Sloot</actor>
+      <actor>Sophie Höppener</actor>
+      <actor>Joep Vermolen</actor>
+      <actor>Asma El Mouden</actor>
+      <writer>Victoria Warmerdam</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/182ccbdd6b9f4beb8fc000b0500af0f9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226001500 +0100" channel="C59.api.telerama.fr" stop="20250226003500 +0100">
+    <title>L'homme qui ne se taisait pas</title>
+    <desc lang="fr">Février 1993, Strpci, Bosnie-Herzégovine. Un train de passagers est arrêté par les forces paramilitaires. Alors qu'ils arrêtent des civils innocents, un seul homme sur les cinq cents passagers s'y oppose.</desc>
+    <credits>
+      <actor>Dragan Micanovic</actor>
+      <actor>Bogdan Goran</actor>
+      <actor>Alexis Manenti</actor>
+      <actor>Robert Ugrina</actor>
+      <actor>Dušan Gojić</actor>
+      <actor>Mijo Pavelko</actor>
+      <actor>Martin Kuhar</actor>
+      <actor>Silvio Mumelaš</actor>
+      <actor>Jakov Zovko</actor>
+      <actor>Lara Nekić</actor>
+      <actor>Nebojsa Pop Tasic</actor>
+      <actor>Priska Ugrina</actor>
+      <writer>Nebojša Slijepčević</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film : court métrage dramatique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/11/906ea95c2f63416a9020d29b65beecae.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226003500 +0100" channel="C59.api.telerama.fr" stop="20250226004500 +0100">
+    <title>Wander to Wonder</title>
+    <desc lang="fr">Mary, Billybud et Fumbleton sont les vedettes d'une série animée pour enfants des années 80 intitulée "Wander to Wonder". Après la mort du créateur, ils se retrouvent seuls dans le studio. S'efforçant de trouver de quoi manger, ils continuent à créer des épisodes, de plus en plus étranges, pour leurs fans.</desc>
+    <date>2023</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/17/1ce49525daa344faaee474548b8735f5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226004500 +0100" channel="C59.api.telerama.fr" stop="20250226010500 +0100">
+    <title>Un au-revoir à l'irlandaise</title>
+    <desc lang="fr">Dans une ferme d'Irlande du Nord, deux frères que tout oppose sont contraints de se retrouver à la mort prématurée de leur mère. Mais lorsque les frères découvrent la liste de voeux non réalisés de leur mère, le deuil prend une tout autre tournure.</desc>
+    <credits>
+      <actor>Paddy Jenkins</actor>
+      <actor>Seamus O'Hara</actor>
+      <actor>James Martin</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/41cb98f4479c45988b284023465d6277.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226010500 +0100" channel="C59.api.telerama.fr" stop="20250226013000 +0100">
+    <title>Haulout</title>
+    <desc lang="fr">Sur une côté isolée de l'Arctique sibérien, un scientifique attend le rassemblement de milliers de morses qui viennent se reproduire ici chaque année.</desc>
+    <credits>
+      <actor>Maxim Chakilev</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/12/86687e1ead1e456d87e7f49614021bba.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226013000 +0100" channel="C59.api.telerama.fr" stop="20250226015000 +0100">
+    <title>Feeling through</title>
+    <desc lang="fr">L'adolescent, Tereek, erre, seul, dans les rues de New York, à la recherche désespérée d'un endroit où dormir pour la nuit. Il rencontre Artie, un homme sourd et aveugle qui a besoin d'aide pour rentrer chez lui. Le début d'une histoire d'amitié...</desc>
+    <credits>
+      <actor>Steven Prescod</actor>
+      <actor>Francisco Burgos</actor>
+      <actor>Luis Antonio Aponte</actor>
+      <actor>Coffey</actor>
+      <actor>Alestair Shu</actor>
+      <actor>Jose Toro</actor>
+      <actor>Robert Tarango</actor>
+      <actor>Javier Rodriguez</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : court métrage dramatique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/05/104d9de4eca804157ffa7fa63696cdadef57b5d2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226015000 +0100" channel="C59.api.telerama.fr" stop="20250226015500 +0100">
+    <title>Our Uniform</title>
+    <desc lang="fr">Une animation nominée aux Oscars. Une femme raconte comment elle a dû porter un hijab pendant ses années d'école tout en découvrant son propre sentiment d'identité.</desc>
+    <date>2023</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/08/28/c3ca629995b840df84f4dde557883bd2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226015500 +0100" channel="C59.api.telerama.fr" stop="20250226022500 +0100">
+    <title>La femme et le TGV</title>
+    <desc lang="fr">Depuis plusieurs années, Elise salue de la main le TGV qui passe devant sa maison, chaque matin et chaque soir. Un jour, elle trouve une lettre du conducteur du train dans son jardin...</desc>
+    <credits>
+      <actor>Jane Birkin</actor>
+      <actor>Gilles Tschudi</actor>
+      <actor>Mathieu Bisson</actor>
+      <actor>Julie Dray</actor>
+      <actor>Manuela Biedermann</actor>
+      <actor>Lucien Guignard</actor>
+      <actor>Dorin Dragos</actor>
+      <actor>Viola von</actor>
+      <actor>Nicolas Heini</actor>
+      <writer>Timo von Gunten</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/24/45c3246cd6b356776c2aafabf7598174a0fad70a_3C56CB31D782243F514AFF9CF1F8AA39.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226022500 +0100" channel="C59.api.telerama.fr" stop="20250226030000 +0100">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/12/108128016f5a4e85bf38097935f1365e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226030000 +0100" channel="C59.api.telerama.fr" stop="20250226031500 +0100">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Granatöpfel - Tag 2</sub-title>
+    <desc lang="fr">Den zweiten Abend unter dem Motto "Granatöpfel" gestaltet Liridona. Die 33-Jährige lebt mit ihrer Familie in Matzingen TG. Wenn sie nicht gerade bastelt, ist sie am liebsten in der Küche kreativ. Bei ihr gibt es Lammkarree mit Granatapfelsauce, Kichererbsenpüree und Schafskäse mit Pistazienkruste.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/15/48ebc76595fe4ea1b4e02882af67899a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226031500 +0100" channel="C59.api.telerama.fr" stop="20250226033500 +0100">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/19/4a5928ea223740a095385def249eb8cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226033500 +0100" channel="C59.api.telerama.fr" stop="20250226041000 +0100">
+    <title>Puls</title>
+    <sub-title>Die Macht der Regeneration - Fitter dank Erholung und Ernährung</sub-title>
+    <desc lang="fr">Muskeln wachsen nicht während den Trainingseinheiten, sondern in den Pausen dazwischen. Die optimale Regeneration ist deshalb ein entscheidender Faktor im Sport. "Puls" zeigt, worauf es bei der Erholung ankommt und welche Hebel mit der richtigen Ernährung in Bewegung gesetzt werden können.</desc>
+    <category lang="fr">magazine médical</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/3b2f05378f242fc2d9e383ae15c1ca14abb80fac_1B3E9C9C57F96FA2E95F2A8C265AC488.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250226041000 +0100" channel="C59.api.telerama.fr" stop="20250226050500 +0100">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250225224000 +0100" channel="C183.api.telerama.fr" stop="20250226002000 +0100">
+    <title>L'Amour et les Forêts</title>
+    <desc lang="fr">Lors d'une soirée, Blanche rencontre le beau Grégoire dont elle tombe aussitôt amoureuse. La jeune femme, qui vit au bord de la mer avec sa mère et sa soeur jumelle, décide très vite de passer un cap en acceptant la proposition de son amoureux d'emménager avec lui dans l'Est de la France. D'abord fusionnelle et idyllique, la relation du couple change après la naissance de leurs deux enfants. Blanche découvre une facette de son mari qu'elle ne soupçonnait pas jusque-là. Grégoire devient possessif et très jaloux, allant jusqu'à espionner ses moindres faits et gestes, transformant sa vie en enfer...</desc>
+    <credits>
+      <actor>Romane Bohringer</actor>
+      <actor>Melvil Poupaud</actor>
+      <actor>Nathalie Richard</actor>
+      <actor>Marie Rivière</actor>
+      <actor>Dominique Reymond</actor>
+      <actor>Virginie Ledoyen</actor>
+      <actor>Philippe Uchan</actor>
+      <actor>Virginie Efira</actor>
+      <actor>Guang Huo</actor>
+      <actor>Zoé Lenoir</actor>
+      <actor>Lucien Thunin</actor>
+      <writer>Valérie Donzelli</writer>
+      <writer>Audrey Diwan</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/29/178eb04b5c56486e97e798302d6af539.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226002000 +0100" channel="C183.api.telerama.fr" stop="20250226005500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226005500 +0100" channel="C183.api.telerama.fr" stop="20250226013500 +0100">
+    <title>A bon entendeur</title>
+    <sub-title>Jeux vidéo : l'ère de l'abonnement</sub-title>
+    <desc lang="fr">L'industrie du jeu vidéo a rapporté plus de 170 milliards de chiffres d'affaires l'an passé. Si les jeux physiques ne représentent qu'une petite partie des ventes, de nouveaux modèles d'affaires émergent. Après les téléchargements, place aux catalogues de jeux par abonnement, sur le même modèle que la vidéo à la demande.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226013500 +0100" channel="C183.api.telerama.fr" stop="20250226015500 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226015500 +0100" channel="C183.api.telerama.fr" stop="20250226055500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="hours">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250225224500 +0100" channel="C202.api.telerama.fr" stop="20250226001500 +0100">
+    <title>Yellowstone</title>
+    <sub-title>La vie est une promesse</sub-title>
+    <desc lang="fr">Saison:5 - Episode:14 - Les enfants Dutton n'ont pas les moyens de payer les frais de succession. Kayce a alors l'idée de vendre le ranch à Rainwater et Mo pour une somme symbolique. Ainsi, les terres retourneront à leurs premiers propriétaires. Devenu une réserve protégée, ce territoire sera préservé à jamais de la convoitise...</desc>
+    <credits>
+      <director>Stephen Kay</director>
+      <actor>Kevin Costner</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Ryan Bingham</actor>
+      <actor>Jefferson White</actor>
+      <actor>Kelsey Chow</actor>
+      <actor>Finn Little</actor>
+      <actor>Brecken Merrill</actor>
+      <actor>Forrie J. Smith</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/05/365a6809271e4fe9a986ff91721cbf11.jpg" />
+    <episode-num system="xmltv_ns">4.13.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226001500 +0100" channel="C202.api.telerama.fr" stop="20250226022000 +0100">
+    <title>Adults in the Room</title>
+    <desc lang="fr">En 2015, Alexis Tsipras devient Premier ministre de la Grèce, pays en faillite. Economiste sans expérience politique, Varoufakis est nommé ministre des Finances et veut obtenir des créditeurs de son pays une restructuration de la dette grecque et des plans de réformes soutenables car l'austérité imposée par Bruxelles durant les cinq années précédentes n'a fait qu'aggraver la situation. La dette a grossi de 6% jusqu'à 473 Md€ d'euros tandis que les revenus nationaux ont décru de 26%. Mais il doit affrontrer son homologue allemand Wolfgang Schäuble, épaulé par le président de l'Eurogroupe Jeroen Dijsselbloem... - Critique : En 1969, dans Z, Costa-Gavras dénonçait la dictature des colonels, qui s’imposa en Grèce jusqu’en 1974. Aujourd’hui, le pays natal du cinéaste a bien changé. Plus d’assassinats, plus de disparitions ou d’emprisonnements arbitraires. C’est un pays démocratique… ou presque. Ce nouveau film rigoureux se heurte aux limites de nos illusions ­citoyennes. Face à la toute-puissance de l’économie libérale, le libre arbitre d’un peuple souverain ne semble plus valoir grand-chose. Cinquante ans après les colonels, la Grèce vit un autre genre de tragédie politique, une autre forme de domination, que Costa-­Gavras décortique brillamment.
+
+Retour en 2015, après la victoire de Syriza. La coalition de gauche hérite d’un pays en faillite, agonisant sous une dette monumentale, étranglé par les mesures d’austérité intenables qu’impose l’Union européenne. Sous la direction d’Alexis Tsipras, le nouveau gouvernement tente de sortir de ce marché de dupes et de renégocier des échéances raisonnables, qui permettraient à l’économie locale de se relever. Ou, tout au moins, à la population de ne pas tomber au-dessous du seuil de pauvreté.
+
+Interprété par un comédien très charismatique (Christos Loulis), le célè­bre ministre des Finances de l’époque, l’économiste Yánis Varoufákis, rappelle les héros de Z : aussi opiniâtre, aussi courageux que le furent ­jadis Jean-Louis Trintignant en juge ou Yves Montand en député. Sans jamais verser dans l’hagiographie, Adults in the room, adapté d’un livre de Varoufákis (qui finit par démissionner, en juillet 2015), prend résolument le parti des élus grecs contre des adversaires intraitables : l’Eurogroupe des ministres des Finances européens, et la redoutable « troïka » des fonctionnaires de la BCI, de la Commission européenne et du FMI. Ceux-là ne lâchent rien. ­Jamais. Ils méprisent, ils discréditent, ils manipulent. Ils règnent. Le film, construit comme un piège fatal, retrace la mise à mort politique d’un homme et de son peuple. Costa-Gavras réussit un tour de force : un thriller palpitant dans le huis clos des cabinets ministériels et des réunions de travail. Il se fait pédagogue sans jamais rien sacrifier de la complexité du sujet, en usant de toute la force du cinéma pour défen­dre sa cause. Y compris dans une scène d’estocade finale, déroutante et funèbre, où la violence du pouvoir économique mène littéralement la danse.</desc>
+    <credits>
+      <actor>Valeria Golino</actor>
+      <actor>Ulrich Tukur</actor>
+      <actor>Francesco Acquaroli</actor>
+      <actor>Daan Schuurmans</actor>
+      <actor>Aurélien Recoing</actor>
+      <actor>Christos Stergioglou</actor>
+      <actor>Alexandros Logothetis</actor>
+      <actor>Christos Loulis</actor>
+      <actor>Alexandros Bourdoumis</actor>
+      <actor>Dimitris Tarloou</actor>
+      <writer>Costa-Gavras </writer>
+      <guest>Christos Papadopoulos</guest>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/17008798_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250226022000 +0100" channel="C202.api.telerama.fr" stop="20250226023700 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226023700 +0100" channel="C202.api.telerama.fr" stop="20250226023800 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250226023800 +0100" channel="C202.api.telerama.fr" stop="20250226053000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">172</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
