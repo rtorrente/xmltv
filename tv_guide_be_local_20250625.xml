@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250624234500 +0200" channel="C50.api.telerama.fr" stop="20250625003000 +0200">
+    <title>Dans le peloton : l'hebdo</title>
+    <sub-title>Emission 18</sub-title>
+    <desc lang="fr">Dans le peloton vous plonge au cœur du cyclisme professionnel ! Chaque semaine, Vincenzo Ciuro et Gordon De Winter vous embarquent dans l'échappée avec une équipe de spécialistes composée de Philippe Gilbert, Frédéric Amorison &amp; Stéphane Thirion, ainsi que des invités de renom du monde du vélo. Du World Tour aux Classiques, des grands noms aux jeunes pépites du peloton, rien ne nous échappera. Attaques tranchantes, coups de poker tactiques, polémiques : nos experts vous feront le relais de l'actualité !</desc>
+    <category lang="fr">sport : cyclisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/3501ed72a143498c8469d5728f34e08d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625003000 +0200" channel="C50.api.telerama.fr" stop="20250625010000 +0200">
+    <title>La bande de Contact MAX</title>
+    <desc lang="fr">Envie de rire avec la bande de Contact MAX ? Retrouvez l'indétrônable Renaud Rutten, de retour sur les ondes avec une toute nouvelle équipe de raconteurs de blagues. La bande de Contact MAX promet de raviver la flamme d'une époque mémorable, en proposant une émission unique mêlant humour et convivialité.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/16/0036bc4ea56542049132a03a79210462.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625010000 +0200" channel="C50.api.telerama.fr" stop="20250625050000 +0200">
+    <title>Magazine Télé-achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="hours">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/6aad4f611e874bcf92b09167f67741e3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250624235900 +0200" channel="C164.api.telerama.fr" stop="20250625004300 +0200">
+    <title>Matlock *2024</title>
+    <sub-title>Message subliminal</sub-title>
+    <desc lang="fr">Saison:1 - Episode:15 - Olympia rêve d'une promotion et espère devenir la nouvelle associée du cabinet. Avec son équipe, elle doit mener une véritable course contre la montre pour faire retirer une boisson potentiellement dangereuse du marché...</desc>
+    <credits>
+      <director>Gina Lamar</director>
+      <actor>Kathy Bates</actor>
+      <actor>Patricia Belcher</actor>
+      <actor>Jason Ritter</actor>
+      <actor>David Del Rio</actor>
+      <actor>Skye P.</actor>
+      <actor>Andrea Londo</actor>
+      <actor>Leah Lewis</actor>
+      <actor>Dani Deetté</actor>
+      <actor>Ann Hu</actor>
+      <actor>Adam J. Jefferis</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">44</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/a25fd22751f04d0c8597686c9303e50a.jpg" />
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625004300 +0200" channel="C164.api.telerama.fr" stop="20250625005400 +0200">
+    <title>En quête de sens : Il était une foi</title>
+    <sub-title>Hemley Boom</sub-title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/dd22562e8ae2479b8f5a660bf5dd83bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625005400 +0200" channel="C164.api.telerama.fr" stop="20250625010600 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625010600 +0200" channel="C164.api.telerama.fr" stop="20250625011000 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625011000 +0200" channel="C164.api.telerama.fr" stop="20250625014300 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625014300 +0200" channel="C164.api.telerama.fr" stop="20250625024300 +0200">
+    <title>C'est pas fini</title>
+    <desc lang="fr">Patrick Weber épingle l'actualité. Avec une incroyable bande de débatteurs, il revient sur les moments forts de la journée dans la bonne humeur.</desc>
+    <category lang="fr">talk-show</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/3d7fad19c38449d5b071217b55afb7a9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625024300 +0200" channel="C164.api.telerama.fr" stop="20250625024500 +0200">
+    <title>Alors on sort ?</title>
+    <desc lang="fr">L'émission met à l'honneur les régions, leurs habitants, leurs langues régionales et leur humour. Un moment privilégié de proximité présenté par Fanny Jandrain, en compagnie d'un invité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/9957f1735ab64048a01d72209daf79e6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625024500 +0200" channel="C164.api.telerama.fr" stop="20250625025700 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625025700 +0200" channel="C164.api.telerama.fr" stop="20250625030000 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625030000 +0200" channel="C164.api.telerama.fr" stop="20250625055900 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">179</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250624233000 +0200" channel="C168.api.telerama.fr" stop="20250625002500 +0200">
+    <title>Histoires de crimes : portraits de tueurs</title>
+    <sub-title>Ed Gein</sub-title>
+    <desc lang="fr">Ed Gein est sans aucun doute l'un des criminels les plus troublants du XXe siècle. Originaire d'une ville du Wisconsin, aux Etats-Unis, cet homme a transformé sa ferme en véritable musée de l'horreur. Ce nécrophile a déterré des corps et utilisé des morceaux de peau pour fabriquer toutes sortes d'objets.</desc>
+    <category lang="fr">documentaire justice</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/f5d428d5b36047678ddbbd42d6e05e1b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625002500 +0200" channel="C168.api.telerama.fr" stop="20250625003000 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/f385553d592841e993034cff5f14ad91.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625003000 +0200" channel="C168.api.telerama.fr" stop="20250625011000 +0200">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'ensemble des équipes de la rédaction se mobilise afin de donner aux téléspectateurs les informations les plus fraîches lors de chaque édition de son journal quotidien.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/087e887dff9e44199db652ba12bbff55.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625011000 +0200" channel="C168.api.telerama.fr" stop="20250625030000 +0200">
+    <title>Moments d'évasion</title>
+    <desc lang="fr">Une invitation à l'évasion et au rêve, destinée à toutes les générations, à la découverte de nombreuses merveilles, aux quatre coins du monde.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/edb02ee559874ed0912cf86643289f63.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625030000 +0200" channel="C168.api.telerama.fr" stop="20250625050000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Retrouvez le programme diffusé en boucle du journal, des magazines, des séries pendant toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/67b7101ffd6e4238a5823c499ba84410.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250624224600 +0200" channel="C187.api.telerama.fr" stop="20250625004000 +0200">
+    <title>Rémi sans famille</title>
+    <desc lang="fr">La douce madame Barberin est désespérée quand son mari ne veut plus que le petit Rémi vive sous leur toit. Dans une auberge où il a trouvé refuge, le petit garçon est sauvé par Vitalis, un artiste ambulant. Il donne de l'argent à Barberin et embarque Rémi avec lui sur les routes. A ses côtés, Rémi va se découvrir un talent pour le chant. Accompagné du fidèle chien Capi et du petit singe Joli-Coeur, le duo va traverser la France. Ils rencontrent bientôt Lise, une jeune handicapée, et sa maman. Ces dernières semblent avoir retrouvé la trace des parents de Rémi, qui se trouveraient à Londres...</desc>
+    <date>2018</date>
+    <category lang="fr">film pour la jeunesse</category>
+    <length units="minutes">114</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/927b7d8f249742fb899847b500b9fc18.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250625004000 +0200" channel="C187.api.telerama.fr" stop="20250625010700 +0200">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès confirmé sont réunis pour le plus grand plaisir des téléspectateurs, avec des captations ici proposées.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">27</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/08/67d35100f21c50a5c3a7e4ef6f95920e8fcae24a_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625010700 +0200" channel="C187.api.telerama.fr" stop="20250625060000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">293</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/4561dd784aba4f1fb931ecb9920ca1c0.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250624233000 +0200" channel="C377.api.telerama.fr" stop="20250625050000 +0200">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">330</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/03/b07eade200ce6558af7f538efc7afe5124a83fee_F1CDED88B91D18A615C4D9DD7E72A028.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250624233300 +0200" channel="C892.api.telerama.fr" stop="20250625003400 +0200">
+    <title>Réinventer sa ville</title>
+    <desc lang="fr">En 2050, plus de la moitié de la population mondiale vivra en ville. Ces métropoles, responsables de 70% des émissions planétaires de gaz à effet de serre, sont au cœur du défi climatique. En Europe, des solutions innovantes émergent. Plusieurs villes européennes ont pris les devants en collaborant directement avec les citoyens les plus vulnérables : femmes, personnes en situation de handicap, enfants et personnes âgées. Ensemble, ils ont pu exprimer leurs besoins et travailler main dans la main avec les autorités pour trouver des solutions durables et inclusives, améliorant ainsi la qualité de l'air mais aussi de la vie en ville.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">61</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/dad89d70964e472aa5962727d6ea10c4.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625003400 +0200" channel="C892.api.telerama.fr" stop="20250625010300 +0200">
+    <title>OpinionS : CSC</title>
+    <desc lang="fr">L'émission TV de la CSC diffusée sur les antennes de la RTBF.</desc>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">29</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/21/d2693dead9f148ee8de18662fe080424.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625010300 +0200" channel="C892.api.telerama.fr" stop="20250625013500 +0200">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">32</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/d2f2b75ad9f04f608cfb85ce3948d396.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625013500 +0200" channel="C892.api.telerama.fr" stop="20250625055900 +0200">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">264</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/14/0992273c68da38635776091d45afc82cfc60d62b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

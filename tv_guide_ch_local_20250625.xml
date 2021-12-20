@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250624234000 +0200" channel="C59.api.telerama.fr" stop="20250625001000 +0200">
+    <title>FC Surprise - Mehr als ein Spiel</title>
+    <desc lang="fr">Das Strassenfussballteam von Surprise bringt Menschen in schwierigen Lebenslagen zusammen. Der Grossteil der Spieler arbeitet als Verkäufer des gleichnamigen Strassenmagazins. Die Mannschaftsmitglieder erzählen aus ihrem Leben und erklären, was ihnen diese spezielle Form des Fussballspiels bedeutet.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/17/59d07588bbe84d5fbedd1ee6220bd2b6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625001000 +0200" channel="C59.api.telerama.fr" stop="20250625003000 +0200">
+    <title>Mitglied</title>
+    <desc lang="fr">Mitglied oder ohne? Das ist die Frage. Rolf Hellats vergnüglicher und grösstenteils improvisierter Kurzfilm lädt ein in die Vereinswelt einer Guggenmusik. So sehr sich die Leiterin für die Einhaltung der Traktanden einsetzt, so sehr mischt die Diskussion über gendergerechte Sprache die GV auf.</desc>
+    <credits>
+      <actor>Yann Schmidhalter</actor>
+      <actor>Giorgina Hämmerli</actor>
+      <writer>Rolf Hellat</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film : court métrage dramatique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/b70f11c5682a4597a7c7ad12d375028f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625003000 +0200" channel="C59.api.telerama.fr" stop="20250625003500 +0200">
+    <title>My Exercise</title>
+    <desc lang="fr">Un garçon fait de l'exercice avec son chien.</desc>
+    <date>2022</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/32199562af4f4fcb93b99cbe31d86b2f.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625003500 +0200" channel="C59.api.telerama.fr" stop="20250625004500 +0200">
+    <title>Black Slide</title>
+    <desc lang="fr">Eviah, un jeune garçon timide au seuil de la puberté, se faufile dans le Toboggan Noir, le manège le plus terrifiant du parc d'attractions "Aqua Fun", en compagnie de son meilleur copain. Sur place, Eviah va gagner en maturité, assez pour le préparer aux événements autrement périlleux sur le point de se dérouler chez lui.</desc>
+    <date>2021</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/2e415d016dd045939179be974e4208d8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625004500 +0200" channel="C59.api.telerama.fr" stop="20250625005000 +0200">
+    <title>Glenn, The Great Nature Lover</title>
+    <desc lang="fr">Glenn aime la nature. Un jour, alors qu'il observe les oiseaux, il rencontre l'amour de sa vie. Ensemble, ils décident de vivre en pleine nature, dans la forêt.</desc>
+    <date>2023</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/af1d598330f04898a0bd18474a7f78a3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625005000 +0200" channel="C59.api.telerama.fr" stop="20250625010000 +0200">
+    <title>Meat Puppet</title>
+    <desc lang="fr">L'âme d'Oz, qui a raté la remise de diplôme de sa petite amie parce qu'il s'amusait, est emprisonnée par une marionnette. Pour la sauver, Oz doit grandir.</desc>
+    <credits>
+      <actor>Gregg Chillin</actor>
+      <actor>Jonsson David</actor>
+      <actor>Máiréad Tyers</actor>
+      <writer>Eros V</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film : court métrage</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/ea1c714362544adfab0d3a7f58aae10d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625010000 +0200" channel="C59.api.telerama.fr" stop="20250625011000 +0200">
+    <title>Zoon</title>
+    <desc lang="fr">Dans un sombre marécage vivent de curieux amphibiens, les axolotls. La nuit, ils s'adonnent à des jeux érotiques. C'est alors que des bipèdes $les découvrent.</desc>
+    <date>2022</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/4644f3d6d3b1412eb93609f68d4d8784.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625011000 +0200" channel="C59.api.telerama.fr" stop="20250625014000 +0200">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/eb7793fd090545bdbdd140bf8342a2cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625014000 +0200" channel="C59.api.telerama.fr" stop="20250625024000 +0200">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625024000 +0200" channel="C59.api.telerama.fr" stop="20250625025500 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Fladebrot - Tag 2</sub-title>
+    <desc lang="fr">Eveline verwöhnt ihre Gäste mit Chicken Curry, verfeinert mit Pistazien, schwarzem Pfeffer und Fladenbrot. Kochen ist für sie ein Weg, Menschen Freude zu schenken. Auch abseits der Küche steckt sie viel Liebe in Kreationen, die Trost und Geborgenheit spenden.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625025500 +0200" channel="C59.api.telerama.fr" stop="20250625032500 +0200">
+    <title>Samschtig-Jass</title>
+    <sub-title>Frauen-Fussball-Power am Jasstisch der Nation</sub-title>
+    <desc lang="fr">Grüner Jasstisch statt grüner Rasen: Fabienne Humm, ehemalige FCZ-Stürmerin aus dem Aargau, zeigt im "Samschtig-Jass" ihre Jasskünste. Die Show-Bühne in der Eventalp Stetten gehört BLISS; die A Capella-Formation unterhält das Jass-Publikum mit viel Charme und Witz.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/0dbecb2b0c844c9db19e60aeb7f84410.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625032500 +0200" channel="C59.api.telerama.fr" stop="20250625034500 +0200">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/e4eb613e5d9c485b8a8087acd54cc771.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625034500 +0200" channel="C59.api.telerama.fr" stop="20250625040000 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625040000 +0200" channel="C59.api.telerama.fr" stop="20250625045500 +0200">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250625045500 +0200" channel="C59.api.telerama.fr" stop="20250625055500 +0200">
+    <title>Sternstunde Philosophie</title>
+    <sub-title>Steve Ayan</sub-title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/dbbf7c0df49340a1b795d289b49dd21a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250624232000 +0200" channel="C183.api.telerama.fr" stop="20250625004500 +0200">
+    <title>L'âme du tigre</title>
+    <desc lang="fr">Alex, trentenaire parisien franco-chinois, tutoie les montagnes avec sa petite amie, tous deux insouciants et avides de liberté. Alors que son frère disparaît mystérieusement, il retourne dans le quartier chinois de Paris, qui lui paraît si étranger. Il renoue avec les traditions de son père dont il s'est éloigné. Grâce à l'aide de sa troublante cousine, il poursuit sa quête de vérité pour mieux connaître sa famille et son frère. Petit à petit, apprivoisant sa culture d'origine, il tente de se réconcilier avec les siens...</desc>
+    <credits>
+      <actor>Marianne Basler</actor>
+      <actor>Bing Yin</actor>
+      <actor>Ariane Wang</actor>
+      <actor>Frédéric Siuen</actor>
+      <actor>Tien Shue</actor>
+      <actor>Audrey Bastien</actor>
+      <actor>Yves Yan</actor>
+      <actor>Jean-Marie Scholastique</actor>
+      <actor>Cédric Leproust</actor>
+      <actor>Yelu Bao</actor>
+      <actor>Jean Sluen</actor>
+      <actor>Xin Wang</actor>
+      <writer>Marcel Beaulieu</writer>
+      <writer>François Yang</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/ba6795123d3d43809069f4968a7e4f4e.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625004500 +0200" channel="C183.api.telerama.fr" stop="20250625011500 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Placements financiers : des conseils qui laissent à désirer</sub-title>
+    <desc lang="fr">Les Suisses sont très nombreux à placer leur pécule dans les établissements bancaires du pays. Mais à quel point les conseils de nos banquiers sont-ils fiables ?</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625011500 +0200" channel="C183.api.telerama.fr" stop="20250625013000 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625013000 +0200" channel="C183.api.telerama.fr" stop="20250625055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250624232500 +0200" channel="C202.api.telerama.fr" stop="20250625002000 +0200">
+    <title>Rapa</title>
+    <desc lang="fr">Saison:3 - Episode:6 - Après la libération de Lúa, les membres de la famille Támoga doivent prendre une décision difficile concernant l'avenir de leur entreprise. Inma, la mère de Lúa, et Lilith ont des avis opposés. Il revient à Jonás, ravi de la réussite de son plan, de les départager. De son côté, Lúa se bat pour surmonter le traumatisme lié à son enlèvement. Maite a enfin du temps à consacrer à Tomás et l'accompagner, avec Tacho, dans ses derniers jours. Cependant, Tomàs est toujours déterminé à découvrir la vérité au sujet Antón et résoudre sa dernière affaire...</desc>
+    <credits>
+      <director>Jorge Coira</director>
+      <actor>Javier Cámara</actor>
+      <actor>Miguel de</actor>
+      <actor>Mónica López</actor>
+      <actor>Manuel Xosé</actor>
+      <actor>Aida Oset</actor>
+      <actor>Diego Anido</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Castaño Cristina</actor>
+      <actor>Darío Loureiro</actor>
+      <actor>Fernando Fraga</actor>
+      <actor>Adrían Ríos</actor>
+      <actor>Eva Barreiro</actor>
+      <writer>Pepe Coira</writer>
+      <writer>Fran Araújo</writer>
+      <writer>Clara Coira</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/2a5062d8fa624cbea29c9a3854d5ab35.jpg" />
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625002000 +0200" channel="C202.api.telerama.fr" stop="20250625015500 +0200">
+    <title>Marinette</title>
+    <desc lang="fr">Marinette Pichon grandit dans un environnement familial toxique, avec un père violent. Pour y échapper, elle se réfugie dans le football. Subissant les moqueries en tout genre, elle se forge peu à peu le caractère, tout en développant une grande aisance avec le ballon rond. Le football féminin n'étant pas professionnel, Marinette est obligée de multiplier les petits boulots pour continuer à s'entraîner. Jusqu'au jour où elle est convoquée en équipe de France afin de participer au championnat d'Europe. C'est à ce moment-là qu'un club professionnel américain la repère et décide de la faire signer. Elle s'envole aux côtés de sa mère pour réaliser son rêve de toujours. - Critique : Marinette : un titre tendre pour une sportive au nom encore bien méconnu. Il faut sans doute être fan de football pour savoir que Marinette Pichon est une grande championne, au palmarès inouï – elle détenait jusqu’en 2020 le record du nombre de buts marqués en Equipe de France, hommes et femmes confondus. Ce biopic, second long métrage de Virginie Verrier (À deux heures de Paris), vient réparer de fort belle manière le manque de reconnaissance et l’invisibilité dont cette femme a pâti. En révélant son parcours pour le moins édifiant, digne à la fois d’un roman de Zola et d’un conte de fées.
+
+Elle est encore toute petite lorsqu’elle se sent irrémédiablement attirée par le ballon rond, source de passion joyeuse. Ce sont les années 80, époque où, pour une fille, il est encore très rare et mal vu de pratiquer le foot. Deux esprits bienveillants vont jouer un rôle décisif : sa mère (Émilie Dequenne), courageuse, indifférente au qu’en-dira-t-on, et un entraîneur (Fred Testot), lui aussi sans œillères, qui l’encourage, en détectant tôt son talent d’attaquante. Marinette joue alors avec les garçons, au Saint-Memmie Olympique, un club de la Marne. Tout pourrait couler de source, sauf qu’à la maison un véritable enfer l’attend. Son père, alcoolique violent, cogne sa mère, tente de violer sa belle-mère. Avant d’être arrêté, jugé et envoyé en prison.
+
+Marinette dépasse largement le cadre strict du sport pour mettre en lumière, avec justesse et sobriété, un destin exceptionnel. Celui d’une jeune fille frondeuse qui a dû surmonter maintes épreuves et préjugés pour s’affirmer comme joueuse et progresser vers le haut niveau. Sans craindre de faire son coming out. Sans craindre, non plus, de dire haut et fort l’inégalité de traitement entre hommes et femmes, le manque de considération des hautes instances du foot, l’absence scandaleuse de statut professionnel. C’est son engagement, sur la scène publique comme sur le terrain, qui est ici loué. Côté pelouse, le pari était périlleux. Car reproduire les actions de jeu, les buts marquants de Marine, est une tâche quasi impossible. La réalisatrice recourt à l’ellipse et aux plans serrés, qui lui permettent de privilégier les qualités individuelles de la joueuse au bandeau, sa rage de vaincre et son enthousiasme.
+
+Ne pas croire qu’une fois lancée, la carrière sportive de Marinette Pichon a été un long fleuve tranquille. Elle atteint certes la gloire lorsqu’elle est recrutée par un grand club américain – son arrivée à Philadelphie, avec sa mère, tient de l’enchantement. Mais elle connaît, par la suite, d’autres déboires. Cette héroïne enfin révélée au grand jour, Garance Marillier l’incarne à merveille. L’actrice formidable de Grave (de Julia Ducournau, en 2016) fait ici son retour au premier plan. Elle est non seulement crédible en footballeuse, mais fine et émouvante, dans ses rencontres amoureuses comme dans l’adversité. En faisant passer le formidable élan d’une battante victorieuse.</desc>
+    <credits>
+      <actor>Serge Dupire</actor>
+      <actor>Sylvie Testud</actor>
+      <actor>Caroline Proust</actor>
+      <actor>Émilie Dequenne</actor>
+      <actor>Fred Testot</actor>
+      <actor>Alban Lenoir</actor>
+      <actor>Franck Andrieux</actor>
+      <actor>Garance Marillier</actor>
+      <actor>Louisa Chas</actor>
+      <actor>Benard June</actor>
+      <actor>Éloïse Bernazzi</actor>
+      <actor>Yamé Pertzing</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film : biographie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/ad54f8a128dc42db9ff4ea9df93deaae.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250625015500 +0200" channel="C202.api.telerama.fr" stop="20250625021200 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625021200 +0200" channel="C202.api.telerama.fr" stop="20250625021300 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250625021300 +0200" channel="C202.api.telerama.fr" stop="20250625053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">197</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
