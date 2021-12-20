@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250107225500" channel="C59.api.telerama.fr" stop="20250108010000">
+    <title>Les Leçons persanes</title>
+    <desc lang="fr">Alors que les rafles s'enchaînent dans une France sous occupation, Gilles tombe à son tour dans les griffes des Allemands. Condamné à être fusillé, il parvient à amadouer ses bourreaux grâce à un mensonge, jurant qu'il est originaire de Perse et non pas juif, et échappe ainsi à une mort certaine. En effet, un gradé de la Wehrmacht entreprend d'ouvrir un café à Téhéran sitôt le conflit terminé et espère apprendre la langue persane à ses côtés. Dos au mur, Gilles doit éviter un faux-pas qui pourrait être fatal. A partir de là, il va passer ses nuits à créer de toutes pièces une langue qu'il pourra ensuite enseigner à son sauveur... - Critique : De la balourdise à l’obscénité, il n’y a qu’un pas et le réalisateur le franchit à plusieurs reprises, notamment lors d’un plan aérien sur une charrette emmenant des corps nus vers un four crématoire. Cette épouvantable fiction concentrationnaire, pétrie de romanesque et de mouvements de caméra irréfléchis, repose sur une intrigue qui, en huis-clos ou peut-être au théâtre, aurait pu donner lieu à une variation dantesque des Mille et Une Nuits : jour après jour, un déporté juif se faisant passer pour un Persan (Nahuel Pérez Biscayart) enseigne une langue imaginaire à un nazi (Lars Eidinger) persuadé d’apprendre le farsi. Las, le film fait une large place à d’infectes intrigues secondaires (les amourettes des soldats SS, entre deux pulsions sadiques) et prend des libertés inexplicables : le camp s’inspire du Struthof, en Alsace, mais on y voit la porte d’entrée de Buchenwald… À fuir.</desc>
+    <credits>
+      <actor>Alexander Beyer</actor>
+      <actor>Andreas Hofer</actor>
+      <actor>Peter Beck</actor>
+      <actor>Lars Eidinger</actor>
+      <actor>Antonin Chalon</actor>
+      <actor>Marcus Calvin</actor>
+      <actor>Leonie Benesch</actor>
+      <actor>Nahuel Pérez</actor>
+      <actor>Schillaci Giuseppe</actor>
+      <actor>Jonas Nay</actor>
+      <actor>David Schütter</actor>
+      <actor>Luisa-Céline Gaffron</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/e5251ea48e8647f49b3f4b5f7cc371b4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250108010000" channel="C59.api.telerama.fr" stop="20250108014000">
+    <title>Kassensturz</title>
+    <sub-title>Arbeiten im Praktikum - Ausbeutung statt Ausbildung?</sub-title>
+    <desc lang="fr">Sie erhalten kaum Ausbildung und werden als billige Arbeitskraft ausgenutzt. Sich wehren ist schwierig, erzählen Praktikantinnen in "Kassensturz". Weitere Themen: Elektrorasierer im Test und 50 Jahre Konsumentensendung "Espresso" am Radio.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/108128016f5a4e85bf38097935f1365e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250108014000" channel="C59.api.telerama.fr" stop="20250108025500">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/09/290a1603ddbf4030ba82c106d7024b9c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250108025500" channel="C59.api.telerama.fr" stop="20250108031000">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Öppis Günschtigs - Tag 2</sub-title>
+    <desc lang="fr">Metzger Simon lädt ein zu sich ins Mehrgenerationenhaus. Der Vater und Guggenmusiker serviert Kürbis-Kartoffel-Tätschli und Hackbraten nach Grossmutterart, begleitet von frischem Gemüse. Er ist ein absoluter Fleischliebhaber mit einem Faible für Achterbahnen, der heute sein Können am Herd zeigt.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/18/28a7471056314ce291fd4f1840fcaf47.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250108031000" channel="C59.api.telerama.fr" stop="20250108040500">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250108235500" channel="C59.api.telerama.fr" stop="20250109000500">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250107233000" channel="C183.api.telerama.fr" stop="20250108001000">
+    <title>A bon entendeur</title>
+    <sub-title>Services des skis : quelle qualité ?</sub-title>
+    <desc lang="fr">La saison de ski alpin est lancée. Cette année encore les prix des abonnements ont grimpé. Jusqu'où ces tarifs peuvent-ils aller ? Il faut aussi prévoir un budget en plus pour entretenir ses skis, l'aiguisage des carres et le fartage. Enquête sur les services d'une dizaine de magasins spécialisés en Suisse romande.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108001000" channel="C183.api.telerama.fr" stop="20250108003000">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108003000" channel="C183.api.telerama.fr" stop="20250108045500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250107235500" channel="C202.api.telerama.fr" stop="20250108014500">
+    <title>Heroic Losers</title>
+    <desc lang="fr">En 2001, l'Argentine est plongée dans une crise profonde. Fermin, une ancienne star du football, sa femme Lidia, et son ami Antonio décident de s'associer pour remettre sur pied un silo à grain abandonné et relancer une ferme avec les habitants du coin. Ensemble, ils réunissent de l'argent afin de monter une coopérative et voient cette somme bloquée par le Corralito, des mesures gouvernementales d'austérité si radicales qu'elles empêchent les clients de disposer librement de liquidités. Fermin apprend que son banquier a laissé Manzi, l'un de ses amis, retirer une fortune en dollars, dont l'argent de la coopérative. Avec ses amis, il va tenter de récupérer l'argent volé... - Critique : Inédit en France, le cinquième long métrage de Sebastián Borensztein (El Chino, 2011) débute en août 2001, en Argentine, quelques semaines avant les mesures d’austérité radicales décrétées par le gouvernement au plus fort de la crise économique — entre autres, l’interdiction des retraits d’argent supérieurs à 250 pesos par semaine. Cherchant à fonder une coopérative agricole, les habitants du village d’Alsina, nostalgiques du péronisme, visant la justice sociale, voient leurs fonds bloqués à cause d’un banquier véreux et d’un avocat marron… Comparé par la presse étrangère à Ocean’s Eleven (2001), le film rappelle en effet l’œuvre de Steven Soderbergh, aussi bien pour la décontraction élégante de la mise en scène que pour la cinéphilie du scénario — l’astuce du braquage provient de Comment voler un million de dollars (William Wyler, 1966). Mais cette revanche du prolétariat rural s’apparente, en fait, davantage à Logan Lucky (2017).
+
+Heroic Losers possède l’une des qualités des meilleurs films de casse, à savoir le fétichisme technique : l’électricité, en l’occurrence, puisqu’il s’agit de couper le courant de l’alarme d’une chambre forte, également alimentée par une batterie de secours. Le réalisateur peine, en revanche, avec sa multitude de braqueurs, aussi nombreux qu’une équipe de foot. Sans doute le magnétisme de Ricardo Darín, le plus célèbre des acteurs argentins, attire-t-il trop la caméra au détriment de ses camarades.</desc>
+    <credits>
+      <actor>Luis Brandoni</actor>
+      <actor>Verónica Llinás</actor>
+      <actor>Daniel Aráoz</actor>
+      <actor>Ricardo Darín</actor>
+      <actor>Andrés Parra</actor>
+      <actor>Chino Darín</actor>
+      <actor>Germán Rodríguez</actor>
+      <actor>Guillermo Jacubowicz</actor>
+      <actor>Ramiro Vayo</actor>
+      <actor>Alejandro Gigena</actor>
+      <actor>Martha Piatigorsky</actor>
+      <actor>Carlos Jorge</actor>
+      <writer>Eduardo Sacheri</writer>
+      <writer>Sebastián Borensztein</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/17/4403e775174946579fff831ab519c411.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250108014500" channel="C202.api.telerama.fr" stop="20250108020400">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108020400" channel="C202.api.telerama.fr" stop="20250108020500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108020500" channel="C202.api.telerama.fr" stop="20250108043000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">145</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108233500" channel="C202.api.telerama.fr" stop="20250108235400">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108235400" channel="C202.api.telerama.fr" stop="20250108235500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250108235500" channel="C202.api.telerama.fr" stop="20250109043000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">275</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
