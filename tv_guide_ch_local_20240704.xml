@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20240704000000 +0200" channel="C59.api.telerama.fr" stop="20240704001000 +0200">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704001000 +0200" channel="C59.api.telerama.fr" stop="20240704024500 +0200">
+    <title>Outlander</title>
+    <sub-title>Ich bin nicht allein</sub-title>
+    <desc lang="fr">Saison:6 - Episode:8 - Richard Brown et ses hommes sont déterminés à s'emparer de Claire. Jamie et sa femme, assiégés dans leur maison, tentent de résister. Tom Christie se portant garant de leur sécurité, les époux se rendent. Ils sont conduits vers Wilmington afin d'y être jugés.</desc>
+    <credits>
+      <director>Jamie Payne</director>
+      <actor>John Bell</actor>
+      <actor>Chris Larkin</actor>
+      <actor>Jack Tarlton</actor>
+      <actor>Tim Faraday</actor>
+      <actor>Simon Baker</actor>
+      <actor>Glen Gould</actor>
+      <actor>Sam Heughan</actor>
+      <actor>Richard Rankin</actor>
+      <actor>Caitriona Balfe</actor>
+      <actor>Sophie Skelton</actor>
+      <actor>Mark Lewis</actor>
+      <actor>Caitlin O'Ryan</actor>
+      <writer>Schelhaas Luke</writer>
+      <writer>Berrow Danielle</writer>
+      <writer>Diana Gabaldon</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">155</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/30/39a740ab57534e1eb2db25fa8a9dd190.jpg" />
+    <episode-num system="xmltv_ns">5.7.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704024500 +0200" channel="C59.api.telerama.fr" stop="20240704041500 +0200">
+    <title>Die Rückkehr der Wildnis - Reno Sommerhalders Suche nach der intakten Natur</title>
+    <sub-title>Reno Sommerhalders Suche nach der intakten Natur</sub-title>
+    <desc lang="fr">Ein beglückender Moment für Reno Sommerhalder: In seiner kanadischen Wahlheimat Banff werden Bisons ausgewildert - 130 Jahre nachdem sie dort ausgemerzt worden waren. Vielleicht wird auch im Solothurner Jura der Europäische Bison, der Wisent, erneut heimisch. Reno Sommerhalder reist in den Osten Polens, nach Bialowieza, wo 1952 die ersten Zoo-Wisente in die freie Wildbahn entlassen worden sind.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/26/d43126d36bd74ced928351653a19f35d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704041500 +0200" channel="C59.api.telerama.fr" stop="20240704043000 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Summergmües - Tag 3</sub-title>
+    <desc lang="fr">Birmenstorf AG ist der Wohnort von Korina. Das Herzstück von ihrem Zuhause ist der grosse Garten, in dem sie am liebsten ihre Freizeit verbringt. Sie ist verheiratet, hat zwei erwachsene Kinder und führt eine Naturheilpraxis. Ihre Gäste verwöhnt sie mit einer Gemüsewähe und einem bunten Salat.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/08/0e38713aff5b41c7aad684f75356f2eb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704043000 +0200" channel="C59.api.telerama.fr" stop="20240704045500 +0200">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/27/3dbc15e1d6553d833fc8c4f81e04894cbb493abf_0D5D00E6648D236B2BF6C7949D394F8F.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704045500 +0200" channel="C59.api.telerama.fr" stop="20240704050500 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>FR, BE, SO, AG, LU, ZG, ZH, SG, TG</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704050500 +0200" channel="C59.api.telerama.fr" stop="20240704055500 +0200">
+    <title>SRF Retro Quiz</title>
+    <sub-title>mit Walter Andreas Müller</sub-title>
+    <desc lang="fr">Ein Rateteam beantwortet in früheren Shows gestellte Fragen. Richtig ist die Antwort, die damals stimmte, nicht was heute korrekt wäre.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/04/6db3899cf5fe5a45c9ff0cd9e0ea33163b06d637.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704055500 +0200" channel="C59.api.telerama.fr" stop="20240704062500 +0200">
+    <title>nano</title>
+    <sub-title>Die Welt von morgen</sub-title>
+    <desc lang="fr">Wissenschaftliche Themen werden für jedermann verständlich aufgearbeitet und in dieser Sendung präsentiert. Schon seit Dezember 1999 erfreut sich das Magazin großer Beliebtheit. In den Bereichen Technik, Medizin, Wissenschaft und Forschung gibt es immer wieder neue Erkenntnisse, Durchbrüche und innovative Ideen. Vieles davon bewirkt spürbare Veränderungen in unser aller Alltagsleben.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/25/13a0072643e810619ed430f4a3e45adcad1e9ddf.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20240704001500 +0200" channel="C183.api.telerama.fr" stop="20240704003500 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/d69dcdf40bd411eb59df1f9836a61ea3470d5d2a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20240704003500 +0200" channel="C183.api.telerama.fr" stop="20240704055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">320</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20240704055500 +0200" channel="C183.api.telerama.fr" stop="20240704070000 +0200">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/2eb1a90611564ab292259b2050d3b253.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20240704005000 +0200" channel="C202.api.telerama.fr" stop="20240704010700 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/d69dcdf40bd411eb59df1f9836a61ea3470d5d2a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20240704010700 +0200" channel="C202.api.telerama.fr" stop="20240704010800 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20240704010800 +0200" channel="C202.api.telerama.fr" stop="20240704053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">262</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20240704053000 +0200" channel="C202.api.telerama.fr" stop="20240704060000 +0200">
+    <title>La Suisse vue du ciel</title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/09/12/8038cc7ce2c9f2781747a838ae4374ae6437c19a.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>
