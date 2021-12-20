@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250113235000" channel="C111.api.telerama.fr" stop="20250114013500">
+    <title>La Mécanique des choses</title>
+    <desc lang="fr">Comment réparer l'irréparable ? Un focus sur les options envisagées pour y parvenir à travers une série d'histoires aussi dramatiques que loufoques. - Critique : Comme le chat d’Alessandra Celesia, au train arrière paralysé après sa chute du huitième étage, une douzaine d’hommes et de femmes esquintés par la vie mais résolus à recouvrer l’usage de leurs deux jambes s’envolent vers la Chine pour s’y faire opérer. La tentative révolutionnaire de régénération de la moelle épinière effectuée sur eux aurait pu donner lieu à l’un de ces « documentaires santé » dont la télévision fait son ordinaire. La réalisatrice du Libraire de Belfast en a tiré, a contrario, un essai d’une grande liberté et d’un bel onirisme, qui explore avec beaucoup d’inventivité et de délicatesse l’idée même de réparation. Convoquant les moyens du cinéma jusque dans la reconstitution inspirée d’une scène traumatique, elle confirme l’originalité de son talent dans ce film très singulier.</desc>
+    <credits>
+      <director>Alessandra Celesia</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/c7aefca4c6b74886a8372b404db998b1.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250114013500" channel="C111.api.telerama.fr" stop="20250114033400">
+    <title>La flûte enchantée</title>
+    <desc lang="fr">Après la mort de son père, Tim quitte Londres pour les Alpes autrichiennes afin d'intégrer la prestigieuse école Mozart Music. Aux côtés de son ami Paolo, il découvre les joies - notamment Sophie et le chant -, mais aussi les peines - la brute Anton et sa clique -, du pensionnat. Un soir, alors qu'il feuillette dans son lit un exemplaire de "La flûte enchantée" des entités magiques s'échappent du livre sous la forme de petites sphères bleues et orange. De leur voix fluette, elles le conduisent dans la bibliothèque du campus jusqu'à l'imposante horloge. Celle-ci se révèle être une porte secrète menant vers l'univers fantastique de l'opéra de Mozart, où l'imagination n'a pas de limites…</desc>
+    <credits>
+      <director>Florian Sigl</director>
+      <actor>F. Murray</actor>
+      <actor>Stéfi Celma</actor>
+      <actor>Rolando Villazón</actor>
+      <actor>Stefan Konarske</actor>
+      <actor>Iwan Rheon</actor>
+      <actor>Sabine Devieilhe</actor>
+      <actor>Wolfe Jack</actor>
+      <actor>Niamh McCormack</actor>
+      <actor>Elliot Courtiour</actor>
+      <actor>Asha Banks</actor>
+      <actor>Morris Robinson</actor>
+      <writer>Andrew Lowery</writer>
+      <writer>David White</writer>
+      <writer>Jason Young</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film d'aventures</category>
+    <length units="minutes">119</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/13/92c211843ac44a3e95e8f2b2c1965d1d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114033400" channel="C111.api.telerama.fr" stop="20250114041500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">41</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114041500" channel="C111.api.telerama.fr" stop="20250114043500">
+    <title>Une info, deux opinions</title>
+    <sub-title>Jeux olympiques et enjeux politiques</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Les Jeux olympiques rassemblent athlètes et spectateurs autour de valeurs telles que le fair-play ou le dépassement de soi. Mais certains y voient aussi des intérêts politiques.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/7fc0554569304e118c3697f9bec8bfd2.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114043500" channel="C111.api.telerama.fr" stop="20250114045500">
+    <title>Une info, deux opinions</title>
+    <sub-title>Mondialisation de l'agriculture : problème ou solution ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - La mondialisation de l'agriculture devait permettre d'enrayer les famines. Pourtant, de nombreuses régions du monde restent touchées par la sous-nutrition.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/0cded49a94df47b3b9d2a67c11c609e6.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114045500" channel="C111.api.telerama.fr" stop="20250114052500">
+    <title>Des faucons britanniques pour le Moyen-Orient</title>
+    <desc lang="fr">Enjeu de prestige et d'argent, la fauconnerie est une tradition encore bien vivace au Moyen-Orient. Certains spécimens s'achètent à des prix mirobolants. Si une partie de cet élevage est légal, le braconnage des oeufs et des poussins de cette espèce protégée explose. Enquêteurs et défenseurs de la nature tirent la sonnette d'alarme.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/61e4ed769b7a44448f32a72ef10d4182.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114052500" channel="C111.api.telerama.fr" stop="20250114053500">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114053500" channel="C111.api.telerama.fr" stop="20250114060500">
+    <title>Voyage en cuisine</title>
+    <sub-title>Louisiane : les écrevisses cajun</sub-title>
+    <desc lang="fr">Au sommaire : Le boiled crawfish, la revanche cajun de l'écrevisse. - Le goût du pays : Adrian, une Louisianaise à Paris. - A vos marmites !</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/7b53ffbec1204408b4e3684c756b54a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114060500" channel="C111.api.telerama.fr" stop="20250114065000">
+    <title>Arapaïma, le poisson géant d'Amazonie</title>
+    <desc lang="fr">Dès l'ouverture de la saison de la pêche en octobre, les pêcheurs se mettent en route en amont de l'Amazone, au Brésil. Installés dans des canoës vacillants et munis de harpons, ils partent à la chasse à l'arapaïma, un poisson qui peut atteindre 3 mètres de long et peser jusqu'à 200 kilos. L'espèce, qui a traversé des millions d'années d'évolution sans changement notable, est menacée d'extinction et a déjà disparu dans une grande partie du Brésil.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/18/3a521ae4eb500621adf3256a95463f1837b24971.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114065000" channel="C111.api.telerama.fr" stop="20250114073500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : Jeanne Malivel, l'art déco à la mode bretonne - Au Togo, le succès insolent des Nana Benz - Cubains et Américains sous le même panier.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/05/6f0336f0c3a64425876f7e2ca106ee62.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114073500" channel="C111.api.telerama.fr" stop="20250114082500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Les Marquises, îles au trésor de Stevenson. - Patagonie, Terre de Feu et d'or. - En Espagne, le gaspacho aux amandes d'Ascen. - En Italie, on prend la mesure d'une ville.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/65dcfff3f4054230a7e6bd7ab7019984.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114082500" channel="C111.api.telerama.fr" stop="20250114090500">
+    <title>La Nouvelle-Zélande, un paradis sur terre</title>
+    <sub-title>Fjords et forêts tropicales</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Après les fjords Milford Sound et Doubtful Sound, le voyage continue vers Queenstown, l'une des rares villes du Sud, paradis des amateurs de parachutisme.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/01/22/26216105e607a2eeb8cb7f5c6677bec70fa05cc3.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114090500" channel="C111.api.telerama.fr" stop="20250114095000">
+    <title>La Nouvelle-Zélande, un paradis sur terre</title>
+    <sub-title>Les Alpes du Sud</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Au coeur des Alpes du Sud se dresse le plus haut sommet de Nouvelle-Zélande, le mont Cook - Aoraki en maori -, qui culmine à plus de 3700 mètres d'altitude.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/01/22/12432117826724e0866487fe490103471c008a97.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114095000" channel="C111.api.telerama.fr" stop="20250114103500">
+    <title>La Nouvelle-Zélande, un paradis sur terre</title>
+    <sub-title>L'Ouest sauvage</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - La côte ouest de la Nouvelle-Zélande est l'une des rares régions du pays possédant encore de vastes régions boisées : découverte de ces contrées humides.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/01/22/26216105e607a2eeb8cb7f5c6677bec70fa05cc3.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114103500" channel="C111.api.telerama.fr" stop="20250114120000">
+    <title>Danger sur les rails</title>
+    <sub-title>L'Andean Explorer</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Depuis la ville péruvienne de Cuzco, le "Ferrocarril del Sur" permet d'accéder à deux destinations : le célèbre Machu Picchu et la ville d'Arequipa.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/27/2797aca8e5ce67585af9e58910bec355f387f954_1CD1BB5DD85CC403733448F9A24A2B43.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114120000" channel="C111.api.telerama.fr" stop="20250114123500">
+    <title>Turquie : patrimoine et selfies en Cappadoce</title>
+    <desc lang="fr">En matière de sites patrimoniaux, difficile de rivaliser avec la Cappadoce. Cette région de Turquie est également connue pour ses formations rocheuses qui attirent chaque année quatre millions de touristes - en quête de selfies à poster sur Instagram. Facteur de prospérité, cet engouement menace désormais les paysages et le patrimoine historique.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/6186bbe51d5146cabc998c8047f67d25.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114123500" channel="C111.api.telerama.fr" stop="20250114145000">
+    <title>Le miracle des loups</title>
+    <desc lang="fr">Le duc de Bourgogne, Charles le Téméraire, épouserait volontiers la belle comtesse Jeanne de Beauvais, filleule du roi de France, Louis XI. Mais le souverain refuse catégoriquement. Fâché, le Téméraire fait enlever la comtesse et s'arrange pour faire retomber l'accusation sur le fougueux chevalier Robert de Neuville, la plus sûre épée du royaume et porte-bannière du roi. Neuville a beau crier son innocence, il est jeté en prison. Qu'à cela ne tienne, il s'en évade en un tournemain et se met en quête de la comtesse, tandis que le duc de Bourgogne, se croyant rassuré sur son compte, peut tout à loisir méditer sur les moyens de détrôner son suzerain...</desc>
+    <credits>
+      <actor>Paul Bonifas</actor>
+      <actor>Roger Hanin</actor>
+      <actor>Jean Marais</actor>
+      <actor>Raoul Billerey</actor>
+      <actor>Jean-Louis Barrault</actor>
+      <actor>Jean Marchat</actor>
+      <actor>Louis Arbessier</actor>
+      <actor>Delorme Guy</actor>
+      <actor>Rosanna Schiaffino</actor>
+      <actor>Annie Andersson</actor>
+      <actor>Georges Lycan</actor>
+      <actor>Raphaël Albert-Lambert</actor>
+      <writer>Pierre Foucaud</writer>
+      <writer>Jean Halain</writer>
+      <writer>Henry Dupuis-Mazuel</writer>
+    </credits>
+    <date>1961</date>
+    <category lang="fr">film de cape et d'épée</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/12/dfcf85e5e69c4d92b03ab09278c27a1a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114145000" channel="C111.api.telerama.fr" stop="20250114153500">
+    <title>Dans les bayous du Texas</title>
+    <desc lang="fr">La rivière Sabine, au Texas, abrite un écosystème complexe de marais et de bourbiers dans lesquels vivent un grand nombre d'espèces sauvages.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/29/a1f2b37038f300041df866865bf0ce0651cf7207.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114153500" channel="C111.api.telerama.fr" stop="20250114162000">
+    <title>Costa Rica : Le paradis des jaguars</title>
+    <desc lang="fr">Dans le nord-ouest du Costa Rica, le parc national de Santa Rosa abrite l'une des dernières forêts tropicales sèches au monde. Tortues marines, chacals et jaguars y cohabitent.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/14/428a4c1b432c4efd92c2e2ab40cfd8f4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114162000" channel="C111.api.telerama.fr" stop="20250114170500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Figer l'instant canarien sous le soleil de midi apparaît chez Jorge Oramas comme une tentative sans cesse renouvelée d'arrêter le temps. Ce jeune peintre, né en 1911, se sait condamné. Pour conjurer la mort qui le guette, il tente d'immortaliser le monde canarien tel qu'il le porte au plus profond de lui.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/6f1190aae13f4026b353ed4949b85ff2.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114170500" channel="C111.api.telerama.fr" stop="20250114175000">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">La Ciotat filmée par les frères Lumière - Les Rabelados, insoumis catholiques du Cap-Vert - En Islande, "Paris Match" joue avec le feu.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/05/6f0336f0c3a64425876f7e2ca106ee62.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114175000" channel="C111.api.telerama.fr" stop="20250114183000">
+    <title>Voyage en cuisine</title>
+    <sub-title>Andalousie : l'aubergine abunuelada</sub-title>
+    <desc lang="fr">En Andalousie, le miel de canne et les douces aubergines se marient autour de plats gourmands. Rencontre avec Paco Morales dans son restaurant pour découvrir sa recette.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/1e75405b50b8443f837de77f6d1ef2ea.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114183000" channel="C111.api.telerama.fr" stop="20250114184500">
+    <title>Le dessous des images</title>
+    <sub-title>Ukraine : l'armée recrute avec des pin-up</sub-title>
+    <desc lang="fr">Action et sex-appeal : cette affiche provient d'une campagne de recrutement de la 3e brigade d'assaut ukrainienne. Chaque bataillon de l'armée est libre de communiquer à sa manière. Retour sur une bataille d'images féroce où chaque unité rivalise d'audace pour attirer des recrues.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114184500" channel="C111.api.telerama.fr" stop="20250114190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 14/01/2025</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114190500" channel="C111.api.telerama.fr" stop="20250114195200">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114195200" channel="C111.api.telerama.fr" stop="20250114200000">
+    <title>De Gaulle à la plage</title>
+    <sub-title>La permission</sub-title>
+    <desc lang="fr">Saison:1 - Episode:16 - Avec les vieux amis, on peut se permettre des écarts.</desc>
+    <date>2020</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">8</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/4bc1f286-36cd-4ee1-b68d-8e53c8084da7.jpg" />
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114200000" channel="C111.api.telerama.fr" stop="20250114205000">
+    <title>Une brève histoire de l'automobile</title>
+    <sub-title>Le génie humain</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - 1889. À l'Exposition universelle de Paris, un ingénieur allemand, Carl Benz, dévoile une invention révolutionnaire : le tricycle motorisé. Onze ans plus tard, lors du même événement dans la capitale française, quelque 80 constructeurs automobiles sont représentés, annonçant le crépuscule d'un monde alors dominé par l'attelage. Symbole du génie humain, ce nouveau véhicule, qui concentre les technologies les plus complexes de l'époque et s'appuie sur des matières premières venues des colonies, va devenir un produit diffusé en masse. Leader du secteur, la France se voit dépassée dès 1907 par les États-Unis : le plus grand complexe industriel au monde sort de terre à Detroit, où Ford révolutionne le travail à la chaîne.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/460fc16986e348a6802b3573a7b8001c.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114205000" channel="C111.api.telerama.fr" stop="20250114214500">
+    <title>Une brève histoire de l'automobile</title>
+    <sub-title>La société de consommation</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Après la Seconde Guerre mondiale, la voiture s'impose dans les imaginaires et devient l'objet fétiche de la société d'abondance qui émerge du chaos. D'immenses chantiers sont lancés en Europe pour permettre une plus grande circulation des personnes et des marchandises. Les citoyens découvrent la route des vacances, le pique-nique au bord de la départementale, la mer et les stations de ski. Aux États-Unis, le phénomène prend des proportions démesurées, avec 55 000 kilomètres de routes construites en dix ans, au détriment du chemin de fer. Cette densification du réseau s'accompagne de l'édification de "malls", ces gigantesques centres commerciaux desservis par des voies express. La voiture, qui redessine les villes, inspire aussi le cinéma, entre road-movie et courses-poursuites.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/70c8bcb204dd4233bc332b525d717f31.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114214500" channel="C111.api.telerama.fr" stop="20250114224000">
+    <title>Une brève histoire de l'automobile</title>
+    <sub-title>Schizophrénie</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Avec le choc pétrolier de 1973, les populations occidentales découvrent brutalement que leur mode de vie dépend d'équilibres géopolitiques instables. Dans ce dernier quart du XXe siècle, les constructeurs automobiles se livrent une guerre économique toujours plus féroce, dans laquelle les Japonais tirent leur épingle du jeu. Un phénomène se généralise, qui fragilise les ouvriers des pays riches : les délocalisations. Les entreprises, elles, se rachètent, fusionnent, disparaissent. Aujourd'hui, la production est devenue le fruit d'une ingénierie mondialisée qui échappe à tout ancrage géographique, alors que dans les grandes villes européennes les voitures, ciblées pour leur impact environnemental, commencent à être chassées.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/63bdad5dc9f94842ad0125f7750a1376.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114224000" channel="C111.api.telerama.fr" stop="20250115001500">
+    <title>Mondialisation : Les nouvelles règles du jeu</title>
+    <desc lang="fr">La pandémie de Covid, la guerre en Ukraine et les multiples crises ont rebattu les cartes de la mondialisation. Alors que la Chine ne cesse d'investir dans le secteur des hautes technologies, les États-Unis craignent de perdre leur suprématie : les deux superpuissances se livrent ainsi une guerre froide d'un nouveau genre, qui se joue entre autres sur l'île de Taïwan, épicentre mondial des puces électroniques. Longtemps portée par la compétitivité de son modèle économique, l'Allemagne voit aujourd'hui sa prospérité menacée, tandis que l'Inde, site de production à moindre coût, et Singapour, troisième place financière en Asie, rattrapent peu à peu leur retard. Recelant la plus importante réserve de cobalt de la planète, le Congo peine quant à lui à tirer son épingle du jeu.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/945da8c7d3fa4fb3b222afa51eb23b21.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

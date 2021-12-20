@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250114235500 +0100" channel="C59.api.telerama.fr" stop="20250115015000 +0100">
+    <title>Je voulais me cacher</title>
+    <desc lang="fr">À vingt ans, Antonio Ligabue est expulsé de sa Suisse natale, puis débarque en Italie près du fleuve du Pô. Maitrisant à peine la langue, il se réfugie dans une gestuelle tout aussi éloquente, sa difformité l'isole aussi. Mais il a ce don de savoir peindre la nature et les animaux avec lesquels il cohabite et qu'il adore. En revanche avec les humains, c'est beaucoup plus compliqué. Ses relations avec les femmes sont catastrophiques. Bientôt Antonio devient célèbre... - Critique : Il veut vraiment se soustraire à notre regard : son paletot sur la tête, Antonio Ligabue (1899-1965) cache sa différence, sa laideur, sa folie, sa sensibilité à fleur de peau, sa peur du monde… L’artiste italien, souvent comparé au Douanier Rousseau, est un bien curieux personnage, selon ce film qui le fait revivre avec sa part d’ombre comme avec ses illuminations. Son enfance en Suisse alémanique, les mains d’une mère d’adoption qui masse son crâne pour, dit-elle, en « chasser le diable », la violence qui le frappe : des images fortes recréent le chaos d’un destin brutal où surgit, comme un miracle, un don inexplicable et magnifique pour la peinture.
+
+Pour nous faire entrer dans les mystères de cette existence, le réalisateur prend le parti radical de fusionner avec l’exclu, le rejeté Ligabue, comme le fait l’acteur Elio Germano, qui a reçu un prix d’interprétation au festival de Berlin. Le fil normal des événements peut donc nous échapper, car rien n’est jamais tout à fait logique avec l’étrange génie qui vécut à Gualtieri, petite ville d’Émilie-Romagne. Mais l’essentiel saute aux yeux, comme les fauves de ses tableaux : le combat avec la beauté et la dureté de la vie, la recherche d’un langage au-delà de l’humain, dans l’expressivité des couleurs comme dans celle des animaux. Tout sauf académique, le film est une palette d’émotions dans laquelle on est invité à touiller. Une expérience de cinéma pleine de résonances, un regard enrichissant sur la création.</desc>
+    <credits>
+      <actor>Elio Germano</actor>
+      <actor>Gherpelli Andrea</actor>
+      <actor>Ewy Oliver</actor>
+      <actor>Mario Perrotta</actor>
+      <actor>Notari Orietta</actor>
+      <actor>Pietro Traldi</actor>
+      <actor>Denis Campitelli</actor>
+      <actor>Leonardo Carrozzo</actor>
+      <actor>Filippo Marchi</actor>
+      <actor>Maurizio Pagliari</actor>
+      <actor>Francesca Manfredini</actor>
+      <actor>Daniela Rossi</actor>
+      <writer>Giorgio Diritti</writer>
+      <writer>Tania Pedroni</writer>
+      <writer>Fredo Valla</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/7408e0460ba44747a827713e0b305543.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250115015000 +0100" channel="C59.api.telerama.fr" stop="20250115022500 +0100">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/aecf1ca48b304b4e92f99ca0e46b56f6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115022500 +0100" channel="C59.api.telerama.fr" stop="20250115034000 +0100">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/09/290a1603ddbf4030ba82c106d7024b9c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115034000 +0100" channel="C59.api.telerama.fr" stop="20250115035500 +0100">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Lieblingsland - Tag 2</sub-title>
+    <desc lang="fr">In Wohlen AG lebt die Gastgeberin Martina, die sich besonders auf das Wiedersehen mit ihren Kochkolleginnen und -kollegen freut. Vor über 30 Jahren hat sie zuletzt guatemaltekisch gekocht - und wagt es nun erneut. Ihre Gäste erwartet: Pepian de Pollo mit Reis, Bohnen, Avocado und Tortillas.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/18/28a7471056314ce291fd4f1840fcaf47.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115035500 +0100" channel="C59.api.telerama.fr" stop="20250115041500 +0100">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/e4eb613e5d9c485b8a8087acd54cc771.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115041500 +0100" channel="C59.api.telerama.fr" stop="20250115051000 +0100">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250114234500 +0100" channel="C183.api.telerama.fr" stop="20250115010000 +0100">
+    <title>La cité</title>
+    <desc lang="fr">La cité des ombres, c'est une fable humaniste qui se déroule aux portes du désert, en Afrique, autour de 1880. Max Orswell (Jean-Marc Barr), un médecin militaire, revient dans la ville où il avait vécu, avant de passer trois années au front. À son retour, plus rien n'est pareil. C'est l'affrontement entre le peuple colonialiste et les Hérénites, le peuple ancestral qui habite en ermite dans les falaises, dans La cité des ombres.</desc>
+    <credits>
+      <actor>Vincent Winterhalter</actor>
+      <actor>Sabine Karsenti</actor>
+      <actor>Claude Legault</actor>
+      <actor>Pierre Lebeau</actor>
+      <actor>François Nadin</actor>
+      <actor>Jean-Marc Barr</actor>
+      <actor>Abdelwaheb Jemli</actor>
+      <actor>Lotfi Dziri</actor>
+      <actor>Lofti Abdelli</actor>
+      <actor>Arbi Bibi</actor>
+      <actor>Aymen Mabrouk</actor>
+      <actor>Aymen Jaziri</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/3479560221394d3fb0ae49699b3452c1.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115010000 +0100" channel="C183.api.telerama.fr" stop="20250115013500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115013500 +0100" channel="C183.api.telerama.fr" stop="20250115021500 +0100">
+    <title>A bon entendeur</title>
+    <sub-title>Données numériques, du berceau au tombeau</sub-title>
+    <desc lang="fr">Des quantités phénoménales de données numériques sont exploitées en toute discrétion : clichés d'enfants postés sur les réseaux sociaux susceptibles de se retrouver sur des réseaux pédophiles, déplacements, recherches sur Internet, achats, ou encore comptes en ligne impossibles à supprimer et qui hantent les proches des défunts.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115021500 +0100" channel="C183.api.telerama.fr" stop="20250115023500 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115023500 +0100" channel="C183.api.telerama.fr" stop="20250115055500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">200</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250114234000 +0100" channel="C202.api.telerama.fr" stop="20250115004000 +0100">
+    <title>Yellowstone</title>
+    <sub-title>Les chevaux du paradis</sub-title>
+    <desc lang="fr">Saison:5 - Episode:4 - Avec ses idées, John secoue le Capitole. Pour ce faire, il bénéficie des précieux conseils que lui procure Lynelle. Le différend entre Beth et Jamie n'a jamais été aussi marqué. Est-ce le point de non retour ? Rip révèle à John ce qu'il a fait des loups. Au ranch, les cowboys continuent de marquer le bétail.</desc>
+    <credits>
+      <director>Christina Voros</director>
+      <actor>Kevin Costner</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Ian Bohen</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Ryan Bingham</actor>
+      <actor>Jefferson White</actor>
+      <actor>Kelsey Chow</actor>
+      <actor>Finn Little</actor>
+      <actor>Brecken Merrill</actor>
+      <actor>Forrie J. Smith</actor>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série dramatique</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/e4261c53303cea3bd9292215cd3908182fcc35de.jpg" />
+    <episode-num system="xmltv_ns">4.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115004000 +0100" channel="C202.api.telerama.fr" stop="20250115021500 +0100">
+    <title>C'est magnifique !</title>
+    <desc lang="fr">Elevé par des parents aimants loin des regards indiscrets, dans une maison isolée en pleine campagne, Pierre doit apprendre à vivre sans eux lors de leur soudaine disparition. Mais pire encore, ce quadragénaire apprend à cet instant qu'il a été adopté et qu'il ne possède aucune existence légale. Pour cet être quelque peu naïf et peu au fait des codes de la vie en société, un parcours du combattant aux airs de David contre Goliath commence. Heureusement, un coup de pouce du destin l'envoie vers Anna, une jeune femme en quête d'un logement et qui semble la personne adéquate pour l'aider à retrouver ses parents biologiques...</desc>
+    <credits>
+      <actor>Myriam Boyer</actor>
+      <actor>André Penvern</actor>
+      <actor>Clovis Cornillac</actor>
+      <actor>Laurent Bateau</actor>
+      <actor>Gilles Privat</actor>
+      <actor>Boris Terral</actor>
+      <actor>Anne Benoît</actor>
+      <actor>Alice Pol</actor>
+      <actor>Lilou Fogli</actor>
+      <actor>Alexandra Roth</actor>
+      <actor>Manon Lemoine</actor>
+      <actor>Gilbert Bouchard</actor>
+      <writer>Clovis Cornillac</writer>
+      <writer>Tristan Schulmann</writer>
+      <writer>Lilou Fogli</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/36188100_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115021500 +0100" channel="C202.api.telerama.fr" stop="20250115023500 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115023500 +0100" channel="C202.api.telerama.fr" stop="20250115023600 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250115023600 +0100" channel="C202.api.telerama.fr" stop="20250115053000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">174</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>

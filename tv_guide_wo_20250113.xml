@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250112230000" channel="C111.api.telerama.fr" stop="20250113004500">
+    <title>Orphée &amp; Eurydice</title>
+    <desc lang="fr">Inconsolable depuis la mort d'Eurydice, Orphée décide de mettre fin à ses jours. Mais l'Amour lui souffle comment ramener sa belle des Enfers. Amener le classique vers de nouveaux publics : telle est l'ambition du festival Pulsations, créé par Raphaël Pichon. Pour son édition 2023, le chef d'orchestre reprend le célèbre opéra de Christoph Willibald Gluck dans sa version remaniée en 1859 par Hector Berlioz.</desc>
+    <category lang="fr">opéra</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/b8d3ef95e09b48e3b55dfd80a7ab41f8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113004500" channel="C111.api.telerama.fr" stop="20250113022500">
+    <title>Christian Thielemann dirige l'Orchestre philharmonique de Vienne</title>
+    <desc lang="fr">Au Festival de Salzbourg 2021, le maestro allemand Christian Thielemann dirige l'Orchestre philharmonique de Vienne dans un programme dédié au postromantisme germanique, son répertoire de prédilection : des "Rückert-Lieder" de Gustav Mahler, interprétés par la mezzo-soprano Elina Garanca, et la Symphonie n° 7 en mi majeur d'Anton Bruckner. Lors de sa création à Leipzig en 1884, cette pièce magistrale reçut un accueil triomphal, avec son bouleversant adagio écrit à la mémoire de Richard Wagner, et popularisé depuis par le film Senso de Visconti.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/16/07773bf99e96c33e0b726dedaaa113da0464c3c5_81759C7A828C549092CE34EBBE3364FF.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113022500" channel="C111.api.telerama.fr" stop="20250113032300">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>La grande migration</sub-title>
+    <desc lang="fr">Saison:2 - Episode:3 - Chaque année, le parc national du Serengeti est le théâtre de la plus grande migration d'ongulés au monde : deux millions de gnous, zèbres et gazelles parcourent la savane sur près d'un millier de kilomètres, en quête d'herbe fraîche. En chemin, ils devront traverser plusieurs rivières à la nage. Confrontés au courant, aux crocodiles et aux hippopotames - herbivores néanmoins dangereux -, les plus jeunes et les plus fragiles risquent leur vie. Sans compter les berges escarpées, plus dangereuses encore que les prédateurs. Pendant ce temps, trois jeunes guépards, encore sous la protection de leur mère, tentent de s'émanciper, tandis qu'une lionne, secourue par un mâle lors d'une attaque de hyènes, s'apprête à convoler avec son sauveur.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">58</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/b83d02f7dda9e83df84f62a0622d1356f5210d48.jpg" />
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113032300" channel="C111.api.telerama.fr" stop="20250113041500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">52</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113041500" channel="C111.api.telerama.fr" stop="20250113043500">
+    <title>Une info, deux opinions</title>
+    <sub-title>La mode : pour qui, pour quoi ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:7 - Pour les uns, la mode est synonyme créativité. Pour d'autres, elle est un danger. Ces deux points de vue sont exposés grâce à un important matériel d'archives.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/cb4149a68ed647b197011e13e5a5bb61.jpg" />
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113043500" channel="C111.api.telerama.fr" stop="20250113045500">
+    <title>Une info, deux opinions</title>
+    <sub-title>Le pacifisme : une illusion naïve ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:8 - Même en temps de paix, les Etats semblent se préparer à la guerre. Le pacifisme rejette cette position et défend des solutions non-violentes : deux points de vue ici débattus.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/6004818a0b87441b91da2a56202484c4.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113045500" channel="C111.api.telerama.fr" stop="20250113053000">
+    <title>En Italie, l'agriculture attire les jeunes</title>
+    <desc lang="fr">La fédération italienne des agriculteurs se félicite d'une augmentation historique des jeunes agriculteurs. Ces dix dernières années, leur nombre a en effet progressé de 13 %, plus que partout ailleurs en Europe. Beaucoup d'entre eux ne sont pas d'origine paysanne et ne peuvent donc pas reprendre une exploitation agricole. Se pose alors la question de l'accès à des terres arables.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/12/1e0e56fdd4440cc8b729e5e54856b5cf481b87c4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113053000" channel="C111.api.telerama.fr" stop="20250113053500">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113053500" channel="C111.api.telerama.fr" stop="20250113061000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>L'île d'Ischia, Italie</sub-title>
+    <desc lang="fr">Férues d'herbes aromatiques et de recettes ancestrales, Tilde et Fernanda récoltent des herbes fraîches et des feuilles de cactus sur l'île d'Ischia.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/28/c1b1dbbd2e8d4c32afdffb536133661e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113061000" channel="C111.api.telerama.fr" stop="20250113065000">
+    <title>Kenya, alors on danse</title>
+    <desc lang="fr">Charlotte Gainsbourg raconte le quotidien d'une adolescente kenyane originaire des bidonvilles de Nairobi, qui rêve de devenir danseuse de ballet.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/18/3a521ae4eb500621adf3256a95463f1837b24971.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113065000" channel="C111.api.telerama.fr" stop="20250113073500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Bologne, muse savante du peintre Giorgio Morandi - Batik, si l'Indonésie était un tissu - À Bristol, un saut dans l'inconnu.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/05/6f0336f0c3a64425876f7e2ca106ee62.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113073500" channel="C111.api.telerama.fr" stop="20250113082500">
+    <title>Invitation au voyage</title>
+    <sub-title>Salvador de Bahia</sub-title>
+    <desc lang="fr">Salvador de Bahia est la plus métissée des villes du Brésil. Face à l'océan Atlantique, elle s'ouvre sur une baie légendaire, et séduit avec ses dédales de ruelles multicolores.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/28/7be8b4ab6e434aeebc1a4faa43b32195.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113082500" channel="C111.api.telerama.fr" stop="20250113092000">
+    <title>Etats-Unis 2024 : La guerre des clans</title>
+    <sub-title>Hiver : une campagne glacial</sub-title>
+    <desc lang="fr">Tissé de rencontres, ce périple outre-Atlantique retrace le déroulement mouvementé de la campagne présidentielle dans une société plus polarisée que jamais.</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/02/d52094796fd949c2b401277aa292f65b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113092000" channel="C111.api.telerama.fr" stop="20250113110000">
+    <title>Etats-Unis 2024 : La guerre des clans</title>
+    <sub-title>Printemps : le grand fossé</sub-title>
+    <desc lang="fr">Au printemps 2024, malgré l'incertitude du duel Biden-Trump, la campagne électorale semble à la traîne. L'écart entre démocrates et républicains se creuse.</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/09/75ddd9d8995b4b259b0c6cccdf3ba035.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113110000" channel="C111.api.telerama.fr" stop="20250113120500">
+    <title>Un billet de train pour...</title>
+    <sub-title>pour l'Algarve</sub-title>
+    <desc lang="fr">Saison:15 - Episode:1 - Situé dans le sud du Portugal, l'Algarve, le plus grand récif naturel du pays, est célèbre pour son liège, matière première traditionnelle utilisée, entre autres, pour fabriquer sacs et chaussures. De vieux wagons diesel sexagénaires de la compagnie ferroviaire portugaise CP y circulent encore dans un parfum de nostalgie, en donnant du fil à retordre à leurs conducteurs. Au départ de Vila Real de Santo António, à la frontière espagnole, la côte baignée de soleil offre pléthore de richesses marines à ses habitants. Ainsi, la petite ville de Castro Marim est réputée pour son excellent sel de mer et le village de Santa Luiza, pour son poulpe délicieux. Non loin de la capitale de la région, Faro, s'étend sur 60 kilomètres le parc naturel de Ria Formosa.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/26/5f90025a2a2e468b917d44097a408a3b.jpg" />
+    <episode-num system="xmltv_ns">14.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113120500" channel="C111.api.telerama.fr" stop="20250113123500">
+    <title>Des faucons britanniques pour le Moyen-Orient</title>
+    <desc lang="fr">Enjeu de prestige et d'argent, la fauconnerie est une tradition encore bien vivace au Moyen-Orient. Certains spécimens s'achètent à des prix mirobolants. Si une partie de cet élevage est légal, le braconnage des oeufs et des poussins de cette espèce protégée explose. Enquêteurs et défenseurs de la nature tirent la sonnette d'alarme.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/61e4ed769b7a44448f32a72ef10d4182.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113123500" channel="C111.api.telerama.fr" stop="20250113142000">
+    <title>La Grande Magie</title>
+    <desc lang="fr">Au début des années 1920, sur la côte française. Au bord de la rupture, un couple se rend à un spectacle de rue où la jeune épouse, Marta, accepte de se prêter au jeu d'un tour de magie. Epuisée par Charles, son mari insupportable, Marta profite de l'occasion pour prendre la poudre d'escampette, laissant Albert, le magicien, se débrouiller avec l'époux inquiet et bientôt menaçant. Pris au piège, l'artiste parvient à convaincre Charles que sa femme se trouve à l'intérieur d'une petite boîte qu'il lui confie en l'avertissant de ne l'ouvrir que s'il voue une confiance aveugle à cette dernière, sous peine de la voir disparaître à jamais... - Critique : De la magie, des forains itinérants, la France des années 1920, un joli hôtel de villégiature au bord de la mer, une bien-aimée qui s’évanouit dans la nature… Diantre, en voilà de belles promesses ! Parmi les personnages, il y a Charles (Denis Podalydès), mari guindé, jaloux et fort désappointé. C’est lui dont l’épouse (Judith Chemla) a disparu, celle-ci ayant profité d’un tour de magie pour prendre la poudre d’escampette. En guise de réponse à l’exigence pressante de Charles de faire revenir immédiatement sa femme, le magicien bonimenteur (Sergi López) lui donne une petite boîte en disant qu’elle se trouve à l’intérieur. Mais il l’avertit : Charles ne doit l’ouvrir qu’à condition d’une absolue confiance en elle, sinon elle disparaîtra à jamais…
+
+Adaptée librement d’une pièce méconnue, publiée en 1948 par l’écrivain italien Eduardo De Filippo, La Grande Magie déborde d’atouts. Il y règne un état d’esprit bohème, un charme de guingois, une fantaisie généreuse, un plaisir des acteurs communicatif. La fable invite aussi à danser, puisqu’elle se compose aussi de petites chorégraphies et de chansons, finement mises en musique par Feu ! Chatterton. Reste que la réalisatrice des Sentiments a voulu exprimer trop de choses. Gaieté, drame, loufoquerie, folie, imaginaire, trivialité, variations autour de l’amour… Cela fait beaucoup et nuit à l’histoire, qui a tendance à se déliter et à s’éloigner de son fil principal, le plus intéressant : ce lien étrange et évolutif entre Charles et son épouse. Il manque, sans doute, à ce film qu’on aurait voulu aimer davantage, la densité et le rythme, conditions sine qua non pour l’étourdissement escompté.</desc>
+    <credits>
+      <actor>Christine Murillo</actor>
+      <actor>Micha Lescot</actor>
+      <actor>Dominique Valadié</actor>
+      <actor>Laurent Stocker</actor>
+      <actor>Sergi López</actor>
+      <actor>Noémie Lvovsky</actor>
+      <actor>Denis Podalydès</actor>
+      <actor>François Morel</actor>
+      <actor>Judith Chemla</actor>
+      <actor>Rebecca Marder</actor>
+      <actor>Damien Bonnard</actor>
+      <actor>Paolo Mattei</actor>
+      <writer>Seyvos Florence</writer>
+      <writer>Noémie Lvovsky</writer>
+      <writer>Maud Ameline</writer>
+      <guest>Caroline Marcadé</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/39334839_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250113142000" channel="C111.api.telerama.fr" stop="20250113145000">
+    <title>Voyage en Méditerranée</title>
+    <sub-title>Chypre</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Un voyage à la découverte de Chypre, l'une des plus anciennes civilisations du bassin méditerranéen, de ses habitants et de ses traditions.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/22/d0c4da6ef909111e5b74f2cc843f69e1e6badfa0.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113145000" channel="C111.api.telerama.fr" stop="20250113153500">
+    <title>Le Nicaragua : entre volcans, lacs et mers</title>
+    <desc lang="fr">Avec ses volcans actifs, ses mangroves et ses orchidées, le Nicaragua, plus grand pays d'Amérique centrale, est aussi le plus riche en biodiversité.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/18/84c238190481a8a279ea6475d4f4a369ec56a84b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113153500" channel="C111.api.telerama.fr" stop="20250113162000">
+    <title>Le Honduras : entre forêt tropicale et plages</title>
+    <desc lang="fr">Forêts tropicales, animaux enchanteurs et plages de carte postale : la situation géographique du Honduras lui offre des attributs qui contribuent à sa biodiversité.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/08/18/b42cd01e7c0faf1dce5b8d6734290d6549a8c51d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113162000" channel="C111.api.telerama.fr" stop="20250113170500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Les Marquises, îles au trésor de Stevenson. - Patagonie, Terre de Feu et d'or. - En Espagne, le gaspacho aux amandes d'Ascen. - En Italie, on prend la mesure d'une ville.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/65dcfff3f4054230a7e6bd7ab7019984.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113170500" channel="C111.api.telerama.fr" stop="20250113175500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : Jeanne Malivel, l'art déco à la mode bretonne - Au Togo, le succès insolent des Nana Benz - Cubains et Américains sous le même panier.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/05/6f0336f0c3a64425876f7e2ca106ee62.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113175500" channel="C111.api.telerama.fr" stop="20250113183000">
+    <title>Voyage en cuisine</title>
+    <sub-title>Louisiane : les écrevisses cajun</sub-title>
+    <desc lang="fr">Au sommaire : Le boiled crawfish, la revanche cajun de l'écrevisse. - Le goût du pays : Adrian, une Louisianaise à Paris. - A vos marmites !</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/7b53ffbec1204408b4e3684c756b54a0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113183000" channel="C111.api.telerama.fr" stop="20250113184500">
+    <title>Le dessous des images</title>
+    <sub-title>Bataille navale en mer de Chine</sub-title>
+    <desc lang="fr">Nouvel accrochage entre un navire chinois et un navire philippin. Depuis trente ans, la mer de Chine méridionale est le théâtre de vives tensions et d'une spectaculaire bataille de communication. Mais de simples images peuvent-elles changer la donne géopolitique ?</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113184500" channel="C111.api.telerama.fr" stop="20250113190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 13/01/2025</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113190500" channel="C111.api.telerama.fr" stop="20250113195000">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113195000" channel="C111.api.telerama.fr" stop="20250113200000">
+    <title>Samuel</title>
+    <sub-title>La fin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:21 - Deux mois se sont écoulés : les cheveux de Samuel ont fortement poussé. La neige de mars a recouvert la ville, cela est assez romantique jusqu'à ce que ça fonde.</desc>
+    <date>2024</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/08/23/1519e1cb2ac34d75a99dc1706504c6c0.jpg" />
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250113200000" channel="C111.api.telerama.fr" stop="20250113213500">
+    <title>Deux hommes dans la ville</title>
+    <desc lang="fr">Gino Strabliggi recouvre la liberté après avoir purgé une peine de dix ans de réclusion. Suivant les conseils de Germain Cazeneuve, l'éducateur qui s'est occupé de lui et continue de lui porter un amical intérêt, il décide de mener une vie honnête, loin des tentations du passé. Il réussit à trouver du travail dans une imprimerie à Meaux. Peu de temps après, Sophie, sa femme, meurt dans un accident de voiture. Une fois de plus, Cazeneuve soutient Gino, qui se lie avec une jeune Anglaise, Lucy. L'inspecteur Goitreau, qui jadis arrêta Gino, s'acharne sur l'ancien truand, dont il ne peut pas croire qu'il ait renoncé à ses coupables habitudes... - Critique : Comment juger ce film réquisitoire contre la peine de mort, bientôt quarante-quatre ans après l’abolition de celle-ci ? D’abord en signalant qu’il traite avant tout de la difficulté de réinsertion des prisonniers qui ont fait leur temps. Gino a purgé dix ans pour braquage et a décidé de ne pas replonger. La malchance et le zèle pervers d’un inspecteur vont pourtant le mener à l’échafaud. On pense un peu à André Cayatte dans la mise en scène démonstrative mais réellement engagée de José Giovanni et cette séquence finale où la lame de la guillotine tombe en gros plan. C’est fou, mais plus de cinquante ans après, Deux Hommes dans la ville continue de serrer le cœur.
+
+L’interprétation y est pour beaucoup : Michel Bouquet en version moderne du Javert des Misérables, Delon gagné par l’épouvante au moment de mourir, mais surtout Gabin en force tranquille et fatiguée par la machine judiciaire.</desc>
+    <credits>
+      <actor>Victor Lanoux</actor>
+      <actor>Alain Delon</actor>
+      <actor>Jean Gabin</actor>
+      <actor>Malka Ribowska</actor>
+      <actor>Farmer Mimsy</actor>
+      <actor>Michel Bouquet</actor>
+      <actor>Castel Robert</actor>
+      <actor>Cécile Vassort</actor>
+      <actor>Occhini Ilaria</actor>
+      <actor>Guido Alberti</actor>
+      <actor>Fabréga Christine</actor>
+      <actor>Gérard Depardieu</actor>
+      <writer>José Giovanni</writer>
+      <writer>Gianfranco Clerici</writer>
+    </credits>
+    <date>1973</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/8e84f9af230e4267b8b44cafd2f414e2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250113213500" channel="C111.api.telerama.fr" stop="20250113235000">
+    <title>Decision to Leave</title>
+    <desc lang="fr">En Corée du Sud, un mystérieux crime met en émoi la police qui couvre une zone montagneuse isolée. Pour tenter de résoudre l'affaire, l'enquête est confiée à Hae-joon, un inspecteur réputé. Très vite, ce dernier débute les interrogatoires et, dès sa rencontre avec l'épouse du défunt, Seo-rae, il constate des éléments qui lui mettent la puce à l'oreille. Forcé de mener à bien ses investigations, Hae-joon fréquente de plus en plus assidument la jeune femme, aussi troublante que séductrice. L'expérimenté policier ne tarde pas à se lier à Seo-rae alors qu'au même moment les soupçons s'amplifient à propos de son implication dans le meurtre... - Critique : Le héros, policier à Busan, constate, avec son lieutenant, que « c’est calme, en ce moment ». L’ennui guette, mais une étrange affaire réveille l’enquêteur : la chute mortelle d’un homme depuis le sommet d’une montagne à pic. Car les soupçons se portent sur sa jeune veuve, à l’attitude indéchiffrable, au passé trouble.
+
+À l’évidence, Decision to Leave n’existerait pas sans le fameux Vertigo (Sueurs froides) d’Alfred Hitchcock. Le détective joué par James Stewart s’y laissait déborder par sa fascination pour l’épouse supposément suicidaire (Kim Novak) de son client, qu’il était chargé de surveiller et de protéger… Park Chan-wook propose une histoire originale, mais scindée comme Vertigo en deux parties distinctes, la seconde commençant également après la dépression du héros, persuadé d’avoir échoué dans sa mission.
+
+Passionnante est la redistribution, par l’auteur coréen, d’une multitude d’ingrédients clés du chef-d’œuvre d’Hitchcock : les poursuites et la panique sur les toits, et le vertige récurrent de l’enquêteur ; les nombreuses scènes de filature et de planque ; l’intimité amoureuse, platonique et comme irréelle, naissant entre l’enquêteur et la suspecte. Le tout dans une Corée du Sud étonnamment californienne, même sous la neige, avec ses pins, ses rochers, ses plages, ses falaises.
+
+Et c’est bien la part d’ombre de la suspecte qui embrase les sentiments du flic respectable. Et la droiture de l’homme qui aimante la jeune femme opaque. Le romantisme de leur attraction, longtemps maintenu à l’arrière-plan des péripéties, donne sa pleine mesure dans un finale stupéfiant.</desc>
+    <credits>
+      <actor>Yong-woo Park</actor>
+      <actor>Tang Wei</actor>
+      <actor>Go Kyung-pyo</actor>
+      <actor>Ha-dam Jeong</actor>
+      <actor>Lee Jung-hyun</actor>
+      <actor>Yoo Teo</actor>
+      <actor>Jung-min Park</actor>
+      <actor>Hak-joo Lee</actor>
+      <actor>Seo Hyun-woo</actor>
+      <actor>Yi-Seo Jung</actor>
+      <actor>Yoo Seung-Mok</actor>
+      <actor>Shin-Young Kim</actor>
+      <writer>Jeong Seo-gyeong</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/36de7dd75a9c40b6b8dec49c5e5e82cc.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250113235000" channel="C111.api.telerama.fr" stop="20250114013500">
+    <title>La Mécanique des choses</title>
+    <desc lang="fr">Comment réparer l'irréparable ? Un focus sur les options envisagées pour y parvenir à travers une série d'histoires aussi dramatiques que loufoques. - Critique : Comme le chat d’Alessandra Celesia, au train arrière paralysé après sa chute du huitième étage, une douzaine d’hommes et de femmes esquintés par la vie mais résolus à recouvrer l’usage de leurs deux jambes s’envolent vers la Chine pour s’y faire opérer. La tentative révolutionnaire de régénération de la moelle épinière effectuée sur eux aurait pu donner lieu à l’un de ces « documentaires santé » dont la télévision fait son ordinaire. La réalisatrice du Libraire de Belfast en a tiré, a contrario, un essai d’une grande liberté et d’un bel onirisme, qui explore avec beaucoup d’inventivité et de délicatesse l’idée même de réparation. Convoquant les moyens du cinéma jusque dans la reconstitution inspirée d’une scène traumatique, elle confirme l’originalité de son talent dans ce film très singulier.</desc>
+    <credits>
+      <director>Alessandra Celesia</director>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/c7aefca4c6b74886a8372b404db998b1.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

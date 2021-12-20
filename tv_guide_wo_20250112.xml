@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250111231000" channel="C111.api.telerama.fr" stop="20250112001000">
+    <title>Court-circuit</title>
+    <sub-title>Invtiation au changement</sub-title>
+    <desc lang="fr">Sabrina a passé les vingt dernières années à regarder la vie des autres avancer. Quand elle tombe sur le corps sans vie de Céline, une fille qui était au collège avec elle, des souvenirs remontent à la surface, lui imposant une remise en question.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112001000" channel="C111.api.telerama.fr" stop="20250112010000">
+    <title>Le Père Noël a les yeux bleus</title>
+    <desc lang="fr">A Narbonne, Daniel et ses amis fréquentent assidûment les cafés, draguent les filles et dérobent à l'occasion l'un ou l'autre bouquin aux étals des libraires. Daniel, afin de suivre la mode, aimerait s'acheter un duffle-coat et, pour s'en donner les moyens, trouve un emploi de Père Noël, puisque les fêtes approchent. Ainsi vêtu, derrière sa barbe blanche, sa timidité disparaît ; Daniel s'enhardit et aborde les filles...</desc>
+    <credits>
+      <actor>René Gilson</actor>
+      <actor>Jean Eustache</actor>
+      <actor>Henri Martinez</actor>
+      <actor>Gérard Zimmermann</actor>
+      <actor>Michèle Maynard</actor>
+      <actor>Noëlle Baleste</actor>
+      <actor>Carmen Ripoli</actor>
+      <actor>Jean-Pierre Léaud</actor>
+      <actor>Maurice Domingo</actor>
+      <actor>Jeanne Delos</actor>
+      <actor>Alain Derboy</actor>
+      <actor>Rosette Mourrut</actor>
+      <writer>Jean Eustache</writer>
+    </credits>
+    <date>1967</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/29/85763c63715c40d2a6bfa6d2a06b87dc.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112010000" channel="C111.api.telerama.fr" stop="20250112013000">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Quelles contestations fonctionnent ?</sub-title>
+    <desc lang="fr">Partout dans le monde, les gens descendent dans la rue. À croire que l'on n'a jamais autant manifesté qu'aujourd'hui. Plus de libertés, plus de droits, l'égalité : telles sont les revendications. La philosophe Sandra Laugier va jusqu'à parler d'une véritable ère de la contestation. Si certains mouvements sont couronnés de succès, d'autres connaissent un tout autre sort. À quoi cela tient-il ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/23/40bbe97ca18043ba8d3f2ad93f6ec623.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112013000" channel="C111.api.telerama.fr" stop="20250112024500">
+    <title>Alcatraz 2021 : Le festival metal de Belgique</title>
+    <desc lang="fr">Après un an de sommeil contraint et forcé, l'Alcatraz a fait son retour en août 2021 dans la ville belge de Courtrai, à quelques encablures de la frontière française. Dix morceaux choisis nous projettent dans l'ambiance de ces trois jours mettant à l'honneur le meilleur de la scène metal. Un tour d'horizon alléchant où se succèdent les vieux routiers du trash metal de Kreator, le groove progressif de Jinjer servi par l'énergie gutturale de la vocaliste Tatiana Shmayluk, sans oublier le metal gothique de Moonspell.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/01/36768fdd37c2764fdf3676666fa76fff56d3075a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112024500" channel="C111.api.telerama.fr" stop="20250112030500">
+    <title>Une info, deux opinions</title>
+    <sub-title>La désobéissance civile</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Gandhi en Inde, Rosa Parks aux États-Unis, les suffragettes au Royaume-Uni : tous sont parvenus à des avancées sociales historiques grâce à la désobéissance civile.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/29/f6e14527085b4ff883a47d21012ee350.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112030500" channel="C111.api.telerama.fr" stop="20250112033000">
+    <title>Une info, deux opinions</title>
+    <sub-title>Colonialisme : l'héritage de la guerre d'Algérie</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - La France n'a jamais présenté d'excuses à l'Algérie. Certains y voient un obstacle à la réconciliation, mais d'autres accusent l'Algérie d'instrumentaliser le passé.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/29/8dcfeb03358046a6b1904f6a8bae6b4b.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112033000" channel="C111.api.telerama.fr" stop="20250112034700">
+    <title>Une info, deux opinions</title>
+    <sub-title>Zoo : protection ou prison ?</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Les zoos contribuent à la protection de nombreuses espèces. Néanmoins, cette vie derrière les barreaux est source de mal-être pour la plupart des animaux.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/29/02cc4c13663c463d830fe2f138e39f5d.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112034700" channel="C111.api.telerama.fr" stop="20250112040500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">18</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112040500" channel="C111.api.telerama.fr" stop="20250112045500">
+    <title>Tardigrade, l'animal indestructible</title>
+    <desc lang="fr">Boudiné, trapu et minuscule, le tardigrade ne paie pas de mine. Pourtant, cette créature pratiquement invisible à l'œil nu, dont on dénombre plus de 1 300 espèces connues - principalement terrestres, mais aussi marines et d'eau douce -, fascine les scientifiques depuis des années. Entre observations en milieu naturel et analyses microscopiques, les chercheurs lèvent peu à peu le voile sur les techniques de chasse ou le mode de reproduction de ceux que l'on appelle aussi "oursons d'eau". Mais si les tardigrades sont devenus des stars de laboratoires, c'est d'abord grâce à leur incroyable robustesse. Températures extrêmes (du quasi-zéro absolu à 150 °C), métaux lourds, produits chimiques : ils survivent à presque tout.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/22/3f8e9518e8fc4a748c79678d265aef5c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112045500" channel="C111.api.telerama.fr" stop="20250112061000">
+    <title>Patrick et la baleine</title>
+    <desc lang="fr">Fasciné depuis l'enfance par les baleines, devenu photographe et vidéaste sous-marin en plongée libre, c'est-à-dire sans bouteille d'oxygène, l'Américain Patrick Dykstra a passé vingt ans de son existence à nager avec elles, s'approchant toujours plus près pour étudier leur comportement. Après avoir voyagé autour du monde, des Açores au Sri Lanka, à la recherche de la baleine bleue, la plus grosse de l'espèce, trop occupée à se nourrir, dit-il, pour prêter attention aux humains, le plongeur a fait au large de l'île de la Dominique une rencontre qui a changé la nature de ses explorations. Outrepassant les marques de curiosité que lui accordent souvent les cétacés, animaux aussi intelligents que sociables, une jeune femelle cachalot s'approche de lui, et l'installe même à califourchon à l'avant de sa tête pour le ramener à la surface.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/22/57538f54a77d4fa391528d080085334a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112061000" channel="C111.api.telerama.fr" stop="20250112062500">
+    <title>Faire l'histoire</title>
+    <sub-title>Les toiles indiennes : naissance de la consommation au siècle des Lumières</sub-title>
+    <desc lang="fr">Au XVIIIe siècle, les toiles imprimées sont à la mode et recouvrent les robes des bourgeois comme les meubles des salons. Elles marquent la rencontre entre le grand commerce international du coton en provenance des Indes et les tentatives européennes d'assurer sa pleine autonomie de production textile.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/ac3d61f24144608dcee5c41ebc9b290a3ab4dc53.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112062500" channel="C111.api.telerama.fr" stop="20250112065500">
+    <title>Kids</title>
+    <sub-title>L'importance de l'amitié</sub-title>
+    <desc lang="fr">Saison:1 - Episode:12 - Jusqu'à la fin de l'adolescence et parfois au-delà, les semaines sont rythmées par l'école. On y acquiert compétences sociales et cognitives essentielles à travers un flot d'informations. Si certains apprécient la cadence des cours, c'est un calvaire pour d'autres. Une équipe de spécialistes décrypte le rapport entre l'apprentissage et la manière dont les enfants le perçoivent.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/d92105864d40412a91aec7c431ccb9b6.jpg" />
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112065500" channel="C111.api.telerama.fr" stop="20250112071000">
+    <title>ARTE Junior, le mag</title>
+    <desc lang="fr">ARTE Junior, le mag</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/17/a3ffb319739f469685547895a94632d9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112071000" channel="C111.api.telerama.fr" stop="20250112073500">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Comment fonctionnent les enfants ?</sub-title>
+    <desc lang="fr">Pour certains, les enfants seraient de frêles créatures incapables d'appréhender le monde. Pour d'autres, ils seraient supérieurs aux adultes, car ils maîtrisent des choses que les grands ont oubliées depuis longtemps. Peu importe la grille de lecture, les différences sont réelles. Qu'en est-il vraiment ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/603c6c6036dc4652891fbc45062835ff.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112073500" channel="C111.api.telerama.fr" stop="20250112080500">
+    <title>Italomodern : Design</title>
+    <desc lang="fr">La Vespa Piaggio, la lampe Arco, les chaussures Ferragamo, les costumes Armani… : dans les années 1950, l'Italie révolutionne les secteurs du design et de la mode.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/5b946127b444491b9eccdaf0f4d6f913.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112080500" channel="C111.api.telerama.fr" stop="20250112083500">
+    <title>Twist</title>
+    <sub-title>Slow down : comment vivre sans stress ?</sub-title>
+    <desc lang="fr">Peut-on s'extraire d'un monde où tout va trop vite, échapper au rythme infernal qui nous oppresse et nous empêche de percevoir ce qui nous entoure ? "Twist" rencontre des artistes qui ont choisi de se libérer du stress, du manque de temps et du flux constant d'images. L'occasion de leur demander quel est leur secret pour parvenir à vivre et à travailler à leur rythme.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112083500" channel="C111.api.telerama.fr" stop="20250112092000">
+    <title>Les "tuk-tuk driveuses" du Sri Lanka</title>
+    <desc lang="fr">Au Sri Lanka, un vent d'émancipation féminine souffle dans les rues grâce à des conductrices de tuk-tuk audacieuses, bien décidées à gagner leur indépendance.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/3f6ff1a0ebf7478cb84cbea0804be521.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112092000" channel="C111.api.telerama.fr" stop="20250112095000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Calabre, Italie</sub-title>
+    <desc lang="fr">Pour Giuseppe Vadalà et son collègue Vincenzo, producteurs de bergamote, ramassent entre 600 et 800 kg de fruits. L'origine botanique de cet agrume est une énigme.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/187e12fbdbcb42228158db1cdec05a3b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112095000" channel="C111.api.telerama.fr" stop="20250112104500">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Les trônes des fauves</sub-title>
+    <desc lang="fr">Saison:3 - Episode:1 - Dans l'immense réserve naturelle du Serengeti, un lac majestueux est le théâtre d'une lutte sans merci pour la survie des espèces. Bakari, un babouin, y règne en maître, mais sa position dominante se voit bientôt menacée. La lionne Kali, elle, a trouvé refuge dans les parages pour élever ses petits aux côtés d'Askari, un mâle à la crinière noire. Utani, la mangouste, couve sa portée lorsqu'elle est subitement confrontée à l'irruption de guépards. Duma, l'un d'entre eux, aspire à l'indépendance mais ne se fait pas à la solitude. Tous sont en danger, car les incendies guettent.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/04/1ca17072c3c25fafaafb3b626917d22680a5f89a.jpg" />
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112104500" channel="C111.api.telerama.fr" stop="20250112113500">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Un paradis en feu</sub-title>
+    <desc lang="fr">Saison:3 - Episode:2 - Une fois l'incendie passé, la lutte pour la survie commence. Le rival de Bakari a péri dans les flammes, et le babouin mène sa troupe à travers les terres calcinées pour étouffer la révolte. À peine a-t-il trouvé un refuge qu'il découvre que la soeur de la lionne Kali s'y est déjà établie pour mettre bas. Bakari peut-il prendre le risque d'y établir son clan ? Utani, la mangouste, rencontre Mzuri, une jeune léoparde qui tente de survivre après la mort de sa famille dans l'incendie. La lionne Kali, elle, part à la chasse avec ses petits, sans imaginer le cauchemar qui l'attend.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/04/1ca17072c3c25fafaafb3b626917d22680a5f89a.jpg" />
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112113500" channel="C111.api.telerama.fr" stop="20250112123000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Vivre à tout prix</sub-title>
+    <desc lang="fr">Saison:3 - Episode:3 - Tandis que la nature se rétablit, la rivière redevient un lieu de vie privilégié. Mafuta, le bébé hippopotame, voit son avenir s'assombrir lorsque son père est grièvement blessé. Magamba, le crocodile, a conclu un pacte avec de courageux oiseaux, les oedicnèmes tachards, pour protéger son nid. Seront-ils à la hauteur de la tâche ? Duma trouve une bande de guépards à laquelle il pourrait se joindre, mais ils ne lui font pas bon accueil. La lionne Kali retrouvera-t-elle ses petits, perdus après avoir été balayés par un troupeau d'éléphants en colère ? Bakari saura-t-il utiliser son intelligence pour mettre sa famille de babouins en sécurité ?</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/04/1ca17072c3c25fafaafb3b626917d22680a5f89a.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112123000" channel="C111.api.telerama.fr" stop="20250112142000">
+    <title>La péniche du bonheur</title>
+    <desc lang="fr">Séparé de son épouse et totalement absorbé par son travail au ministère de l'Intérieur, Tom Winston ne s'est guère occupé de ses enfants. Lorsque sa femme décède, il récupère David, Elizabeth et le petit Robert chez leurs grands-parents et les installe dans son petit appartement de Washington. Arrachés à leur vie aisée par un père quasiment inconnu, les trois enfants ont bien du mal à s'adapter à leur nouvelle existence. Pour y remédier et gagner leur affection, Tom décide d'emmener sa progéniture en vacances et d'engager une gouvernante... - Critique : Ils ont beau s’appeler Cary Grant et Sophia Loren, ils n’ont pas fait que des chefs-d’œuvre ! Pour exemple, cette Péniche du bonheur, dont le scénario a pu leur paraître sympathique au premier abord — un père veuf est complètement dépassé par ses trois gamins, mais, orgueilleux, il n’accepte pas l’intrusion d’une belle Italienne qui s’impose en bonne d’enfants « qui ne sait rien faire mais que les mômes aiment tant ». Alléchante sur le papier, cette histoire de guerre des sexes, que George Cukor ou Stanley Donen aurait menée à un rythme trépidant, est ici traitée sans invention. Le scénario accumule facilités et incohérences, les dialogues sont poussifs et explicatifs, les situations convenues et sans aucune ambiguïté ni double sens, comme ce genre de comédie en réclame pourtant.
+
+Il nous reste à picorer, çà et là, quelques plaisirs que même un mauvais réalisateur ne pourra pas gâcher : le regard de chien battu de Cary Grant et l’énergie débordante de Sophia Loren — qui réussit à ne pas être totalement ridicule, même quand elle pousse la chansonnette, napolitaine, évidemment.
+
+Suivi d’un portrait de Sophia Loren (lire ci-contre).</desc>
+    <credits>
+      <actor>Martha Hyer</actor>
+      <actor>Cary Grant</actor>
+      <actor>Sophia Loren</actor>
+      <actor>John Litel</actor>
+      <actor>Werner Klemperer</actor>
+      <actor>Charles Herbert</actor>
+      <actor>Murray Hamilton</actor>
+      <actor>Harry Guardino</actor>
+      <actor>Edward Cianelli</actor>
+      <actor>Madge Kennedy</actor>
+      <actor>Paul Petersen</actor>
+      <actor>Mimi Gibson</actor>
+      <writer>Drake Betsy</writer>
+      <writer>Melville Shavelson</writer>
+    </credits>
+    <date>1958</date>
+    <category lang="fr">film : comédie sentimentale</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/9561ad81-0877-4257-94df-eb95c62a15e2.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112142000" channel="C111.api.telerama.fr" stop="20250112152000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Au coeur de la savane</sub-title>
+    <desc lang="fr">Saison:2 - Episode:1 - Le parc national du Serengeti, dans le nord de la Tanzanie, est l'un des derniers grands territoires sauvages au monde. Avec ses espèces emblématiques - grands fauves, éléphants, girafes, gnous, gazelles ou phacochères -, il présente une biodiversité unique. Entre concurrence, prédation et indifférence prudente, ses habitants déploient d'incroyables stratégies pour se nourrir et protéger leur descendance. Alors que des pluies diluviennes inondent la savane, ce premier épisode immortalise des comportements remarquables : le grand plongeon d'une famille de babouins, les encouragements d'un zèbre à un congénère nageant contre le courant ou encore les spectaculaires attitudes de deuil des éléphants, encore mal comprises.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/23/b83d02f7dda9e83df84f62a0622d1356f5210d48.jpg" />
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112152000" channel="C111.api.telerama.fr" stop="20250112162000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>La loi de la nature</sub-title>
+    <desc lang="fr">Saison:2 - Episode:2 - Dans le Serengeti, la mort fait partie intégrante de la vie, et les charognards en sont peut-être la meilleure illustration. On suit ainsi dans ses pérégrinations une famille de chacals - qui partagent avec les hyènes et les vautours un opportunisme alimentaire à toute épreuve - contrainte de céder son terrier à une colonie de fourmis. Ce deuxième épisode fait la part belle à l'intelligence animale et à la cohésion familiale, entre la ruse d'un babouin déjouant l'attention d'un groupe de lions, la vaillante intervention de phacochères pour sauver leurs rejetons des griffes de guépards ou les attendrissants baptêmes de chasse de jeunes léopards.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/25/64ec48dcfe3040cb844657212ab87a95.jpg" />
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112162000" channel="C111.api.telerama.fr" stop="20250112164500">
+    <title>Marchés du monde</title>
+    <sub-title>Mauritanie, le marché aux dromadaires</sub-title>
+    <desc lang="fr">A Nouakchott, la capitale de la Mauritanie, se tient le plus grand marché aux dromadaires d'Afrique de l'Ouest : 500 bêtes sont vendues tous les jours.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/05/52cfedad875d4fb4a6667e892194c9a3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112164500" channel="C111.api.telerama.fr" stop="20250112174000">
+    <title>Les géants de l'art</title>
+    <sub-title>Michel-Ange</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Né en 1475 en Toscane, le jeune Michel-Ange grandit auprès d'un père irascible et réfractaire à l'art. Agé de 13 ans, il décide néanmoins de devenir l'apprenti d'un peintre florentin avant d'être introduit à la cour des Médicis, où il s'essaie à la sculpture. Avant même ses 30 ans, il sculpte deux oeuvres immensément célèbres : "La pietà", une représentation de la Vierge Marie tenant sur ses genoux le corps du Christ descendu de la croix, et son "David" monumental, taillé dans un bloc de marbre de sept mètres de hauteur, dont le corps anatomiquement parfait exsude la liberté et la souveraineté. Il connaît ensuite la consécration lorsque le pape Jules II lui commande la décoration du plafond voûté de la chapelle Sixtine au Vatican.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/28/d0571b37e50a7ee93b0d2f49a2cbd85a44210f42.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112174000" channel="C111.api.telerama.fr" stop="20250112183000">
+    <title>Bernstein &amp; Gershwin : Deux Américains à Paris</title>
+    <desc lang="fr">Leonard Bernstein et George Gershwin, les deux compositeurs phares du XXe siècle américain, donnent le la d'un concert de fête, avec l'Orchestre national de France et la jeune pianiste virtuose Lise de la Salle sous la direction de Stéphane Denève. Au programme : l'entraînante ouverture de l'opérette "Candide", de Bernstein ; "Un Américain à Paris", célébration du Paris des Années folles par Gershwin. La "Rhapsody in Blue", 100 % américaine, clôt le concert.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/20/e0dbeb9a2f044b8e8458c475fc27fb0e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112183000" channel="C111.api.telerama.fr" stop="20250112184500">
+    <title>Karambolage</title>
+    <desc lang="fr">Comment les français prennent-ils leur petit-déjeuner / Gros plan sur le Sandmännchen, une émission allemande emblématique.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/09/04/dda96042153f541f690c459d7e5f25a902ed52ae_0D06C6C797893FF04978AECC277E5D04.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112184500" channel="C111.api.telerama.fr" stop="20250112190500">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 12/01/2025</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250112190500" channel="C111.api.telerama.fr" stop="20250112200000">
+    <title>Versace : les liens du sang</title>
+    <desc lang="fr">En 1972, Gianni Versace quitte Reggio de Calabre, dans le sud de l'Italie, où il s'est formé à la confection dans l'atelier maternel, pour rejoindre Milan, capitale en devenir de la mode nationale. Six ans plus tard, ce génie ambitieux et studieux fonde sa propre maison avec l'aide de sa fratrie : Santo, l'aîné, gère les finances, tandis que Donatella, sa muse, de neuf ans sa cadette, le seconde à la création. Dessinant une silhouette féminine puissante et sexy, dans une exubérance de couleurs et de matières inédite, Versace la promeut en faisant défiler les supermodels et en habillant, en pionnier, les célébrités de l'époque, de Madonna à Lady Di. Le 15 juillet 1997, lorsque le couturier est abattu par un tueur en série, l'avenir de la griffe apparaît plus que jamais menacé.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/23/4909c9c45b424b4196f0744dfb66bdf7.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112200000" channel="C111.api.telerama.fr" stop="20250112220500">
+    <title>Basic Instinct</title>
+    <desc lang="fr">Une ancienne star du rock, Johnny Boz est assassiné avec un pic à glace pendant des ébats amoureux. L'inspecteur Nick Curran interroge Catherine Tramell, une romancière héritière d'une immense fortune. Son dernier roman prédit le meurtre de Boz et l'assassinat d'un inspecteur. Nick, ancien alcoolique et toxicomane, se sent coupable d'une bavure qui a causé la mort de deux personnes et le suicide de sa femme. Malgré les avertissements de la psychologue de la police, Beth Garner, il se laisse entraîner dans une relation dangereuse avec Catherine... - Critique : Qui a tué d'un coup de pic à glace l'ex-rock star Johnny Boz, retrouvé mort en pleine extase amoureuse ? L'inspecteur Curran soupçonne la romancière Catherine Tramell...
+
+Il a suffi d'une scène pour faire de Basic Instinct « le film le plus sulfureux de la décennie ». Une poignée de flics interrogent une belle blonde, elle croise et décroise les jambes, dévoilant une nudité inattendue... Tout le sens de la provocation de Paul Verhoeven s'exprime dans ce court passage, qui fit de Sharon Stone une star mondiale ! Il ne s'agit pas tant de crudité mais d'invention, de décalage, voire de déviance. Sous l'apparence du thriller postmoderne se cacherait presque un manifeste féministe : la façon dont Sharon Stone mène les hommes a renouvelé l'image de la femme dans le cinéma hollywoodien.</desc>
+    <credits>
+      <director>Paul Verhoeven</director>
+      <actor>Sharon Stone</actor>
+      <actor>Michael Douglas</actor>
+      <actor>George Dzundza</actor>
+      <actor>Wayne Knight</actor>
+      <actor>Denis Arndt</actor>
+      <actor>Chelcie Ross</actor>
+      <actor>Jeanne Tripplehorn</actor>
+      <actor>Dorothy Malone</actor>
+      <actor>A. Bruce</actor>
+      <actor>Sarelle Leilani</actor>
+      <actor>Daniel Von</actor>
+      <actor>Cable Bill</actor>
+      <writer>Joe Eszterhas</writer>
+      <guest>Jacqui Landrum</guest>
+      <guest>Bill Landrum</guest>
+    </credits>
+    <date>1992</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/1ecbd32a-a164-477c-b941-8bba36c9b5bd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112220500" channel="C111.api.telerama.fr" stop="20250112230000">
+    <title>Sharon Stone, l'instinct de survie</title>
+    <desc lang="fr">Devenue célèbre grâce à sa prestation explosive dans "Basic Instinct", Sharon Stone est inscrite à jamais dans l'inconscient collectif comme un sex-symbol. Mais derrière cette image encombrante se révèle une actrice au caractère bien trempé. Adolescente déterminée à s'arracher à un milieu modeste et violent, elle quitte tôt la campagne de Pennsylvanie pour rejoindre New York, où elle cumule petits boulots et étude des beaux-arts. Pour lancer sa carrière, elle accepte d'incarner le stéréotype de la blonde un peu sotte avant de décrocher plusieurs grands rôles qui lui permettent de décoller, dont le mythique "Casino", aux côtés de Robert De Niro et Joe Pesci. Au-delà du jeu, elle s'invente un personnage public bourré d'humour, qui ne manque pas de repartie.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/11/367875daab6f4ab78a4231971cfa6e23.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250112230000" channel="C111.api.telerama.fr" stop="20250113004500">
+    <title>Orphée &amp; Eurydice</title>
+    <desc lang="fr">Inconsolable depuis la mort d'Eurydice, Orphée décide de mettre fin à ses jours. Mais l'Amour lui souffle comment ramener sa belle des Enfers. Amener le classique vers de nouveaux publics : telle est l'ambition du festival Pulsations, créé par Raphaël Pichon. Pour son édition 2023, le chef d'orchestre reprend le célèbre opéra de Christoph Willibald Gluck dans sa version remaniée en 1859 par Hector Berlioz.</desc>
+    <category lang="fr">opéra</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/b8d3ef95e09b48e3b55dfd80a7ab41f8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

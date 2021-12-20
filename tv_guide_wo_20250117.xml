@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250116235000" channel="C111.api.telerama.fr" stop="20250117004500">
+    <title>Finlande, l'été des mille lacs</title>
+    <desc lang="fr">L'été, en Finlande, est une saison courte mais intense. Rencontres avec des habitants de ces paysages de forêts et d'eaux cristallines à perte de vue.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/4409e669-b72d-4544-a1da-bed1acd71f26.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117004500" channel="C111.api.telerama.fr" stop="20250117014000">
+    <title>Finlande : l'hiver dans le Grand Nord</title>
+    <desc lang="fr">Découverte de la vie en Laponie finlandaise, à l'extrême nord du pays, où les pratiques ancestrales côtoient de pittoresques et singulières activités.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/33374361_AA865B9EF8B016F43BDBD012B04B5469.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117014000" channel="C111.api.telerama.fr" stop="20250117022500">
+    <title>Canada, la force de la nature</title>
+    <sub-title>Best of</sub-title>
+    <desc lang="fr">Au Canada, les grands espaces naturels se réduisent. Leur exploitation menace les forêts boréales où vivent les caribous, mais aussi les prairies, autrefois royaume des bisons.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/05/6bb1e51bc9694d5a94a1a5441ddc56b6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117022500" channel="C111.api.telerama.fr" stop="20250117031700">
+    <title>Libye - La boîte de Pandore de l'après Kadhafi</title>
+    <desc lang="fr">Malgré de multiples tentatives de médiation, la Libye reste aujourd'hui un pays fragmenté et gangrené par la violence, où tribus et milices se disputent le pouvoir. L'économie s'est effondrée, plus d'un million de personnes ont fui et, comme la Syrie, la Libye se retrouve au centre d'un conflit international par procuration entre la Russie et la Turquie, soutenues par leurs alliés respectifs. Au lendemain du printemps arabe à Tripoli, réprimé dans le sang, l'intervention de l'Otan en 2011, soutenue par l'ONU, a conduit au renversement du dictateur Kadhafi, mais a entraîné aussi le pays dans des années de guerre civile, l'Occident ne parvenant pas à proposer un plan viable de transition démocratique.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">52</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/20/2dd25f4e649ca8b9b5ec0a0de1754783b5f0a58d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117031700" channel="C111.api.telerama.fr" stop="20250117040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">43</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117040000" channel="C111.api.telerama.fr" stop="20250117045500">
+    <title>Natura Europa</title>
+    <sub-title>L'île d'Émeraude et le désert de pierres</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - L'Irlande recèle l'un des plus grands trésors naturels : un désert de pierre grise qui abrite certains des animaux sauvages les plus enchanteurs de l'île d'émeraude.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/08/0ab21ebc0fc8fa73f7507ee6c222dcf755563d68.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250117045500" channel="C111.api.telerama.fr" stop="20250117052500">
+    <title>Communautés de santé : le modèle islandais</title>
+    <desc lang="fr">Les systèmes de santé nordiques figurent parmi les plus performants d'Europe. En Islande, les centres de santé ont bonne réputation. Médecins et infirmiers diplômés y travaillent sur un pied d'égalité. En Allemagne aussi, des infirmières en santé communautaire comme Elisa, Tahnee et Anna tentent d'atténuer l'impact des fermetures d'hôpital et de la cessation d'activité des généralistes qui se profilent.</desc>
+    <category lang="fr">documentaire santé</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/22/8d41a31019183db74d25c4bc9426ecb294455951_32A6F01182B83875E4C7D22C34A0FCAB.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117052500" channel="C111.api.telerama.fr" stop="20250117053500">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117053500" channel="C111.api.telerama.fr" stop="20250117060500">
+    <title>Voyage en cuisine</title>
+    <sub-title>Ecosse : le haggis</sub-title>
+    <desc lang="fr">Voyage dans les cuisines du monde entier à la découverte de l'origine des recettes traditionnelles. Le haggis, la fierté écossaise - Que trouve-t-on dans les rayons d'une supérette d'Édimbourg ?</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/0cbabc1fde274eeb9c301693c629c2e0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117060500" channel="C111.api.telerama.fr" stop="20250117065000">
+    <title>L'Andalousie au son des guitares et du flamenco</title>
+    <desc lang="fr">A l'instar de Claudia Calle, 12 ans et passionnée de flamenco, de nombreux jeunes du Sud de l'Espagne rêvent de devenir célèbres comme danseurs, musiciens ou luthiers.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/eab886bb-7c7b-4f06-9a04-3b65c1b5148f.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117065000" channel="C111.api.telerama.fr" stop="20250117073500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Dans le Wyoming, Craig Johnson revisite le western - À Montpellier, anatomie d'une médecine humaniste - Au Japon, les galettes au chou de Maya - Au Cap-Vert, la science évolue.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/23/1346be07d4ffdb6264f9ca782675013c4ed0c881_197D33633F8379F253B938385EF8553D.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117073500" channel="C111.api.telerama.fr" stop="20250117082500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Au Canada, l'union de la photo et des grands espaces - Dans les Pyrénées, un peuple de légendes - Au Guatemala, la soupe de poulet de Marta - Au Vietnam, objectif opium.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/ee667d19ef934f3f9beb15fa29379b8f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117082500" channel="C111.api.telerama.fr" stop="20250117091500">
+    <title>L'Inde, l'autre pays du parfum</title>
+    <desc lang="fr">À Kannauj, Sadhna Pathak dirige une parfumerie familiale. Son fils Aviral souhaite préserver la production traditionnelle d'attar, malgré la popularité des parfums de synthèse.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/15/c35813527b1c4387bf45366e0f650f0b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117091500" channel="C111.api.telerama.fr" stop="20250117101000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Chaleurs extrêmes</sub-title>
+    <desc lang="fr">Saison:3 - Episode:5 - La concurrence pour la nourriture s'intensifie, les hyènes disputent les proies aux guépards. À la recherche d'un refuge sûr, Duma se retrouve sur le territoire d'un autre clan. Nalla, l'éléphant sage, doit trouver une solution avant qu'il ne soit trop tard. Lorsque les hippopotames soulèvent une boue de plus en plus épaisse, elle se transforme rapidement en piège. Le jeune Mafuta pourra-t-il s'échapper ?</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/02/f2afae3a019ca9e7a823e8fea42cb624a8538bae_803681C0B8406622106D7DD0849895EB.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250117101000" channel="C111.api.telerama.fr" stop="20250117120000">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Le temps de la résurrection</sub-title>
+    <desc lang="fr">Saison:3 - Episode:6 - Sous la pression des autres guépards, Duma est contraint de se charger seul des proies les plus imposantes. Un troupeau d'éléphants arrive de loin pour accueillir un bébé : le nouveau compagnon de jeu de Kadogo. Mafuta, le bébé hippopotame, prend de plus en plus d'assurance et aide sa mère à débarrasser les berges de la rivière des crocodiles. Les flamants roses annoncent le retour de la saison des pluies.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/02/f2afae3a019ca9e7a823e8fea42cb624a8538bae_803681C0B8406622106D7DD0849895EB.jpg" />
+    <episode-num system="xmltv_ns">2.5.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250117120000" channel="C111.api.telerama.fr" stop="20250117123500">
+    <title>Changement climatique et alimentation</title>
+    <desc lang="fr">La fédération italienne des agriculteurs se félicite d'une augmentation historique des jeunes agriculteurs. Ces dix dernières années, leur nombre a en effet progressé de 13 %, plus que partout ailleurs en Europe. Beaucoup d'entre eux ne sont pas d'origine paysanne et ne peuvent donc pas reprendre une exploitation agricole. Se pose alors la question de l'accès à des terres arables.</desc>
+    <category lang="fr">documentaire economie</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/04/ba3c9f467cb84c1398fcb50a893195f6.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117123500" channel="C111.api.telerama.fr" stop="20250117142000">
+    <title>Porc royal</title>
+    <desc lang="fr">Novembre 1947, en Angleterre. La princesse Elizabeth et le lieutenant Philipp Mountbatten s'apprêtent à convoler en justes noces. Trois notables d'une petite ville du Yorkshire, Swaby, Allardyce et Lockwood, décident de fêter dignement l'événement et de faire ripaille. Dans cette appétissante perspective, ils engraissent un cochon en fraude. L'animal sera, en ces temps d'austérité et de rationnement, la preuve tangible de la supériorité de la classe dominante. Dans la même ville, un humble pédicure, Chilvers, doté d'une épouse acariâtre et arriviste, cherche à faire fortune. Il découvre le porc au hasard d'une de ses visites. Il en informe Joyce, son épouse, qui comprend immédiatement que ce cochon peut lui ouvrir les portes de la haute société locale... - Critique : Angleterre, 1947. La princesse Élisabeth épouse lord Mountbatten. Pendant ce temps, le vulgum pecus british, privé de viande, court après les tickets de rationnement. Mme Chilvers enrage : « Ce n’est pas une question de steak, Gilbert, répète-t-elle à son pédicure de mari, mais de standing ! » Le brave homme se met donc en quête d’un cochon bien gras à subtiliser…
+
+Vous le reconnaissez ? Le petit pédicure timide et sentimental qui s’attache peu à peu à Betty, truie rose et odorante fauchée aux notables de la ville, n’est autre que… Michael Palin, Monty Python échappé (entre autres !) d’Un poisson nommé Wanda. Aux plus célèbres des comiques anglais, le réalisateur a aussi emprunté un peu de leur humour absurde et décapant. Égoïste, snob et étriquée, la petite-bourgeoisie d’outre-Manche, affamée par la pénurie, prend un bon coup sur le groin. Goûtez donc cette cochonnaille aigrelette, parfois lourde mais souvent savoureuse.</desc>
+    <credits>
+      <director>Malcolm Mowbray</director>
+      <actor>Michael Palin</actor>
+      <actor>Pete Postlethwaite</actor>
+      <actor>John Normington</actor>
+      <actor>Denholm Elliott</actor>
+      <actor>Maggie Smith</actor>
+      <actor>Jim Carter</actor>
+      <actor>Richard Griffiths</actor>
+      <actor>Alison Steadman</actor>
+      <actor>Bill Paterson</actor>
+      <actor>Haygarth Tony</actor>
+      <actor>Liz Smith</actor>
+      <actor>O'Brien Eileen</actor>
+      <writer>Alan Bennett</writer>
+    </credits>
+    <date>1984</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/31/70fecb115db842a9a3e0df401704bf0c.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250117142000" channel="C111.api.telerama.fr" stop="20250117145500">
+    <title>Délices de Sicile</title>
+    <sub-title>A l'ombre de l'Etna</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - A Torre Faro, commune la plus septentrionale de Sicile, Filippa Mancinone prépare les fameux spaghettis "alle vongole", à base de palourdes et de persillade.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/10/433f6aadf13da3801771cba19b2d4b0da5b6b366.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117145500" channel="C111.api.telerama.fr" stop="20250117154000">
+    <title>Les îles des tropiques</title>
+    <sub-title>Hawaii</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Entre champs de lave, jungles luxuriantes et récifs coralliens, Hawaii, archipel parmi les plus isolés du globe, abrite des créatures fascinantes, à l'instar des poissons grimpeurs, des chenilles carnivores, des albatros de Laysan ou encore des baleines à bosse, dont la parade nuptiale offre un spectacle à couper le souffle.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/19405952_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117154000" channel="C111.api.telerama.fr" stop="20250117162500">
+    <title>Les îles sauvages de l'océan Indien</title>
+    <sub-title>Maurice et La Réunion</sub-title>
+    <desc lang="fr">Dans l'ouest de l'océan Indien, les eaux peu profondes de l'île Maurice et de La Réunion abritent la nurserie des cachalots, où les petits attendent le retour de leurs parents.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/04/4c8136538a824bbcb498360a0c19e9ec.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117162500" channel="C111.api.telerama.fr" stop="20250117171000">
+    <title>Invitation au voyage</title>
+    <sub-title>Ile Maurice</sub-title>
+    <desc lang="fr">L'écrivain Malcolm de Chazal ; la fête hindoue de Diwali ; la tarte à la banane de Yovissen ; la petite île aux Cerfs.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/25/12450f2aff65b36be22b616760a28d3f8d326a9b.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117171000" channel="C111.api.telerama.fr" stop="20250117175500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">La Provence d'Alain Damasio - Le "cante alentejano", voix du peuple portugais - Les dents de la mer australienne.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/24/2a11ad4bed8c4e20bed894f13eca80ff36f01b6e_9AAA254913D0F1B35E4FA0E320A0AAA4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117175500" channel="C111.api.telerama.fr" stop="20250117183000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>Le lac Weissensee, Autriche</sub-title>
+    <desc lang="fr">Au menu de réveillon de la famille Knaller, sur les rives du lac Weissensee, en Autriche, des saucisses fumées, du poisson et des ravioles aux Kletzen.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/25/2c8c725717679164dda66a0ceb0d663b24049896.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117183000" channel="C111.api.telerama.fr" stop="20250117184500">
+    <title>Le dessous des cartes</title>
+    <sub-title>Mer du Japon : zone sensible</sub-title>
+    <desc lang="fr">Certains la nomment "mer du Japon", d'autres "mer de l'Est". Cet espace maritime stratégique, bordé par la Russie, le Japon et les deux Corées, est bien plus qu'un simple point de passage : il est au centre des rivalités entre puissances mondiales et régionales. Deux camps se font face : d'un côté l'axe Pyongyang, Moscou, Pékin, de l'autre Tokyo, Séoul et les États-Unis...</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c2e278d7cfed42ce95200259e707fe64.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117184500" channel="C111.api.telerama.fr" stop="20250117190500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117190500" channel="C111.api.telerama.fr" stop="20250117195200">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117195200" channel="C111.api.telerama.fr" stop="20250117195500">
+    <title>De Gaulle à la plage</title>
+    <sub-title>Le blocage</sub-title>
+    <desc lang="fr">Saison:1 - Episode:19 - Mais où est passé le général ? Au milieu des années 1950, alors que l'Algérie s'embrase et que la France traverse une crise, Charles de Gaulle est aux abonnés absents. Lassé de l'ingratitude de ses compatriotes, c'est flanqué de deux fidèles entre les fidèles, son aide de camp Lebornec et son épouse Yvonne, qu'il part goûter aux joies des bains de mer et aux plaisirs inconnus du farniente. Adaptant avec Philippe Rolland sa bande dessinée éponyme, Jean-Yves Ferri égratigne avec tendresse et une pointe d'humour décalé la figure du libérateur de la France. Aujourd'hui : parfois, le repli est inenvisageable.</desc>
+    <date>2020</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/0d0b8022-d478-4d13-9122-7aaad6484e13.jpg" />
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117195500" channel="C111.api.telerama.fr" stop="20250117213000">
+    <title>Meurtres à Sandhamn</title>
+    <sub-title>Max</sub-title>
+    <desc lang="fr">Saison:9 - Episode:3 - Alors que tout semble aller pour le mieux pour Nora et Alexander, un mystérieux inconnu se met à les suivre. L'homme va jusqu'à aborder Tor lorsque le garçon est à l'école. Qui est cet homme et surtout que veut-il ? Est-il dangereux ou au contraire essaie-t-il de prévenir Alexander et Nora de quelque chose ? Et pourquoi approche-t-il Tor ? Est-ce un cas personnel ? Nora et Alexander vont devoir agir de manière discrète et subtile pour en savoir plus. De son côté, Pär est en charge d'une enquête pour la première fois. Il découvre que son affaire est liée à deux autres dossiers... - Critique : Décidément, l’île ensoleillée de Sandhamn, au large des côtes suédoises, est le théâtre d’un nombre étonnant de crimes… Dans cette dix-huitième enquête de la série de téléfilms adaptée des romans de Viveca Stern, le passé refait surface lorsqu’une bande d’adolescents tombe nez à nez avec deux squelettes prisonniers d’un abri souterrain. Ces derniers pourraient bien être ceux de deux jeunes garçons disparus il y a trente ans lors d’un camp religieux.
+
+Stupeur ! Lorsque le plus norvégien des enquêteurs, Alexander Gullmar, flanqué d’un stagiaire très consciencieux, commence à interroger les témoins de l’époque, il découvre que trois des participants de ce séjour ne sont autres que la procureure Nora Linde, son ex-compagnon et la nouvelle épouse de ce dernier.
+
+Une fois de plus, enquête policière et tourments amoureux se mêlent dans le petit village de pêcheurs. Sans réel coup d’éclat, Mattias Ohlsson orchestre une série d’allers-retours dans le temps plutôt haletants et convaincants. La double fin heureuse – façon « ils vécurent heureux et eurent beaucoup d’enfants » – fait fondre notre cœur comme neige au soleil de Sandhamn, mais semble bien vite expédiée.</desc>
+    <credits>
+      <director>Mattias Ohlsson</director>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Högberg Donald</actor>
+      <actor>Nicolai Cleve</actor>
+      <actor>Hammarsten Gustaf</actor>
+      <actor>Abrahamsson Gunilla</actor>
+      <actor>Lundqvist Anton</actor>
+      <actor>Mattias Malmros</actor>
+      <actor>Julius Fleischanderl</actor>
+      <actor>Kassel Ulving</actor>
+      <actor>Johan Wahlström</actor>
+      <actor>Martin Hallgren</actor>
+      <writer>Johan Widerberg</writer>
+      <writer>Sara Heldt</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/10/057320f16bd1487d95e92859c52ff312.jpg" />
+    <episode-num system="xmltv_ns">8.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250117213000" channel="C111.api.telerama.fr" stop="20250117222000">
+    <title>"Disintegration" : Un album. Un groupe. Une génération</title>
+    <desc lang="fr">Rock star à la silhouette-signature, Robert Smith mène depuis bientôt cinquante ans The Cure dans une traversée pop de la marginalité. Univers sonore unique infusé de post-punk, entre chansons dark wave et succès plus mainstream, comme "Friday I'm In Love", "Love Cats" ou "Lullaby", le groupe britannique à l'envoûtante mélancolie occupe une place à part dans la galaxie rock. En 1989, "Disintegration", son huitième album studio, marque un tournant, lui valant un succès planétaire - 4 millions d'exemplaires vendus. Car ce disque, souvent considéré comme un chef-d'œuvre, percute avec justesse un monde qui bascule avec l'effondrement du bloc de l'Est.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/04/2dd3542495c84491bcdffd63a7c09b11.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117222000" channel="C111.api.telerama.fr" stop="20250117235500">
+    <title>The Cure : Anniversary 1978-2018, Live In Hyde Park London</title>
+    <desc lang="fr">Le 7 juillet 2018, à Hyde Park, à Londres, 65.000 personnes étaient rassemblées pour célébrer ses 40 ans de carrière du groupe britannique The Cure. Pendant plus de deux heures, ces privilégiés ont passé en revue quatre décennies de succès que Robert Smith et ses comparses ont résumé en 29 chansons.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/f66a7d7f008e4a85b558b82dca103cc1.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250117235500" channel="C111.api.telerama.fr" stop="20250118010500">
+    <title>Ground Control : The Lemon Twigs, The Fat White Family, Los Bitchos</title>
+    <desc lang="fr">Sur la scène du Ground Control, à Paris, quatre invités plutôt excentriques pour une soirée à dominante glam rock, sous la houlette du maître des lieux Christophe Chassol.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/04/54b5a945d2094697ae88d56a4616a4c3.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250114234000 +0100" channel="C111.api.telerama.fr" stop="20250115011500 +0100">
+    <title>Mondialisation : Les nouvelles règles du jeu</title>
+    <desc lang="fr">La pandémie de Covid, la guerre en Ukraine et les multiples crises ont rebattu les cartes de la mondialisation. Alors que la Chine ne cesse d'investir dans le secteur des hautes technologies, les États-Unis craignent de perdre leur suprématie : les deux superpuissances se livrent ainsi une guerre froide d'un nouveau genre, qui se joue entre autres sur l'île de Taïwan, épicentre mondial des puces électroniques. Longtemps portée par la compétitivité de son modèle économique, l'Allemagne voit aujourd'hui sa prospérité menacée, tandis que l'Inde, site de production à moindre coût, et Singapour, troisième place financière en Asie, rattrapent peu à peu leur retard. Recelant la plus importante réserve de cobalt de la planète, le Congo peine quant à lui à tirer son épingle du jeu.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/945da8c7d3fa4fb3b222afa51eb23b21.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115011500 +0100" channel="C111.api.telerama.fr" stop="20250115014500 +0100">
+    <title>Tracks East</title>
+    <desc lang="fr">Partout, le populisme prospère. En Hongrie, Viktor Orban sème la division en affichant sa sympathie pour Poutine. En Slovaquie, le premier ministre, Robert Fico, subvertit les médias et la culture. Du côté de la Russie, Masha Borzunova nous explique les dessous du "visa humanitaire" délivré par Poutine pour accueillir à bras ouverts ceux qui veulent fuir le "wokisme".</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/b6da7d78975c4dad9f05c585d917a957.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115014500 +0100" channel="C111.api.telerama.fr" stop="20250115024000 +0100">
+    <title>Etats-Unis 2024 : La guerre des clans</title>
+    <sub-title>Début de l'été : choisis ton camp</sub-title>
+    <desc lang="fr">En ce début d'été, tout semble annoncer une victoire électorale de Donald Trump, du moins selon les sondages menés dans les "Swing States".</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/09/75ddd9d8995b4b259b0c6cccdf3ba035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115024000 +0100" channel="C111.api.telerama.fr" stop="20250115033500 +0100">
+    <title>Etats-Unis 2024 : La guerre des clans</title>
+    <sub-title>Eté : un vent nouveau</sub-title>
+    <desc lang="fr">Entre la tentative d'assassinat de Donald Trump et l'émergence d'une nouvelle candidate, l'été 2024 est riche en bouleversements dans la campagne présidentielle.</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/09/75ddd9d8995b4b259b0c6cccdf3ba035.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115033500 +0100" channel="C111.api.telerama.fr" stop="20250115041800 +0100">
+    <title>Terre de légendes</title>
+    <sub-title>Florilège</sub-title>
+    <desc lang="fr">Quatre lieux exceptionnels ont été façonnés par les éléments : l'archipel de Hawaï, les îles Féroé, l'archipel des Palaos en Micronésie et les plaines états-uniennes.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">43</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/09/9f891e7326bf4d9dad37dfb446951199.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115041800 +0100" channel="C111.api.telerama.fr" stop="20250115050000 +0100">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">42</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115050000 +0100" channel="C111.api.telerama.fr" stop="20250115055500 +0100">
+    <title>Le Pen, Jünger et la Nouvelle Droite</title>
+    <desc lang="fr">Depuis le début des années 2000, on constate le retour en force et la banalisation médiatique d'une frange extrême de la droite et de valeurs nationalistes, autoritaires, xénophobes et patriarcales. Affichant sa méfiance vis-à-vis des sociétés démocratiques, de la mondialisation, de l'immigration et du poids des élites, ce mouvement bouleverse progressivement l'échiquier politique des sociétés européennes. Mais si la tendance est récente, les idées développées ne le sont pas : elles remontent au courant de pensée baptisé "Nouvelle Droite", né dans les remous de Mai 68 en cherchant à étendre le combat politique aux questions culturelles et sociétales.</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/22/3e3909bd0ddf6e0c760ae72765a7eb41a0baab74.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115055500 +0100" channel="C111.api.telerama.fr" stop="20250115062500 +0100">
+    <title>Turquie : patrimoine et selfies en Cappadoce</title>
+    <desc lang="fr">En matière de sites patrimoniaux, difficile de rivaliser avec la Cappadoce. Cette région de Turquie est également connue pour ses formations rocheuses qui attirent chaque année quatre millions de touristes - en quête de selfies à poster sur Instagram. Facteur de prospérité, cet engouement menace désormais les paysages et le patrimoine historique.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/6186bbe51d5146cabc998c8047f67d25.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115062500 +0100" channel="C111.api.telerama.fr" stop="20250115063500 +0100">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115063500 +0100" channel="C111.api.telerama.fr" stop="20250115070500 +0100">
+    <title>Voyage en cuisine</title>
+    <sub-title>Andalousie : l'aubergine abunuelada</sub-title>
+    <desc lang="fr">En Andalousie, le miel de canne et les douces aubergines se marient autour de plats gourmands. Rencontre avec Paco Morales dans son restaurant pour découvrir sa recette.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/1e75405b50b8443f837de77f6d1ef2ea.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115070500 +0100" channel="C111.api.telerama.fr" stop="20250115075000 +0100">
+    <title>SOS ânes sauvages du Kazakhstan</title>
+    <desc lang="fr">Pour empêcher la disparition des hémiones, ou ânes sauvages d'Asie, des vétérinaires et biologistes tentent de réintroduire l'espèce dans la steppe de Tourgaï.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/18/3a521ae4eb500621adf3256a95463f1837b24971.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115075000 +0100" channel="C111.api.telerama.fr" stop="20250115083500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">La Ciotat filmée par les frères Lumière - Les Rabelados, insoumis catholiques du Cap-Vert - En Islande, "Paris Match" joue avec le feu.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/05/6f0336f0c3a64425876f7e2ca106ee62.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115083500 +0100" channel="C111.api.telerama.fr" stop="20250115092500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Figer l'instant canarien sous le soleil de midi apparaît chez Jorge Oramas comme une tentative sans cesse renouvelée d'arrêter le temps. Ce jeune peintre, né en 1911, se sait condamné. Pour conjurer la mort qui le guette, il tente d'immortaliser le monde canarien tel qu'il le porte au plus profond de lui.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/01/6f1190aae13f4026b353ed4949b85ff2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115092500 +0100" channel="C111.api.telerama.fr" stop="20250115101500 +0100">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Vivre à tout prix</sub-title>
+    <desc lang="fr">Saison:3 - Episode:3 - Tandis que la nature se rétablit, la rivière redevient un lieu de vie privilégié. Mafuta, le bébé hippopotame, voit son avenir s'assombrir lorsque son père est grièvement blessé. Magamba, le crocodile, a conclu un pacte avec de courageux oiseaux, les oedicnèmes tachards, pour protéger son nid. Seront-ils à la hauteur de la tâche ? Duma trouve une bande de guépards à laquelle il pourrait se joindre, mais ils ne lui font pas bon accueil. La lionne Kali retrouvera-t-elle ses petits, perdus après avoir été balayés par un troupeau d'éléphants en colère ? Bakari saura-t-il utiliser son intelligence pour mettre sa famille de babouins en sécurité ?</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/07/04/1ca17072c3c25fafaafb3b626917d22680a5f89a.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250115101500 +0100" channel="C111.api.telerama.fr" stop="20250115111000 +0100">
+    <title>Serengeti, la grande cavalcade des animaux</title>
+    <sub-title>Luttes de pouvoir</sub-title>
+    <desc lang="fr">Saison:3 - Episode:4 - Pour les grands fauves, guépards et lions, la migration des gnous est l'assurance d'un repas. Mais malgré le nombre impressionnant d'animaux à leur portée, il leur faut démontrer de grands talents de chasseurs pour s'emparer d'une proie. Dans la rivière, Magamba, la femelle crocodile, se bat pour protéger ses petits mais ses forces diminuent. Duma, le guépard, tente désespérément de se réhabiliter, mais il a du mal à s'intégrer au groupe des mâles. De la saison sèche à la saison humide, cette série filmée avec du matériel ultramoderne retrace les drames, petits et grands, auxquels sont confrontés les habitants de la savane d'Afrique de l'Est.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/10/02/bc783a6d2cec072902aff7f5aad90c60bcd35b04_FB0F02889D4C8621183C9048B4977027.jpg" />
+    <episode-num system="xmltv_ns">2.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250115111000 +0100" channel="C111.api.telerama.fr" stop="20250115115500 +0100">
+    <title>Les lionnes de Namibie : Reines de la côte des Squelettes</title>
+    <desc lang="fr">Située au bord de l'océan Atlantique, au nord-ouest de la Namibie, la côte des Squelettes est une région aussi spectaculaire qu'inhospitalière.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/10/45a69dd76e3244be9d127e06eeab7a6f.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115115500 +0100" channel="C111.api.telerama.fr" stop="20250115130000 +0100">
+    <title>La mamie patineuse du lac Baïkal</title>
+    <desc lang="fr">Liubov a fêté ses 80 printemps. Cette vaillante grand-mère, qui vit seule désormais, témoigne du lien indéfectible qui la lie au lac Baïkal, en Sibérie.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/4f5dc96cd383f11f957790ed7b38874bfcdc1ade.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115130000 +0100" channel="C111.api.telerama.fr" stop="20250115133500 +0100">
+    <title>Chasseurs de vestiges dans les glaciers</title>
+    <desc lang="fr">Dans les Alpes, les glaciers fondent à une vitesse vertigineuse, mettant à nu des vestiges vieux de plusieurs siècles - une véritable mine d'or pour les archéologues. Toutefois, le temps presse, car ces trésors se désagrègent rapidement une fois exposés à l'air et au soleil. De plus, l'augmentation des chutes de pierres accentue les risques.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/fec6671565aa4b6dae37a47d09bc1b91.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115133500 +0100" channel="C111.api.telerama.fr" stop="20250115152500 +0100">
+    <title>Le capitan</title>
+    <desc lang="fr">En 1616, Louis XIII, trop jeune pour régner, laisse sa mère, Marie de Médicis, confier le pouvoir à son indigne favori, Concino Concini. Pour réprimer l'agitation dans le Sud-Ouest, Concini envoie en mission Rinaldo, son bras droit. Rinaldo assassine le marquis de Teynac et blesse François de Capestan, qui essayait de sauver son ami. Le malheureux est recueilli par une mystérieuse jeune femme brune. Derrière le calme apparent de la vie provinciale, les partisans du duc d'Angoulême, fils bâtard de Charles IX, conspirent afin de porter leur héros sur le trône des Bourbons. Ils décident d'envoyer un message à Concini pour se plaindre des désordres... - Critique : André Hunebelle est un cinéaste spécialisé dans le spectacle récréatif. Après une série de - comédies sentimentales inégalement réussies (Méfiez-vous des blondes, Métier de fous, Ma femme est formidable, etc) il s‘est brusquement orienté vers les évocations historiques dites « de cape et d‘épée » (Les Trois Mousquetaires, Le Bossu, etc.). Voici venu le tour du Capitan, roman célèbre de (Michel Zevaco qui a déjà fait l‘objet d‘un film de R. Vernay).
+
+Le Capitan est un gentilhomme de petite noblesse et de grande bravoure qui saura déjouer les méchants complots ourdis par le ministre Concini et raffermir la couronne sur la tête fragile du jeune Louis XIII. C‘est un héros téméraire et infatigable qui réussit mille prouesses sans reprendre souffle et qui sait se battre à pied, à cheval, et à dix contre un.
+
+Hunebelle s‘est contenté d‘illustrer ses aventures en s‘appuyant sur les principes de la grande confection. Si les procédés de réalisation et même de narration souffrent d‘un visible manque d‘imagination, les décors naturels, les costumes et le mobilier, en revanche, sont joliment photographiés en couleur et grand écran. A retenir surtout les merveilleux paysages de la Touraine.
+
+Jean Marais, comédien solide et acrobatique, campe un héros acceptable. Bourvil, à ses côtés, lui sert de « faire-valoir » et joue le pitre dans « n registre un peu trop caricatural. Pierrette Bruno est délicieuse.
+
+Le spectacle est plaisant, mais comment se fait-il que ce genre de récit ne parvienne jamais à égaler le style du western américain ? Il suffirait de peu de choses : un peu plus d‘humour, un peu plus de rythme, un peu plus de poésie, un peu plus de virilité dans la mise en scène. Les chevauchées, les bagarres, les exploits personnels, la photogénie du matériel plastique, la simplicité des sentiments et la noblesse des intentions donnent lieu outre atlantique à des spectacles réjouissants et parfois émouvants. Assez curieusement nous n‘avons pas encore trouvé en France un ton capable d‘animer ces mêmes éléments pour transformer l‘imagerie en épopée.</desc>
+    <credits>
+      <actor>Jacqueline Porel</actor>
+      <actor>Jean Marais</actor>
+      <actor>Delorme Guy</actor>
+      <actor>Elsa Martinelli</actor>
+      <actor>Pierrette Bruno</actor>
+      <actor>Lise Delamare</actor>
+      <actor>Christian Fourcade</actor>
+      <actor>Annie Andersson</actor>
+      <actor>Arnoldo Foà</actor>
+      <actor>Bourvil </actor>
+      <actor>Coquelin Jean-Paul</actor>
+      <actor>Raphaël Patorni</actor>
+      <writer>André Hunebelle</writer>
+      <writer>Pierre Foucaud</writer>
+      <writer>Jean Halain</writer>
+      <guest>Jean Guélis</guest>
+    </credits>
+    <date>1960</date>
+    <category lang="fr">film de cape et d'épée</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/20/988f77c0dbae49ba9f8cf6652686ae00.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250115152500 +0100" channel="C111.api.telerama.fr" stop="20250115155000 +0100">
+    <title>Voyage en Méditerranée</title>
+    <sub-title>Egypte</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - A Alexandrie, Jaafar rencontre Shaima Ali, créatrice d'une application de rencontre musulmane. A Port-Saïd, Eman Hadoo et ses amies jouent de la simsimiyya, un instrument à cordes.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/ce4548bb16514bb0b2457ca4b98cf277.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115155000 +0100" channel="C111.api.telerama.fr" stop="20250115163500 +0100">
+    <title>Les îles des tropiques</title>
+    <sub-title>Madagascar</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - A Madagascar, les lémuriens à queue rousse y prospèrent et les petits caméléons de Laborde, se dépêchent de se reproduire avant la saison sèche.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/19405952_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115163500 +0100" channel="C111.api.telerama.fr" stop="20250115172500 +0100">
+    <title>Les îles sauvages de l'océan Indien</title>
+    <sub-title>Les Maldives</sub-title>
+    <desc lang="fr">Dans l'océan Indien, entre la corne de l'Afrique, la pointe sud de l'Inde et l'île de Madagascar, les eaux des Maldives sont le théâtre d'une vie sous-marine étonnante.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/288ee6324ba24312b0b404dc60b73256.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115172500 +0100" channel="C111.api.telerama.fr" stop="20250115180500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">"Le Clou", roman à succès de Zhang Yueran, raconte l'histoire d'un traumatisme intergénérationnel. En puisant dans les souvenirs de son père, la romancière explore trois générations heurtées par les heures les plus sombres du maoïsme.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/6ec9e4120d1245a1b6ab604299e644eb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115180500 +0100" channel="C111.api.telerama.fr" stop="20250115185500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Norvège, Roy Jacobsen raconte les paysans-pêcheurs - John Frum, le prophète du Vanuatu - En Espagne, une répétition funèbre.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/05/6f0336f0c3a64425876f7e2ca106ee62.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115185500 +0100" channel="C111.api.telerama.fr" stop="20250115193000 +0100">
+    <title>Voyage en cuisine</title>
+    <sub-title>Sénégal : le mafé</sub-title>
+    <desc lang="fr">Dans les pays d'Afrique de l'Ouest, le mafé est roi. Rose Marie Coly invite dans les cuisines de son restaurant Le Beer, à Dakar, pour préparer un mafé 100 % sénégalais.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/80b5ec612a4748b58e651ce0140ff472.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115193000 +0100" channel="C111.api.telerama.fr" stop="20250115194500 +0100">
+    <title>Le dessous des images</title>
+    <sub-title>Milei : le documentaire à la tronçonneuse</sub-title>
+    <desc lang="fr">Un homme présenté en héros, un montage partisan et une musique épique, voici la bande-annonce d'une série documentaire, retraçant l'ascension politique du président argentin Javier Milei. Démarche documentaire ou outil de communication, à qui profite vraiment ce type d'images ?</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115194500 +0100" channel="C111.api.telerama.fr" stop="20250115200500 +0100">
+    <title>Arte journal</title>
+    <desc lang="fr">ARTE Journal - 15/01/2025</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115200500 +0100" channel="C111.api.telerama.fr" stop="20250115205200 +0100">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">47</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115205200 +0100" channel="C111.api.telerama.fr" stop="20250115210000 +0100">
+    <title>De Gaulle à la plage</title>
+    <sub-title>Le ciné</sub-title>
+    <desc lang="fr">Saison:1 - Episode:17 - Rien de tel qu'une petite toile en plein air pour détendre l'atmosphère. C'est ce que découvre le général lors de ses vacances au bord de la mer.</desc>
+    <date>2020</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">8</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/3197df3f-6348-499a-adca-4f06ca27b091.jpg" />
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250115210000 +0100" channel="C111.api.telerama.fr" stop="20250115223500 +0100">
+    <title>Philomena</title>
+    <desc lang="fr">Dans l'Irlande catholique des années 50, Philomena Lee, une adolescente, tombe enceinte. Sa famille, qui redoute le scandale, l'envoie dans un couvent où on ne l'autorise à voir son bébé qu'une heure par jour. A l'âge de 3 ans, l'enfant lui est subitement retiré pour être adopté par des Américains. Après des dizaines d'années à le rechercher sans résultat, elle rencontre un ancien correspondant de la BBC récemment licencié, qui la persuade de partir aux Etats-Unis sur les traces de son fils. Entre la vieille dame attachée à sa foi catholique et le journaliste désabusé naît une relation pleine de respect... - Critique : Une jeune fille-mère à qui l’on a arraché son enfant pour le vendre à de riches Américains : cette épreuve, Philomena l’a longtemps tue, par honte, par culpabilité. Son fils aurait aujourd’hui 50 ans. Elle veut maintenant en savoir plus. Un journaliste l’aide dans sa quête…
+
+Le sujet, inspiré d’une histoire vraie, est grave. Mais Stephen Frears a brillamment réussi à mixer comédie dramatique engagée et variante de buddy movie. Philomena et le journaliste n’ont rien en commun. Elle est une incarnation de la vieille Irlande, dévote malgré ce qui lui est arrivé. Lui a fait Oxford, a travaillé pour la BBC : c’est un intellectuel désabusé, spirituel, mais déprimé pour cause de chômage prolongé. Si l’espoir des retrouvailles avec le fils maintient le suspense, c’est la complicité inattendue, teintée de sollicitude, entre les duettistes qui séduit par sa justesse et sa finesse.
+
+Malgré quelques flash-back appuyés, le chantage lacrymal est heureusement évité, grâce à Judi Dench, formidable en mère courageuse qui acquiert une dignité étonnante. Sans esprit de vengeance ni haine.</desc>
+    <credits>
+      <director>Stephen Frears</director>
+      <actor>Judi Dench</actor>
+      <actor>Jefford Barbara</actor>
+      <actor>Mare Winningham</actor>
+      <actor>Michelle Fairley</actor>
+      <actor>McCabe Ruth</actor>
+      <actor>Steve Coogan</actor>
+      <actor>Peter Hermann</actor>
+      <actor>Sean Mahon</actor>
+      <actor>Wunmi Mosaku</actor>
+      <actor>Kennedy Sophie</actor>
+      <actor>Anna Maxwell</actor>
+      <actor>McAllister Amy</actor>
+      <writer>Jeff Pope</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/27905034_18CB2A80E3E6A0E300BBDA38AC3DF015.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250115223500 +0100" channel="C111.api.telerama.fr" stop="20250116003500 +0100">
+    <title>Une guerre civile : Elizabethtown, USA</title>
+    <desc lang="fr">À Elizabethtown, petite ville conservatrice et rurale de Pennsylvanie aux apparences paisibles, une bataille politique acharnée se profile. Son enjeu, pourtant très local, est de taille : à l'automne 2023, les électeurs vont être appelés à désigner cinq nouveaux membres sur les neuf, tous républicains, que compte le conseil scolaire, instance détenant le contrôle de l'éducation publique dans "E-Town" et ses environs. Après des mois de débats virulents sur les affectations budgétaires et les livres de la bibliothèque, cinq personnes en poste depuis longtemps ne présentent pas leur candidature. À l'extrême droite du parti, les fondamentalistes chrétiens, qui détiennent déjà quatre sièges, espèrent remporter la majorité,</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/46c2042e5f7b40e6b84e9637a036d6da.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

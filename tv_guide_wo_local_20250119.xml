@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250118232000 +0100" channel="C111.api.telerama.fr" stop="20250119002000 +0100">
+    <title>Anthropocène, l'implacable enquête</title>
+    <desc lang="fr">Depuis plusieurs décennies, toutes les sciences de la Terre font le même constat, celui d'une planète qui change très vite sous l'effet d'activités humaines toujours croissantes : réchauffement climatique, chute de la biodiversité, modification des cycles naturels des éléments, érosion des sols, pollutions irréversibles. À tel point que le défunt prix Nobel de chimie néerlandais Paul Crutzen a inventé au début de ce siècle le terme d'"anthropocène" pour désigner l'ensemble de ces transformations. Entré dans les débats et les consciences, il suppose qu'Homo sapiens a imprimé à la nature une empreinte si profonde qu'une nouvelle ère géologique s'est ouverte, succédant à celle de l'holocène qui, il y a près de douze mille ans, lui a permis de croître et de prospérer pour dominer le monde.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/f15ddccddf4e417fb79b1f7bf93e16ad.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119002000 +0100" channel="C111.api.telerama.fr" stop="20250119011500 +0100">
+    <title>Court-circuit</title>
+    <sub-title>Premiers films</sub-title>
+    <desc lang="fr">J'ai avalé une chenille. Court métrage d'animation de Basile Khatir (France, 2024, 10mn). Suivi du making of. - La méthode. Court métrage de Coraline Zorea (France, 2023, 22mn) - L'entre deux. Court métrage d'animation de Marie Le Puil (France, 2024, 4mn). Suivi d'un entretien avec la réalisatrice.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119011500 +0100" channel="C111.api.telerama.fr" stop="20250119014500 +0100">
+    <title>Superdupermegagigasingel</title>
+    <desc lang="fr">Vebjorn, bientôt 30 ans, n'a jamais eu de petite amie. Alors qu'il travaille comme mascotte et moniteur de ski dans une station, il percute Polina, une touriste.</desc>
+    <credits>
+      <director>Håkon Anton Olavsen</director>
+      <actor>Martin Sagvolden Marki</actor>
+      <actor>Agnia Graesli</actor>
+      <actor>Mikael Ulrichsen</actor>
+      <actor>Frida Pedersen</actor>
+      <actor>Hennie Hjelmstadstuen</actor>
+      <actor>Mia Otelie Eng</actor>
+      <actor>Lykke Sofie Myrås</actor>
+      <actor>Torstein Øian Kilvær</actor>
+      <actor>Odin Norum Kvistad</actor>
+      <actor>Mari-Elene Gudahl</actor>
+      <actor>Violetta Peschanskaya</actor>
+      <actor>Daria Glenter</actor>
+      <writer>Sunniva Kviteberg</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : court métrage dramatique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/26/22fe0de41b875abf4241bbf439cd7fe81ea4ab5c_BF243B6694C35C555BBB92F92E10C0F1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119014500 +0100" channel="C111.api.telerama.fr" stop="20250119021500 +0100">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Comment fonctionnent les enfants ?</sub-title>
+    <desc lang="fr">Pour certains, les enfants seraient de frêles créatures incapables d'appréhender le monde. Pour d'autres, ils seraient supérieurs aux adultes, car ils maîtrisent des choses que les grands ont oubliées depuis longtemps. Peu importe la grille de lecture, les différences sont réelles. Qu'en est-il vraiment ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/603c6c6036dc4652891fbc45062835ff.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119021500 +0100" channel="C111.api.telerama.fr" stop="20250119030500 +0100">
+    <title>Un billet de train pour...</title>
+    <sub-title>pour l'Algarve</sub-title>
+    <desc lang="fr">Saison:15 - Episode:1 - Situé dans le sud du Portugal, l'Algarve, le plus grand récif naturel du pays, est célèbre pour son liège, matière première traditionnelle utilisée, entre autres, pour fabriquer sacs et chaussures. De vieux wagons diesel sexagénaires de la compagnie ferroviaire portugaise CP y circulent encore dans un parfum de nostalgie, en donnant du fil à retordre à leurs conducteurs. Au départ de Vila Real de Santo António, à la frontière espagnole, la côte baignée de soleil offre pléthore de richesses marines à ses habitants. Ainsi, la petite ville de Castro Marim est réputée pour son excellent sel de mer et le village de Santa Luiza, pour son poulpe délicieux. Non loin de la capitale de la région, Faro, s'étend sur 60 kilomètres le parc naturel de Ria Formosa.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/26/5f90025a2a2e468b917d44097a408a3b.jpg" />
+    <episode-num system="xmltv_ns">14.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119030500 +0100" channel="C111.api.telerama.fr" stop="20250119041900 +0100">
+    <title>Festival Elbjazz 2021 : China Moses, Nils Landgren, Michelle David</title>
+    <desc lang="fr">Après l'annulation de l'édition 2020, le festival Elbjazz 2021 a été maintenu, dans une édition numérique. Après une prestation explosive de la diva soul américaine China Moses, le tromboniste et chanteur suédois Nils Landgren l'a rejointe sur scène. Place ensuite à la douceur du chanteur portugais Salvador Sobral, vainqueur de l'Eurovision 2017. Lui succèdent après le groupe aux influences gospel, Michelle David &amp; The True-Tones, le quartet Masaa, la formation jazz électro rock The Notwist et le trompettiste finlandais Verneri Pohjola.</desc>
+    <category lang="fr">musique : jazz</category>
+    <length units="minutes">74</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/18/1099b515a1425399ae3eaad4e3eb24df882518b7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119041900 +0100" channel="C111.api.telerama.fr" stop="20250119052000 +0100">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">61</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119052000 +0100" channel="C111.api.telerama.fr" stop="20250119061000 +0100">
+    <title>L'humour, une drôle de thérapie</title>
+    <desc lang="fr">De récentes recherches ont démontré les bienfaits médicaux et sociaux du rire, comme en témoigne ce documentaire interrogeant scientifiques et amuseurs professionnels.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/29/3fb5407839e843a8844914826bac81a6.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119061000 +0100" channel="C111.api.telerama.fr" stop="20250119063000 +0100">
+    <title>Faire l'histoire</title>
+    <sub-title>La main de Fatma, se garder du mauvais oeil</sub-title>
+    <desc lang="fr">Tatouée ou portée en penditif, la khamsa (en arabe) ou tafust (en langue berbère amazighe) est un talisman qui vise à se protéger du "mauvais oeil".</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/20/b54743f8647918eaa5559d5c4c72438a52adce2a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119063000 +0100" channel="C111.api.telerama.fr" stop="20250119065500 +0100">
+    <title>Grandir sur la route de la soie</title>
+    <sub-title>Le roi des singes, Chine</sub-title>
+    <desc lang="fr">Saison:2 - Episode:1 - Yang, 11 ans, élève à l'Opéra de Pékin, répète le rôle de Sun Wukong, "le roi singe". Il espère convaincre trois camarades de classe d'assister à la première.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/ca17431a-2c31-4d0f-9ce0-c118f3c79692.jpg" />
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119065500 +0100" channel="C111.api.telerama.fr" stop="20250119071500 +0100">
+    <title>Grandir sur la route de la soie</title>
+    <sub-title>Les oiseaux de Bakou</sub-title>
+    <desc lang="fr">Saison:2 - Episode:5 - En Azerbaïdjan, le jeune Reshat, qui a perdu son père il y a un an, passe désormais du temps auprès d'un dresseur de pigeons, dont il veut apprendre le métier.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/b0d0e376-c2f3-4b96-b559-bb4c5b8259b6.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119071500 +0100" channel="C111.api.telerama.fr" stop="20250119074000 +0100">
+    <title>Grandir sur la route de la soie</title>
+    <sub-title>Cours de danse</sub-title>
+    <desc lang="fr">Saison:2 - Episode:2 - Tika, 10 ans, passionnée pour la danse traditionnelle, s'est engagée à aider des enfants handicapés à monter un spectacle dans sa ville, en Géorgie.</desc>
+    <date>2018</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/f629c2b5-8dc3-4861-aa30-594471dcd406.jpg" />
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119074000 +0100" channel="C111.api.telerama.fr" stop="20250119080500 +0100">
+    <title>Kids</title>
+    <sub-title>Les modèles identificatoires</sub-title>
+    <desc lang="fr">Saison:1 - Episode:11 - En s'identifiant à un modèle, un enfant façonne son avenir, intègre des valeurs et des normes qu'il aura tendance à reproduire pour le meilleur, et parfois le pire.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/06/03b6b7ce341f4ca0be5cd4e7a6dabf29.jpg" />
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119080500 +0100" channel="C111.api.telerama.fr" stop="20250119082000 +0100">
+    <title>ARTE Junior, le mag</title>
+    <desc lang="fr">Pour les 10-14 ans, l'actualité internationale et européenne traitée à hauteur d'enfant, à partir de questions posées par des élèves du primaire français et allemand. Sans oublier le portrait d'un enfant du monde.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/17/a3ffb319739f469685547895a94632d9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119082000 +0100" channel="C111.api.telerama.fr" stop="20250119085000 +0100">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Que faire de nous après notre mort ?</sub-title>
+    <desc lang="fr">Il est de coutume d'offrir une sépulture digne à ses défunts. Mais avec l'accroissement de la population mondiale, le nombre de décès avoisine désormais 160 000 par jour. Un problème dans de nombreuses mégalopoles où l'espace vient à manquer, même pour les jardins de tombes cinéraires. Les cimetières sont-ils voués à disparaître ? Les nouveaux rites funéraires entraîneront-ils de nouvelles formes de deuil ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/06/08e66ac6b5db490b995a3a3d42091a84.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119085000 +0100" channel="C111.api.telerama.fr" stop="20250119092000 +0100">
+    <title>Italomodern : Mode</title>
+    <desc lang="fr">La Vespa, la lampe Arco, les chaussures Ferragamo, les costumes Armani : dans les années 1950, l'Italie voit éclore un nouvel élan dans les secteurs du design et de la mode.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/14/f757b617144687874ced391b9e2f2fbbe1fa9f63.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119092000 +0100" channel="C111.api.telerama.fr" stop="20250119095000 +0100">
+    <title>Twist</title>
+    <desc lang="fr">Rencontre avec les artistes d'une métropole européenne autour d'une question en lien avec l'actualité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119095000 +0100" channel="C111.api.telerama.fr" stop="20250119103500 +0100">
+    <title>La gardienne de la forêt : Au pays des Cimbres</title>
+    <desc lang="fr">À Luserna, un village du nord de l'Italie, des descendantes de l'antique peuple cimbre transmettent aux nouvelles générations un patrimoine culturel menacé par l'oubli.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/06/37acbbaae1fc469cb4d9e7dc944e0f50.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119103500 +0100" channel="C111.api.telerama.fr" stop="20250119110500 +0100">
+    <title>Cuisines des terroirs</title>
+    <sub-title>Le Nord de la Suède</sub-title>
+    <desc lang="fr">Les eaux douces du nord de la Suède abritent un précieux poisson de la famille des saumons : le corégone blanc, apprécié pour ses oeufs orangés et délicats.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/25/2c8c725717679164dda66a0ceb0d663b24049896.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119110500 +0100" channel="C111.api.telerama.fr" stop="20250119115000 +0100">
+    <title>Les îles sauvages de l'océan Indien</title>
+    <sub-title>Les Maldives</sub-title>
+    <desc lang="fr">Dans l'océan Indien, entre la corne de l'Afrique, la pointe sud de l'Inde et l'île de Madagascar, les eaux des Maldives sont le théâtre d'une vie sous-marine étonnante.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/288ee6324ba24312b0b404dc60b73256.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119115000 +0100" channel="C111.api.telerama.fr" stop="20250119123500 +0100">
+    <title>Les îles sauvages de l'océan Indien</title>
+    <sub-title>Les Seychelles</sub-title>
+    <desc lang="fr">Avec leurs eaux cristallines, leurs falaises calcaires et leurs plages immaculées, les îles des Seychelles abritent une faune et une flore passionnantes.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/03/75772f60fdea4a39ad526d80cfcf868f.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119123500 +0100" channel="C111.api.telerama.fr" stop="20250119133000 +0100">
+    <title>Piraterie et esclavage en Méditerranée : Périls en mer au XVIe siècle</title>
+    <desc lang="fr">En 2019, l'archéologue Timmy Gambin découvre une épave du XVIe siècle dissimulée dans le sable aux abords de Gozo, l'une des îles de l'archipel maltais. En plongeant à 126 mètres de profondeur pour retracer l'histoire de ce navire, l'archéologue et son équipe vont ouvrir une fenêtre sur l'âge d'or des corsaires, les alliances entre puissances et les débuts de la mondialisation des échanges commerciaux. De cette époque restent les chroniques d'un témoin oculaire, le fils d'un marchand chrétien fait prisonnier par les Ottomans : Balthasar Stürmer. A travers le destin du personnage, ce documentaire révèle un pan méconnu de l'histoire de l'esclavage en Méditerranée.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/902156796c3441739ae59dd217579808.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119133000 +0100" channel="C111.api.telerama.fr" stop="20250119152500 +0100">
+    <title>Le corsaire noir</title>
+    <desc lang="fr">Dans l'île de Macaraibo. Le duc Van Gold, représentant du roi d'Espagne, mécontent de la gestion du gouverneur en place, prend le pouvoir. Mais le duc n'est pas une créature angélique : il le prouve en tuant Enrico de Vintimille en un combat singulier truqué, où un sbire caché derrière une tenture achève le malheureux qui a osé défier Van Gold. De plus, ses agents sèment la mort et la désolation au sein de la population indigène. Au cours d'un de ces massacres, Emilio, le légendaire corsaire noir, parvient à faire fuir les sbires du duc, mais seule Yara, une jolie jeune fille, a survécu. Suivant ses sauveurs, elle découvre avec eux leur camp, malheureusement visité par les forces du duc : Emilio y trouve le cadavre de son frère et celui de son meilleur ami. Le corsaire noir jure vengeance...</desc>
+    <credits>
+      <actor>Mel Ferrer</actor>
+      <actor>Kabir Bedi</actor>
+      <actor>Dagmar Lassander</actor>
+      <actor>Angelo Infanti</actor>
+      <actor>Sal Borgese</actor>
+      <actor>Carole André</actor>
+      <actor>Guido Alberti</actor>
+      <actor>Franco Fantasia</actor>
+      <actor>Basehart Jackie</actor>
+      <actor>Sonja Jeannine</actor>
+      <actor>Nicolò Piccolomini</actor>
+      <actor>Edoardo Faieta</actor>
+      <writer>Sergio Sollima</writer>
+      <writer>Alberto Silvestri</writer>
+    </credits>
+    <date>1976</date>
+    <category lang="fr">film d'aventures</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/30/1a61d2621c4c4a119fbf64596d975063.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119152500 +0100" channel="C111.api.telerama.fr" stop="20250119170000 +0100">
+    <title>L'épopée des femmes pirates : Les filles du vent</title>
+    <desc lang="fr">Entre la fin du XVIIe et le début du XVIIIe siècle, la piraterie connaît son âge d'or et les femmes y participent. Jeune mère de famille bretonne partie suivre son mari à Saint-Domingue en 1687, Marie-Anne Dieu-le-veut s'impose au fil des expéditions comme l'une des flibustières les plus redoutées des Caraïbes. Au début du XVIIIe siècle, alors qu'elle se destine à une carrière dans l'armée britannique, Mary Read se travestit pour embarquer sur un navire de commerce néerlandais et rejoint finalement l'équipage du célèbre pirate John Rackham. Soixante-dix ans plus tard, portée par les idéaux révolutionnaires, la corsaire française Louise Antonini se bat elle aussi sous une identité d'homme, et soutient notamment les Noirs insurgés des Antilles dans leur mouvement d'émancipation.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/045f9a06a0c444ef950d524c0eef9ae1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119170000 +0100" channel="C111.api.telerama.fr" stop="20250119173500 +0100">
+    <title>Cuisines des terroirs</title>
+    <sub-title>L'île d'Ischia, Italie</sub-title>
+    <desc lang="fr">Férues d'herbes aromatiques et de recettes ancestrales, Tilde et Fernanda récoltent des herbes fraîches et des feuilles de cactus sur l'île d'Ischia.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/28/c1b1dbbd2e8d4c32afdffb536133661e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119173500 +0100" channel="C111.api.telerama.fr" stop="20250119183000 +0100">
+    <title>Les géants de l'art</title>
+    <sub-title>Vincent van Gogh</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Né en 1853 dans un petit village du sud des Pays-Bas, Vincent Van Gogh est aujourd'hui considéré comme le peintre le plus célèbre de tous les temps. L'historienne de l'art Nienke Bakker, le professeur d'histoire de l'art Louis van Tilborgh et le biographe Steven Naifeh reviennent sur son existence tragique, parsemée de crises mystérieuses, et dressent, grâce à son abondante correspondance, un portrait nuancé de l'homme et de l'artiste, venu à la peinture sur le tard. C'est seulement quatre ans avant sa mort prématurée à 37 ans que ce dilettante est devenu le géant que l'on acclame aujourd'hui, laissant derrière lui une oeuvre gigantesque et révolutionnaire. Dans ce documentaire, les spécialistes tentent de faire la lumière sur un mystère : quelle blessure exactement le peintre a-t-il infligé à son oreille ?</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/14/06cbbd3cbe4794ff9ada2af5179f189b734a1679.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119183000 +0100" channel="C111.api.telerama.fr" stop="20250119193000 +0100">
+    <title>Les trois ténors : Naissance d'une légende</title>
+    <desc lang="fr">Le 7 juillet 1990, la veille de la finale de la Coupe du monde de football qui se tenait en Italie, les trois plus grands ténors de leur génération, les Espagnols Plácido Domingo et José Carreras et l'Italien Luciano Pavarotti, étaient pour la première fois réunis pour un récital dans les thermes de Caracalla. Les trois superstars rééditeront la performance à l'occasion des coupes du monde suivantes.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/14/f85a8cef74e94ec19f9dd8e700c00bbe.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119193000 +0100" channel="C111.api.telerama.fr" stop="20250119194500 +0100">
+    <title>Karambolage</title>
+    <desc lang="fr">le mot Hinrich Schmidt-Henkel nous présente un charmant petit lexique des mots allemands issus du français. l'objet Claire Doutriaux nous explique le lien entre Oberkampf et la toile de Jouy. la devinette</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/09/04/dda96042153f541f690c459d7e5f25a902ed52ae_0D06C6C797893FF04978AECC277E5D04.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119194500 +0100" channel="C111.api.telerama.fr" stop="20250119200500 +0100">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250119200500 +0100" channel="C111.api.telerama.fr" stop="20250119210000 +0100">
+    <title>Sharon Stone, l'instinct de survie</title>
+    <desc lang="fr">Devenue célèbre grâce à sa prestation explosive dans "Basic Instinct", Sharon Stone est inscrite à jamais dans l'inconscient collectif comme un sex-symbol. Mais derrière cette image encombrante se révèle une actrice au caractère bien trempé. Adolescente déterminée à s'arracher à un milieu modeste et violent, elle quitte tôt la campagne de Pennsylvanie pour rejoindre New York, où elle cumule petits boulots et étude des beaux-arts. Pour lancer sa carrière, elle accepte d'incarner le stéréotype de la blonde un peu sotte avant de décrocher plusieurs grands rôles qui lui permettent de décoller, dont le mythique "Casino", aux côtés de Robert De Niro et Joe Pesci. Au-delà du jeu, elle s'invente un personnage public bourré d'humour, qui ne manque pas de repartie.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/11/367875daab6f4ab78a4231971cfa6e23.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250119210000 +0100" channel="C111.api.telerama.fr" stop="20250119235500 +0100">
+    <title>Casino</title>
+    <desc lang="fr">Dans les années 1970, sa chance insolente et son flair infaillible valent à Sam "Ace" Rothstein l'honneur d'être catapulté à la tête d'un luxueux casino de Las Vegas, le Tangiers, par le puissant syndicat des camionneurs. L'établissement sert, en réalité, de paravent à la Mafia. Avec l'aide de Nicky Santoro, son ami d'enfance devenu son homme de main, Sam fait du Tangiers l'un des casinos les plus rentables de la ville. Il s'éprend bientôt d'une belle flambeuse, Ginger McKenna, qu'il finit par épouser. Un temps séduite, Ginger ne parvient pas à oublier son ancien souteneur, Lester Diamond, un petit escroc sans envergure, puis elle sombre dans l'alcool et la drogue... - Critique : Une voiture explose dans les flammes, le somptueux générique de Saul Bass développe ses arabesques, les chœurs de La Passion selon saint Matthieu retentissent. D’entrée, Scorsese place la barre très haut. Il la maintiendra à ce niveau d’exigence et de beauté pendant les trois heures ou presque de Casino, sa réalisation la plus ambitieuse, tout à la fois documentaire historique, thriller nerveux et grand film d’amour.
+
+La grandeur et la décadence d’un gérant de casino (Robert De Niro, impeccable), de son ami truand (Joe Pesci, impressionnant) et de son épouse ex-prostituée (Sharon Stone, sublime) sont inscrites dans les convulsions du Las Vegas des années 1970 et 1980. Une ville-mirage où la fête permanente dissimule à grand-peine une corruption généralisée. Scorsese décrit minutieusement le fonctionnement de la Mafia, sans jamais perdre de vue la dimension romanesque de son récit. La bande-son utilise ainsi à plusieurs reprises le thème romantique composé par Georges Delerue pour Le Mépris, et c’est bien plus qu’un simple hommage au classique de Godard. Ces deux chefs-d’œuvre traitent en effet d’un amour déçu. Et Ginger, Sam, Nicky, chez Scorsese, tout comme Camille, Paul, Prokosch, chez Godard, sont des héros au sens antique du terme : des demi-dieux, au-dessus du commun des hommes, mais rarement admis dans l’Olympe. Sam « Ace » Rothstein, l’employé juif de parrains italiens, se rêve en démiurge omniscient ; il ne pourra empêcher la chute de son monde, miné par l’orgueil et l’ambition, ces fatalités humaines. Au terme de ce film grandiose, il n’y a plus que désolation.</desc>
+    <credits>
+      <actor>Robert De</actor>
+      <actor>Joe Pesci</actor>
+      <actor>Sharon Stone</actor>
+      <actor>L.Q. Jones</actor>
+      <actor>James Woods</actor>
+      <actor>Don Rickles</actor>
+      <actor>King Alan</actor>
+      <actor>Kevin Pollak</actor>
+      <actor>Vincent Frank</actor>
+      <actor>Smothers Dick</actor>
+      <actor>Cajano Pasquale</actor>
+      <actor>Vella Vinny</actor>
+      <writer>Martin Scorsese</writer>
+      <writer>Pileggi Nicholas</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">175</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/25/379c195b5aa042e0abcb14524adadb02.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250119235500 +0100" channel="C111.api.telerama.fr" stop="20250120014500 +0100">
+    <title>Le tout nouveau testament</title>
+    <desc lang="fr">Depuis toujours, Dieu habite à Bruxelles. Personnage fruste et autoritaire, il est odieux avec sa femme et sa fille, Ea. Un jour, cette dernière, excédée par son comportement, décide de parasiter le logiciel de son père et de communiquer à tous les humains la date précise de leur mort. Elle se rend ensuite sur Terre, sur les conseils de son frère, bien décidée à recruter de nouveaux apôtres en vue de la constitution d'un nouveau testament. Elle croise rapidement des personnages très particuliers... - Critique : La catastrophe artistique et industrielle de Mr. Nobody, en 2010, n’a pas freiné les ambitions de Jaco Van Dormael. Le réalisateur de Toto le héros revient avec un projet détonant : mettre en scène Dieu en personne. Dans Le Tout Nouveau Testament, le Père éternel est une ordure, un poivrot qui s’amuse à sadiser l’humanité depuis son appartement de Bruxelles. Benoît Poelvoorde, dans une composition éruptive à la C’est arrivé près de chez vous, fait le show, et chacune de ses apparitions dope le film. Hélas pour lui (et pour nous), Dieu passe vite au second plan au profit de sa fillette, qui décide de racheter les « péchés » de son affreux papa. Après s’être vengée des coups de ceinturon divins en envoyant par SMS leur date de décès à tous les habitants de la planète, la petite Ea part à la recherche de six apôtres pour écrire un nouvel Évangile. Et rendre le monde un peu meilleur…
+
+Van Dormael a-t-il été effrayé par sa propre vision, très noire, de la vie ? Le propos caustique sur la religion se dissout dans une fantaisie new age pétrie de gentillesse et d’optimisme forcés. Dommage car sous la mièvrerie et le kitsch embarrassants pointe parfois un vrai trouble. Pourquoi n’avoir pas mieux utilisé Catherine Deneuve, démente en grande bourgeoise dépressive retrouvant goût à la vie dans les bras d’un gorille ? Et pourquoi n’avoir pas creusé le personnage de l’obsédé sexuel devenu apôtre, incarné tout en bonhomie par le surprenant Serge Larivière ?</desc>
+    <credits>
+      <actor>Catherine Deneuve</actor>
+      <actor>Yolande Moreau</actor>
+      <actor>Didier de</actor>
+      <actor>Serge Larivière</actor>
+      <actor>Benoît Poelvoorde</actor>
+      <actor>François Damiens</actor>
+      <actor>Laura Verlinden</actor>
+      <actor>Marco Lorenzini</actor>
+      <actor>Murgia David</actor>
+      <actor>Tenta Anna</actor>
+      <actor>Pili Groyne</actor>
+      <actor>Romain Gelin</actor>
+      <writer>Thomas Gunzig</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/10/7fbb17fc77d84fdfb42930e07c6dc4b7.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+</tv>

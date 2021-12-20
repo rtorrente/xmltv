@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20250117235500" channel="C111.api.telerama.fr" stop="20250118010500">
+    <title>Ground Control : The Lemon Twigs, The Fat White Family, Los Bitchos</title>
+    <desc lang="fr">Sur la scène du Ground Control, à Paris, quatre invités plutôt excentriques pour une soirée à dominante glam rock, sous la houlette du maître des lieux Christophe Chassol.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/04/54b5a945d2094697ae88d56a4616a4c3.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118010500" channel="C111.api.telerama.fr" stop="20250118024000">
+    <title>L'affaire Khaled El-Masri</title>
+    <desc lang="fr">En 2003, Khaled El-Masri, un citoyen allemand d'origine libanaise, père de cinq enfants, franchit la frontière macédonienne. Immédiatement arrêté, il est remis aux services de renseignements américains car il porte le même nom que celui d'un proche d'Al-Qaida, recherché par les Etats-Unis. Détenu illégalement pendant cinq mois par la CIA, il est interrogé et régulièrement torturé. La méprise découverte, Khaled El-Masri est relâché, mais un long combat commence alors pour lui afin de rétablir sa dignité et de faire reconnaître la violation des droits dont il a été victime.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/18/a7b87a254eea71dc2772239bbe236ee9089db638.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118024000" channel="C111.api.telerama.fr" stop="20250118032300">
+    <title>La voix du peuple haïda au Canada : protecteur de la nature</title>
+    <desc lang="fr">Peuple autochtone des îles de la Reine-Charlotte, archipel canadien situé au large de la Colombie-Britannique, les Haïda se battent pour préserver leurs traditions et leur langue.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">43</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/16/85ad12f0fb364c28810b8e181ebc3429.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118032300" channel="C111.api.telerama.fr" stop="20250118040500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">42</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118040500" channel="C111.api.telerama.fr" stop="20250118042000">
+    <title>Le dessous des cartes</title>
+    <sub-title>Mer du Japon : zone sensible</sub-title>
+    <desc lang="fr">Certains la nomment "mer du Japon", d'autres "mer de l'Est". Cet espace maritime stratégique, bordé par la Russie, le Japon et les deux Corées, est bien plus qu'un simple point de passage : il est au centre des rivalités entre puissances mondiales et régionales. Deux camps se font face : d'un côté l'axe Pyongyang, Moscou, Pékin, de l'autre Tokyo, Séoul et les États-Unis...</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c2e278d7cfed42ce95200259e707fe64.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118042000" channel="C111.api.telerama.fr" stop="20250118051500">
+    <title>Beckenbauer, le dernier empereur</title>
+    <sub-title>Pères et fils</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Né dans l'Allemagne en ruines d'après-guerre, Franz Beckenbauer grandit dans un quartier modeste de Munich, où il passe son enfance à taper dans un ballon de fortune. Quand il intègre les rangs du Bayern Munich, il y impose un style de jeu novateur, avant de s'illustrer sous le maillot ouest-allemand. En pleine ascension, il est est le premier footballeur à confier la gestion de sa carrière à un manager.</desc>
+    <date>2024</date>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/f4994823efa8444ba889b32551ee1b7a.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250118051500" channel="C111.api.telerama.fr" stop="20250118061000">
+    <title>Beckenbauer, le dernier empereur</title>
+    <sub-title>L'âge d'or</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Au sommet de sa carrière, Franz Beckenbauer se présente à la Coupe du monde de 1974, qui se dispute en Allemagne, dans une ambiance extrêmement tendue, le footballeur étant engagé dans un conflit financier avec sa fédération. Alors qu'en pleine guerre froide la RFA s'incline face à la RDA au premier tour, l'Allemagne de l'Ouest est finalement sacrée championne du monde en battant les Pays-Bas en finale.</desc>
+    <date>2024</date>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/259211e004514bf4a950a6e592303c30.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250118061000" channel="C111.api.telerama.fr" stop="20250118070000">
+    <title>Beckenbauer, le dernier empereur</title>
+    <sub-title>Contes et mythes</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Jouant ses dernières saisons entre New York et Hambourg, Franz Beckenbauer raccroche le maillot en 1983, affaibli par les blessures. Mais il effectue un retour triomphal dès l'année suivante, cette fois en tant que sélectionneur. En 1990, son équipe remporte la victoire finale face à l'Argentine de Maradona lors de la Coupe du monde. Il participe ensuite à l'organisation du Mondial en Allemagne en 2006.</desc>
+    <date>2024</date>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/ac813a09a89843a0b0c41cdc4216f4bf.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250118070000" channel="C111.api.telerama.fr" stop="20250118073500">
+    <title>Rooibos, le thé rouge d'Afrique du Sud</title>
+    <desc lang="fr">Dans la province du Cap-Occidental, les petits paysans se sont regroupés en coopératives pour produire, selon des méthodes artisanales immuables, du thé certifié bio.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/04/19/cb1605ad-b3f7-40ec-9487-1ba77414a0e3.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118073500" channel="C111.api.telerama.fr" stop="20250118083000">
+    <title>Géorgie : des téléphériques qui défient la mort</title>
+    <desc lang="fr">A Chiatoura, en Géorgie, une cité minière escarpée au coeur du Caucase, un réseau de téléphériques de l'ère soviétique est toujours en service malgré sa vétusté.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/01/b5d9b237c7fb41859d40306147481ba5.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118083000" channel="C111.api.telerama.fr" stop="20250118091000">
+    <title>Invitation au voyage</title>
+    <sub-title>Corée du Sud</sub-title>
+    <desc lang="fr">L'éveil coréen de Pierre Loti - Le ginseng, aux racines de la Corée - Le palais de Goryogung, braquage à la française.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/aa2fb544395b9374c634b3ab4da52560d5a549ad.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118091000" channel="C111.api.telerama.fr" stop="20250118093500">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Calabre, Italie</sub-title>
+    <desc lang="fr">Pour Giuseppe Vadalà et son collègue Vincenzo, producteurs de bergamote, ramassent entre 600 et 800 kg de fruits. L'origine botanique de cet agrume est une énigme.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/187e12fbdbcb42228158db1cdec05a3b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118093500" channel="C111.api.telerama.fr" stop="20250118103000">
+    <title>Danger sur les rails</title>
+    <sub-title>L'Andean Explorer</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Depuis la ville péruvienne de Cuzco, le "Ferrocarril del Sur" permet d'accéder à deux destinations : le célèbre Machu Picchu et la ville d'Arequipa.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/27/2797aca8e5ce67585af9e58910bec355f387f954_1CD1BB5DD85CC403733448F9A24A2B43.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118103000" channel="C111.api.telerama.fr" stop="20250118120000">
+    <title>Mongolie, la voie de l'aigle</title>
+    <desc lang="fr">Aux confins de la Mongolie, au pied des montagnes de l'Altaï, vivent les derniers nomades kazakhs. S'ils se déplacent selon les saisons, à la recherche de pâturages pour leurs troupeaux, ils ne sont pas seulement des éleveurs de bétail. Depuis des siècles, ils dressent des aigles, réputés excellents compagnons de chasse et susceptibles d'apporter la gloire à leurs maîtres lors de grands tournois folkloriques. Lorsque la jeune Aytuulgun, 13 ans, décide de devenir "maître aigle", elle bouleverse l'ordre établi d'un art ancestral réservé aux hommes. Heureusement soutenue par son père, elle capture un aigle sur le territoire d'un clan voisin, enfreignant là encore un code ancien et alimentant une rivalité tribale.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/11/b5de8f850eca4d068780ad41b25e5d9f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250118120000" channel="C111.api.telerama.fr" stop="20250118123000">
+    <title>Voyage en Méditerranée</title>
+    <sub-title>Egypte</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - A Alexandrie, Jaafar rencontre Shaima Ali, créatrice d'une application de rencontre musulmane. A Port-Saïd, Eman Hadoo et ses amies jouent de la simsimiyya, un instrument à cordes.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/02/ce4548bb16514bb0b2457ca4b98cf277.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118123000" channel="C111.api.telerama.fr" stop="20250118152000">
+    <title>Le dernier empereur</title>
+    <desc lang="fr">Une gare, en Chine. Des centaines de prisonniers, complices des Japonais pendant la guerre, s'entassent dans le hall. Parmi eux, un homme tente de se suicider. Il s'agit de Pu Yi, le dernier empereur mandchou. En 1908, la vieille Tseu Hi le désigne comme empereur alors qu'il est âgé de 3 ans. Pu Yi vit dès lors dans la Cité interdite. En 1911, la révolution l'y maintient. Tout son entourage lui fait croire qu'il règne encore sur son pays. Mais l'enfant ne tarde pas à découvrir la vérité. Sous l'influence de son précepteur écossais, Johnston, il s'ouvre à la culture occidentale et cherche en vain à reconquérir son pouvoir. Puis on le marie selon la tradition. C'est ainsi qu'il se retrouve entouré de deux épouses... - Critique : En 1908, un petit prince de 3 ans est enlevé à sa mère et assis sur le trône laqué de l'empire de Chine. Pendant seize ans, il reste un demi-dieu prisonnier de la Cité interdite. Puis il mène une vie de play-boy insouciant sous protection japonaise, se retrouve empereur de Mandchourie, est arrêté par les Russes et rendu à 43 ans aux Chinois, qui le rééduquent dans un camp.
+
+C'est un enchantement, un film épique dans lequel on retrouve les obsessions d'un Bertolucci hanté par la fatalité et le déracinement. Ainsi, les fugaces mouvements de révolte d'un éternel enfant qui, dans le huis clos d'un palais où les hommes sont tous des eunuques, vit dans le manque du sein maternel et l'absence d'une figure paternelle. Le gamin candide est amené à braver les interdits (couper sa natte, faire de la bicyclette, porter des lunettes).
+
+La blessure du fils de famille mal dans sa peau, marqué à vie par le péché originel d'être né chez les privilégiés, évoque Prima della rivoluzione. Et l'on pourrait encore relier ce film grandiose aux chroniques italo-stendhaliennes d'antan, à travers les thèmes de la perpétuelle recherche d'identité, de l'impossibilité de devenir adulte, de la dialectique de l'ordre et du désordre, du dédoublement de personnalité et de la faille entre le privé et le public, qui font naviguer le héros entre vérité et mensonge, réalité et illusion.</desc>
+    <credits>
+      <actor>Ryuichi Sakamoto</actor>
+      <actor>John Lone</actor>
+      <actor>Dun Dennis</actor>
+      <actor>Victor Wong</actor>
+      <actor>Joan Chen</actor>
+      <actor>Wu Vivian</actor>
+      <actor>Han Maggie</actor>
+      <actor>Ying Ruocheng</actor>
+      <actor>Ric Young</actor>
+      <actor>Cary-Hiroyuki Tagawa</actor>
+      <actor>Peter O'Toole</actor>
+      <actor>Jade Go</actor>
+      <writer>Mark Peploe</writer>
+      <writer>Bertolucci Bernardo</writer>
+      <writer>Enzo Ungari</writer>
+      <writer>Li Hongsheng</writer>
+    </credits>
+    <date>1987</date>
+    <category lang="fr">film : biographie</category>
+    <length units="minutes">170</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/09/61ce2c62ad354d309555860e79b27bd5.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250118152000" channel="C111.api.telerama.fr" stop="20250118155000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>Les Hautes-Alpes</sub-title>
+    <desc lang="fr">Depuis le XVe siècle, les habitants de Villar d'Arène, dans les Hautes-Alpes, célèbrent tous les ans, au mois de novembre, la fête du pain bouilli.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/6b1acd33-d374-4626-b730-4c772d6c3470.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118155000" channel="C111.api.telerama.fr" stop="20250118163000">
+    <title>Invitation au voyage</title>
+    <sub-title>Spécial Seychelles</sub-title>
+    <desc lang="fr">Trois sujets pour découvrir les Seychelles. Antoine Abel, le père fondateur de la littérature du pays - Le thon de l'indépendance - L'île Silhouette.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/08/aa2fb544395b9374c634b3ab4da52560d5a549ad.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118163000" channel="C111.api.telerama.fr" stop="20250118170500">
+    <title>Kitesurf en Bretagne, à l'assaut des phares</title>
+    <desc lang="fr">La kitesurfeuse Fabienne d'Ortoli et son partenaire traversent la mer d'Iroise. Leur route les mène devant des phares, dont ils veulent documenter l'histoire.</desc>
+    <category lang="fr">documentaire sport</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/2a1adbc9a3314c63b1c4ce62ac286cb5.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118170500" channel="C111.api.telerama.fr" stop="20250118175000">
+    <title>Les "tuk-tuk driveuses" du Sri Lanka</title>
+    <desc lang="fr">Au Sri Lanka, un vent d'émancipation féminine souffle dans les rues grâce à des conductrices de tuk-tuk audacieuses, bien décidées à gagner leur indépendance.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/30/3f6ff1a0ebf7478cb84cbea0804be521.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118175000" channel="C111.api.telerama.fr" stop="20250118184500">
+    <title>Arte reportage</title>
+    <desc lang="fr">Des grands reportages consacrés à l'actualité européenne et internationale.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/20/f9819210cd125a402dcd9971043435c4768356ea_81148FA4B0C0F46A91A4CC04CE8827D0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118184500" channel="C111.api.telerama.fr" stop="20250118190500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118190500" channel="C111.api.telerama.fr" stop="20250118195000">
+    <title>28 minutes samedi</title>
+    <desc lang="fr">Tous les samedis, Renaud Dély anime cette formule, adaptée au week-end, de l'émission d'actualité "28 Minutes" : avec à ses côtés Marie Bonnisseau, Nadia Daam et Jean-Mathieu Pernin, il commente l'actualité de la semaine écoulée, puis invite une personnalité reconnue dans son domaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c7ac333e9a73411585beb10d755cb86d.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118195000" channel="C111.api.telerama.fr" stop="20250118212500">
+    <title>L'épopée des femmes pirates : Les filles du vent</title>
+    <desc lang="fr">Entre la fin du XVIIe et le début du XVIIIe siècle, la piraterie connaît son âge d'or et les femmes y participent. Jeune mère de famille bretonne partie suivre son mari à Saint-Domingue en 1687, Marie-Anne Dieu-le-veut s'impose au fil des expéditions comme l'une des flibustières les plus redoutées des Caraïbes. Au début du XVIIIe siècle, alors qu'elle se destine à une carrière dans l'armée britannique, Mary Read se travestit pour embarquer sur un navire de commerce néerlandais et rejoint finalement l'équipage du célèbre pirate John Rackham. Soixante-dix ans plus tard, portée par les idéaux révolutionnaires, la corsaire française Louise Antonini se bat elle aussi sous une identité d'homme, et soutient notamment les Noirs insurgés des Antilles dans leur mouvement d'émancipation.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/045f9a06a0c444ef950d524c0eef9ae1.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118212500" channel="C111.api.telerama.fr" stop="20250118222000">
+    <title>Piraterie et esclavage en Méditerranée : Périls en mer au XVIe siècle</title>
+    <desc lang="fr">En 2019, l'archéologue Timmy Gambin découvre une épave du XVIe siècle dissimulée dans le sable aux abords de Gozo, l'une des îles de l'archipel maltais. En plongeant à 126 mètres de profondeur pour retracer l'histoire de ce navire, l'archéologue et son équipe vont ouvrir une fenêtre sur l'âge d'or des corsaires, les alliances entre puissances et les débuts de la mondialisation des échanges commerciaux. De cette époque restent les chroniques d'un témoin oculaire, le fils d'un marchand chrétien fait prisonnier par les Ottomans : Balthasar Stürmer. A travers le destin du personnage, ce documentaire révèle un pan méconnu de l'histoire de l'esclavage en Méditerranée.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/902156796c3441739ae59dd217579808.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118222000" channel="C111.api.telerama.fr" stop="20250118232000">
+    <title>Anthropocène, l'implacable enquête</title>
+    <desc lang="fr">Depuis plusieurs décennies, toutes les sciences de la Terre font le même constat, celui d'une planète qui change très vite sous l'effet d'activités humaines toujours croissantes : réchauffement climatique, chute de la biodiversité, modification des cycles naturels des éléments, érosion des sols, pollutions irréversibles. À tel point que le défunt prix Nobel de chimie néerlandais Paul Crutzen a inventé au début de ce siècle le terme d'"anthropocène" pour désigner l'ensemble de ces transformations. Entré dans les débats et les consciences, il suppose qu'Homo sapiens a imprimé à la nature une empreinte si profonde qu'une nouvelle ère géologique s'est ouverte, succédant à celle de l'holocène qui, il y a près de douze mille ans, lui a permis de croître et de prospérer pour dominer le monde.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/01/05/f15ddccddf4e417fb79b1f7bf93e16ad.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250118232000" channel="C111.api.telerama.fr" stop="20250119001500">
+    <title>Court-circuit</title>
+    <sub-title>Premiers films</sub-title>
+    <desc lang="fr">J'ai avalé une chenille. Court métrage d'animation de Basile Khatir (France, 2024, 10mn). Suivi du making of. - La méthode. Court métrage de Coraline Zorea (France, 2023, 22mn) - L'entre deux. Court métrage d'animation de Marie Le Puil (France, 2024, 4mn). Suivi d'un entretien avec la réalisatrice.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
