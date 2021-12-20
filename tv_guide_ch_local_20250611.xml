@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250610234000 +0200" channel="C59.api.telerama.fr" stop="20250611012000 +0200">
+    <title>Swan Song</title>
+    <desc lang="fr">Pat Pitsenbarger, un flamboyant coiffeur retraité de l'Ohio, apprend que la dernière volonté d'une ancienne cliente était qu'il la coiffe pour ses funérailles. Il entreprend alors un voyage afin de rassembler le matériel nécessaire à cette tâche et va devoir affronter les fantômes de son passé...</desc>
+    <credits>
+      <actor>Linda Evans</actor>
+      <actor>Ira Hawkins</actor>
+      <actor>Udo Kier</actor>
+      <actor>Jennifer Coolidge</actor>
+      <actor>Tom Bloom</actor>
+      <actor>Stephanie McVay</actor>
+      <actor>Urie Michael</actor>
+      <actor>Annie Kitral</actor>
+      <actor>Carroll Bryant</actor>
+      <actor>Shanessa Sweeney</actor>
+      <actor>Thom Hilton</actor>
+      <actor>Justin Lonesome</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/37587c85cc5d4f288d8e6c32adc136a3.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611012000 +0200" channel="C59.api.telerama.fr" stop="20250611015500 +0200">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/eb7793fd090545bdbdd140bf8342a2cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611015500 +0200" channel="C59.api.telerama.fr" stop="20250611025500 +0200">
+    <title>Club</title>
+    <sub-title>Brust-OP, Botox, Beautyfilter: Alles für die Schönheit?</sub-title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611025500 +0200" channel="C59.api.telerama.fr" stop="20250611031000 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Summerspiessli - Tag 1</sub-title>
+    <desc lang="fr">In der verkürzten Feiertagswoche startet "Mini Chuchi, dini Chuchi" in Lenzburg AG bei Karin. Die 60-jährige Kindergartenlehrerin kennt Rezepte aus aller Welt und hat gerne frische Kräuter dazu daheim. Beim Motto "Summerspiessli" will sie ihre Gäste mit einer eher unbekannten Zutat überraschen.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611031000 +0200" channel="C59.api.telerama.fr" stop="20250611034000 +0200">
+    <title>Potzmusig</title>
+    <desc lang="fr">Sowohl Nachwuchskünstler als auch gestandene Musiker präsentieren das Genre Volksmusik so, wie es ist: authentisch und frisch, ohne den Sinn für die Tradition aus dem Auge zu verlieren. Ein Gastmusiker, der in kurzen Einspielfilmen vorgestellt wird, bringt seine Musikformation mit und tritt durch den Spaß am Musizieren den Beweis an, dass die Volksmusik-Szene in der Schweiz sehr lebendig ist.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/017b005e761119aa12b0246b95dd145facd3d981.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611034000 +0200" channel="C59.api.telerama.fr" stop="20250611040000 +0200">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/e4eb613e5d9c485b8a8087acd54cc771.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611040000 +0200" channel="C59.api.telerama.fr" stop="20250611041000 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Alpstein</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611041000 +0200" channel="C59.api.telerama.fr" stop="20250611045500 +0200">
+    <title>Z'Alp</title>
+    <sub-title>Wilde Pferde, kämpferische Kühe und andere Hindernisse</sub-title>
+    <desc lang="fr">Saison:5 - Episode:2 - Maya führt ihre Kuh Vereina über ein gefährliches Schneefeld zum Stall, wo Geiss Peter auf Milch wartet. Auf der Alp finden nervöse Pferde zur Herde zusammen, während Eringerkühe ihre Rangordnung austragen.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/06bdef6ea2c84bd88e3566dc9eac9bde.jpg" />
+    <episode-num system="xmltv_ns">4.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250611045500 +0200" channel="C59.api.telerama.fr" stop="20250611055500 +0200">
+    <title>Gottesdienst</title>
+    <sub-title>Römisch-katholischer Pfingstgottesdienst aus Appenzell/AI</sub-title>
+    <desc lang="fr">Die Übertragung von katholischen und evangelischen Gottesdiensten aus wechselnden Kirchen in ganz Deutschland ermöglicht es Gläubigen, die keine Kirche aufsuchen können, an der heiligen Messe teilzunehmen.</desc>
+    <category lang="fr">emission religieuse</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/ac5edd94cbeb440093396469185bc894.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250610231000 +0200" channel="C183.api.telerama.fr" stop="20250611004500 +0200">
+    <title>Recycling Lily</title>
+    <desc lang="fr">Hansjörg Stähli est l'inspecteur de la voirie d'une petite ville suisse très propre. Entre contrôles du tri sélectif et cours de sensibilisation au recyclage, il fréquente la cafétéria où travaille Lily Frei, pour qui son coeur bat la chamade. Mais si la jolie serveuse se montre insensible à son doux regard de grand timide, c'est qu'elle est secrètement la proie d'un trouble obsessionnel : Lily est une entasseuse compulsive qui amasse des tonnes de déchets dans son appartement...</desc>
+    <credits>
+      <director>Pierre Monnard</director>
+      <actor>Peter Freiburghaus</actor>
+      <actor>Cathomas Bruno</actor>
+      <actor>Pablo Aguilar</actor>
+      <actor>Claude Blanc</actor>
+      <actor>Gubser Monica</actor>
+      <actor>Bantzer Johanna</actor>
+      <actor>Jecklin Peter</actor>
+      <actor>Peter Hottinger</actor>
+      <actor>Philippe Nauer</actor>
+      <actor>Grégoire Gros</actor>
+      <actor>Verena Bosshard</actor>
+      <actor>Luna Dutli</actor>
+      <writer>André Küttel</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/02/697bda009661464c810cdf7e69cd5c22.jpg" />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611004500 +0200" channel="C183.api.telerama.fr" stop="20250611011000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Aéroports: la galère des valises perdues</sub-title>
+    <desc lang="fr">Des vacances bien méritées jusqu'à l'angoisse à l'aéroport devant un tapis à bagages désespérément vide. La valise familiale a été égarée par la compagnie aérienne. Une mésaventure qui touche de nombreux voyageurs. Quelles sont les responsabilités des compagnies aériennes ? Quelles démarches entreprendre et à quel remboursement peut-on prétendre ?</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611011000 +0200" channel="C183.api.telerama.fr" stop="20250611013000 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611013000 +0200" channel="C183.api.telerama.fr" stop="20250611020000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611020000 +0200" channel="C183.api.telerama.fr" stop="20250611055500 +0200">
+    <title>Football : Match amical international</title>
+    <desc lang="fr">Retransmission d'un match amical des équipes nationales de football. C'est souvent l'unique opportunité pour elles de jouer contre des nations d'autres continents et de bien se préparer pour une compétition importante.</desc>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">235</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/31/9db08215fec04a88aed3d4ec8799f589.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250610232000 +0200" channel="C202.api.telerama.fr" stop="20250611002000 +0200">
+    <title>Rapa</title>
+    <desc lang="fr">Saison:3 - Episode:2 - Maite et Yuste, l'expert en kidnapping de Madrid, cherchent l'identité du ravisseur de Lúa et l'endroit où elle est retenue. Pendant ce temps, la famille Támoga entame des négociations avec le kidnappeur. Le principal suspect est le petit ami de Lúa, qui travaille au chantier naval de Ferrol. Un ouvrier, Antón, y a fait disparaître un corps. Maite et Tomás découvrent que chez les Támoga, il existe des tensions et des secrets liés à l'entreprise pharmaceutique. De son côté, Tomás se résout à abandonner l'enquête pour se concentrer sur ses affaires personnelles avant son décès...</desc>
+    <credits>
+      <director>Jorge Coira</director>
+      <actor>Javier Cámara</actor>
+      <actor>Miguel de</actor>
+      <actor>Mónica López</actor>
+      <actor>Manuel Xosé</actor>
+      <actor>Aida Oset</actor>
+      <actor>Diego Anido</actor>
+      <actor>Sheyla Fariña</actor>
+      <actor>Castaño Cristina</actor>
+      <actor>Darío Loureiro</actor>
+      <actor>Fernando Fraga</actor>
+      <actor>Adrían Ríos</actor>
+      <actor>Eva Barreiro</actor>
+      <writer>Pepe Coira</writer>
+      <writer>Fran Araújo</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">série policière</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/f4b4dbd0e3c44e3987881f7a89ad4418.jpg" />
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611002000 +0200" channel="C202.api.telerama.fr" stop="20250611022000 +0200">
+    <title>Le Bleu du caftan</title>
+    <desc lang="fr">Médina de Salé, au Maroc. Mariés depuis longtemps, Mina et Halim sont propriétaires d'une boutique spécialisée dans la confection de caftans, des tuniques traditionnelles du pays. Leur paisible existence se retrouve menacée par la maladie qui frappe Mina et également par l'arrivée de Youssef, un jeune apprenti. Tous deux inquiets pour leur avenir qui s'assombrit, le couple choisit de s'apporter un soutien sans faille. Halim réconforte Mina, qui avance inexorablement vers la mort, tandis que cette dernière accepte d'aider son époux, qui est parvenu à cacher son homosexualité durant des années, jusqu'à sa rencontre avec cet apprenti... - Critique : Dans Adam (2019), Maryam Touzani racontait une émancipation et un retour de la vie dans le huis clos d’une modeste pâtisserie. La noblesse d’un petit artisanat en voie de disparition et le réveil de désirs longtemps refoulés sont, à nouveau, au cœur du deuxième, et splendide, long métrage réalisé par l’actrice marocaine. Avec une différence majeure : il est cette fois question d’homosexualité, sujet encore tabou en terre d’Islam.
+
+Halim, tailleur traditionnel dans la médina de Salé, confectionne à la main des caftans richement brodés dans la boutique gérée par sa femme, Mina. Le couple est très complice, uni peut-être plus encore qu’aux premiers jours, mais vit depuis toujours avec le secret d’Halim, attiré par les hommes. Alors que les jours de Mina, en récidive d’un cancer, sont comptés, un étonnant triangle amoureux va se former avec l’arrivée d’un jeune apprenti, Youssef.
+
+Tandis qu’Halim prépare le tissu de la tunique luxueuse dont la conception rythmera tout le récit, le couturier explique à son élève l’importance de la marge entre la ligne de découpe et le patron du vêtement : c’est « le centimètre du mâalem » (le maître artisan), qui fait la différence entre une création exceptionnelle et les produits standardisés des usines. Le film de Maryam Touzani se situe, lui aussi, dans cette bande étroite, et fragile, qui fait les grandes œuvres. Pour rester dans la métaphore couturière, la mise en scène a la précision millimétrée des dentellières pour rendre sensibles, dans des clairs-obscurs délicats, les désirs contraints d’Halim (Saleh Bakri, élégant et subtil), la douleur de Mina (Lubna Azabal, poignante), le trouble de Youssef (Ayoub Missioui, toujours juste). Si les émotions ne s’y expriment qu’avec la plus grande pudeur, Le Bleu du caftan déborde en revanche de sensualité. Pas besoin de scènes érotiques pour cela (les rencontres d’Halim avec ses amants passagers au hammam sont, d’ailleurs, laissées hors champ) : des gros plans de mains caressant un tissu ou palpant une broderie suffisent.</desc>
+    <credits>
+      <actor>Lubna Azabal</actor>
+      <actor>Zakaria Atifi</actor>
+      <actor>Bakri Saleh</actor>
+      <actor>Abdelhamid Zoughi</actor>
+      <actor>Mounia Lamkimel</actor>
+      <actor>Fatima Hilal</actor>
+      <actor>Fouzia Ejjawi</actor>
+      <actor>Mariam Lalouaz</actor>
+      <actor>Hassan Boudour</actor>
+      <actor>Mohamed Tahri Joutey Hassani</actor>
+      <actor>Ayoub Missioui</actor>
+      <actor>Ilham Chakib</actor>
+      <writer>Maryam Touzani</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : drame</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/944ed00758ef49a2b294d5c570b70fbf.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250611022000 +0200" channel="C202.api.telerama.fr" stop="20250611024100 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">21</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611024100 +0200" channel="C202.api.telerama.fr" stop="20250611024200 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250611024200 +0200" channel="C202.api.telerama.fr" stop="20250611053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">168</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
