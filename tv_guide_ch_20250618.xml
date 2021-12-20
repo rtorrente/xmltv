@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250617233500" channel="C59.api.telerama.fr" stop="20250618001000">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/04/eb7793fd090545bdbdd140bf8342a2cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618001000" channel="C59.api.telerama.fr" stop="20250618011000">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618011000" channel="C59.api.telerama.fr" stop="20250618012500">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Öppis Günschtigs - Tag 2</sub-title>
+    <desc lang="fr">Metzger Simon lädt ein zu sich ins Mehrgenerationenhaus. Der Vater und Guggenmusiker serviert Kürbis-Kartoffel-Tätschli und Hackbraten nach Grossmutterart, begleitet von frischem Gemüse. Er ist ein absoluter Fleischliebhaber mit einem Faible für Achterbahnen, der heute sein Können am Herd zeigt.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618012500" channel="C59.api.telerama.fr" stop="20250618014000">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/e4eb613e5d9c485b8a8087acd54cc771.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618014000" channel="C59.api.telerama.fr" stop="20250618021500">
+    <title>Puls</title>
+    <sub-title>Kurzsichtig als Kind - Unterschätztes Risiko fürs erwachsene Auge</sub-title>
+    <desc lang="fr">"Puls" ist das wöchentliche Gesundheitsmagazin mit Ratgeber-Charakter und hohem Informationswert für die Zuschauer. Dabei geht es in erster Linie um die Frage: Was kann ich selbst tun, um meine Gesundheit und mein Wohlbefinden zu erhalten oder wiederherzustellen?</desc>
+    <category lang="fr">magazine médical</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/3b2f05378f242fc2d9e383ae15c1ca14abb80fac_1B3E9C9C57F96FA2E95F2A8C265AC488.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618021500" channel="C59.api.telerama.fr" stop="20250618031000">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618231000" channel="C59.api.telerama.fr" stop="20250618232000">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618232000" channel="C59.api.telerama.fr" stop="20250619005000">
+    <title>Die falsche Nonne</title>
+    <sub-title>Die falsche Nonne</sub-title>
+    <desc lang="fr">La mère supérieure d'un orphelinat est victime de plusieurs agressions. Pour comprendre les raisons de ces actes, soeur Mary demande à sa nièce Sabrina, qui travaille dans la police, de mener une enquête discrète, en se faisant passer pour une religieuse. Sabrina retrouve Tom, un architecte qui travaille à la restauration de l'orphelinat. Elle s'aperçoit qu'elle connaît le jeune homme, qui fréquentait autrefois le même internat qu'elle, et ne tarde pas à découvrir qu'il est à la recherche de sa mère, qui l'a abandonné lorsqu'il était bébé...</desc>
+    <category lang="fr">téléfilm sentimental</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/942b28255f8744a781f9b620408f594e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617233000" channel="C183.api.telerama.fr" stop="20250618035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618222000" channel="C183.api.telerama.fr" stop="20250618231000">
+    <title>Car Postal : voyage à travers la Suisse</title>
+    <sub-title>Dans le Palm Express pour le Tessin</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Le Palm Express relie les glaciers suisses de Haute Engadine aux rives du lac de Côme en Italie. Cet autocar parcourt deux pays, longe quatre lacs, chemine dans les paysages préférés de Giacometti et traverse l'un des plus beaux villages de Suisse, Soglio.</desc>
+    <date>2022</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/1e246e9c259746cca5e591edf120cf47.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618231000" channel="C183.api.telerama.fr" stop="20250618234000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618234000" channel="C183.api.telerama.fr" stop="20250619000000">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617222500" channel="C202.api.telerama.fr" stop="20250618001500">
+    <title>Plan 75</title>
+    <desc lang="fr">Face à la crise démographique que connait le pays, le gouvernement japonais décide de mettre en place le "Plan 75". Les autorités incitent les seniors de plus de 75 ans à choisir le suicide assisté en proposant un accompagnement ainsi qu'une aide financière de 100 000 yens pour jouir de leurs derniers instants. Michi, vit seule et continue de travailler malgré ses 78 ans. Mais un jour, l'hôtel qui l'emploie la licencie et la vieille dame se retrouve en outre menacée d'être expulsée de son appartement. Elle décide alors de déposer une demande d'euthanasie. Le jeune Hiromu, lui, fait partie des personnes qui recrutent et accompagnent ces seniors vers la fin de vie... - Critique : Flou artistique et angoissant : un jeune homme se donne la mort dans ce qui semble être un Ehpad, si on en juge par ce fauteuil roulant vide, renversé dans l’entrée. Il vient de massacrer tous les pensionnaires, pour alerter, d’après lui, sur le problème de la population vieillissante au Japon. Deuxième séquence, quelques mois plus tard : le gouvernement japonais vient de mettre en place un plan d’euthanasie généralisée à partir de 75 ans. Les seniors sont invités, s’ils le souhaitent, à s’inscrire à une mort assistée, les plus pauvres d’entre eux pouvant même bénéficier d’une prime de 100 000 yens pour leur assurer confort et plaisir dans leurs dernières semaines…
+
+Ce film frappe par sa violence douce, comme anesthésiée, dans un Japon très légèrement futuriste. Un jeune fonctionnaire écoule avec le sourire des contrats d’euthanasie comme on vend des assurances. Michi, une modeste septuagénaire, vient de perdre son boulot de femme de ménage dans un hôtel. Elle est seule au monde, bientôt son immeuble sera détruit, alors pourquoi ne pas succomber aux sirènes de cette fin programmée ? Pourquoi ne pas se sacrifier pour son pays ?
+
+Plan 75 avance au fil du quotidien de cette vieille dame si poliment résignée face à une administration qui la juge obsolète. Parallèlement, il y a la prise de conscience d’un jeune homme qui se demande s’il est juste de laisser son père disparaître pour ne plus encombrer… Délicate à faire peur, la mise en scène éclaire d’autant mieux la déshumanisation et l’atteinte insupportable à la dignité des personnes âgées. Jusqu’ici, des cinéastes avaient abordé, à travers des cas particuliers, le thème de l’euthanasie choisie. Ce film remarquable est le premier à l’aborder comme un potentiel système d’État, et cela fait froid dans le dos.</desc>
+    <credits>
+      <actor>Chieko Baishô</actor>
+      <actor>Kazuyoshi Kushida</actor>
+      <actor>Mari Nakayama</actor>
+      <actor>Hisako Ôkata</actor>
+      <actor>Hayato Isomura</actor>
+      <actor>Stefanie Arianne</actor>
+      <actor>Yumi Kawai</actor>
+      <actor>Taka Takao</actor>
+      <actor>Yoko Yano</actor>
+      <actor>Sheryl Ichikawa</actor>
+      <actor>Yoshinobu Kanai</actor>
+      <actor>Ameri Suzuki</actor>
+      <writer>Chie Hayakawa</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film de science-fiction</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/04/00e41c5555d1497aaffcf24089204a5e.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250618001500" channel="C202.api.telerama.fr" stop="20250618003300">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">18</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618003300" channel="C202.api.telerama.fr" stop="20250618003500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618003500" channel="C202.api.telerama.fr" stop="20250618033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">175</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618233000" channel="C202.api.telerama.fr" stop="20250618235000">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618235000" channel="C202.api.telerama.fr" stop="20250618235100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618235100" channel="C202.api.telerama.fr" stop="20250619033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">219</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
