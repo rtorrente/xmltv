@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250718232000" channel="C164.api.telerama.fr" stop="20250719050000">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">340</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719050000" channel="C164.api.telerama.fr" stop="20250719070100">
+    <title>Viva week-end</title>
+    <desc lang="fr">En manque d'idée pour un week-end détente ou actif ? Ne ratez pas ce rendez-vous de tous les loisirs, il y en aura pour tout le monde... Les samedi et dimanche à partir de 06h00.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">121</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/4679e3bdc2ed48f5a188196835ceca6c.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719070100" channel="C164.api.telerama.fr" stop="20250719083700">
+    <title>Candice Renoir : Chacun dirige l'eau vers son moulin</title>
+    <sub-title>Chacun dirige l'eau vers son moulin</sub-title>
+    <desc lang="fr">Après leur non-demande en mariage, Candice et Antoine partent en voyage de non-noces en Corse. Ils ont cassé leurs tirelires pour s'offrir un séjour de rêve dans un sublime hôtel sur une plage aux eaux turquoises. L'endroit respire le luxe et le raffinement. Un peu trop peut-être ? Lors du dîner, Candice se fait remarquer avec sa jolie robe à fleurs et son rire éclatant, un peu trop peut-être ? Antoine s'embrouille avec un homme qu'il prend pour un dragueur. S'ensuit une bagarre, une nuit séparée et une décision prise de rentrer. Mais le lendemain, le pseudo dragueur est retrouvé mort dans le coffre de la voiture...</desc>
+    <credits>
+      <director>Pascal Lahmani</director>
+      <actor>Cécile Bois</actor>
+      <actor>Miglen Mirtchev</actor>
+      <actor>Véronique Volta</actor>
+      <actor>Raphaël Lenglet</actor>
+      <actor>Joséphine Draï</actor>
+      <actor>Mathieu Madénian</actor>
+      <actor>Pascal Casanova</actor>
+      <actor>Jean-Philippe Ricci</actor>
+      <actor>Ange Basterga</actor>
+      <actor>Toussaint Martinetti</actor>
+      <actor>Lola Bergoin-Graziani</actor>
+      <actor>Nicolas Poli</actor>
+      <writer>Fabienne Facco</writer>
+      <writer>Agathe Robilliard</writer>
+    </credits>
+    <category lang="fr">téléfilm humoristique</category>
+    <length units="minutes">96</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/26af20beb38c472ea6bae84a8d192b62.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719083700" channel="C164.api.telerama.fr" stop="20250719091000">
+    <title>En quête de sens : Il était une foi</title>
+    <sub-title>Accompagner jusqu'au bout de la vie</sub-title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/dd22562e8ae2479b8f5a660bf5dd83bd.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719091000" channel="C164.api.telerama.fr" stop="20250719091400">
+    <title>Jardins et loisirs</title>
+    <sub-title>Des fleurs tout l'été façon prairie</sub-title>
+    <desc lang="fr">Luc Noël communique sa passion du jardinage et donne des conseils pratiques pour cultiver, embellir ou décorer les jardins. Compositions florales, découverte de jardins privés, rythme des saisons, les différentes rubriques du magazine constituent une aide précieuse pour tous.</desc>
+    <category lang="fr">magazine du jardinage</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/75c7d864efed4312b94d1e06523bdfa4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719091400" channel="C164.api.telerama.fr" stop="20250719093100">
+    <title>Y'a pas de planète B</title>
+    <sub-title>Les hommes n'en ont-ils rien à faire de l'écologie ?</sub-title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/0ab0a4e7cba24c7fa1b6e31468be66d9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719093100" channel="C164.api.telerama.fr" stop="20250719100000">
+    <title>Le beau vélo de RAVeL</title>
+    <sub-title>Fontaine-l'Evêque</sub-title>
+    <desc lang="fr">Pour la 26e année, Adrien Joveneau passe l'été en votre compagnie, à vélo, avec le "Beau Vélo de RAVeL" et ses huit nouvelles étapes en Wallonie. 2e étape : Fontaine-l'Evêque.</desc>
+    <category lang="fr">magazine de découvertes</category>
+    <length units="minutes">29</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/25/85e8b63cd85147789bbf41cc35fcd2e1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719100000" channel="C164.api.telerama.fr" stop="20250719104000">
+    <title>J'ai les clés</title>
+    <sub-title>Plonge sous terre</sub-title>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2ec5347ba84b4ebc873f787a8847b3ca.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719104000" channel="C164.api.telerama.fr" stop="20250719104500">
+    <title>EuroMillions</title>
+    <desc lang="fr">Tirage au sort de l'EuroMillions, loterie transnationale qui est proposée dans douze pays européens.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/aa7de12a55944d16825e6e057a7da47e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719104500" channel="C164.api.telerama.fr" stop="20250719105200">
+    <title>Contacts</title>
+    <sub-title>Panel de la route : obstacle sur la route</sub-title>
+    <desc lang="fr">Comme à chaque fois, notre panel d'usagers et les experts en plateau devaient réagir à des vidéos filmées principalement par des caméras embarquées. Ici, il est question de l'attitude à adopter en cas d'obstacles sur la route.</desc>
+    <category lang="fr">magazine éducatif</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/08/8b0d67e2b7cc1e20a51ab8510c2d498a5b3ad0dc_32439869CE274D8AF807C74865A9B347.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719105200" channel="C164.api.telerama.fr" stop="20250719105800">
+    <title>Météo 12h50</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719105800" channel="C164.api.telerama.fr" stop="20250719112700">
+    <title>JT 13h (La Une)</title>
+    <desc lang="fr">Le Journal télévisé de 13 heures par toute la rédaction de la chaîne.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">29</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2af0837d9fb648019f5497a917f08316.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719112700" channel="C164.api.telerama.fr" stop="20250719113400">
+    <title>Météo 13h30</title>
+    <category lang="fr">météo</category>
+    <length units="minutes">7</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719113400" channel="C164.api.telerama.fr" stop="20250719161400">
+    <title>Cyclisme : Tour de France</title>
+    <desc lang="fr">Le parcours de la 14e étape est conçu sur le modèle de l'édition 1986, déjà à l'époque au 14e jour de course. La montée au Tourmalet par Luz-Saint-Sauveur (19 km à 7,4%) est la moins empruntée, tout comme la route du col d'Aspin en passant par Payolle (5 km à 7,6%). Il s'agira surtout des retrouvailles avec la montée exigeante de Superbagnères (12,4 km à 7,5%), où les changements de pente se prêtent à une bataille rangée entre les favoris.</desc>
+    <category lang="fr">sport : cyclisme</category>
+    <length units="minutes">280</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/03/d63e64a1e81c4abaaf7e95d06af48167.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719161400" channel="C164.api.telerama.fr" stop="20250719162600">
+    <title>Stoemp Express</title>
+    <sub-title>Martin Charlier en Madame Rigide fait la dictée à Jacques Mercier</sub-title>
+    <category lang="fr">magazine d'information</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/2314428614044f5eb25e4332f40dc5b6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719162600" channel="C164.api.telerama.fr" stop="20250719172200">
+    <title>La vie secrète des chats</title>
+    <sub-title>Naturellement chat ! avec Mylène Demongeot</sub-title>
+    <desc lang="fr">Saison:3 - Episode:3 - Le chat est le seul animal domestique encore sauvage. Même s'il a conservé ses instincts naturels, il reste un redoutable prédateur. Emilie et Eric l'ont découvert lors des nuits animées de leurs chattes Kit et Kat qui leur ramènent de jolis cadeaux vivants. A Paris, Hannah rencontre des problèmes avec Microbe, son chat qui pèse presque 10 kilos! Enfin, en Mayenne, la comédienne Mylène Demongeot, disparue en 2022, ouvrait ses portes et présentait ses neuf chats, parmi lesquels Doudou, la doyenne du groupe.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">56</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/279ddf01f8e04ce3a8e3642382d5776f.jpg" />
+    <episode-num system="xmltv_ns">2.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719172200" channel="C164.api.telerama.fr" stop="20250719173000">
+    <title>Météo 19h25</title>
+    <desc lang="fr">Tout au long de la journée, les prévisions météorologiques nationales et les bons conseils pour ne pas être surpris par le temps.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">8</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719173000" channel="C164.api.telerama.fr" stop="20250719180900">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">39</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719180900" channel="C164.api.telerama.fr" stop="20250719181500">
+    <title>Tirage Lotto - Samedi</title>
+    <desc lang="fr">Le tirage du jour de la loterie.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/220df72b231b40d98e10af3801e71448.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719181500" channel="C164.api.telerama.fr" stop="20250719182100">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719182100" channel="C164.api.telerama.fr" stop="20250719185600">
+    <title>Animal Rescue Team</title>
+    <desc lang="fr">Dans ce troisième épisode, les pompiers de l'Animal Rescue Team (les pompiers spécialisés en sauvetage animalier) sont de plus en plus confrontés à des animaux exotiques tels que des araignées, des serpents ou encore des crabes vampires. Mais les animaux sauvages ont aussi besoin de leur aide et pour cela, ces pompiers spécialisés doivent se former notamment pour venir en aide à des rapaces impressionnants tels qu'un Grand-Duc ou une buse.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/12/18/5efc6b1328a66fc5d6ac492775e067907ecd7abf_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719185600" channel="C164.api.telerama.fr" stop="20250719203700">
+    <title>Meurtres à Sandhamn</title>
+    <sub-title>Angelica</sub-title>
+    <desc lang="fr">Saison:14 - Episode:1 - Le corps d'Angelica n'ayant jamais été retrouvé, son mari, accusé de sa mort, est relaxé faute de preuves. Mais l'arrestation sur l'île de Sandhamn d'un cambrioleur en série relance l'affaire. Car dans l'antre où ce collectionneur esthète entrepose ses larcins, Nora Linde découvre des photos d'Angelica qui compromettent l'un des enquêteurs avec lequel elle travaille. La procureure est aussi soumise à des tensions émotionnelles quand elle apprend que son ex-mari va être père... - Critique : Leonard Standberg est relaxé, faute de preuves. Mais le corps de sa femme Angelica n’a toujours pas été retrouvé, et sa mort demeure inexpliquée. Alors que la procureuse Nora Linde, après avoir quitté la brigade financière, reprend du service, un cambrioleur est arrêté sur l’île de Sandhamm, au large de Stockholm. Il détient des informations qui vont faire rebondir l’enquête. Mais ces révélations sont loin de plaire à tout le monde.
+
+Si les décors sont toujours aussi remarquables, l’intrigue s’enlise. Détours compliqués et acteurs qui surjouent des rôles déjà caricaturaux, on sort peu convaincu de ce premier épisode. La villa de Nora Linde s’effrite au même rythme que sa vie sentimentale, les arrangements entre malfrats et justice sont grossiers, les cambrioleurs sont des esthètes aux collections étranges, les enquêteurs sont impliqués à plusieurs niveaux dans les affaires qu’ils traitent. Malgré tout, de petites touches modernes se glissent dans le scénario (place des femmes, inclusivité), et l’ambiance scandinave un peu sombre fait son petit effet. Cette nouvelle saison s’appuie toujours sur les polars de l’autrice à succès Viveca Sten. Pour une immersion plus totale, il ne faut pas hésiter à regarder les épisodes en version originale sous-titrée. Les accents rocailleux de la langue permettent de s’imprégner de l’atmosphère de l’archipel suédois. On tolère alors un peu plus le scénario alambiqué et l’intrigue rapidement expédiée.</desc>
+    <credits>
+      <director>Mattias Ohlsson</director>
+      <actor>Johan Widerberg</actor>
+      <actor>Jonas Malmsjö</actor>
+      <actor>Carlsson Ing-Marie</actor>
+      <actor>Alexandra Rapaport</actor>
+      <actor>Nicolai Cleve</actor>
+      <actor>Hammarsten Gustaf</actor>
+      <actor>Lundqvist Anton</actor>
+      <actor>Malin Crépin</actor>
+      <actor>Shirin Golchin</actor>
+      <actor>Kassel Ulving</actor>
+      <actor>Louise Ryme</actor>
+      <actor>Sven Ahlström</actor>
+      <writer>Johan Widerberg</writer>
+      <writer>Sara Heldt</writer>
+      <writer>Viveca Sten</writer>
+    </credits>
+    <category lang="fr">série policière</category>
+    <length units="minutes">101</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/fb49ebf5fada41f69248796b1e3851a6.jpg" />
+    <episode-num system="xmltv_ns">13.0.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250719203700" channel="C164.api.telerama.fr" stop="20250719204200">
+    <title>Tirage Lotto-Joker</title>
+    <desc lang="fr">Tirage du Lotto et du Joker.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/15c428f047124c04a6940e49f3e9b1c6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250719204200" channel="C164.api.telerama.fr" stop="20250719220900">
+    <title>Crimes et Indices</title>
+    <sub-title>L'affaire Guy Georges : le tueur de l'est parisien</sub-title>
+    <desc lang="fr">Dans les années 90, un homme prend pour cible des jeunes femmes en plein coeur de Paris. Elles sont violées et tuées dans des parkings ou des appartements, principalement dans les quartiers Est de la capitale. Un tueur en série rôde, la psychose s'installe, les femmes n'osent plus sortir de chez elles.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">87</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/25/ed1d4f1d53664e95a7138ab1d1d7ef5b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
