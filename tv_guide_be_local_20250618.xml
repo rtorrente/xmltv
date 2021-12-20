@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250617220000 +0200" channel="C50.api.telerama.fr" stop="20250618001000 +0200">
+    <title>La chute du président</title>
+    <desc lang="fr">Mike Banning est nommé chef des services secrets par le président Allan Trumbull, lors d'une séance de pêche avec le chef de l'Etat. La sortie vire au cauchemar quand les deux hommes et leurs équipes sont attaqués par des drones. Banning fait ce qu'il peut pour sauver le président. Mais Trumbull disparaît et Banning se réveille à l'hôpital, menottes aux poignets. Il est accusé d'avoir tenté d'assassiner le président. Banning comprend alors qu'il a été pris au piège. Il va tout tenter pour prouver son innocence et surtout pour trouver le commanditaire. Il parvient à s'échapper et devient un fugitif. Tout en évitant d'être rattrapé par le FBI, il doit trouver l'identité de celui qui menace la vie du président... - Critique : Après La Chute de la Maison-Blanche et La Chute de Londres, ce film d’action conclut une trilogie portée par Gerard Butler dans le rôle d’un agent du Secret Service, chargé de la protection du chef d’État américain. Le héros est cette fois accusé d’avoir tenté d’assassiner son employeur (Morgan Freeman, en président pacifiste). L’ironie de ce volet, c’est que les anciennes convictions du garde du corps se retournent contre lui, tant les États-Unis apparaissent noyautés par les paramilitaires. L’homme affronte une société privée dont les mercenaires s’entraînent sur un ancien silo à missiles de la guerre froide. Plus tard, il se fait mettre en joue par un ermite armé. Qui s’avère être son père, ancien du Vietnam souffrant de stress post-traumatique (émouvant Nick Nolte).
+
+Cette multiplication des ennemis de l’intérieur n’est pas neuve dans les productions américaines, six ans après White House Down et presque vingt après les complots ramifiés de la série 24 Heures chrono. La Chute… fait donc son aggiornamento sur le tard. Mieux que jamais.</desc>
+    <credits>
+      <actor>Nick Nolte</actor>
+      <actor>Morgan Freeman</actor>
+      <actor>Danny Huston</actor>
+      <actor>Michael Landes</actor>
+      <actor>Ditson Harry</actor>
+      <actor>Gerard Butler</actor>
+      <actor>Piper Perabo</actor>
+      <actor>Lance Reddick</actor>
+      <actor>Jada Pinkett</actor>
+      <actor>Tim Blake</actor>
+      <actor>Rocci Williams</actor>
+      <actor>John-Pierre Linda</actor>
+      <writer>Ric Roman</writer>
+      <writer>Robert Mark</writer>
+      <writer>Matt Cook</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/1ca7d86b47c44376b1cead85d5006b59.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250618001000 +0200" channel="C50.api.telerama.fr" stop="20250618004000 +0200">
+    <title>La bande de Contact MAX</title>
+    <desc lang="fr">Envie de rire avec la bande de Contact MAX ? Retrouvez l'indétrônable Renaud Rutten, de retour sur les ondes avec une toute nouvelle équipe de raconteurs de blagues. La bande de Contact MAX promet de raviver la flamme d'une époque mémorable, en proposant une émission unique mêlant humour et convivialité.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/16/0036bc4ea56542049132a03a79210462.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618004000 +0200" channel="C50.api.telerama.fr" stop="20250618050000 +0200">
+    <title>Magazine Télé-achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">260</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/6aad4f611e874bcf92b09167f67741e3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617235700 +0200" channel="C164.api.telerama.fr" stop="20250618005700 +0200">
+    <title>C'est pas fini</title>
+    <desc lang="fr">Patrick Weber épingle l'actualité. Avec une incroyable bande de débatteurs, il revient sur les moments forts de la journée dans la bonne humeur.</desc>
+    <category lang="fr">talk-show</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/3d7fad19c38449d5b071217b55afb7a9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618005700 +0200" channel="C164.api.telerama.fr" stop="20250618010000 +0200">
+    <title>Alors on sort ?</title>
+    <desc lang="fr">L'émission met à l'honneur les régions, leurs habitants, leurs langues régionales et leur humour. Un moment privilégié de proximité présenté par Fanny Jandrain, en compagnie d'un invité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/9957f1735ab64048a01d72209daf79e6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618010000 +0200" channel="C164.api.telerama.fr" stop="20250618011100 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618011100 +0200" channel="C164.api.telerama.fr" stop="20250618011500 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618011500 +0200" channel="C164.api.telerama.fr" stop="20250618055900 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">284</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617231500 +0200" channel="C168.api.telerama.fr" stop="20250618001500 +0200">
+    <title>Histoires de crimes : portraits de tueurs</title>
+    <sub-title>Ed Gein</sub-title>
+    <desc lang="fr">Ed Gein est sans aucun doute l'un des criminels les plus troublants du XXe siècle. Originaire d'une ville du Wisconsin, aux Etats-Unis, cet homme a transformé sa ferme en véritable musée de l'horreur. Ce nécrophile a déterré des corps et utilisé des morceaux de peau pour fabriquer toutes sortes d'objets.</desc>
+    <category lang="fr">documentaire justice</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/f5d428d5b36047678ddbbd42d6e05e1b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618001500 +0200" channel="C168.api.telerama.fr" stop="20250618002000 +0200">
+    <title>Météo soir</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/827f285a741a4a0e838e85904a262af9.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618002000 +0200" channel="C168.api.telerama.fr" stop="20250618010000 +0200">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'ensemble des équipes de la rédaction se mobilise afin de donner aux téléspectateurs les informations les plus fraîches lors de chaque édition de son journal quotidien.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/087e887dff9e44199db652ba12bbff55.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618010000 +0200" channel="C168.api.telerama.fr" stop="20250618025000 +0200">
+    <title>Moments d'évasion</title>
+    <desc lang="fr">Une invitation à l'évasion et au rêve, destinée à toutes les générations, à la découverte de nombreuses merveilles, aux quatre coins du monde.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/edb02ee559874ed0912cf86643289f63.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250618025000 +0200" channel="C168.api.telerama.fr" stop="20250618050000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Retrouvez le programme diffusé en boucle du journal, des magazines, des séries pendant toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/67b7101ffd6e4238a5823c499ba84410.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617225300 +0200" channel="C187.api.telerama.fr" stop="20250618002700 +0200">
+    <title>Juste ciel !</title>
+    <desc lang="fr">Cinq religieuses sont déterminées à trouver l'argent nécessaire aux travaux de rénovation d'un Ehpad qui tombe en ruines. Dans leur quête, elles démarchent les collectivités locales, mais comprennent que la seule solution serait de participer à une course cycliste dont le premier prix est d'un montant assez élevé. Le hic c'est qu'elles n'ont aucune expérience dans le domaine et doivent demander de l'aide à Monsieur Pierre pour les entraîner. En outre, elles doivent faire face à une concurrence inattendue avec l'apparition de religieuses d'une autre paroisse, qui sont des spécialistes de la discipline et souhaitent rafler la mise... - Critique : Sainte Marie, mère de Dieu, le Seigneur a-t-il vraiment voulu que ce film existe ? Juste Ciel !, de Laurent Tirard, en salles depuis le 15 février, est à l’image de son affiche montrant François Morel s’adressant à une nonne : « Alors les filles, paraît qu’on a besoin d’un homme maintenant ? » Dans le splendide village de Baume-les-Messieurs (Jura), une mère supérieure psychorigide, Véronique (Valérie Bonneton), tente de faire régner l’ordre dans son couvent isolé, entourée de quatre sœurs aux caractères incompatibles. Camille Chamoux est sœur Augustine, l’Hermione catho et je-sais-tout du groupe. Claire Nadeau-Sœur Bernadette, en plein vœu de silence, communique uniquement par le biais d’une ardoise, provoquant un embarrassant comique de répétition. Guilaine Londez hérite du rôle le plus crispant, celui de sœur Béatrice, quand la pauvre Louise Malek incarne la sœur stagiaire et le bingo qui va avec : smartphone, naïveté et difficultés scolaires…
+
+Les voilà prêtes à enfourcher des vélos défraîchis pour participer à une course bientôt organisée au village, dans le but de récolter des fonds pour l’Ehpad du coin – et la promesse d’une rencontre avec le pape François. S’ensuit une série de gags téléphonés : chutes, galères, « Aaargh » écrit sur l’ardoise (après une chute, donc), concurrence avec le club cycliste local, entraîné par François Morel, exercices inefficaces et, bien sûr, découragement. Le rythme est à ce stade aussi essoufflé que nos apprenties Jeannie Longo en robe chasuble… Un groupe de nonnes mené par l’actrice danoise Sidse Babett Knudsen, héroïne de la géniale série Borgen (qu’allait-elle faire dans cette galère ?), est alors appelé à la rescousse. Ennemie historique de la mère Véro, elle entend elle aussi participer à la course. Rivalité entre femmes, jalousie, coups bas… Cette partie est bien la plus pénible à digérer. Rendez-vous grâce : épargnez-vous le déplacement.</desc>
+    <credits>
+      <actor>Claire Nadeau</actor>
+      <actor>Guilaine Londez</actor>
+      <actor>Valérie Bonneton</actor>
+      <actor>Sidse Babett</actor>
+      <actor>Jean-Michel Lahmi</actor>
+      <actor>Henri Guybet</actor>
+      <actor>Fabienne Galula</actor>
+      <actor>François Morel</actor>
+      <actor>Camille Chamoux</actor>
+      <actor>Claire Duburcq</actor>
+      <actor>Malek Louise</actor>
+      <actor>Quesnay Julie</actor>
+      <writer>Laurent Tirard</writer>
+      <writer>Cécile Larripa</writer>
+      <writer>Philippe Pinel</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">94</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/04/86eb59e6298d4b5db3234d8cb9c0da3a.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250618002700 +0200" channel="C187.api.telerama.fr" stop="20250618005300 +0200">
+    <title>Formule 1 : Grand Prix du Canada</title>
+    <desc lang="fr">Quel pilote s'imposera sur le Circuit Gilles-Villeneuve de Montréal ? Disputée au Canada, cette manche du championnat du monde de Formule 1 se déroule sur un circuit rapide et spectaculaire, de 4 361 mètres, où les dépassements sont très difficiles à réaliser. Avec sept succès, Michael Schumacher et Lewis Hamilton détiennent le record de victoires de cette épreuve.</desc>
+    <category lang="fr">sport : formule 1</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/1f5062effb72447dae22f07d8092723b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618005300 +0200" channel="C187.api.telerama.fr" stop="20250618060000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">307</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/4561dd784aba4f1fb931ecb9920ca1c0.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250617233000 +0200" channel="C377.api.telerama.fr" stop="20250618050000 +0200">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">330</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/03/b07eade200ce6558af7f538efc7afe5124a83fee_F1CDED88B91D18A615C4D9DD7E72A028.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250617235600 +0200" channel="C892.api.telerama.fr" stop="20250618002400 +0200">
+    <title>OpinionS : UCM</title>
+    <desc lang="fr">Le principal magazine de politique Belge du moment.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/6a7f71ab57554a87bc9c01cc44154352.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618002400 +0200" channel="C892.api.telerama.fr" stop="20250618010100 +0200">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">37</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/d2f2b75ad9f04f608cfb85ce3948d396.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250618010100 +0200" channel="C892.api.telerama.fr" stop="20250618055900 +0200">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">298</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/14/0992273c68da38635776091d45afc82cfc60d62b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
