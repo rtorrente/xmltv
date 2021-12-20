@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250311225500" channel="C59.api.telerama.fr" stop="20250312010000">
+    <title>J'accuse</title>
+    <desc lang="fr">Fin 1894, le capitaine Dreyfus est condamné à perpétuité sur l'Ile du diable pour avoir prétendument livré des documents secrets français à l'Empire allemand. Le militaire, de confession juive, devient le bouc émissaire dans une France marquée par l'antisémitisme. Le colonel Picquart, ancien professeur de Dreyfus devenu lieutenant-colonel et chef du service de renseignement militaire, mène son enquête quand il se rend compte qu'Alfred Dreyfus a été condamné à tort. Il découvre que beaucoup de membres de l'administration française préfèrent le mensonge... - Critique : Impossible de ne pas rappeler les révélations, l’an dernier, juste avant la sortie du film, de Valentine Monnier accusant Roman Polanski de l’avoir violée en 1975, puis la colère à l’annonce du César de la meilleure réalisation au cinéaste. Reste que la place dévolue ici est celle d’un commentaire critique. J’accuse, malgré ses libertés prises avec la réalité historique, a gardé ses qualités. Après une séquence d’ouverture qui résume toute l’humiliation subie par Dreyfus, le récit se focalise sur un protagoniste décisif mais jusque-là méconnu, le lieutenant-colonel Marie-Georges Picquart, antisémite déclaré, nommé à contre-cœur à la tête du service du renseignement français. Lorsqu’il visite les bureaux, rien n’est fait pour dissiper son malaise. Le bâtiment, sale et oppressant, abrite des hommes qui ressemblent à des cloportes. Polanski fait de ce lieu étriqué l’antre de la cabale. Où une part de la vérité se niche au fond de tiroirs d’archives, sur de dérisoires feuilles de papier.
+
+C’est dans sa minutie opiniâtre que J’accuse fait mouche, dans sa manière de décrire les éléments matériels d’une machination digne d’une sinistre farce. La petite histoire et la grande se combinent. Savamment construit, entre les filatures et les procès, l’assassinat d’un avocat et un duel à l’épée, le thriller d’espionnage est aussi palpitant que torpide. Servis par de grands comédiens de théâtre, les ministres et les hauts gradés de l’état-major rivalisent d’infamie, de bouffonnerie. À travers eux se dessine le portrait d’une France traumatisée par la défaite de 1870 et rongée par l’antisémitisme de salon.</desc>
+    <credits>
+      <actor>Didier Sandre</actor>
+      <actor>Melvil Poupaud</actor>
+      <actor>Mathieu Amalric</actor>
+      <actor>Emmanuelle Seigner</actor>
+      <actor>Hervé Pierre</actor>
+      <actor>Vincent Grass</actor>
+      <actor>Wladimir Yordanoff</actor>
+      <actor>Eric Ruf</actor>
+      <actor>Jean Dujardin</actor>
+      <actor>Louis Garrel</actor>
+      <actor>Grégory Gadebois</actor>
+      <actor>Maratier Christophe</actor>
+      <writer>Roman Polanski</writer>
+      <writer>Robert Harris</writer>
+      <guest>Corinne Devaux</guest>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/25/57544cc186bd425b900cb6875239086e.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250312010000" channel="C59.api.telerama.fr" stop="20250312013500">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/3bd7828c6eb94091ac4cfe94b6c6eda8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312013500" channel="C59.api.telerama.fr" stop="20250312025000">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312025000" channel="C59.api.telerama.fr" stop="20250312030500">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Schnitzel - Tag 2</sub-title>
+    <desc lang="fr">Von Irene, 59, aus Interlaken BE wünschen sich die Gäste einen Schnitzel-Klassiker und sie werden mit ihrem Wunsch nicht enttäuscht. Die begeisterte Musikliebhaberin klopft fleissig Wiener Schnitzel und weiss genau, wie die Salatsauce vom Kartoffelsalat dazu schmecken soll.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312030500" channel="C59.api.telerama.fr" stop="20250312040000">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312230500" channel="C59.api.telerama.fr" stop="20250313000500">
+    <title>L'hôpital et ses fantômes</title>
+    <sub-title>Der Exodus</sub-title>
+    <desc lang="fr">Saison:3 - Episode:5 - Tapis dans l'ombre, Grand Duc se tient prêt. Anna fait des révélations à Helmer Jr concernant son père. Chez les "Suédois anonymes", une véritable arme provoque un accident mortel. Le docteur Pontopidan prononce enfin son grand discours. Pour Karen, le docteur Krogshøj et Balder, le moment est enfin venu de purifier définitivement le Royaume des esprits maléfiques. - Critique : Vingt-cinq ans après une deuxième saison conclue par des points de suspension, Lars von Trier réanime sa série culte sur un hôpital à la merci de forces occultes, peuplé de médecins et de patients frappadingues. Le temps a fait son œuvre, une partie du casting original est mort, mais le cinéaste revisite les recoins de son « Royaume » (du nom de ce lieu hanté) avec le même esprit frondeur qui l’animait en 1994, lorsqu’il a concocté ce feuilleton esthétiquement novateur, à la fois drôle et gore. Nous pénétrons à nouveau dans ce cauchemar en suivant Karen, vieille dame somnambule, sommée par une voix surnaturelle de se rendre au Rigshospitalet après avoir regardé… L’Hôpital et ses fantômes !
+
+La mise en abîme et l’autodérision sont les nouveaux ingrédients de cette suite très spirituelle, moins effrayante mais plus amusante pour qui aime la comédie du malaise. Lars von Trier est encore capable de mettre en scène l’horreur organique à la Cronenberg, et des fulgurances visuelles dignes des tableaux de Bruegel. Mais c’est pour le poison qu’il distille dans l’absurdité des rapports humains, avec la férocité d’un misanthrope, que l’on suit ce traitement de choc, néanmoins empreint d’une tendre nostalgie. Hypocondriaque notoire, atteint de la maladie de Parkinson, le Danois trouve un écho cathartique dans cette évocation de la déchéance physique et de la mort. Et finit par émouvoir en offrant un magnifique requiem à ses personnages.</desc>
+    <credits>
+      <actor>Pilmark Søren</actor>
+      <actor>Neumann Birthe</actor>
+      <actor>Persbrandt Mikael</actor>
+      <actor>Peter Mygind</actor>
+      <actor>Birgitte Raaberg</actor>
+      <actor>Lars Mikkelsen</actor>
+      <actor>Tuva Novotny</actor>
+      <actor>Nicolas Bro</actor>
+      <actor>Bodil Jorgensen</actor>
+      <actor>Ghita Nørby</actor>
+      <actor>Engvoll Ida</actor>
+      <actor>Nikolaj Lie</actor>
+      <writer>Lars von</writer>
+      <writer>Niels Vorsel</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série fantastique</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/24b69a6143dd4900aef400fe51e73562.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250311235500" channel="C183.api.telerama.fr" stop="20250312001000">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312001000" channel="C183.api.telerama.fr" stop="20250312045500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">285</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250311232000" channel="C202.api.telerama.fr" stop="20250312005500">
+    <title>Sweat</title>
+    <desc lang="fr">Sylwia, une gourou polonaise du fitness, est suivie par 600,000 followers mais n'a absolument aucun ami dans la vraie vie. Quelques jours auparavant, elle a posté une vidéo émouvante où elle faisait part de sa quête désespérée de sa recherche de petit ami. Ses sponsors n'ont pas franchement apprécié mais en fait la vidéo est devenue virale. A tel point qu'elle en devient la cible d'un harceleur. La jeune femme, narcissique, va vivre trois jours trépidants, entre engagements professionnels, crises personnelles et posts sur les réseaux sociaux. Mais lors de l'anniversaire de sa mère, elle veut prendre toute la lumière sur elle... - Critique : La sueur du titre est une victoire pour Sylwia : quand elle fait transpirer les mordus de fitness au bout d’une séance de cardio-training, l’influenceuse polonaise aux six cent mille followers est heureuse. Pour la vitalité qu’elle fait renaître, elle reçoit même de l’amour. Mais dans une vidéo postée sur Internet, Sylwia a avoué sa solitude et le désert sentimental qu’est devenue sa vie privée. Des images qui ont divisé, dérangé et fasciné…
+
+Pour parler de nos vies avec les réseaux sociaux, Sweat nous embarque sur les montagnes russes de l’émotion. À la communion très échauffée qui ouvre le film avec la séquence d’aérobic répondra une scène de glaciation des sentiments, chez la mère de Syl­wia. Elle-même n’est faite que de contradictions, rayonnante et malheureuse, superficielle et complexe, sincère et fabriquée… Et ceux qui admirent la jeune femme semblent tout mélanger aussi. Une lointaine connaissance, croisée dans un centre commercial, lui parle de but en blanc de sa fausse couche, pleure en évoquant son mariage puis demande un selfie, ravie. Cette rencontre en annonce une autre, plus extrême, qui confronte Syl­wia à un de ses followers venu la harceler…
+
+Il fallait un cinéaste solide pour nous guider dans ce chaos familier où le pire et le meilleur se confondent, où s’entrechoquent l’image d’une femme et la vérité qu’elle cache. Formé en Pologne, le Suédois Magnus von Horn sait créer des situations épineuses qui nous éclairent. Remuant, son film propose une réflexion nuancée qui ne cède pas au rejet facile des réseaux sociaux, mais aide à comprendre là où ils meurtrissent et là où, sans doute, ils guérissent.</desc>
+    <credits>
+      <actor>Zamachowski Zbigniew</actor>
+      <actor>Lech Lotocki</actor>
+      <actor>Aleksandra Konieczna</actor>
+      <actor>Magdalena Kuta</actor>
+      <actor>Katarzyna Cynke</actor>
+      <actor>Wiktoria Filus</actor>
+      <actor>Bartosz Sak</actor>
+      <actor>Edgar Griszczuk</actor>
+      <actor>Magdalena Kolesnik</actor>
+      <actor>Julian Swiezewski</actor>
+      <actor>Tomasz Orpinski</actor>
+      <actor>Mateusz Król</actor>
+      <writer>Magnus von Horn</writer>
+      <guest>Magda Debicka</guest>
+      <guest>Dominika Kowalska</guest>
+      <guest>Marta Rubaj</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/3d2e284b37764a92af6f159d3f9362fb.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250312005500" channel="C202.api.telerama.fr" stop="20250312011600">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">21</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312011600" channel="C202.api.telerama.fr" stop="20250312011700">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/85dcb51c86b84549a5a68d3f295231e9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312011700" channel="C202.api.telerama.fr" stop="20250312043000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">193</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312230000" channel="C202.api.telerama.fr" stop="20250312230500">
+    <title>Swiss Loto</title>
+    <desc lang="fr">C'est le tirage très attendu du Swiss Loto, la loterie la plus populaire de Suisse.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/4ec52d7bb32d47f6a484f8e9e0effe12.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312230500" channel="C202.api.telerama.fr" stop="20250313004000">
+    <title>Chienne de rouge</title>
+    <desc lang="fr">A Paris, une voiture fonce dans la nuit. Un convoyeur transporte du sang, une professeure de médecine le transplante et une patiente a la vie sauve grâce au don de cellules d'une inconnue. Yamina Zoutat, qui a dû être entièrement transfusée à sa naissance en raison d'une maladie, se lance dans un jeu de piste poétique et visuel sur l'hémoglobine, passant du sang des femmes à celui d'une incroyable mise en situation organisée par les hôpitaux après les attentats du 13-Novembre, du procès du sang contaminé au don et à la greffe... - Critique : « Tu ne montreras pas de sang », avait exigé sa hiérarchie quand, journaliste à TF1, Yamina Zoutat avait suivi en 1999 le procès de l’affaire du sang contaminé. « Je veux filmer du sang », s’est-elle dit un matin au réveil, bien des années plus tard. Comme un pied de nez aux convenances, la réalisatrice donne à voir ses propres règles tombant dans une cuvette de toilettes au début de cet essai documentaire très personnel. Mais qu’on ne s’y trompe pas : procédant par associations libres, Chienne de rouge tourne autour du motif avec une délicatesse et un sens poétique qui n’excluent pas la réflexion, passant du sang qui tue à celui qui sauve. Si l’on y croise Nosferatu et l’ange des Ailes du désir, on y entend aussi des femmes et des hommes entretenant avec le sang un rapport singulier et sensible, comme ce film d’un charme envoûtant.</desc>
+    <credits>
+      <writer>Yamina Zoutat</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/34c8080c7fa34337b5886eed821096c1.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>
