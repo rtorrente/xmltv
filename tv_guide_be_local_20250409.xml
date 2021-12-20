@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250408231500 +0200" channel="C50.api.telerama.fr" stop="20250409000000 +0200">
+    <title>Dans le peloton : l'hebdo</title>
+    <desc lang="fr">Dans le peloton vous plonge au cœur du cyclisme professionnel ! Chaque semaine, Vincenzo Ciuro et Gordon De Winter vous embarquent dans l'échappée avec une équipe de spécialistes composée de Philippe Gilbert, Frédéric Amorison &amp; Stéphane Thirion, ainsi que des invités de renom du monde du vélo. Du World Tour aux Classiques, des grands noms aux jeunes pépites du peloton, rien ne nous échappera. Attaques tranchantes, coups de poker tactiques, polémiques : nos experts vous feront le relais de l'actualité !</desc>
+    <category lang="fr">sport : cyclisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/3501ed72a143498c8469d5728f34e08d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409000000 +0200" channel="C50.api.telerama.fr" stop="20250409000500 +0200">
+    <title>Météo Club</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/12be75905c124df68efee884f9e5536d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409000500 +0200" channel="C50.api.telerama.fr" stop="20250409050000 +0200">
+    <title>Magazine Télé-achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">295</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/6aad4f611e874bcf92b09167f67741e3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250408221900 +0200" channel="C164.api.telerama.fr" stop="20250409000700 +0200">
+    <title>Capitaine Marleau</title>
+    <sub-title>L'amiral</sub-title>
+    <desc lang="fr">Saison:4 - Episode:15 - Le corps de Clara Santini est retrouvé sans vie au bord d'un lac. Marleau sent vite que l'affaire tourne autour du trio que Clara formait avec son compagnon, Gabin Vauthier, un officier de marine surnommé "l'Amiral" et Jade, une adolescente impliquée dans une série de vols. Clara et Gabin avaient le projet de créer une base nautique pour enfants défavorisés, ce qui ne plaisait pas à tout le monde, dont un hôtelier qui avait lui aussi le projet d'exploiter les berges du lac. Plus Marleau s'enfonce dans ce microcosme, plus les cartes se brouillent. Qui est réellement Jade ? Quel est son lien avec Vauthier ? Marleau finira par comprendre que c'est le passé de "L'Amiral" et sa relation aussi amoureuse que complexe avec la victime qui sont au coeur du mystère. D'autant que Clara avait aussi ses secrets... - Critique : Joseph Nyandoro, un ex-Président africain, vit en exil dans un village français. Josselin Gramont, un maraîcher, est retrouvé mort, tué par arme à feu. Marleau découvre que la victime et le Président s’étaient liés d’amitié. Cette amitié lui aurait-elle coûté la vie ? Nyandoro envisageait de s’installer définitivement dans ce village, mais la belle Inissa, son éminence grise, le poussait à reconquérir le pouvoir en Afrique. Marleau se démultiplie pour déterminer si Jocelyn a été tué par des ennemis de Joseph Nyandoro, par un villageois ou une villageoise cherchant à faire porter le chapeau aux Africains, ou par Nyandoro lui-même...</desc>
+    <credits>
+      <actor>Jacques Spiesser</actor>
+      <actor>Jacques Bonnaffé</actor>
+      <actor>Laure Marsac</actor>
+      <actor>Cristiana Réali</actor>
+      <actor>Lorànt Deutsch</actor>
+      <actor>Corinne Masiero</actor>
+      <actor>Léon Vitale</actor>
+      <actor>Alice Cornillac</actor>
+      <actor>Jérémy Barrière</actor>
+      <actor>Marcel Thompson</actor>
+      <actor>Wesley Leggieri</actor>
+      <actor>Gina Gomes</actor>
+      <writer>Marc-Antoine Laurent</writer>
+      <writer>Jean-Marc Taba</writer>
+      <writer>Elsa Marpeau</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">108</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/7746e488bd094675a49b7cf32e3900e5.jpg" />
+    <episode-num system="xmltv_ns">3.14.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250409000700 +0200" channel="C164.api.telerama.fr" stop="20250409002000 +0200">
+    <title>En quête de sens : Libres, ensemble</title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">13</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/27e10cadd1464f289aa94328f43184c2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409002000 +0200" channel="C164.api.telerama.fr" stop="20250409010500 +0200">
+    <title>On n'est pas des pigeons</title>
+    <desc lang="fr">Un décryptage précieux des codes de la consommation et du marketing afin d'éclairer les consommateurs au quotidien. Les chroniqueurs dénichent les bons plans du moment et aident ainsi les téléspectateurs à économiser de l'argent.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/10/b217174ebed84965a41daa81d7eac439.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409010500 +0200" channel="C164.api.telerama.fr" stop="20250409011700 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409011700 +0200" channel="C164.api.telerama.fr" stop="20250409012100 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409012100 +0200" channel="C164.api.telerama.fr" stop="20250409015400 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409015400 +0200" channel="C164.api.telerama.fr" stop="20250409025400 +0200">
+    <title>C'est pas fini</title>
+    <desc lang="fr">Patrick Weber épingle l'actualité. Avec une incroyable bande de débatteurs, il revient sur les moments forts de la journée dans la bonne humeur.</desc>
+    <category lang="fr">talk-show</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/3d7fad19c38449d5b071217b55afb7a9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409025400 +0200" channel="C164.api.telerama.fr" stop="20250409025700 +0200">
+    <title>Alors on sort ?</title>
+    <desc lang="fr">L'émission met à l'honneur les régions, leurs habitants, leurs langues régionales et leur humour. Un moment privilégié de proximité présenté par Fanny Jandrain, en compagnie d'un invité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/9957f1735ab64048a01d72209daf79e6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409025700 +0200" channel="C164.api.telerama.fr" stop="20250409034000 +0200">
+    <title>On n'est pas des pigeons</title>
+    <desc lang="fr">Un décryptage précieux des codes de la consommation et du marketing afin d'éclairer les consommateurs au quotidien. Les chroniqueurs dénichent les bons plans du moment et aident ainsi les téléspectateurs à économiser de l'argent.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">43</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/10/b217174ebed84965a41daa81d7eac439.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409034000 +0200" channel="C164.api.telerama.fr" stop="20250409035200 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409035200 +0200" channel="C164.api.telerama.fr" stop="20250409035500 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409035500 +0200" channel="C164.api.telerama.fr" stop="20250409055900 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">124</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250408222500 +0200" channel="C168.api.telerama.fr" stop="20250409001500 +0200">
+    <title>Prey</title>
+    <desc lang="fr">Il y a trois siècles, sur le territoire des Comanches. Farouche et brillante guerrière, la jeune Naru a été élevée dès son plus jeune âge dans l'ombre de légendaires chasseurs parcourant les Grandes Plaines. Aujourd'hui, elle se fait un devoir de protéger sa tribu dès qu'un danger la menace. Or la proie qu'elle traque en ce moment n'est autre qu'un prédateur extraterrestre particulièrement vindicatif et évolué, doté d'un arsenal de pointe des plus sophistiqués. Une confrontation aussi perverse que terrifiante s'engage...</desc>
+    <credits>
+      <director>Trachtenberg Dan</director>
+      <actor>Michelle Thrush</actor>
+      <actor>Mike Paterson</actor>
+      <actor>Leis Nelson</actor>
+      <actor>Midthunder Amber</actor>
+      <actor>Julian Black</actor>
+      <actor>Troy Mundle</actor>
+      <actor>Stefany Mathias</actor>
+      <actor>Bennett Taylor</actor>
+      <actor>Dane DiLiegro</actor>
+      <actor>Stormee Kipp</actor>
+      <actor>Dakota Beavers</actor>
+      <actor>Harlan Blayne Kytwayhat</actor>
+      <writer>Patrick Aison</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/1da2ddbb6e3c457a9e6a2f0b76b15f0e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409001500 +0200" channel="C168.api.telerama.fr" stop="20250409002000 +0200">
+    <title>Météo soir</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/102750dc244a4f8597e4af9a8613b74e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409002000 +0200" channel="C168.api.telerama.fr" stop="20250409010000 +0200">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/087e887dff9e44199db652ba12bbff55.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409010000 +0200" channel="C168.api.telerama.fr" stop="20250409025000 +0200">
+    <title>Moments d'évasion</title>
+    <desc lang="fr">Une invitation à l'évasion et au rêve, destinée à toutes les générations, à la découverte de nombreuses merveilles, aux quatre coins du monde.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/09/3b2889b546a84a6687795d7a00bdfcad.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409025000 +0200" channel="C168.api.telerama.fr" stop="20250409050000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Retrouvez le programme diffusé en boucle du journal, des magazines, des séries pendant toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/67b7101ffd6e4238a5823c499ba84410.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250408224800 +0200" channel="C187.api.telerama.fr" stop="20250409010300 +0200">
+    <title>Dolores Claiborne</title>
+    <desc lang="fr">Dolores Claiborne fait figure de principale suspecte après le meurtre de sa patronne, la tyrannique Vera Donovan, une riche veuve dont elle était la gouvernante et le souffre-douleur depuis quarante ans. L'événement réjouit l'inspecteur John Mackey. Celui-ci est en effet persuadé que Dolores a assassiné son mari, vingt ans plus tôt, ce qu'il n'avait alors pas pu prouver. Il voit là l'occasion de prendre sa revanche. La fille de Dolores, Selena, une brillante journaliste installée à New York, est moins enthousiaste. L'inculpation de sa mère la confronte à un passé qu'elle préférait tenir sous le boisseau, et à une femme qu'elle ne voulait plus revoir. Dolores décide d'assurer seule sa défense, sans avocat, mais demande à Selena de lui venir en aide... - Critique : Adapter un roman de Stephen King au cinéma a souvent été un bon filon, comme l'ont prouvé, entre autres, le Shining de Kubrick ou Misery de Rob Reiner. Dolores Claiborne a failli le confirmer...
+
+Selena, une jeune et brillante journaliste new-yorkaise qui s'est délibérément éloignée de sa mère, Dolores, imprévisible et possessive, est contrainte de revenir auprès d'elle, dans l'île perdue où elle vit, car celle-ci est soupçonnée de meurtre.
+
+La bonne idée, c'est d'avoir su faire d'une pierre deux coups : doubler l'enquête policière classique (Dolores a-t-elle tué ?) d'une enquête psychologique sur les sentiments tordus qui unissent la mère et la fille. La seconde questionne et observe la première, avec la peur de remuer le passé, de découvrir la vérité...
+
+Climat oppressant et trouble, que la mise en scène restitue plutôt bien. Les indices et les pistes se multiplient, se chevauchent ; les flash-backs s'insinuent habilement dans l'action au présent, où amour et haine sont inextricablement mêlés. Et puis, dans la dernière demi-heure, une certaine déception s'installe, en même temps que la vérité, peu à peu, émerge. L'intéressante complexité des rapports entre les deux femmes se dissipe ; le scénario devient mécanique, convenu, réglant à l'emporte-pièce le face-à-face entre les deux femmes.
+
+Face-à-face qui doit beaucoup à la performance des comédiennes : Jennifer Jason Leigh, tout en retenue, et surtout, Kathy Bates, impressionnante. Tour à tour effrayante et très douce, solide et fragile, elle crée un personnage littéralement insaisissable. Et sans jamais forcer le trait : du travail de grande actrice.</desc>
+    <credits>
+      <actor>Bob Gunton</actor>
+      <actor>David Strathairn</actor>
+      <actor>John C.</actor>
+      <actor>Kathy Bates</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Wayne Robson</actor>
+      <actor>Eric Bogosian</actor>
+      <actor>Jennifer Jason</actor>
+      <actor>Weldon Allen</actor>
+      <actor>Kelly Burnett</actor>
+      <actor>Thomas Skinner</actor>
+      <actor>Taffara Jessica Stella Murray</actor>
+      <writer>Tony Gilroy</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/6a6038ff663440faa2c724d0b9930664.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250409010300 +0200" channel="C187.api.telerama.fr" stop="20250409012900 +0200">
+    <title>Formule 1 : Grand Prix du Japon</title>
+    <desc lang="fr">Sur le circuit très technique de Suzuka, le Grand Prix du Japon de Formule 1 est une institution dans le championnat du monde de la catégorie.</desc>
+    <category lang="fr">sport : formule 1</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/1f5062effb72447dae22f07d8092723b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250409012900 +0200" channel="C187.api.telerama.fr" stop="20250409060000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">271</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/4561dd784aba4f1fb931ecb9920ca1c0.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250408231500 +0200" channel="C377.api.telerama.fr" stop="20250409000500 +0200">
+    <title>The Power : qui a le pouvoir ?</title>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/5e1de527cd584ae791765dd2578de504.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250409000500 +0200" channel="C377.api.telerama.fr" stop="20250409050000 +0200">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">295</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/03/b07eade200ce6558af7f538efc7afe5124a83fee_F1CDED88B91D18A615C4D9DD7E72A028.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250408234700 +0200" channel="C892.api.telerama.fr" stop="20250409001800 +0200">
+    <title>Hep taxi !</title>
+    <sub-title>Soprano</sub-title>
+    <desc lang="fr">De sa cité HLM au Stade de France et Vélodrome de Marseille, Soprano revient sur son parcours édifiant. Elu plusieurs années de suite "l'artiste musical préféré des plus jeunes", il a vendu quelques 2 millions d'albums, tandis que ses clips cumulent près de 1,8 milliards de vues sur YouTube...</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/196c02ecdefd484ca7aa020ae6f7a612.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250409001800 +0200" channel="C892.api.telerama.fr" stop="20250409005000 +0200">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">32</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/d2f2b75ad9f04f608cfb85ce3948d396.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250409005000 +0200" channel="C892.api.telerama.fr" stop="20250409005300 +0200">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/14/0992273c68da38635776091d45afc82cfc60d62b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250409005300 +0200" channel="C892.api.telerama.fr" stop="20250409055900 +0200">
+    <title>Coeur et pique</title>
+    <sub-title>Francis Cabrel</sub-title>
+    <desc lang="fr">Emission de variétés, réalisée en 1989. Philippe Luthers reçoit Francis Cabrel. Et pour compléter le plateau : - Charlie makes the Cook - Michel Françoise - Gangster d'Amour - Guy Lukowski - Marcel Dadi et Jacques Stotzem - Plastic Betrand - Richard Gotainer - Boom Boom et Les Tequilas</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">306</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/8a0b2b9080d44225a5c210163418c49f.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
