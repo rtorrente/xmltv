@@ -1,0 +1,25 @@
+name: Build Daily EPG
+
+on:
+  schedule:
+    - cron: '1 1 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  downloadAndPush:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: "actions/setup-python@v2"
+        with:
+          python-version: "3.8"
+      - name: Install pip deps
+        run: pip3 install -r scripts/requirements.txt
+      - name: Install XMLTV lib
+        run: sudo apt-get install xmltv -y
+      - name: Run Python update_all_tv_guides script
+        run: python3 ./scripts/update_all_tv_guides.py
+      - name: Commit to origin
+        run: bash ./scripts/ga_publish_git.sh
