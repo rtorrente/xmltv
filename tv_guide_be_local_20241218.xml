@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20241217231500 +0100" channel="C50.api.telerama.fr" stop="20241218005000 +0100">
+    <title>Hitler en Belgique</title>
+    <desc lang="fr">Quatre-vingts ans après le début de la Seconde Guerre mondiale, nombreux sont ceux qui pensent tout savoir d'Adolf Hitler. Pourtant, beaucoup ignorent que le plus grand bourreau de l'Histoire a passé une partie de sa vie en Belgique. Mis en images avec de nombreuses reconstitutions historiques et des archives inédites, ce documentaire retrace les différents séjours du Führer dans le pays, depuis la Première Guerre mondiale, lorsque ce soldat alors inconnu doit combattre les Alliés, jusqu'en mai 1940, où il reviendra en vainqueur après la capitulation de la Belgique. C'est aussi depuis la Belgique que le leader nazi a dirigé la campagne de France, jusqu'à la capitulation des Français, le 17 juin 1940.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/26/1bbddfedd24070ba8c5a8b71187a5ff0eabc2920.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218005000 +0100" channel="C50.api.telerama.fr" stop="20241218050000 +0100">
+    <title>Magazine Télé-achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">250</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/12/22/511c0119dfff71edffb19ff8b2315e0abff9e0e2_ED23E8D4BFD0C5345B3EE5D8EE77695C.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241217233800 +0100" channel="C164.api.telerama.fr" stop="20241218003600 +0100">
+    <title>Profilage</title>
+    <sub-title>Requiem</sub-title>
+    <desc lang="fr">Saison:10 - Episode:8 - Le matin de Noël, Elisa et sa fille sont réveillées par une descente de police. La brigade antigang recherche Roman, qu'ils accusent d'avoir braqué un fourgon de police et tiré sur un policier. Choquée, Elisa refuse de croire que l'homme qu'elle aime puisse être coupable malgré les nombreuses preuves qui s'accumulent contre lui. Elle demande alors l'aide du commandant Rocher et de l'équipe de la DPJ pour tenter de comprendre ce qu'il s'est passé. Ensemble, ils vont mettre en lumière une machination machiavélique, dont personne ne sortira indemne...</desc>
+    <credits>
+      <director>Alexandre Laurent</director>
+      <actor>Philippe Bas</actor>
+      <actor>Guy Lecluyse</actor>
+      <actor>Diane Dassigny</actor>
+      <actor>Valérie Dashwood</actor>
+      <actor>Camille de Pazzis</actor>
+      <actor>Shy'm</actor>
+      <actor>Raphaël Ferret</actor>
+      <actor>Vincent Heneine</actor>
+      <actor>Gary Abbou</actor>
+      <actor>Angèle de</actor>
+      <actor>Alexandra Lalonde</actor>
+      <actor>Dogit-Bodros Jill</actor>
+      <writer>Fanny Robert</writer>
+      <writer>Maxime Berthemy</writer>
+      <writer>Sophie Lebarbier</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">58</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/29/85dc183b-c086-4e76-b7d4-e8954ebca1c0.jpg" />
+    <episode-num system="xmltv_ns">9.7.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241218003600 +0100" channel="C164.api.telerama.fr" stop="20241218004800 +0100">
+    <title>En quête de sens : Libres, ensemble</title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/05/02/6fedf34b78fd12edd54f0fb89b889544a4729f70.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218004800 +0100" channel="C164.api.telerama.fr" stop="20241218060000 +0100">
+    <title>Viva for Life - Les nuits</title>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">312</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/04/5b813883f8fa4e6e86a968e092764020.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241217230000 +0100" channel="C168.api.telerama.fr" stop="20241218003500 +0100">
+    <title>Nos plus belles années télé</title>
+    <desc lang="fr">Le voyage dans le temps, qui propose de parcourir 40 ans de souvenirs à la télévision, du début des années 80 à nos jours, se termine. L'émission est l'occasion de revoir de nombreuses personnalités, parmi lesquelles Kad et Olivier, Les Inconnus, Fabrice Luchini, Dorothée ou encore Michel Sardou.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/02/8b5ce514e18c4e92826ff276a5bc72d5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218003500 +0100" channel="C168.api.telerama.fr" stop="20241218004000 +0100">
+    <title>Météo soir</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/387c6b3a4a2c4621af0d1d7a374e140d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218004000 +0100" channel="C168.api.telerama.fr" stop="20241218012000 +0100">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/03/2a9b62a40eea87fcfd3eab16d9acf0adb4e4a763_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218012000 +0100" channel="C168.api.telerama.fr" stop="20241218031000 +0100">
+    <title>Moments d'évasion</title>
+    <desc lang="fr">Une invitation à l'évasion et au rêve, destinée à toutes les générations, à la découverte de nombreuses merveilles, aux quatre coins du monde.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/09/3b2889b546a84a6687795d7a00bdfcad.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218031000 +0100" channel="C168.api.telerama.fr" stop="20241218050000 +0100">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Retrouvez le programme diffusé en boucle du journal, des magazines, des séries pendant toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/173b592109c94ec59ca38784bf4cc7e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241217231300 +0100" channel="C187.api.telerama.fr" stop="20241218011000 +0100">
+    <title>Le nouveau jouet</title>
+    <desc lang="fr">Vivant de petites malversations, Sami réussit enfin à trouver un emploi acceptable. Cet homme qui n'a d'autres préoccupations que sa femme et les amis de sa cité est embauché comme agent de sécurité dans un grand magasin. Lorsque Philippe Etienne, l'homme le plus riche de France, décide de privatiser la boutique pour offrir un cadeau à son fils Alexandre, ce dernier choisit Sami comme nouveau jouet. Lorsqu'on tente de lui faire entendre raison, l'enfant gâté n'en démord pas, entraînant son père à offrir monts et merveilles à l'agent de sécurité afin qu'il accepte cet "emploi" de jouet... - Critique : Ne pas confondre Le Jouet (1976), comédie de Francis Veber, avec ce Nouveau Jouet, remake pimpant de James Huth (Brice de Nice), où Jamel Debbouze reprend le rôle incarné à l’origine par Pierre Richard : un quidam tendre, gaffeur, et surtout fauché, est « offert » à un gamin gâté pourri comme cadeau d’anniversaire par son papa milliardaire (Daniel Auteuil succède ici à Michel Bouquet).
+
+Le vieux Jouet et le neuf développent le même propos : non, tout n’est pas à vendre, et Jamel Debbouze compose un « homme-objet » aussi crédible que son prédécesseur, réduit à l’humiliante condition de gadget excentrique. Trimballé aux quatre coins d’une demeure d’un luxe indécent, le « jouet » vivant parvient cependant à infiltrer quelques valeurs non monétaires chez les riches. Par exemple, il apprend à Daniel Auteuil à marcher pieds nus dans l’herbe…
+
+Tous ces bons sentiments tendent cependant à noyer un peu dans une guimauve optimiste et rassurante un propos somme toute assez violent sur les inégalités sociales. Même la sympathique galerie de portraits des habitants d’une cité reste résolument naïve et confortable, tout comme la rédemption du patron sans cœur et de sa tête à claques de fiston. Le Jouet d’origine était moins bien huilé et dialogué, mais sa discrète cruauté colle paradoxalement mieux à notre époque cynique que la trop gentille version 2022.</desc>
+    <credits>
+      <actor>Daniel Auteuil</actor>
+      <actor>Jamel Debbouze</actor>
+      <actor>Atmen Kelif</actor>
+      <actor>Lucia Sanchez</actor>
+      <actor>Dorylia Calmel</actor>
+      <actor>Alice Belaïdi</actor>
+      <actor>Redouanne Harjane</actor>
+      <actor>Anna Cervinka</actor>
+      <actor>Laurent Saint-Gérard</actor>
+      <actor>Salim Kissari</actor>
+      <actor>Simon Faliu</actor>
+      <actor>Aton </actor>
+      <writer>Francis Veber</writer>
+      <writer>Jamel Debbouze</writer>
+      <writer>James Huth</writer>
+      <writer>Sonja Shillito</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">117</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/36803764_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241218011000 +0100" channel="C187.api.telerama.fr" stop="20241218015100 +0100">
+    <title>Europa et Conference League</title>
+    <desc lang="fr">Toute l'actualité des deux coupes d'Europe de football : la Ligue Europa et la Ligue Conférence.</desc>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">41</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/13/37d9cd5af11a4fa0a39ca7392439aa2b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241218015100 +0100" channel="C187.api.telerama.fr" stop="20241218060000 +0100">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Rediffusion du programme en boucle toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">249</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/cf48076d83654e159b3d895332d719cd.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241217231500 +0100" channel="C377.api.telerama.fr" stop="20241218001500 +0100">
+    <title>The cerveau : qui sera le plus grand cerveau de la télé-réalité ?</title>
+    <desc lang="fr">Des personnalités de la télé-réalité mettent leur intelligence à l'épreuve lors d'une grande compétition. Répartis en deux équipes, Alpha et Beta, les candidats sont invités à se creuser les méninges, échafauder des stratégies et former des alliances pour se distinguer dans les tests qui leur sont imposés.</desc>
+    <category lang="fr">téléréalité</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/11/26/98d9ccdfa20b42d68a8bb246284637ce.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241218001500 +0100" channel="C377.api.telerama.fr" stop="20241218050000 +0100">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">285</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/29/14cf56e6b054dba94ce9d5c07a917670d0587a70.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241217223700 +0100" channel="C892.api.telerama.fr" stop="20241218010500 +0100">
+    <title>Soundtrack to a Coup d'Etat</title>
+    <desc lang="fr">Zoom sur une des machinations politiques les plus insidieuses du XXe siècle : comment la monarchie belge, le gouvernement des Etats-Unis et les multinationales se sont entendus pour utiliser des institutions artistiques et des musiciens de jazz légendaires comme couverture pour des opérations secrètes visant à assassiner le premier ministre du Congo, Patrice Lumumba</desc>
+    <credits>
+      <actor>Patrice Lumumba</actor>
+      <actor>Dag Hammarskjöld</actor>
+      <actor>Andrée Blouin</actor>
+      <writer>Johan Grimonprez</writer>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">148</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/04/43c8c0e79ea44aa9ac4bc2d899b4c265.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241218010500 +0100" channel="C892.api.telerama.fr" stop="20241218013300 +0100">
+    <title>OpinionS : FWA</title>
+    <desc lang="fr">Opinions politiques sur l'actualité et les problèmes de la société moderne et toutes les nouveautés et actions au sein de la FWA.</desc>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/c21e6383f50b98af543ce8f62b43791aa05f0bc3.jpg" />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241218013300 +0100" channel="C892.api.telerama.fr" stop="20241218020800 +0100">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0e1cc36e028b44f9bdfacfc0d422b1a3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241218020800 +0100" channel="C892.api.telerama.fr" stop="20241218055900 +0100">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">231</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/14/0992273c68da38635776091d45afc82cfc60d62b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+</tv>
