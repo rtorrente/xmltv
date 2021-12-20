@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250520234000" channel="C59.api.telerama.fr" stop="20250521004000">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521004000" channel="C59.api.telerama.fr" stop="20250521005500">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Pastetli - Tag 2</sub-title>
+    <desc lang="fr">Den zweiten Tag bei "Mini Chuchi, dini Chuchi" bestreitet Prisca aus Meggen LU. Die 71-Jährige liebt es zu wandern und draussen zu sein. Das Thema "Pastetli" setzt sie in ihrem Menü eher unkonventionell um. Zumindest kann sie ihre Gäste sehr damit überraschen. Es gibt Fisch im Pastetli.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521005500" channel="C59.api.telerama.fr" stop="20250521013000">
+    <title>Puls</title>
+    <desc lang="fr">"Puls" ist das wöchentliche Gesundheitsmagazin mit Ratgeber-Charakter und hohem Informationswert für die Zuschauer. Dabei geht es in erster Linie um die Frage: Was kann ich selbst tun, um meine Gesundheit und mein Wohlbefinden zu erhalten oder wiederherzustellen?</desc>
+    <category lang="fr">magazine médical</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/3b2f05378f242fc2d9e383ae15c1ca14abb80fac_1B3E9C9C57F96FA2E95F2A8C265AC488.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521013000" channel="C59.api.telerama.fr" stop="20250521015000">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/16063c70ff9a20c1c6b38acf9ee256dca77ec33d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521015000" channel="C59.api.telerama.fr" stop="20250521020500">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Alpstein</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521020500" channel="C59.api.telerama.fr" stop="20250521025500">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521025500" channel="C59.api.telerama.fr" stop="20250521035500">
+    <title>Sternstunde Philosophie</title>
+    <sub-title>Paul Lynch</sub-title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/dbbf7c0df49340a1b795d289b49dd21a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521230000" channel="C59.api.telerama.fr" stop="20250521231000">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250521231000" channel="C59.api.telerama.fr" stop="20250522003500">
+    <title>Englischer Wein</title>
+    <sub-title>Englischer Wein</sub-title>
+    <desc lang="fr">Hannah Powell, une viticultrice britannique qui a longtemps vécu en France, est ravie quand on lui propose de reprendre la gestion d'un vignoble dans le sud de l'Angleterre. Quand elle découvre qu'elle doit partager ses responsabilités avec le neveu de la propriétaire, Jonathan Benson, rien ne va plus...</desc>
+    <category lang="fr">téléfilm sentimental</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/16/e42696ee19034b629a2d44b20441000e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250520232000" channel="C183.api.telerama.fr" stop="20250521035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">275</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250521232000" channel="C183.api.telerama.fr" stop="20250522002000">
+    <title>Infrarouge</title>
+    <desc lang="fr">(19/39) Producteur: Alexis Favre</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/066e96931fe940f98b3b14a816591103.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250520221000" channel="C202.api.telerama.fr" stop="20250521000500">
+    <title>Avec amour et acharnement</title>
+    <desc lang="fr">A Paris, Sarah file le parfait amour avec Jean, un ancien joueur de rugby, depuis une dizaine d'années. Ayant une confiance aveugle l'un envers l'autre, leur relation n'a fait que se renforcer avec le temps. Un jour, Sarah retombe sur son ancien petit ami François, celui qu'elle a aimé fut un temps et qui lui a présenté son compagnon actuel. L'apparition de son ancien amour fait remonter des émotions à la surface. François ouvre une agence qui recrutera des joueurs de rugby et décide de demander à son vieil ami Jean de faire partie de sa structure. Ce couple soudé se retrouve face à une épreuve qui vient menacer leur équilibre... - Critique : Un couple. Ils s’aiment comme dans un rêve, sur fond de mer étale, de ciel bleu immuable. Comme s’il en avait toujours été ainsi. Mais déjà, la carte postale s’efface. Retour à la grande ville, en hiver. Retour à l’origine même de ce bonheur partagé, car elle n’a rien d’anodin. Sarah (Juliette Binoche) et Jean (Vincent Lindon) ont été présentés l’un à l’autre par un homme, François (Grégoire Colin), avec qui Sarah vivait…
+
+Ce scénario, tiré d’un roman de Christine Angot (Un tournant de la vie, 2018), nous plonge dans le mystère et la mécanique — les deux, vraiment — des amours qui doivent tout à un tiers, décisif, encombrant, impossible à oublier. Le matin où Sarah aperçoit, dans une rue parisienne, cet ex pas vu depuis longtemps, elle se trouble profondément, bien davantage qu’elle ne l’aurait cru. Puis son compagnon lui annonce qu’il envisage de retravailler pour le même ex, et une sorte de vertige s’installe. À croire que l’homme désiré, c’est inévitablement l’autre, l’absent. Et que tout, décidément, se joue et se rejoue à trois.
+
+À la frontière de l’anthropologie et du vaudeville, Claire Denis observe l’expérience tour à tour de haut (elle montre des humains piégés) et de très près, sur les visages et les corps en gros plan. Le film a ainsi reçu l’Ours d’argent de la meilleure réalisation au festival de Berlin. L’un des morceaux de bravoure tient à la mise en scène des retrouvailles entre Sarah et François, non loin de Jean, lors d’un événement professionnel nocturne. Le croisement des regards, le contact des peaux sont sans cesse différés. Le rapprochement à la fois redouté et attendu prend la résonance d’un bouleversement considérable qui, assurément, en annonce d’autres. En homme fatal, capable de faire peur, et d’entraîner vers la chute, Grégoire Colin, acteur sauvage et singulier, dont la révélation, jadis, dut beaucoup à la réalisatrice (dans Nénette et Boni, en 1996), n’a qu’à laisser opérer son magnétisme ambigu. Tandis que Juliette Binoche et Vincent Lindon excelleront, eux, dans la défiance et l’affrontement.
+
+Avec Christine Angot, Claire Denis avait déjà écrit, pour Binoche, Un beau soleil intérieur (2017), sur la recherche, toujours à recommencer, de la fusion amoureuse en ces temps de rencontres faciles. Les deux œuvres se répondent, reposent sur le même alliage savant d’ironie cruelle et d’empathie. Mais ce film-ci permet de mieux cerner ce qui sépare la cinéaste et l’écrivaine. Car l’adaptation s’achemine vers un autre horizon que le roman, une conclusion quasi contraire. Angot, réputée implacable, s’offrait une fin étonnamment apaisée. Claire Denis, fidèle à son désenchantement altier, suggère plutôt qu’en amour, on ne progresse pas, on n’apprend rien. Mais que l’on peut, parfois, s’alléger…</desc>
+    <credits>
+      <actor>Juliette Binoche</actor>
+      <actor>Richard Courcet</actor>
+      <actor>Bulle Ogier</actor>
+      <actor>Vincent Lindon</actor>
+      <actor>Bruno Podalydès</actor>
+      <actor>Alice Houri</actor>
+      <actor>Grégoire Colin</actor>
+      <actor>Mati Diop</actor>
+      <actor>Lola Créton</actor>
+      <actor>Issa Perica</actor>
+      <actor>Hana Magimel</actor>
+      <actor>Hind Darwich</actor>
+      <writer>Claire Denis</writer>
+      <writer>Christine Angot</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/07/90f38b807b1c47c099ad6b3d165b3074.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250521000500" channel="C202.api.telerama.fr" stop="20250521002200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250521002200" channel="C202.api.telerama.fr" stop="20250521002300">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250521002300" channel="C202.api.telerama.fr" stop="20250521033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">187</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250521220500" channel="C202.api.telerama.fr" stop="20250521222400">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250521222400" channel="C202.api.telerama.fr" stop="20250521222500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250521222500" channel="C202.api.telerama.fr" stop="20250522033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">305</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
