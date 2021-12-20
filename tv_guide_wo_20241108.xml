@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241107234500" channel="C111.api.telerama.fr" stop="20241108013000">
+    <title>Disparue</title>
+    <desc lang="fr">Une petite ville de Franconie, non loin de la frontière tchèque. C'est là que Sina Kolb, 8 ans, a disparu il y a onze ans sans laisser de traces. Le commissaire Altendorf, aujourd'hui à la retraite, a été chargé de l'enquête avant d'en être dessaisi. Son successeur a ensuite fait arrêter Emmanuel Stock, un malade mental qui a avoué le meurtre de la fillette, puis s'est rétracté. Finalement, bien qu'aucune preuve n'ait pu être retenue contre lui, il a été condamné à la détention à vie dans un service psychiatrique fermé. L'ancien commissaire en est encore révolté. A l'occasion d'une excursion dans la région du drame, il fait la connaissance du jeune commissaire Niklas Tanner. Celui-ci enquête sur un crime récent. Sous l'impulsion de son aîné, il se passionne bientôt pour l'affaire d'antan...</desc>
+    <credits>
+      <director>Dominik Graf</director>
+      <actor>Lisa Kreuzer</actor>
+      <actor>Ulrich Noethen</actor>
+      <actor>Wepper Elmar</actor>
+      <actor>Tim Bergmann</actor>
+      <actor>Silke Bodenbender</actor>
+      <actor>Ronald Zehrfeld</actor>
+      <actor>Katrin Filzen</actor>
+      <actor>Elisa Schlott</actor>
+      <actor>Hubert Burczek</actor>
+      <actor>Moritz Fischer</actor>
+      <actor>Anja Schiffel</actor>
+      <actor>Hildebrand Schleipfer</actor>
+      <writer>Ina Jung</writer>
+      <writer>Friedrich Ani</writer>
+    </credits>
+    <category lang="fr">téléfilm policier</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/11/14/495ef9887c8c9a6526f9dcbee7a49dd87f416081.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241108013000" channel="C111.api.telerama.fr" stop="20241108022500">
+    <title>A la recherche du bon gras</title>
+    <desc lang="fr">Jugée aujourd'hui disgracieuse, la graisse est pourtant notre alliée. Grâce à cette source d'énergie, nous rechargeons nos batteries. Depuis peu, on sait aussi que, derrière les bourrelets, se cache une machinerie sophistiquée contribuant à la bonne marche du coeur, du cerveau et des os. Mais, face à la surabondance alimentaire, celle-ci se dérègle. Conditionné à mettre des calories de côté pour parer aux coups durs, notre corps n'affronte plus la disette mais une avalanche d'aliments addictifs, riches en sucre, en gras et en sel. Résultat : en trente ans, le taux d'obésité a triplé. Les scientifiques ont cependant découvert que des solutions existent pour lutter contre le surpoids.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/2303998c-64d6-48e5-98db-423254f4c3ad.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241108022500" channel="C111.api.telerama.fr" stop="20241108031600">
+    <title>Les ramasseuses de coquillages de Galice</title>
+    <desc lang="fr">A Ría de Muros y Noia, une baie de Galice dans le nord-est de l'Espagne, Irene vient de rejoindre l'équipe des quatre cent cinquante ramasseuses de coquillages.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">51</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/05/2272b21cda2987d609eab505e7643b45cd079188_1A45C52E13148DE0D36B6753A648FF54.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108031600" channel="C111.api.telerama.fr" stop="20241108040500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">49</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108040500" channel="C111.api.telerama.fr" stop="20241108043500">
+    <title>Parkinson : rester actif face à la maladie</title>
+    <desc lang="fr">Dans le monde entier, les défenseurs de la nature luttent contre l'extinction des espèces. Tandis que les uns développent des modèles de financement inédits pour offrir plus d'espace à la faune menacée, d'autres se consacrent corps et âme à l'élevage d'une espèce quasiment éteinte.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/26/4f078133e8ca4c059521d76a79149965.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108043500" channel="C111.api.telerama.fr" stop="20241108044000">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108044000" channel="C111.api.telerama.fr" stop="20241108045500">
+    <title>Le dessous des images</title>
+    <sub-title>Hypnotisé par l'avalanche</sub-title>
+    <desc lang="fr">Filmée à distance, une avalanche dévale la paroi d'une montagne. En un temps record, la vague blanche envahit le paysage et atteint la caméra qui la filme. Ces images qui mêlent le sublime et l'effroi ont fasciné les réseaux sociaux. Présenté par Sonia Devillers, le magazine qui analyse les images de notre époque.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/18/cfe0ae60ebd945828df515eb93d36661.jpeg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108045500" channel="C111.api.telerama.fr" stop="20241108055000">
+    <title>Voyages en terres du Nord</title>
+    <desc lang="fr">De l'Islande à la Norvège, de la Suède à la Finlande, un voyage à travers les pays nordiques, à la découverte de leur nature spectaculaire et de leur âme.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/18/0fe4513733d073e325103413fed0a766db9460de.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108055000" channel="C111.api.telerama.fr" stop="20241108055500">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108055500" channel="C111.api.telerama.fr" stop="20241108065000">
+    <title>Venezuela, chasseurs de mygales</title>
+    <desc lang="fr">Au Venezuela, le déclin des Indiens Piaroa provoque celui des mygales, qu'ils consomment et considèrent comme des intermédiaires entre les morts et les vivants.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/17/e74a56b7d9442c9de51d4f0c22f4cb1171f78b3b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108065000" channel="C111.api.telerama.fr" stop="20241108073500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Louis Guilloux, le sang noir et révolté de la Bretagne - En Éthiopie, le miel est sacré - En République tchèque, la soupe aux champignons de Jiri - En Thaïlande, le roi a la tête dans les étoiles.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/10/28/0910f9caa69d134b636f3eef12fca445ca5d72bf_43362D9EE62A9250F485444B35AD675E.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108073500" channel="C111.api.telerama.fr" stop="20241108082500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Tokyo et "Le gourmet solitaire", le manga de Jirō Taniguchi et Masayuki Kusumi - En Éthiopie, courir à tout prix - En Nouvelle-Zélande, le steak au miel de Pauline - À Avignon, la danse des zombies.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/26/aa59568b610d4de48855ed6d045034d9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108082500" channel="C111.api.telerama.fr" stop="20241108091500">
+    <title>Cuba, le grand retour des boxeuses</title>
+    <desc lang="fr">A 47 ans, l'ancienne boxeuse namibienne Flores Rodriguez est trop vieux pour participer activement aux compétitions internationales. Elle souhaite désormais créer une écurie de boxe réservée aux femmes à La Havane – une première à Cuba. L'infrastructure est délabrée, mais elle veut tout faire pour éviter que les jeunes sportives échouent en raison de conditions défavorables : à Cuba, les possibilités d'entraînement les plus simples et l'équipement approprié manquent.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/07/14/d5b5e9c97e8f45b2868ac2ddea1cb2b7.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108091500" channel="C111.api.telerama.fr" stop="20241108101000">
+    <title>La France côté Nord : La baie de Somme et la côte d'Opale</title>
+    <sub-title>La baie de Somme et la côte d'Opale</sub-title>
+    <desc lang="fr">Le long de la Manche, la côte d'Opale déroule un paysage côtier ourlé de falaises de craie et de larges plages, qui abritent une faune et une flore riches.</desc>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/25/42563337_18CB2A80E3E6A0E300BBDA38AC3DF015.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108101000" channel="C111.api.telerama.fr" stop="20241108110500">
+    <title>La France côté Nord : De la Somme à la frontière belge</title>
+    <sub-title>De la Somme à la frontière belge</sub-title>
+    <desc lang="fr">A Amiens, des canaux quadrillent la vieille ville médiévale. A Saint-Quentin, dans la réserve naturelle des marais d'Isle, Christophe Villain recense les oiseaux.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/26/42563284_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108110500" channel="C111.api.telerama.fr" stop="20241108120000">
+    <title>Voyage en eaux calmes</title>
+    <sub-title>Le lac Saimaa en Finlande</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Au sud-est de la Finlande, le lac Saimaa, le quatrième plus vaste d'Europe, constitue aussi la plus grande réserve d'eau douce du pays. Hérissé de milliers d'îles, il abrite un animal rare : le phoque annelé d'eau douce, dont la reproduction est menacée par des hivers de plus en plus doux. Autour du lac, l'extraction de la tourbe et l'industrie forestière fragilisent aussi l'équilibre des marais, polluent les eaux et détruisent l'écosystème des poissons. Mais les écologistes et les scientifiques s'allient aujourd'hui pour entreprendre la renaturation de ce paysage lacustre, favorisant notamment le retour du glouton. Inépuisables sources de vie, les lacs, qui se sont formés il y a des milliers, voire des millions d'années, jouent un rôle majeur.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/4d49d63547a34d81a2222b3563f3b746.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108120000" channel="C111.api.telerama.fr" stop="20241108123500">
+    <title>Nos animaux et nous</title>
+    <sub-title>Le mouton</sub-title>
+    <desc lang="fr">Portraits croisés et témoignages de quelques éleveurs de moutons et brebis, à Saint-Denis, en Suisse franconienne ou dans le Nord de l'Allemagne.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/3c8ead9d6f734e7e9c9e9c66ea60df60.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108123500" channel="C111.api.telerama.fr" stop="20241108144500">
+    <title>On a volé la cuisse de Jupiter</title>
+    <desc lang="fr">Lise Tanquerelle, commissaire de police, et Antoine Lemercier, professeur de grec à la Sorbonne, viennent de se marier. Leur voyage de noces les conduit en Grèce. A peine débarqués à Athènes, ils font la connaissance de Charles-Hubert Pochet, éminent archéologue en fouilles permanentes, et de sa jeune épouse, Agnès, qui semble s'ennuyer à mourir. Au cours de recherches dans l'île d'Heraklios, Charles-Hubert finit par déterrer les fesses et les hanches d'une statue grecque, qui pourrait bien être Aphrodite. Antoine estime que la découverte est très précieuse. Mais la nuit même, l'antique postérieur s'évanouit mystérieusement dans la nature. Un vol, à n'en pas douter... - Critique : Dans cette suite de Tendre Poulet, sortie en 1980, la commissaire de police (Annie Girardot, en surjeu) et le prof de grec ancien (Philippe Noiret, pépère) se retrouvent pour une lune de miel mouvementée en Grèce, jusqu’à reconstituer une statue antique façon puzzle. Trop relâché, le scénario de Philippe de Broca et Michel Audiard a mal vieilli, plein de sous-entendus hétéronormatifs, sinon homophobes (sur les Grecs), que la déplaisante chute fait éclater au grand jour. Le casting est complété par Francis Perrin, la jambe plâtrée, et Catherine Alric, en sous-vêtements. Héroïne libre ou victime du patriarcat ? Voir tous les personnages masculins la peloter donne une idée de la réponse.
+
+Hormis la grisante course-poursuite entre une voiture de police et un train, l’action, qui faisait la force du cinéaste dans L’Homme de Rio (1964) ou Le Magnifique (1973), s’avère paresseuse. Il suffit, pour s’en convaincre, de comparer la scène aux monastères des Météores, construits sur des pitons rocheux, avec l’une de ses contemporaines, tournée au même endroit : celle du James Bond Rien que pour vos yeux (John Glen, 1981), autrement impressionnante.</desc>
+    <credits>
+      <actor>Annie Girardot</actor>
+      <actor>Paulette Dubost</actor>
+      <actor>Philippe Noiret</actor>
+      <actor>Roger Carel</actor>
+      <actor>Anna Gaylor</actor>
+      <actor>Alric Catherine</actor>
+      <actor>Marc Dudicourt</actor>
+      <actor>Francis Perrin</actor>
+      <actor>Cattand Gabriel</actor>
+      <actor>Philippe Brizard</actor>
+      <actor>Nikos Tsachiridis</actor>
+      <actor>Nikos Dafnis</actor>
+      <writer>Michel Audiard</writer>
+      <writer>Philippe de</writer>
+    </credits>
+    <date>1980</date>
+    <category lang="fr">film d'aventures</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/15/f0f18033ecba4bada373b1168a06b287.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241108144500" channel="C111.api.telerama.fr" stop="20241108153000">
+    <title>La Corée du Sud, un joyau de la nature</title>
+    <sub-title>Une terre de contrastes</sub-title>
+    <desc lang="fr">Terre de montagnes, la Corée du Sud abrite de somptueux parcs nationaux. Jirisan, le plus grand et le plus ancien d'entre eux, héberge une biodiversité exceptionnelle.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/b5cc61362cb445cebe40025baa6a3008.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108153000" channel="C111.api.telerama.fr" stop="20241108162000">
+    <title>La Corée du Sud, un joyau de la nature</title>
+    <sub-title>Cap sur les îles de Sinan</sub-title>
+    <desc lang="fr">Péninsule cernée par la mer du Japon et la mer de Chine, la Corée du Sud aligne aussi de grandioses paysages côtiers et des centaines d'îles.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/ceb32ae3454a4891950c69539964271d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108162000" channel="C111.api.telerama.fr" stop="20241108170500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au Mexique, Guillermo del Toro prend la caméra pour exorciser les monstres de ses nuits. Avec "Cronos", "Hellboy", "La Forme de l'eau" ou "Pinocchio", le cinéaste met en scène les créatures de son enfance auxquelles il s'identifie.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/cca84a63af334284af77fe34f69923b2.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108170500" channel="C111.api.telerama.fr" stop="20241108175500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">En Bretagne, Alain Le Quernec refait les murs - L'Eldorado, et si c'était la Colombie ? - En Angleterre, un safari chez soi.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/11/01/655401b65a3989b5985acc1c2b7b06257d89e0ce_9C789C74529037CAC6FCCABA4B1B51B8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108175500" channel="C111.api.telerama.fr" stop="20241108182500">
+    <title>Biodiversité et protection des espèces</title>
+    <desc lang="fr">En Norvège ou en Afrique du Sud, des défenseurs de la nature luttent contre l'extinction des espèces. Tandis que les uns développent des modèles de financement inédits pour offrir plus d'espace à la faune menacée, d'autres se consacrent corps et âme à l'élevage d'une espèce quasiment éteinte.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/ce2e3e1f04e145eea7a3452402c7ec94.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108182500" channel="C111.api.telerama.fr" stop="20241108184500">
+    <title>Le dessous des images</title>
+    <sub-title>Mon image m'échappe</sub-title>
+    <desc lang="fr">Sur la couverture d'une nouvelle érotique, un jeune couple pose tout sourire. Mais il s'agit d'un montage. Cette jeune femme n'a jamais rencontré ce beau gosse à la chemise ouverte. Et surtout, n'a pas consenti à poser pour cette couverture...</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108184500" channel="C111.api.telerama.fr" stop="20241108190500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108190500" channel="C111.api.telerama.fr" stop="20241108195100">
+    <title>28 minutes</title>
+    <desc lang="fr">Présenté par Renaud Dély les vendredi et samedi, le rendez-vous quotidien consacré à l'actualité et au débat.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">46</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108195100" channel="C111.api.telerama.fr" stop="20241108195500">
+    <title>De Gaulle à la plage</title>
+    <sub-title>Le ras le bol</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - Mais où est passé le général ? Au milieu des années 1950, alors que l'Algérie s'embrase et que la France traverse une crise, Charles de Gaulle est aux abonnés absents. Lassé de l'ingratitude de ses compatriotes, il part goûter aux joies des bains de mer et aux plaisirs du farniente. Adaptant, avec Philippe Rolland, sa bande dessinée éponyme, Jean-Yves Ferri égratigne avec tendresse et une pointe d'humour décalé la figure du libérateur de la France.</desc>
+    <date>2020</date>
+    <category lang="fr">série d'animation</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/22d7f5cb-ebc1-48bb-bae4-9722ff84e32c.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108195500" channel="C111.api.telerama.fr" stop="20241108213000">
+    <title>Vous n'aurez pas ma haine</title>
+    <desc lang="fr">Lors d'une soirée comme une autre, Antoine Leiris s'occupe de son fils pendant que son épouse Hélène assiste à un concert. Pourtant l'inquiétude monte lorsqu'il reçoit de nombreux textos. Il allume alors la télévision pour voir ce qui se passe et découvre que des groupes terroristes ont attaqué des terrasses de café et le Bataclan, où se trouve son épouse. La terrible nouvelle tombe rapidement : Hélène a été tuée. Le monde d'Antoine s'écroule. Dès le lendemain des attentats, il publie un texte sur les réseaux sociaux qui a un fort retentissement : "Vous n'aurez pas ma haine"... - Critique : Jusqu’à maintenant, les réalisateurs français s’accordent à dire que les fusillades du 13 novembre 2015 sont « de l’ordre de l’irreprésentable », comme l’a formulé Alice Winocour (Revoir Paris). L’Allemand Kilian Riedhof est de cet avis, mais il a tout de même estimé pouvoir représenter la douleur d’Antoine Leiris, dont la femme a été tuée au Bataclan – et dont la lettre destinée aux terroristes, puis le livre ont fait le tour du monde. Il suffit d’un plan ou deux pour constater que cela aussi reste mission impossible. Le film, sans grande imagination formelle, ne parvient pas à se hisser à la hauteur d’une telle souffrance : gros plans racoleurs, flashbacks tire-larmes, images de bouteille de whisky ou du dressing rempli des robes de la défunte… Cette histoire méritait un regard plus singulier.</desc>
+    <credits>
+      <actor>Farida Rahouadj</actor>
+      <actor>Azoulay Anne</actor>
+      <actor>Christelle Cornil</actor>
+      <actor>Yannick Choirat</actor>
+      <actor>Pierre Deladonchamps</actor>
+      <actor>Camélia Jordana</actor>
+      <actor>Marcos Adamantiadis</actor>
+      <actor>Thomas Mustin</actor>
+      <actor>Jonathan Failla</actor>
+      <actor>Anaïs Dahl</actor>
+      <actor>Léonard Berthet-Rivière</actor>
+      <actor>Zoé Iorio</actor>
+      <writer>Stéphanie Kalfon</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/5298daabb7524c699d1d2c8f47a1e5fe.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241108213000" channel="C111.api.telerama.fr" stop="20241108230500">
+    <title>Status Quo - Rockin' All Over the World</title>
+    <desc lang="fr">En 1962, deux lycéens de la banlieue ouvrière de Londres s'associent pour former un groupe, Devenu quatuor, Status Quo devient un véritable phénomène à partir de son premier tube "Paper Plane", titre phare de l'album "Piledriver". Conquérant le monde avec son boogie endiablé inimitable, il se hisse et reste au sommet des charts. Mais qui se cache derrière ces bêtes de scène qui sillonnent la planète en stars, avant que leur rock rugueux ne pâlisse à la fin des années 1980 ? Dans ce documentaire, les membres fondateurs de Status Quo se racontent avec humour et autodérision. Essaimant les anecdotes sur leur rencontre avec le prince Charles, leur performance au concert du Live Aid ou leur séjour en prison, ils retracent leur fulgurante trajectoire.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/06d9effce055449e9e54c50acd6aef3e.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241108230500" channel="C111.api.telerama.fr" stop="20241109001000">
+    <title>The Rolling Stones Rock and Roll Circus</title>
+    <desc lang="fr">En 1968, les Stones convoquent la fine fleur musicale du Swinging London – The Who, Lennon, Clapton, Faithfull – pour un show endiablé resté inédit durant près de trente ans. Les noces joyeuses du blues-rock déjanté et de l'outrance hippie.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/27/00fab84d29544e67b975bea267992f40.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

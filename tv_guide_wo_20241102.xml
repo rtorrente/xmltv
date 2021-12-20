@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241101222000" channel="C111.api.telerama.fr" stop="20241102000500">
+    <title>Billie Eilish en concert à l'O2 Arena de Londres</title>
+    <desc lang="fr">Lors de sa tournée "Happier than Ever" en 2022, l'autrice-compositrice-interprète américaine Billie Eilish propose une performance envoûtante sur la scène de l'O2 Arena de Londres. Aux côtés de son frère Finneas, musicien et producteur, et du batteur Andrew Marshall, elle plonge le public dans son univers pop si personnel, tantôt doux, tantôt sombre, mais toujours incarné.</desc>
+    <category lang="fr">musique : pop %26 rock</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/19/51c29da788e746c099e947c9debf4aeb.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241101235900" channel="C111.api.telerama.fr" stop="20241102014500">
+    <title>Géorgie : le port de tous les enjeux</title>
+    <desc lang="fr">Selon Vladimir Poutine, la Georgie fait également partie de la zone d'influence russe : le dirigeant convoitait cette ancienne république d'Union soviétique avant même l'assaut lancé contre l'Ukraine. Pour étayer cette théorie, le documentariste Stefan Tolz choisit un exemple qui illustre de quelle manière le pays a été peu à peu contraint de s'éloigner de l'Occident : initialement prévu avec des partenaires américains, le projet de construction d'un port en eaux profondes sur la Mer Noire a été bloqué sous l'influence du voisin russe.</desc>
+    <category lang="fr">documentaire economie</category>
+    <length units="minutes">106</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/07/17/55d74dad10274ba4b9d856084bd946cd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102014500" channel="C111.api.telerama.fr" stop="20241102023000">
+    <title>Canaries, les îles-volcans</title>
+    <sub-title>La Palma</sub-title>
+    <desc lang="fr">Saison:1 - Episode:5 - Après l'éruption du Cumbre Vieja en 2021, qui a endommagé des maisons et des terres agricoles, la biodiversité, elle, s'est adaptée et n'a pas disparu.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/27/b0d9dd8270efebca0656e6d634a458ee12ed1b7c_1A45C52E13148DE0D36B6753A648FF54.jpg" />
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102023000" channel="C111.api.telerama.fr" stop="20241102031900">
+    <title>Anna</title>
+    <sub-title>Choses à faire quand maman sera morte</sub-title>
+    <desc lang="fr">Saison:1 - Episode:6 - Anna rentre chez elle et rencontre par hasard, dans les bois, son petit frère. Elle lui explique qu'ils doivent quitter la Sicile pour s'en sortir, espérant que quelqu'un, sur le continent, a réussi à confectionner un remède contre la Rouge. Après une longue marche, Anna et Astor finissent par mettre la main sur une embarcation de fortune. A bord d'un vieux pédalo, ils commencent leur traversée de la Méditerranée. Leur périple est semé d'embuches et Astor évite de justesse la noyade. Ils parviennent finalement à arriver sur la terre ferme...</desc>
+    <credits>
+      <actor>Sergio Albelli</actor>
+      <actor>Elena Lietti</actor>
+      <actor>Roberta Mattei</actor>
+      <actor>Kerem Can</actor>
+      <actor>Giovanni Mavilla</actor>
+      <actor>Giulia Dragotto</actor>
+      <actor>Alessandro Pecorella</actor>
+      <actor>Clara Tramontano</actor>
+      <actor>Viviana Mocciaro</actor>
+      <actor>Nicola Mangano</actor>
+      <writer>Francesca Manieri</writer>
+      <writer>Giacomo Durzi</writer>
+      <writer>Flavio Nuccitelli</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">49</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/25/2bb9e4cbef8e4f92a13cbd1e683146c8.jpg" />
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241102031900" channel="C111.api.telerama.fr" stop="20241102040000">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">41</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241102040000" channel="C111.api.telerama.fr" stop="20241102060000">
+    <title>Miles Davis : Birth of the Cool</title>
+    <desc lang="fr">C'est à l'âge de 13 ans, en 1939, que Miles Davis se voit offrir une trompette par son père. L'adolescent absorbe alors tous les sons, de la forêt aux oiseaux, pour nourrir un génie précoce, qui le conduit sur scène dès ses 17 ans. Dans les pas de ses idoles prophètes du be-bop, Charlie Parker et Dizzy Gillespie, le prodige plonge bientôt dans l'incandescence de la 52e rue à New York, laboratoire du jazz moderne. Son style unique, Davis le grave dans l'album iconique "Birth of the Cool" en 1949. Mais le racisme mine l'artiste, qui s'envole pour Paris, où la liberté, tout comme son intense histoire d'amour avec Juliette Gréco, dans l'euphorie de l'après-guerre, le galvanisent. Ses démons le rattrapent à son retour, lorsque Miles sombre dans l'héroïne, avant de renaître, tel un phœnix, dans un nouveau quintette avec Coltrane.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/06/439c5530d78242c4acbe2136a1f658cb" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241102060000" channel="C111.api.telerama.fr" stop="20241102063500">
+    <title>Le phoque-moine, une odyssée en Méditerranée</title>
+    <desc lang="fr">Chaque année, au début de l'été, des centaines de bébés phoques naissent sur les bancs de sable et les plages de la mer du Nord. Les touristes attirés par le spectacle s'approchent souvent trop près des bébés phoques, les mères prennent alors la fuite et abandonnent leurs petits. C'est alors qu'interviennent les sauveteurs de phoques pour éviter que les bébés phoques ne meurent de faim.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/17/e74a56b7d9442c9de51d4f0c22f4cb1171f78b3b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102063500" channel="C111.api.telerama.fr" stop="20241102073000">
+    <title>Arnica, la reine des Vosges</title>
+    <desc lang="fr">Les Vosges abritent de nombreuses plantes médicinales, comme l'arnica montana. Cette plante aide à soigner les contusions, les oedèmes, les douleurs musculaires.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/08/22/b4ab4bb0a8c0adca4501201f2344f9d82df3d25c_A633F4B50A4ED7D1CD3E51EAF1F7011C.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102073000" channel="C111.api.telerama.fr" stop="20241102082000">
+    <title>Hongkong, la magie des néons</title>
+    <desc lang="fr">Alors que les LED tendent à supplanter les néons fluorescents, une poignée d'artisans et d'aficionados se démènent pour sauver cet emblème de Hongkong.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/13dd2918-c0e0-4563-a685-3d4fc7f863b7.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102082000" channel="C111.api.telerama.fr" stop="20241102090500">
+    <title>Invitation au voyage</title>
+    <sub-title>Népal</sub-title>
+    <desc lang="fr">Découverte du Népal en trois étapes : le Katmandou nostalgique de Samrat Upadhyay ; les Rana, une dynastie mégalo ; le trek des Annapurnas et la chasse à l'abominable homme des neiges.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/25/12450f2aff65b36be22b616760a28d3f8d326a9b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102090500" channel="C111.api.telerama.fr" stop="20241102093000">
+    <title>Cuisines des terroirs</title>
+    <sub-title>L'île d'Eubée, Grèce</sub-title>
+    <desc lang="fr">Près de la petite ville de Kymi poussent plus de 25 000 figuiers. La famille Karawa cueille une centaine de kilos de figues par jour, cuisinées ensuite à toutes les sauces.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/14/5d1f82ec9f8549f5b7557042af2f2822.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102093000" channel="C111.api.telerama.fr" stop="20241102101500">
+    <title>Zambie sauvage</title>
+    <sub-title>L'éden des hippopotames</sub-title>
+    <desc lang="fr">La rivière Luangwa, en Zambie, abrite la plus forte concentration d'hippopotames au monde. Tapis sous la surface, ces géants ne manquent de rien.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/13/b991d925bf5e4fd0828ffb76f24dd45a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102101500" channel="C111.api.telerama.fr" stop="20241102110000">
+    <title>Zambie sauvage</title>
+    <sub-title>Les crocodiles du fleuve Luangwa</sub-title>
+    <desc lang="fr">Le long de son trajet vers le Zambèze, la rivière Luangwa a façonné une vallée qui abrite l'une des plus importantes populations de crocodiles du Nil au monde.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/14/b40a48a0dfc2456ba412298e2227667b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102110000" channel="C111.api.telerama.fr" stop="20241102114500">
+    <title>Zambie sauvage</title>
+    <sub-title>Le clan des hyènes</sub-title>
+    <desc lang="fr">Les plaines de Liuwa se transforment en marécage inondé lors de la saison des pluies. Ces terres sauvages abritent une redoutable horde de hyènes tachetées.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/02/13/7127efdca6d1f21d88129c289ede6d913292f0cd.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102114500" channel="C111.api.telerama.fr" stop="20241102123000">
+    <title>Canada, la force de la nature</title>
+    <sub-title>Le Québec boréal</sub-title>
+    <desc lang="fr">Au Canada, l'écosystème boréal abrite un quart des dernières forêts primaires du globe. La majorité des communautés autochtones du pays vivent dans cet espace de zones humides.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/24/30a1a585b9644ee8ab2a49d6f3f3046c.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102123000" channel="C111.api.telerama.fr" stop="20241102140500">
+    <title>Alhambra, le trésor du dernier sultanat d'Espagne</title>
+    <desc lang="fr">Lorsqu'en 1492 les couronnes d'Aragon et de Castille font tomber le sultanat de Grenade et pénètrent à l'intérieur des dix hectares cernés de muraille de sa forteresse, au sommet de la colline qui domine la ville, les envahisseurs restent muets devant la magnificence du lieu. C'est que l'Alhambra, dont les travaux ont débuté en 1238, demeure la plus importante merveille architecturale des sultans nasrides, la dernière dynastie musulmane d'Espagne. Les murs des palais, recouverts de calligraphie arabe, racontent par la voix des vizirs, les Premiers ministres également poètes, huit siècles de splendeurs de l'art islamique.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/13/7505f340103e4430b8f5d5c41d7143ea.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241102140500" channel="C111.api.telerama.fr" stop="20241102145000">
+    <title>Canada, la force de la nature</title>
+    <sub-title>Les prairies de l'Ouest</sub-title>
+    <desc lang="fr">Originellement étendues sur quelque 600 000 kilomètres carrés, les prairies naturelles du Canada ont été largement converties en terres cultivées au cours des cinquante dernières années. Les 80 000 kilomètres carrés restants sont aujourd'hui grignotés par l'exploitation des hydrocarbures, pétrole et gaz de schiste. Mais l'écosystème canadien le plus menacé de disparition constitue aussi l'habitat historique du bison des plaines, où il est peu à peu réintroduit dans certaines communautés autochtones.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/25/41277b2f358645d596fa1d8f04a7d85f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102145000" channel="C111.api.telerama.fr" stop="20241102153500">
+    <title>Canada, la force de la nature</title>
+    <sub-title>La forêt côtière du Pacifique</sub-title>
+    <desc lang="fr">La côte de la Colombie-Britannique se caractérise par la grande richesse de ses écosystèmes forestiers : s'y dresse l'une des plus grandes forêts humides tempérées au monde, qui recouvre encore largement l'île de Vancouver. Face aux appétits insatiables des industriels pour ses arbres imposants - notamment le cèdre rouge -, les communautés autochtones se mobilisent pour préserver leurs ressources.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/26/5371bf6d41bd46b3a18c3c39fa35c483.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102153500" channel="C111.api.telerama.fr" stop="20241102161500">
+    <title>Invitation au voyage</title>
+    <sub-title>Oman</sub-title>
+    <desc lang="fr">À la découverte du sultanat d'Oman à travers trois sujets : l'écrivaine Jokha Alharthi ; les marins omanais ; la première station télégraphique, installée par les Britanniques en 1865.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/d95d7e9e6bc64ccb8c693cf3d89af051.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102161500" channel="C111.api.telerama.fr" stop="20241102165000">
+    <title>Oscar ou l'art d'apprivoiser les chevaux</title>
+    <desc lang="fr">Des découvertes, des histoires passionnantes et des voyages de rêves pour découvrir le monde et rencontrer les petits et grands acteurs de la vie, c'est le concept de cette série documentaire produite depuis 1999 par la rédaction franco-allemande d'Arte.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/05/ec7e0d2db1783a3f3fc647af7fcd52125b224540.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102165000" channel="C111.api.telerama.fr" stop="20241102173500">
+    <title>L'esprit du Mississippi</title>
+    <desc lang="fr">Si les États du centre des États-Unis sont souvent considérés comme des flyover states - survolés mais rarement visités -, les terres que traversent le Mississippi, du Minnesota au golfe du Mexique, méritent pourtant le détour : elles témoignent de l'histoire des nombreuses civilisations qui les ont occupées au fil des siècles. La nation indienne Choctaw est ainsi l'un des premiers peuples amérindiens à avoir investi les abords du fleuve. Après des années de diabolisation, le culte vaudou s'y redécouvre au grand jour à La Nouvelle-Orléans.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/29/2893a3e3784c52d204ba769d7b005590fc3f93d5_88464B511879CF12EA8A6D689421B97E.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102173500" channel="C111.api.telerama.fr" stop="20241102183000">
+    <title>Arte reportage</title>
+    <desc lang="fr">Rencontre avec la génération Z dans le Michigan, un Etat-clé que le vote des jeunes pourrait faire basculer / Pauvreté, déclassement, violence : le centre-ville de San Francisco est gangréné par le fentanyl / Kosovo, les Albanais sont persuadés qu'ils doivent leur liberté aux Etats-Unis.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/20/f9819210cd125a402dcd9971043435c4768356ea_81148FA4B0C0F46A91A4CC04CE8827D0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102183000" channel="C111.api.telerama.fr" stop="20241102184500">
+    <title>Le dessous des cartes</title>
+    <sub-title>De Trump à Biden : quelle diplomatie américaine ?</sub-title>
+    <desc lang="fr">Au cours de son mandat, Donald Trump a bouleversé les principes de la politique étrangère américaine et mis en œuvre partout sa doctrine de "l'Amérique d'abord". Au cours du mandat suivant, le président Biden a tenté de restaurer les relations d'alliance traditionnelles. Mais quelle politique étrangère les États-Unis poursuivront-ils après les élections du 5 novembre 2024 ?</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c2e278d7cfed42ce95200259e707fe64.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102184500" channel="C111.api.telerama.fr" stop="20241102190500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102190500" channel="C111.api.telerama.fr" stop="20241102195000">
+    <title>28 minutes samedi</title>
+    <sub-title>Best of Club</sub-title>
+    <desc lang="fr">Retour sur les temps forts de l'actualité de ces derniers mois : la politique migratoire de Giorgia Meloni en Italie, le rapport de Mario Draghi sur la compétitivité de l'Union européenne, l'excédent budgétaire historique en Irlande, la tentative d'assassinat contre Donald Trump.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/c7ac333e9a73411585beb10d755cb86d.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102195000" channel="C111.api.telerama.fr" stop="20241102204500">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Au royaume des cow-boys</sub-title>
+    <desc lang="fr">En soixante-dix ans et quatre-vingts albums, Lucky Luke a forgé un rêve américain à lui seul, faisant fantasmer des générations de jeunes Européens. Si l'univers coloré imaginé par Morris et Goscinny s'inspirait de faits historiques, il se nourrissait surtout des archétypes construits par le cinéma et la littérature, qu'il parodiait avec amour. Fan de la première heure, Jul, qui scénarise depuis 2016 les aventures du célèbre cow-boy, s'est mis en tête de confronter le personnage et son folklore à l'épreuve du réel. Que reste-t-il aujourd'hui de Lucky Luke ? Dans ses pas, l'auteur parisien débarque au Far West, le vrai, à la recherche des figures et lieux qui ont bercé son enfance.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/8d7087c83ec941d6943a7720dc25d363.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241102204500" channel="C111.api.telerama.fr" stop="20241102214000">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Les fantômes de l'Ouest</sub-title>
+    <desc lang="fr">Après avoir découvert avec enthousiasme que le folklore western existait toujours, Jul poursuit son enquête sur les traces de Lucky Luke. Il rencontre des chauffeurs de trucks rappelant les diligences du passé, traverse des villages endormis le long de routes sans fin, embarque dans une locomotive à vapeur et découvre une mine fantôme que la ruée vers l'or semble avoir laissée intacte. Lorsqu'il est accueilli par des descendants des peuples sioux et apache dans leurs réserves du Dakota du Sud et du Nouveau-Mexique, les ombres de la conquête de l'Ouest se projettent sur sa route.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/6c689cdc41c94b11ba5420486cd0ed25.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102214000" channel="C111.api.telerama.fr" stop="20241102223500">
+    <title>Dans les bottes de Lucky Luke</title>
+    <sub-title>Toutes les couleurs du western</sub-title>
+    <desc lang="fr">Comme les Indiens et leurs signaux de fumée, le blanchisseur chinois et le Mexicain endormi font partie de ces personnages stéréotypés dont regorge l'univers de Lucky Luke. Dans ce dernier épisode, Jul porte son attention sur cette galerie de portraits hauts en couleur qui a amusé des générations d'enfants mais qui cache souvent une histoire dramatique. Prenant la route du Sud, l'apprenti cow-boy descend le Mississippi, visite champs de coton et anciennes plantations, découvre la richesse culturelle cajun mais aussi la survivance du racisme.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/020637ee203844fc961e5d858df5a946.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241102223500" channel="C111.api.telerama.fr" stop="20241102233000">
+    <title>Le mammouth, une résurrection en laboratoire ?</title>
+    <desc lang="fr">Depuis la disparition en 2018 du dernier mâle rhinocéros blanc du Nord, il ne reste plus, dans une réserve du Kenya, qu'une mère et sa fille comme représentantes de l'espèce. Pour que cette dernière ne disparaisse pas avec elles, une équipe du consortium BioRescue, rattaché à un établissement public - l'Institut Leibniz pour la recherche sur la faune sauvage et de zoo (IZW) -, est à pied d'œuvre : des ovocytes prélevés sur les deux femelles s'apprêtent à être fécondés in vitro avec les spermatozoïdes congelés de quatre mâles morts dans des zoos, avant l'implantation d'un embryon dans l'utérus d'une mère porteuse rhinocéros blanc du Sud. Les mammouths, disparus il y a 4 000 ans, suscitent quant à eux l'intérêt du laboratoire américain privé Colossal Biosciences.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/f465d4e3067840a7ab67bd0a8e886217.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241102233000" channel="C111.api.telerama.fr" stop="20241103002500">
+    <title>Court-circuit</title>
+    <desc lang="fr">Quatre courts métrages au programme : "Obervogelgesang" de Ferdinand Ehrhardt et Elisabeth Weinberger, "Ta rue" de Güzin Kar, "Semra Ertan" de Cana Bilir-Meier, et "Bambirak" de Zamarin Whadat.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20241105234500 +0100" channel="C59.api.telerama.fr" stop="20241106000000 +0100">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241106000000 +0100" channel="C59.api.telerama.fr" stop="20241106060000 +0100">
+    <title>SRF News Spezial</title>
+    <sub-title>US-Wahlen live - die Nacht</sub-title>
+    <desc lang="fr">In den Sondersendungen aus der Nachrichtenredaktion wird laufend über aktuelle Ereignisse berichtet wie etwa Naturkatastrophen oder politische Geschehnisse.</desc>
+    <category lang="fr">journal</category>
+    <length units="hours">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/3080823cc63c49a8963c1a9d93b50b73.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105230500 +0100" channel="C183.api.telerama.fr" stop="20241106000000 +0100">
+    <title>Cinémaniak</title>
+    <desc lang="fr">La RTS aime le cinéma, grand et petit format. Chaque semaine, le mardi et le vendredi généralement, l'émission Cinémaniak propose une sélection de courts métrages d'ici et d'ailleurs, abordant tous les sujets. Ces courts métrages de fiction ou d'animation ont été soutenus par le Département de la Fiction de la RTS.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/11/22/c76e47284af2a3427a7b5bb096f877fc06a32cc7.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106000000 +0100" channel="C183.api.telerama.fr" stop="20241106050000 +0100">
+    <title>Emission spéciale : Election présidentielle américaine 2024</title>
+    <desc lang="fr">Correspondants et envoyés spéciaux des différentes chaînes ponctueront la nuit pour commenter en duplex le flux régulier des premiers décomptes de votes.</desc>
+    <category lang="fr">emission politique</category>
+    <length units="hours">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/2e0a1cf5527e4f43a00c459c13b8c74e.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241105233500 +0100" channel="C202.api.telerama.fr" stop="20241106002000 +0100">
+    <title>New York Unité Spéciale</title>
+    <sub-title>Captives</sub-title>
+    <desc lang="fr">Saison:24 - Episode:4 - Un couple d'immigrés nouvellement installé à New York se fait agresser dans son restaurant par un homme qui leur tire dessus. L'équipe s'aperçoit rapidement que leur fille adolescente a été kidnappée. Puis, elle finit par trouver la maison d'Elias, l'agresseur présumé. Plusieurs femme sont enfermées dans un sous-sol. L'unité spéciale finit par découvrir qu'elles ont été kidnappées à différentes époques. Elles ont été les esclaves sexuelles du père d'Elias, le kidnappeur...</desc>
+    <credits>
+      <director>Juan José</director>
+      <actor>ICE-T </actor>
+      <actor>Wood Frank</actor>
+      <actor>Mariska Hargitay</actor>
+      <actor>Kelli Giddish</actor>
+      <actor>Peter Scanavino</actor>
+      <actor>Molly Burnett</actor>
+      <actor>Anjali Bhimani</actor>
+      <actor>Gabor Jess</actor>
+      <actor>Dalya Knapp</actor>
+      <actor>Octavio Pizano</actor>
+      <actor>Robbie Williams</actor>
+      <actor>Adam Petchel</actor>
+      <writer>Brianna Yellen</writer>
+      <writer>Dobie Kathy</writer>
+      <writer>Nolan Dunbar</writer>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/13/dbeec9de28e146b1b94cf99fee37b5f4.jpeg" />
+    <episode-num system="xmltv_ns">23.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106002000 +0100" channel="C202.api.telerama.fr" stop="20241106015500 +0100">
+    <title>Wild Rose</title>
+    <desc lang="fr">Rose-Lynn Harlan, à la jeunesse tumultueuse, vient de passer quelques mois en prison. Pendant ce temps, Marion, sa mère, a pris soin de ses enfants. Les retrouvailles sont assez froides. Marion reproche à sa fille d'être irresponsable. Rose-Lynn, de son côté, a des rêves plein la tête. Elle veut devenir chanteuse de country. Pour parvenir à ses fins, la jeune femme doit quitter Glasgow et se rentre à Nashville, berceau de ce genre musical. Exaspérée, Marion veut la ramener à la réalité et qu'elle joue enfin son rôle de mère... - Critique : Quand Rose-Lynn sort de prison, ses ex-codétenues lui hurlent des encouragements : c’est certain, elle sera la nouvelle Patsy Cline ! Car la jeune femme n’a qu’une obsession : devenir chanteuse de country, et donc quitter son Glasgow natal pour Nashville. Sa mère ne l’entend pas de cette oreille : il serait temps, au contraire, que sa fille devienne responsable, s’occupe de ses deux jeunes enfants et trouve un boulot, n’importe lequel. Devenue femme de ménage d’un couple de bourgeois cultivés, l’indocile et abrupte Rose-Lynn est incapable de renoncer à ses santiags — et à une petite cuite de temps en temps. Surprise, sa patronne, elle-même, ne peut résister à sa voix à faire pleurer des rivières. Elle décide de l’aider…
+
+Sur le canevas classique du « qui ne tente rien passe à côté de ses rêves », Wild Rose s’impose comme un mélange particulièrement équilibré de film social britannique et d’éloge de la country, musique dont une réceptionniste d’hôtel donne une définition parfaite : « Que vos larmes se chantent et deviennent des tubes. » Mornes coursives de HLM de banlieue, pub écossais où les tables collent à force de bières renversées et quotidien d’une classe populaire condamnée à subsister dans le même périmètre étroit, le contexte rappelle tout le cinéma de Ken Loach ou encore The Full Monty, de Peter Cattaneo.
+
+Comme dans ce feel good movie des années 90, la musique est omniprésente par la BO, et surtout grâce à Rose-Lynn, qui chante à tue-tête, y compris lorsqu’elle passe l’aspirateur, dans une séquence à l’énergie communicative. La mise en scène épouse le tonus de cette héroïne qui marche à grandes enjambées rageuses, déchirée entre son idée fixe et ses deux gamins qu’elle réapprivoise maladroitement. Dans ce rôle, Jessie Buckley casse la baraque : vue récemment en femme de pompier irradié dans la série Chernobyl, cette Irlandaise arrivée deuxième dans l’équivalent de Nouvelle star sur la BBC confirme une présence ébouriffante. Face à elle, Julie Walters (Billy Elliot) incarne avec une émouvante retenue une mère qu’une vie sans ambition a peu à peu raidie, ne lui laissant qu’un pâle sourire. Ces deux personnages offrent, en creux, une réflexion sur le thème du sacrifice maternel. Et si happy end il y a (évidemment), porté par une bouleversante dernière chanson, il reste résolument social : pour devenir quelqu’un, il faut accepter d’où l’on vient…</desc>
+    <credits>
+      <director>Tom Harper</director>
+      <actor>Sophie Okonedo</actor>
+      <actor>Julie Walters</actor>
+      <actor>Jamie Sives</actor>
+      <actor>Craig Parkinson</actor>
+      <actor>Jessie Buckley</actor>
+      <actor>Harkness James</actor>
+      <actor>Janey Godley</actor>
+      <actor>Daisy Littlefield</actor>
+      <actor>Jane Patterson</actor>
+      <actor>Ryan Kerr</actor>
+      <actor>Nicole Kerr</actor>
+      <actor>Adam Mitchell</actor>
+      <writer>Nicole Taylor</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/852322de6bb34bb1aac0a4c74f103cc8.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241106015500 +0100" channel="C202.api.telerama.fr" stop="20241106021400 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106021400 +0100" channel="C202.api.telerama.fr" stop="20241106021500 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106021500 +0100" channel="C202.api.telerama.fr" stop="20241106053000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

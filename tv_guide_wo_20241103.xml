@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241102233000" channel="C111.api.telerama.fr" stop="20241103002500">
+    <title>Court-circuit</title>
+    <desc lang="fr">Quatre courts métrages au programme : "Obervogelgesang" de Ferdinand Ehrhardt et Elisabeth Weinberger, "Ta rue" de Güzin Kar, "Semra Ertan" de Cana Bilir-Meier, et "Bambirak" de Zamarin Whadat.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/23/6ce34e4335d64f7d22c83ee7c7f691a6cb7371ff.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103002500" channel="C111.api.telerama.fr" stop="20241103012000">
+    <title>"Emmanuelle" : la plus longue caresse du cinéma français</title>
+    <desc lang="fr">En 1973, le hasard fait se croiser Sylvia Kristel, jeune mannequin, et Just Jaeckin, réalisateur de cinéma. Il fait de la jeune femme l'héroïne de son film érotique "Emmanuelle", qui sort l'année suivante et connait un immense succès. Un film qui se place dans le contexte d'une époque marquée par la libération des corps. Un documentaire composés d'extraits, d'images d'archives et de souvenirs de l'équipe de tournage, avec des contrepoints d'Ovidie, de l'auteur Marc Godin, de l'historienne Christine Bard ou encore de la styliste Vanessa Bruno, qui étoffent le regard sur ce film révolutionnaire.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/15/1efe0dc203b7ed68826fe8a860c932dc74615110.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241103012000" channel="C111.api.telerama.fr" stop="20241103015000">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Peut-on remplacer les pollinisateurs ?</sub-title>
+    <desc lang="fr">Depuis des millions d'années, les plantes et leurs pollinisateurs renouvellent au quotidien leurs voeux d'amour, s'adaptant en permanence les uns aux autres. Mais le nombre d'insectes susceptibles de polliniser tomates, pommes et framboises ne cesse de reculer. Que faire si ces voeux de fidélité sont remis en cause ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/14/d3d931eeaa1741b1ab83d3aee010d40c.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103015000" channel="C111.api.telerama.fr" stop="20241103024500">
+    <title>Les virus et nous</title>
+    <desc lang="fr">Participant activement à l'évolution, les virus, qui dépendent de cellules hôtes pour se reproduire, ne deviennent dangereux que lorsqu'un déséquilibre survient, notamment entre l'homme et la nature. Car lorsque l'espèce qui les héberge est menacée, ces micro-organismes peuvent chercher à se réfugier chez une autre. Ce sont probablement ces conditions qui ont amené les désormais célèbres coronavirus à s'implanter chez l'homme. Mais si les virus peuvent devenir pathogènes, ils se révèlent aussi bénéfiques pour la santé, s'alliant parfois avec l'organisme qui les héberge et le protégeant alors contre des bactéries à l'origine de maladies. Certains scientifiques expérimentent ainsi des traitements à partir de virus, qui permettent de lutter contre des infections résistant à toute autre thérapie.</desc>
+    <category lang="fr">documentaire santé</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/5652c5fd2a49bb12888927edfc1c97e6c9e15229.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241103024500" channel="C111.api.telerama.fr" stop="20241103033700">
+    <title>Stephen King, le mal nécessaire</title>
+    <desc lang="fr">Né en 1947 dans le Maine, où il vit toujours, Stephen King s'est imposé comme le roi du fantastique et de l'horreur. Prolixe auteur de best-sellers, il a vendu en un demi-siècle plus de 350 millions d'exemplaires de ses romans. Ses récits, ancrés dans l'Amérique rurale, ont inspiré des cinéastes chevronnés, Brian De Palma, Stanley Kubrick, John Carpenter, David Cronenberg, George Romero ou Rob Reiner. Ce chantre de la littérature populaire éclaire la genèse de quelques-uns de ses plus grands succès et leur adaptation au fil d'interviews réunies par Julien Dupuy dans un éclairant portrait documentaire. Il confie ses souvenirs d'enfance, sa jeunesse impécunieuse, ses méthodes de travail, sa lutte contre ses démons intérieurs et la dépendance à l'alcool, ou le soutien qu'il apporte en philanthrope aux bibliothèques.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">52</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/20/6905d1a1c41141728f6c6bc0dea2f3ff.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241103033700" channel="C111.api.telerama.fr" stop="20241103042500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">48</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241103042500" channel="C111.api.telerama.fr" stop="20241103045500">
+    <title>Les parcs nationaux canadiens *2019</title>
+    <sub-title>Kejimkujik</sub-title>
+    <desc lang="fr">Saison:2 - Episode:4 - Le parc national Kejimkujik, en Nouvelle-Ecosse, est un véritable paradis pour la faune sauvage. Todd Labrador, qui fabrique des canoës, y transmet son savoir-faire.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/96a9d339-782d-48bc-b888-55eb6ee80fd1.jpg" />
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103045500" channel="C111.api.telerama.fr" stop="20241103053000">
+    <title>Les parcs nationaux canadiens</title>
+    <sub-title>Prairies</sub-title>
+    <desc lang="fr">Saison:2 - Episode:5 - Situé à la frontière avec les Etats-Unis, le parc national des Prairies et ses vastes étendues herbeuses est l'un des écosystèmes les plus menacés de la planète.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/b4b64969-d8b1-4ad7-9483-d6fbee48f128.jpg" />
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103053000" channel="C111.api.telerama.fr" stop="20241103062500">
+    <title>Magiques, ces haricots !</title>
+    <desc lang="fr">Originaire du centre et du sud de l'Amérique et introduit en Europe au XVIe siècle, le haricot commun, bien que courant dans la cuisine traditionnelle, est aujourd'hui majoritairement cultivé pour l'alimentation animale. Pourtant, cette légumineuse a tous les talents : facile à cultiver, pauvre en graisses, riche en protéines, en fibres et en acides gras essentiels, elle s'avère aussi bénéfique pour la flore intestinale que pour la biodiversité ou le climat. Entre possibilités gustatives et vertus environnementales, ce document est une invitation à remettre ce "superaliment" dans les menus.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/06/74e3253935e845e889fe85fbc582a454.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103062500" channel="C111.api.telerama.fr" stop="20241103071500">
+    <title>Les Canaries : Des îles sous perfusion</title>
+    <desc lang="fr">Au large du Maroc, à 2 000 kilomètres au sud de la péninsule Ibérique, les îles volcaniques des Canaries constituent l'une des régions les plus arides d'Europe. Avec une pluviométrie huit fois plus faible que sur le continent, y trouver de l'eau douce a toujours été une priorité pour ses habitants, qui ont su pallier son insuffisance par d'ingénieux systèmes de collecte traditionnelle. Mais après une grave période de sécheresse, en réponse à la pénurie qui menaçait son développement humain et économique, l'archipel espagnol a installé, dès les années 1960, les premières usines de dessalement au monde. Soixante ans plus tard, la région est devenue celle qui en compte le plus au mètre carré par habitant. Et si le remède miracle n'était qu'un mirage trompeur ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/22/750722fe2d96432e97b6af44ac1cab8b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241103071500" channel="C111.api.telerama.fr" stop="20241103073000">
+    <title>ARTE Junior, le mag</title>
+    <desc lang="fr">Pour les 10-14 ans, l'actualité internationale et européenne traitée à hauteur d'enfant, à partir de questions posées par des élèves du primaire français et allemand. Sans oublier le portrait d'un enfant du monde.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/17/a3ffb319739f469685547895a94632d9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103073000" channel="C111.api.telerama.fr" stop="20241103080000">
+    <title>42, la réponse à presque tout</title>
+    <sub-title>Prenons-nous suffisamment de risques ?</sub-title>
+    <desc lang="fr">Qui ne préfère pas assurer ses arrières ? En cause : la peur du risque. Même un acte aussi anodin qu'éplucher une banane peut s'avérer risqué : elle pourrait glisser et l'on pourrait se couper, se blesser… Mais faut-il pour autant s'inquiéter du moindre aléa ? Et si la peur n'évitait pas le danger, bien au contraire ?</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/08fd9996bb5d48b3b4657459d20f9f50.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103080000" channel="C111.api.telerama.fr" stop="20241103083000">
+    <title>Métrocosmos</title>
+    <sub-title>Berlin</sub-title>
+    <desc lang="fr">Avec ses 155 kilomètres et 175 stations, le métro de Berlin transporte chaque année un milliard de citadins. Faisant de ce labyrinthe souterrain leur terrain de jeu, certains habitants ont décidé d'explorer et d'investir ses nombreuses galeries. Le collectif d'artistes Rocco und seine Brüder ("Rocco et ses frères") a ainsi établi son atelier secret dans un de ses tunnels. Le rappeur Infidelix a, de son côté, jeté son dévolu sur la ligne 1 du réseau, où il accompagne en musique les voyageurs.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/95c1d061dcd24dbd82f71cedf0fb565c.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103083000" channel="C111.api.telerama.fr" stop="20241103090000">
+    <title>Twist</title>
+    <sub-title>Le surnaturel à la conquête du monde</sub-title>
+    <desc lang="fr">Le surnaturel connaît un regain d'intérêt. Les rituels spirituels, l'ésotérisme et le tarot ont trouvé leur public sur les réseaux sociaux, mais aussi dans le monde de l'art. Que cache ce phénomène ? Pourquoi les sorcières, chamans et chasseurs de fantômes des temps modernes sont-ils revenus sur le devant de la scène ?</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/27/1ac99222ab334c4294810baecad16c64.jpeg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103090000" channel="C111.api.telerama.fr" stop="20241103094500">
+    <title>Belgique : Les pêcheurs de crevettes à cheval</title>
+    <desc lang="fr">Immersion aux côtés des pêcheurs à cheval du littoral flamand - un métier ancestral dont quelques passionnés préservent fièrement l'héritage.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/08/8fbb0e6fe62c4300901dbf5e36d92e5d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103094500" channel="C111.api.telerama.fr" stop="20241103101500">
+    <title>Cuisines des terroirs</title>
+    <sub-title>La Franconie, Allemagne</sub-title>
+    <desc lang="fr">Claudia Dollinger a une ferme près de Nuremberg. Elle fait partie d'un réseau d'agriculture solidaire dont les membres se partagent les récoltes, bonnes ou mauvaises. À l'automne, de nombreux fruits et légumes arrivent simultanément à maturité. Alors Claudia et ses camarades se sont lancés dans la fermentation lactique, une méthode de conservation alimentaire qui fait appel à l'action de bactéries.</desc>
+    <category lang="fr">documentaire gastronomie</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/12d39cbc8f9549dfbd1ca808e68e39bd.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103101500" channel="C111.api.telerama.fr" stop="20241103110000">
+    <title>La France sauvage</title>
+    <sub-title>La Bourgogne, les secrets du bocage</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Dans le bocage du Morvan, l'extraordinaire se cache dans l'ordinaire. Entretenu par l'homme depuis des siècles, ce paysage grouille pourtant d'une vie sauvage foisonnante.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/13/38b2925464f72361c4894d1e4d466edc3159a4c1_81602AA52C11FAD2C6E775A8CAAFA5D5.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103110000" channel="C111.api.telerama.fr" stop="20241103114500">
+    <title>La France sauvage</title>
+    <sub-title>Les Alpes, les sommets de l'extrême</sub-title>
+    <desc lang="fr">Dans les Alpes, la montagne impose des conditions extrêmes : vents violents, parois vertigineuses, températures polaires et avalanches mortelles.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/13/d1104677d6363394fdfa04039e948dab02782211_5DD5989194A5D8D30D5A79654EF4F5C8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103114500" channel="C111.api.telerama.fr" stop="20241103123000">
+    <title>La France sauvage</title>
+    <sub-title>La Loire, un fleuve libre</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Un des derniers fleuves libres d'Europe, la Loire, n'a pas été fortement canalisé par l'homme ; elle impose à ses habitants les pulsations de ses crues.</desc>
+    <date>2012</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/07/13/38b2925464f72361c4894d1e4d466edc3159a4c1_81602AA52C11FAD2C6E775A8CAAFA5D5.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103123000" channel="C111.api.telerama.fr" stop="20241103143000">
+    <title>Hugo Cabret</title>
+    <desc lang="fr">En 1931, Hugo Cabret, un petit orphelin de 12 ans, vit dans les combles de la gare Montparnasse, à Paris. Il occupe ses journées à en remonter les horloges. Mais son rêve secret est ailleurs. Son père lui a laissé un curieux automate inachevé qu'Hugo voudrait voir fonctionner. Il lui manque une pièce essentielle, une clef en forme de coeur. Sa quête n'empêche pas Hugo de se lier avec une autre orpheline, Isabelle, dont s'occupe un vieil homme, vendeur de jouets dans un des magasins de la gare. Hugo découvre que, même s'il n'en parle jamais, ce vieil homme n'est pas n'importe qui. Il s'agit de Georges Méliès, le premier cinéaste de fiction du monde, tombé dans l'oubli... - Critique : Dans le Paris de 1931, un orphelin vit seul sous les toits d’une grande gare dont il remonte les horloges. Mais la mécanique qui occupe vraiment le petit Hugo Cabret, c’est la mise en route d’un étrange automate laissé par son père. Pour l’animer, une clé en forme de cœur est nécessaire. La trouver est un jeu de piste qui mène au vieux marchand de jouets de la gare. Cet homme austère a un fabuleux secret : il a été un inventeur, un créateur d’images pleines d’imagination. Il s’appelle Georges Méliès ! Le génial auteur du Voyage dans la Lune (1902) a fini ruiné. Mais ce magicien est sûrement encore capable de faire vivre un automate…
+
+Voilà un film qu’on reçoit comme un cadeau, une malle aux trésors. On y découvre pêle-mêle une aventure pleine de mystères dans un Paris façon Eugène Sue, l’histoire des débuts du cinématographe à travers celle de Méliès, et un grand spectacle conçu à l’origine pour la projection en 3D. La réalité dialogue avec la fiction, et le cinéma d’hier, avec celui d’aujourd’hui. Le jeu de piste est à la fois simple et sophistiqué, du côté du plaisir et de la connaissance. Ce que le cinéma peut réunir, capable de tout, illuminant notre vie et nous guidant de la solitude à la lumière. Scorsese se fait avec joie le porte-voix de ce message, lui qui a dédié depuis longtemps une grande partie de son travail à la mémoire du cinéma et à sa transmission. Il y a là de quoi enchanter les enfants comme les cinéphiles, et même les enfants cinéphi­les, ceux du film montrant l’exem­ple d’une formation précoce et très heureuse à l’amour du septième art.</desc>
+    <credits>
+      <actor>Christopher Lee</actor>
+      <actor>Ben Kingsley</actor>
+      <actor>Jude Law</actor>
+      <actor>Richard Griffiths</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Ray Winstone</actor>
+      <actor>Helen Mccrory</actor>
+      <actor>Michael Stuhlbarg</actor>
+      <actor>Chloë Grace</actor>
+      <actor>Sacha Baron</actor>
+      <actor>Asa Butterfield</actor>
+      <actor>Frances de</actor>
+      <writer>John Logan</writer>
+      <guest>Diana Scrivener</guest>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">film d'aventures</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/07/cf374e493e3c466ea916261633985b07.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241103143000" channel="C111.api.telerama.fr" stop="20241103151500">
+    <title>Le vrai livre de la jungle</title>
+    <desc lang="fr">En 1894, l'écrivain anglais Rudyard Kipling publie "Le Livre de la jungle", une oeuvre à mi-chemin entre le roman et le recueil de nouvelles qui s'imposera durablement comme l'un des chefs-d'oeuvre de la littérature britannique. Ce palpitant récit initiatique conte les aventures de Mowgli, jeune orphelin qui passe son enfance parmi les animaux au coeur d'une jungle indienne fantasmée. Tandis que Baloo, l'ours lippu, se prélasse sur les pierres chauffées au soleil, le redoutable tigre Shere Khan impressionne toute la faune - à l'exception de l'imperturbable éléphant Hathi. Quelle est la part de vérité dans ce récit ? Et est-ce ainsi que s'applique la "loi de la jungle" dans le sous-continent indien ?</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/10/6ae0dcefa12e46619095f4e7fb42f160.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103151500" channel="C111.api.telerama.fr" stop="20241103155500">
+    <title>Les parcs nationaux canadiens</title>
+    <sub-title>Kluane</sub-title>
+    <desc lang="fr">Saison:2 - Episode:1 - Le parc national Kluane, dans le Yukon, séduit avec ses chaînes de montagnes massives, ses forêts boréales où règnent conifères et fleurs sauvages colorées.</desc>
+    <date>2019</date>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/03/31/1f0adaf2-a3a7-4927-9607-99108260434c.jpg" />
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103155500" channel="C111.api.telerama.fr" stop="20241103162000">
+    <title>Les mythes vikings</title>
+    <sub-title>Les sarcasmes de Loki</sub-title>
+    <desc lang="fr">Saison:1 - Episode:9 - Frigg, la femme d'Odin, fait promettre à toutes les créatures animales, végétales et minérales de ne pas s'en prendre à son fils Baldr.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/73a679de6c97454caf28de2183841641.jpg" />
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103162000" channel="C111.api.telerama.fr" stop="20241103165000">
+    <title>Les mythes vikings</title>
+    <sub-title>Le crépuscule des dieux</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - Calamités et catastrophes à Midgard, guerres sans fin et trois années d'hiver éternel : les signes ne trompent pas, l'affrontement entre les dieux et les géants va commencer.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/4020d5f96dcf43f4a242bf2c35c3974f.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103165000" channel="C111.api.telerama.fr" stop="20241103174000">
+    <title>Klimt et "Le baiser"</title>
+    <desc lang="fr">Plongeant sous la surface du "Baiser", qui compte parmi les œuvres les plus reproduites au monde, ce documentaire explore le parcours de Gustav Klimt.</desc>
+    <category lang="fr">documentaire beaux-arts</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/44b28538fc684c02bdf3730bd000a4ba.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103174000" channel="C111.api.telerama.fr" stop="20241103183000">
+    <title>Le Requiem de Fauré au Panthéon</title>
+    <desc lang="fr">En hommage au compositeur disparu il y a cent ans, le 4 novembre 1924, Thomas Hengelbrock dirige son céleste Requiem sous la coupole du Panthéon, à Paris.</desc>
+    <category lang="fr">musique : classique</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/17edf8572eee40c2aee780ae984360f3.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103183000" channel="C111.api.telerama.fr" stop="20241103184500">
+    <title>Karambolage</title>
+    <sub-title>Spécial mur de Berlin</sub-title>
+    <desc lang="fr">Le mur de Berlin est tombé il y a 35 ans, le 9 novembre 1989. "Karambolage" nous raconte comment les événements se sont déroulés pendant cette journée historique.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/09/04/dda96042153f541f690c459d7e5f25a902ed52ae_0D06C6C797893FF04978AECC277E5D04.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103184500" channel="C111.api.telerama.fr" stop="20241103190500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103190500" channel="C111.api.telerama.fr" stop="20241103200000">
+    <title>Taylor Swift, les coulisses du succès</title>
+    <desc lang="fr">Taylor Swift incarne tous les superlatifs. Artiste la plus streamée au monde, elle est également la chanteuse la plus récompensée de tous les temps et a réalisé la tournée la plus rentable de l'histoire. Alors que les Etats-Unis se montrent plus divisés que jamais à l'approche de l'élection présidentielle, la moitié des Américains se rangent sous sa bannière pour se revendiquer "Swifties". Ayant exprimé son soutien à Kamala Harris sur les réseaux sociaux, la chanteuse pourrait donc exercer une influence considérable sur le résultat du scrutin. Après avoir fait le portrait de Beyoncé et de sa sœur, Solange Knowles, puis de Rihanna, Aaron Thiesen décrypte l'émergence de cette jeune icône contemporaine, qui fut star à 16 ans en promouvant une musique country jusque-là reléguée aux marges de l'industrie.</desc>
+    <category lang="fr">documentaire musique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/19/fe86ed98ae5c4d34917fda4af2a1a923.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103200000" channel="C111.api.telerama.fr" stop="20241103213500">
+    <title>La poursuite infernale</title>
+    <desc lang="fr">Les quatre frères Earp conduisent leurs troupeaux vers la Californie. Une nuit, près de Tombstone, James est désigné pour garder le bétail pendant que ses trois frères font un tour en ville. A leur retour, ils découvrent que James a été tué et que les bêtes ont été volées. Wyatt Earp accepte alors le poste de shérif de Tombstone et prend ses frères comme adjoints dans l'espoir de découvrir les auteurs du vol et de l'assassinat. Ils se lient avec Doc Holliday, qui noie ses tourments existentiels dans l'alcool, et découvrent très vite que toute la ville est aux mains d'une puissante famille d'éleveurs qui sème la terreur : les Clanton... - Critique : Le règlement de comptes à OK Corral entre les honnêtes frères Earp et les vils Clanton est un épisode mythique de l’Ouest. Pourtant, John Ford – qui se vantait d’avoir connu Wyatt Earp – ne s’intéresse pas au duel final, mais s’attarde sur les habitants d’une petite ville poussiéreuse (un barbier, un maire, un barman philoso­phe…) se concentrant ­davantage sur l’énigmatique Doc Holliday (Victor Mature, dans son meilleur rôle) que sur le héros, le shérif Wyatt Earp (Henry Fonda, troublant de modestie).
+
+Ford l’humaniste filme une scène surprenante : un acteur, sur une table de saloon, récite le monologue d’Hamlet sous la menace de bandits. Le shérif et Doc sont subjugués : cette histoire au royaume pourri du Danemark trouve des résonances étranges dans la leur. Wyatt Earp est obsédé par le besoin de venger la mort de son frère. Doc Holliday est un ancien médecin rongé par un mal insidieux. Et les deux hommes ne savent pas aimer les femmes qui, pourtant, les attendent. Comme le prince danois, ils sont hantés par des fantômes. C’est un western lent et mélancolique, aux images d’une beauté sidérante.</desc>
+    <credits>
+      <director>John Ford</director>
+      <actor>John Ireland</actor>
+      <actor>Victor Mature</actor>
+      <actor>Ward Bond</actor>
+      <actor>Cathy Downs</actor>
+      <actor>Linda Darnell</actor>
+      <actor>Henry Fonda</actor>
+      <actor>Walter Brennan</actor>
+      <actor>Holt Tim</actor>
+      <actor>Alan Mowbray</actor>
+      <actor>Jane Darwell</actor>
+      <actor>Grant Withers</actor>
+      <actor>Roberts Roy</actor>
+      <writer>Winston Miller</writer>
+    </credits>
+    <date>1946</date>
+    <category lang="fr">film : western</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/20/1d4d1781aa905d0513fd98260e286eded0efd970.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241103213500" channel="C111.api.telerama.fr" stop="20241103223500">
+    <title>Henry Fonda : la justice pour devise</title>
+    <desc lang="fr">Le jeune avocat maladroit, futur Abraham Lincoln, le métayer brutalisé par la Grande Dépression des "Raisins de la colère", le juré seul contre tous, défendant un accusé dans "Douze hommes en colère". Henry Fonda a créé, par le choix de ses films les plus emblématiques, un malentendu qui lui a valu sa carrière. Marqué à 19 ans par le lynchage, sous ses fenêtres, de William Brown, un ouvrier noir, le jeune homme du Nebraska, étoile montante de Hollywood, entame une collaboration fructueuse avec John Ford, explorant les failles, les rêves et les blessures du passé de l'Amérique. Mais celui en qui tous voient le visage de l'Américain intègre, révolté par l'injustice, ne s'y reconnaît guère. Préférant l'anonymat, il n'a jamais aimé parler de lui.</desc>
+    <category lang="fr">documentaire cinéma</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/51c15dc83eca431da5bc87a5e4c7f335.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241103223500" channel="C111.api.telerama.fr" stop="20241104020500">
+    <title>Don Giovanni : Festival de Salzbourg 2021</title>
+    <desc lang="fr">Le chef d'orchestre Teodor Currentzis a marqué musicalement le festival de Salzbourg de ces dernières années. Après "Idomeneo" et "La Clemenza di Tito", il se consacre à présent, avec son orchestre MusicAeterna, au personnage le plus passionnant de Mozart : Don Giovanni. Romeo Castellucci signe la mise en scène de ce coureur de jupons invétéré campé par le baryton Davide Luciano.</desc>
+    <category lang="fr">drame lyrique</category>
+    <length units="minutes">210</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/85484f0b569047bfa110286ad176d734.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

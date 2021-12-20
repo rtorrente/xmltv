@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241104233000" channel="C111.api.telerama.fr" stop="20241105010500">
+    <title>L'écho</title>
+    <desc lang="fr">Dans un village reculé du nord du Mexique, femmes et enfants travaillent à la survie de leur communauté. Ce documentaire poétique célèbre leur courage.</desc>
+    <credits>
+      <actor>Ramiro Hernández</actor>
+      <actor>Uriel Rodríguez Hernández</actor>
+      <actor>Montserrat Hernandez</actor>
+      <actor>Luz María Vázquez González</actor>
+      <actor>Sarahí Rojas Hernández</actor>
+      <actor>Berenice Cortés Muñoz</actor>
+      <actor>William Antonio Vázquez González</actor>
+      <actor>María de los Ángeles Pacheco Tapia</actor>
+      <actor>Andrea González Lima</actor>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film documentaire</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/6401903e0b5a4ee1b3f454621b8aacbb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105010500" channel="C111.api.telerama.fr" stop="20241105022500">
+    <title>Where We Used to Sleep</title>
+    <desc lang="fr">En Roumanie, avec l'une des dernières habitantes d'un village englouti sous les eaux toxiques d'une mine de cuivre, le récit tragique d'une vallée sacrifiée.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/edcc2874cda344538f0bbb1b270cb439.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105022500" channel="C111.api.telerama.fr" stop="20241105024500">
+    <title>Faire l'histoire</title>
+    <sub-title>L'amphore, un standard commercial antique</sub-title>
+    <desc lang="fr">Qui n'a pas été pris de vertige devant les milliers de fragments d'amphores romaines exposés dans les musées archéologiques ? Ces débris racontent l'histoire d'un commerce à grande échelle déjà standardisé, aux mains de compagnies maritimes transméditerranéennes. Avec Sarah Rey, historienne de la religion romaine antique.</desc>
+    <category lang="fr">magazine historique</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/12/866979b164f9ccab20c72990d609ce18288da192.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105024500" channel="C111.api.telerama.fr" stop="20241105031500">
+    <title>Les mythes vikings</title>
+    <sub-title>Les enfants de Loki</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Depuis que Mimir a été décapité par les Vanes, Odin sait que les enfants de Loki causeront la perte des dieux. Il demande à son fils Tyr et à Freyja de lui ramener la progéniture monstrueuse que Loki a enfantée avec la géante Angrboda : un loup, un serpent et une petite fille. De leur côté, Thor et Loki se voient offrir l'hospitalité par une famille pauvre d'humains et repartent à l'aventure.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/30/1aee23bdf53f424db4d7622c76313ffa.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105031500" channel="C111.api.telerama.fr" stop="20241105034100">
+    <title>Nos animaux et nous</title>
+    <sub-title>L'âne</sub-title>
+    <desc lang="fr">Qu'ils soient bêtes de cirque, élevés pour leurs qualités ou partenaires d'animation pour séminaires de management, les ânes n'ont pas fini d'étonner.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/5cf43c99bd5845f0b9b0a6bc004463d5.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105034100" channel="C111.api.telerama.fr" stop="20241105040500">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">24</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105040500" channel="C111.api.telerama.fr" stop="20241105043500">
+    <title>Pologne : le piège de la frontière</title>
+    <desc lang="fr">À l'est de la Pologne, à la frontière avec la Biélorussie, la forêt de Bialowieza est au coeur d'une crise migratoire et géopolitique intense. Malgré le changement de gouvernement l'an passé, toute la zone et ses habitants s'en trouvent bouleversés.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/26f6cc3974c041e29f9fdecf3aee8912.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105043500" channel="C111.api.telerama.fr" stop="20241105044000">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105044000" channel="C111.api.telerama.fr" stop="20241105045500">
+    <title>Le dessous des images</title>
+    <sub-title>"New Yorker", le trait de légende</sub-title>
+    <desc lang="fr">"The New Yorker" apporte son soutien à Kamala Harris avec une couverture à la chromatique bleutée. Depuis sa création, le magazine résiste au flot d'images saturant l'actualité médiatique avec ses "unes" dessinées. Retour sur la fabrique de ces mythiques couvertures.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105045500" channel="C111.api.telerama.fr" stop="20241105055000">
+    <title>L'Equateur, au sommet de la biodiversité : Des hautes Andes aux îles Galápagos</title>
+    <sub-title>Des hautes Andes aux îles Galápagos</sub-title>
+    <desc lang="fr">Le versant occidental de la cordillère des Andes, barrière presque infranchissable qui traverse le pays du nord au sud, offre des conditions propices à la faune.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/25/6819f9a872cd4dc795ca914086350457.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105055000" channel="C111.api.telerama.fr" stop="20241105055500">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105055500" channel="C111.api.telerama.fr" stop="20241105065000">
+    <title>La grâce des danseuses aveugles de São Paulo</title>
+    <desc lang="fr">Geyza Pereira, la seule danseuse étoile aveugle au monde, vit à São Paulo, au Brésil. Elle y a appris son art grâce au Ballet de Cegos, une troupe pour danseuses non-voyantes.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/03/6fd85d357a1f2186ce63ee992155c06f128fcfc4.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105065000" channel="C111.api.telerama.fr" stop="20241105073500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Danzón, le cinéma mexicain au féminin - Aux Pays-Bas, les tulipes de la prospérité - A New York, une invention qui prend de la hauteur.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/10/25/ffc1265953046f0aac7169bf88482477772f4ce8_88464B511879CF12EA8A6D689421B97E.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105073500" channel="C111.api.telerama.fr" stop="20241105082500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : "En Afrique du Sud, la difficile quête d'identité de J. M. Coetzee". - "A Madère, un carnaval entre deux mondes". - "Au Belize, le poisson au chocolat de Julio". - "A Paris, la chasse au fakir".</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/e3f412113396477ea104cc787a46061a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105082500" channel="C111.api.telerama.fr" stop="20241105091000">
+    <title>Tanzanie : vie et mort autour d'un point d'eau</title>
+    <desc lang="fr">Saison:1 - Episode:1 - La saison sèche bat son plein. Phacochères et éléphants ne tardent pas à s'approcher de la nouvelle mare, bientôt rejoints par une foule d'animaux sauvages.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/25/02364b8357125632bc2c7af0b1b9774806f3a7a1.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105091000" channel="C111.api.telerama.fr" stop="20241105095500">
+    <title>Tanzanie : vie et mort autour d'un point d'eau</title>
+    <desc lang="fr">Dans les oasis de la savane africaine, éléphants, lions, léopards et quantité d'autres espèces se disputent l'eau. Comment coexistent-ils ? Tournée dans la réserve naturelle tanzanienne de Mwiba, autour d'un point d'eau artificiel parsemé de caméras filmant vingt-quatre heures sur vingt-quatre, cette série documentaire donne un aperçu unique des comportements d'animaux qui doivent vivre en voisins le temps d'un rafraîchissement. Durant la période la plus chaude de l'année, la mare devient plus fréquentée quand la nuit tombe. Cette activité nocturne fait sortir de l'ombre des prédateurs : un clan de hyènes. Les petits, qui vivent dans une tanière voisine, dépendent du point d'eau pour survivre.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/05/10/e7728a9a-4007-4de6-9d50-b0ac5fa1c083.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105095500" channel="C111.api.telerama.fr" stop="20241105104000">
+    <title>Tanzanie : vie et mort autour d'un point d'eau</title>
+    <desc lang="fr">Saison:1 - Episode:3 - Dans les oasis de la savane africaine, éléphants, lions, léopards et quantité d'autres espèces se disputent l'eau. Comment coexistent-ils ? Tournée dans la réserve naturelle tanzanienne de Mwiba, autour d'un point d'eau artificiel parsemé de caméras filmant vingt-quatre heures sur vingt-quatre, cette série documentaire donne un aperçu unique des comportements d'animaux qui doivent vivre en voisins le temps d'un rafraîchissement. Durant la période la plus chaude de l'année, la mare devient plus fréquentée quand la nuit tombe. Cette activité nocturne fait sortir de l'ombre des prédateurs : un clan de hyènes. Les petits, qui vivent dans une tanière voisine, dépendent du point d'eau pour survivre.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/04/25/57ccbe55fa1e6f973274f5ff593b77b3223d1ec1.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105104000" channel="C111.api.telerama.fr" stop="20241105112500">
+    <title>La mort au bout des crocs : Serpents venimeux d'Afrique</title>
+    <desc lang="fr">Pour s'adapter aux environnements extrêmes du continent africain, les serpents ont développé des comportements inventifs et des styles de prédation variés.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/12/091147fc113e4d39ab9dc858d32b866d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105112500" channel="C111.api.telerama.fr" stop="20241105123500">
+    <title>Voyage en eaux calmes</title>
+    <sub-title>Le lac Balaton en Hongrie</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Plus grand lac d'Europe centrale et fierté de la Hongrie, le Balaton devient chaque été un paradis entouré de roselières. Avec ses vignes, ce paysage romantique abrite une riche biodiversité, notamment des serpents d'eau rares et des centaines d'espèces d'oiseaux. Mais comment concilier cet extraordinaire écosystème avec une industrie touristique florissante, qui accueille à la haute saison des milliers de baigneurs ?</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/4d49d63547a34d81a2222b3563f3b746.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105123500" channel="C111.api.telerama.fr" stop="20241105145000">
+    <title>Mr and Mrs Bridge</title>
+    <desc lang="fr">Kansas City, à la fin des années 30. Le mariage de Walter et d'India Bridge a depuis longtemps sombré dans la routine et la monotonie. Lui, avocat de son état, est puritain, conformiste et autoritaire ; elle, femme au foyer, tout à la fois naïve et infantile, sent confusément qu'elle a raté sa vie. Si Walter vient facilement à bout des états d'âme de son épouse, il a plus de mal à dompter ses enfants : la belle Ruth est passionnée, rebelle et indépendante, Carolyn a épousé un plombier et Douglas s'est engagé dans l'armée en devançant l'appel. Leur petite vie malgré tout bien tranquille prend un tournant inattendu lorsqu'un soir, en rentrant de son travail, Walter surprend Carolyn en train de faire l'amour dans le salon...</desc>
+    <credits>
+      <director>James Ivory</director>
+      <actor>Paul Newman</actor>
+      <actor>Simon Callow</actor>
+      <actor>Austin Pendleton</actor>
+      <actor>Blythe Danner</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Woodward Joanne</actor>
+      <actor>Robert Sean</actor>
+      <actor>Remak Ramsay</actor>
+      <actor>Gale Garnett</actor>
+      <actor>McClain Saundra</actor>
+      <actor>Margaret Welsh</actor>
+      <actor>Kagan Diane</actor>
+      <writer>Ruth Prawer</writer>
+      <guest>Elizabeth Aldrich</guest>
+      <guest>Charlotte Gosset</guest>
+    </credits>
+    <date>1990</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/03/6fca2457d50e4c568da5d6b41703785a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105145000" channel="C111.api.telerama.fr" stop="20241105153500">
+    <title>Les couleurs de la Chine</title>
+    <sub-title>Rouge, comme les fêtes du feu et du Nouvel An</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Rouges sont les murs de la Cité interdite, comme les costumes de la danse du dragon. Au Xinjiang, les cendres volcaniques ont donné une teinte pourpre au sol.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/92a633ee8499468e9c64bca1a891076e.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105153500" channel="C111.api.telerama.fr" stop="20241105162000">
+    <title>Les couleurs de la Chine</title>
+    <sub-title>Blanc, comme le mont Tianzhu et le désert de Gobi</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Voyage au départ du Shishapangma, qui culmine à 8000 mètres dans l'Himalaya, vers le lac Ulungur, puis Baishuitai et ses terrasses naturelles, d'une blancheur éclatante.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/92a633ee8499468e9c64bca1a891076e.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105162000" channel="C111.api.telerama.fr" stop="20241105170500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Dans son livre "Terre des femmes", María Sánchez, héritière d'une longue lignée de paysans, prend la plume pour raconter sa campagne de l'intérieur et en finir avec les clichés.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/fe29153192ed4ab4ac0b1f636498fda0.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105170500" channel="C111.api.telerama.fr" stop="20241105175500">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Les signes basques de Roland Barthes - Au Pendjab, à la gloire des sikhs - Au Nigeria, la femme qui voulait être roi.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/10/26/6f77993bac9bd39abcc33e2a0a7978f68edb35d5_5BFFFBDA514537B65A4ADB87F5478DE2.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105175500" channel="C111.api.telerama.fr" stop="20241105183000">
+    <title>La cueillette alimentaire urbaine</title>
+    <desc lang="fr">Dans la jungle de béton, de plus en plus de citadins se prennent d'intérêt pour la cueillette alimentaire. Ils glanent des herbes le long des trottoirs et sèment des légumes entre les pavés. Ces chasseurs-cueilleurs des temps modernes agissent par conviction : la nourriture qu'ils récoltent en ville n'est pas seulement gratuite et délicieuse, mais aussi plus variée que celle proposée en magasin.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/8763f6bda98747f181b33cfb18a20413.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105183000" channel="C111.api.telerama.fr" stop="20241105184500">
+    <title>Le dessous des images</title>
+    <sub-title>Rouges ou bleus, une Amérique sans nuance ?</sub-title>
+    <desc lang="fr">Le bleu pour les démocrates, le rouge pour les républicains. La carte des résultats de l'élection présidentielle américaine est omniprésente dans le paysage audiovisuel. Plus qu'un outil d'information, elle symbolise désormais la polarisation de la vie politique aux États-Unis.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105184500" channel="C111.api.telerama.fr" stop="20241105190500">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105190500" channel="C111.api.telerama.fr" stop="20241105195000">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105195000" channel="C111.api.telerama.fr" stop="20241105195500">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105195500" channel="C111.api.telerama.fr" stop="20241105205000">
+    <title>1939-1962 : les divisions du monde</title>
+    <sub-title>Un rêve de Lune</sub-title>
+    <desc lang="fr">Août 1939. L'ingénieur allemand Wernher von Braun, qui rêve d'être le premier à envoyer une fusée dans l'espace, s'est mis au service des nazis afin d'obtenir davantage de moyens pour son projet. Mais lorsque Hitler envahit la Pologne le 1er septembre, entraînant l'Europe puis le monde dans le chaos, le jeune homme, à la tête d'un centre de recherche au bord de la Baltique, doit revoir ses ambitions, désormais limitées au développement de missiles. Au même moment, l'Américaine Joan Hinton commence ses études au Bennington College, dans le Vermont. Rare femme à se passionner pour la physique nucléaire, elle découvre l'énorme potentiel de la fission, mais aussi le danger que celui-ci fait courir à l'humanité.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/add5594ef77543f49f28267d85354330.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241105205000" channel="C111.api.telerama.fr" stop="20241105214500">
+    <title>1939-1962 : les divisions du monde</title>
+    <sub-title>Le jardin devant le mur</sub-title>
+    <desc lang="fr">En 1940, Hedwig Höss, 32 ans, rejoint avec ses quatre enfants son nouveau foyer : Auschwitz, en Pologne, où son mari Rudolf vient d'être nommé commandant du camp de concentration. À l'ombre de l'enfer, la jeune femme, débordante de fierté et d'idées, aménage avec enthousiasme leur spacieuse villa et leur jardin, qui jouxtent le mur d'enceinte. En juin 1941, Nikita Khrouchtchev, membre du Politburo du Parti communiste, est en poste à Kiev lorsque les Allemands attaquent l'URSS par surprise. Effrayé par l'impréparation de son pays à la guerre, il va déployer d'immenses efforts, sous la pression de Staline, pour défendre les territoires soviétiques, tout en mettant sa famille à l'abri.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/c0294b425b914ec384bf2c7fc29a26d0.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241105214500" channel="C111.api.telerama.fr" stop="20241105224000">
+    <title>1939-1962 : les divisions du monde</title>
+    <sub-title>Résister, coûte que coûte</sub-title>
+    <desc lang="fr">À l'automne 1942, la bataille de Stalingrad semble jouée. Excluant d'abandonner la ville aux Allemands, Nikita Khrouchtchev soutient un plan de contre-attaque, dans l'espoir de renverser le cours de la guerre. C'est alors que lui parvient une terrible nouvelle : son fils Leonid, pilote dans l'Armée rouge, est porté disparu. A-t-il été abattu ou a-t-il déserté ? Après l'arrestation de sa bru, accusée d'espionnage, Khrouchtchev adopte sa petite-fille, promise à l'orphelinat. De son côté, Wernher von Braun célèbre enfin ses premiers succès. Ses fusées capables de transporter des charges explosives pourraient relancer la Wehrmacht après la défaite de Stalingrad. Mais le centre de recherche de Peenemünde est détruit par la Royal Air Force. Les nazis transfèrent la production dans une usine souterraine proche du camp de Buchenwald.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/54d7ef72a4064853b8669a051d8357be.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241105224000" channel="C111.api.telerama.fr" stop="20241105233500">
+    <title>Le mouvement des non-alignés : la voie oubliée</title>
+    <desc lang="fr">Du 1er au 6 septembre 1961, vingt-cinq États, dont certains nouvellement créés, se réunissent à Belgrade pour un sommet historique qui consacre le mouvement des non-alignés. À l'initiative de Tito, Nasser, Nehru, Sukarno ou Nkrumah, ces pays posent les bases d'une troisième voie, appelant à la fin du colonialisme, l'égalité économique et sociale et la coopération entre les peuples. Cameraman pour la Filmske Novosti, les actualités yougoslaves, Stevan Labudovic a suivi Tito dans son entreprise diplomatique. Protagoniste plus encore qu'observateur, il a participé, derrière sa caméra, à toutes les étapes de la création du mouvement des non-alignés.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/0f85c44380264d19acbae5683528c85b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105233500" channel="C111.api.telerama.fr" stop="20241106001000">
+    <title>Tracks East</title>
+    <sub-title>Telegram : un cyber-thriller</sub-title>
+    <desc lang="fr">Fin août 2024, le patron de Telegram, Pavel Durov, est arrêté à l'aéroport du Bourget. L'évènement suscite immédiatement un tollé en Russie, la propagande accusant les autorités françaises de "russophobie". Alors, qui est donc ce fameux Pavel Durov ?</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/c4e07165bdfa494ebc207d8c75439212.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

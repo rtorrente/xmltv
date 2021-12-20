@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20241105230000" channel="C59.api.telerama.fr" stop="20241106050000">
+    <title>SRF News Spezial</title>
+    <sub-title>US-Wahlen live - die Nacht</sub-title>
+    <desc lang="fr">In den Sondersendungen aus der Nachrichtenredaktion wird laufend über aktuelle Ereignisse berichtet wie etwa Naturkatastrophen oder politische Geschehnisse.</desc>
+    <category lang="fr">journal</category>
+    <length units="hours">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/3080823cc63c49a8963c1a9d93b50b73.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241106231000" channel="C59.api.telerama.fr" stop="20241106232000">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241106232000" channel="C59.api.telerama.fr" stop="20241107001500">
+    <title>Station Horizon</title>
+    <sub-title>An die Nieren</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - La communauté est sous le choc : Elvis a fait une sortie de route pendant la course. Il est plongé dans le coma. Il a besoin d'un nouveau rein, sans quoi il mourra. Jessy se démène pour chercher un donneur, tandis que Joris accuse Bernard d'avoir poussé Elvis. Il est mis sous pressions par son probateur, qui le contraint à travailler sur le chantier de l'autoroute...</desc>
+    <credits>
+      <actor>Alexandra Vandernoot</actor>
+      <actor>Bernard Yerlès</actor>
+      <actor>Yoann Blanc</actor>
+      <actor>Gaspard Boesch</actor>
+      <actor>Vouilloz Roland</actor>
+      <actor>Lavinia Longhi</actor>
+      <actor>Baptiste Gilliéron</actor>
+      <actor>Anna Pieri</actor>
+      <actor>Marie Fontannaz</actor>
+      <actor>Melissa Aymon</actor>
+      <actor>Klaudio Hila</actor>
+      <actor>Charlotte Nagel</actor>
+      <writer>Léo Maillard</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/30/d6952eaa1468469393f5c8c2134abf69.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241105230000" channel="C183.api.telerama.fr" stop="20241106040000">
+    <title>Emission spéciale : Election présidentielle américaine 2024</title>
+    <desc lang="fr">Correspondants et envoyés spéciaux des différentes chaînes ponctueront la nuit pour commenter en duplex le flux régulier des premiers décomptes de votes.</desc>
+    <category lang="fr">emission politique</category>
+    <length units="hours">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/2e0a1cf5527e4f43a00c459c13b8c74e.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241105232000" channel="C202.api.telerama.fr" stop="20241106005500">
+    <title>Wild Rose</title>
+    <desc lang="fr">Rose-Lynn Harlan, à la jeunesse tumultueuse, vient de passer quelques mois en prison. Pendant ce temps, Marion, sa mère, a pris soin de ses enfants. Les retrouvailles sont assez froides. Marion reproche à sa fille d'être irresponsable. Rose-Lynn, de son côté, a des rêves plein la tête. Elle veut devenir chanteuse de country. Pour parvenir à ses fins, la jeune femme doit quitter Glasgow et se rentre à Nashville, berceau de ce genre musical. Exaspérée, Marion veut la ramener à la réalité et qu'elle joue enfin son rôle de mère... - Critique : Quand Rose-Lynn sort de prison, ses ex-codétenues lui hurlent des encouragements : c’est certain, elle sera la nouvelle Patsy Cline ! Car la jeune femme n’a qu’une obsession : devenir chanteuse de country, et donc quitter son Glasgow natal pour Nashville. Sa mère ne l’entend pas de cette oreille : il serait temps, au contraire, que sa fille devienne responsable, s’occupe de ses deux jeunes enfants et trouve un boulot, n’importe lequel. Devenue femme de ménage d’un couple de bourgeois cultivés, l’indocile et abrupte Rose-Lynn est incapable de renoncer à ses santiags — et à une petite cuite de temps en temps. Surprise, sa patronne, elle-même, ne peut résister à sa voix à faire pleurer des rivières. Elle décide de l’aider…
+
+Sur le canevas classique du « qui ne tente rien passe à côté de ses rêves », Wild Rose s’impose comme un mélange particulièrement équilibré de film social britannique et d’éloge de la country, musique dont une réceptionniste d’hôtel donne une définition parfaite : « Que vos larmes se chantent et deviennent des tubes. » Mornes coursives de HLM de banlieue, pub écossais où les tables collent à force de bières renversées et quotidien d’une classe populaire condamnée à subsister dans le même périmètre étroit, le contexte rappelle tout le cinéma de Ken Loach ou encore The Full Monty, de Peter Cattaneo.
+
+Comme dans ce feel good movie des années 90, la musique est omniprésente par la BO, et surtout grâce à Rose-Lynn, qui chante à tue-tête, y compris lorsqu’elle passe l’aspirateur, dans une séquence à l’énergie communicative. La mise en scène épouse le tonus de cette héroïne qui marche à grandes enjambées rageuses, déchirée entre son idée fixe et ses deux gamins qu’elle réapprivoise maladroitement. Dans ce rôle, Jessie Buckley casse la baraque : vue récemment en femme de pompier irradié dans la série Chernobyl, cette Irlandaise arrivée deuxième dans l’équivalent de Nouvelle star sur la BBC confirme une présence ébouriffante. Face à elle, Julie Walters (Billy Elliot) incarne avec une émouvante retenue une mère qu’une vie sans ambition a peu à peu raidie, ne lui laissant qu’un pâle sourire. Ces deux personnages offrent, en creux, une réflexion sur le thème du sacrifice maternel. Et si happy end il y a (évidemment), porté par une bouleversante dernière chanson, il reste résolument social : pour devenir quelqu’un, il faut accepter d’où l’on vient…</desc>
+    <credits>
+      <director>Tom Harper</director>
+      <actor>Sophie Okonedo</actor>
+      <actor>Julie Walters</actor>
+      <actor>Jamie Sives</actor>
+      <actor>Craig Parkinson</actor>
+      <actor>Jessie Buckley</actor>
+      <actor>Harkness James</actor>
+      <actor>Janey Godley</actor>
+      <actor>Daisy Littlefield</actor>
+      <actor>Jane Patterson</actor>
+      <actor>Ryan Kerr</actor>
+      <actor>Nicole Kerr</actor>
+      <actor>Adam Mitchell</actor>
+      <writer>Nicole Taylor</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/23/852322de6bb34bb1aac0a4c74f103cc8.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241106005500" channel="C202.api.telerama.fr" stop="20241106011400">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106011400" channel="C202.api.telerama.fr" stop="20241106011500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/4e50a4f25ca748b698d2823bbf4e1d02.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106011500" channel="C202.api.telerama.fr" stop="20241106043000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20241106230500" channel="C202.api.telerama.fr" stop="20241107003000">
+    <title>Jardin noir</title>
+    <desc lang="fr">Samvel, Avo, Erik et Karen vivent sur la terre d'un conflit séculaire, formé par les décombres de l'Empire russe. Dans le Haut-Karabakh, on vit, on rêve et on se prépare à un drame toujours en perspective.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/30/c9ce0aa34db74cea935ed1bc11ed64d6.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+</tv>

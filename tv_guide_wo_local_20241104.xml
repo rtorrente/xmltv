@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C111.api.telerama.fr">
+    <display-name>Arte</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/111.png" />
+  </channel>
+  <channel id="euronews.rai.it">
+    <display-name>EuroNews</display-name>
+  </channel>
+  <programme start="20241103233500 +0100" channel="C111.api.telerama.fr" stop="20241104030500 +0100">
+    <title>Don Giovanni : Festival de Salzbourg 2021</title>
+    <desc lang="fr">Le chef d'orchestre Teodor Currentzis a marqué musicalement le festival de Salzbourg de ces dernières années. Après "Idomeneo" et "La Clemenza di Tito", il se consacre à présent, avec son orchestre MusicAeterna, au personnage le plus passionnant de Mozart : Don Giovanni. Romeo Castellucci signe la mise en scène de ce coureur de jupons invétéré campé par le baryton Davide Luciano.</desc>
+    <category lang="fr">drame lyrique</category>
+    <length units="minutes">210</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/21/85484f0b569047bfa110286ad176d734.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104030500 +0100" channel="C111.api.telerama.fr" stop="20241104040000 +0100">
+    <title>Udo Kier : Dracula trash et dandy magnétique</title>
+    <desc lang="fr">Il a été Dracula, Hitler ou Frankenstein. Né en 1944 dans les décombres d'un hôpital bombardé de Cologne, sous le nazisme, l'acteur allemand Udo Kier fêtera ses 80 ans le 14 octobre 2024. Des films d'art et d'essai aux blockbusters, il présente une carrière polymorphe aux collaborations multiples avec des réalisateurs éminents, notamment Rainer Werner Fassbinder, Lars von Trier ou encore Gus Van Sant.</desc>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/09/21/74c3eb3270434682be078fdbc38f722b.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104040000 +0100" channel="C111.api.telerama.fr" stop="20241104042600 +0100">
+    <title>Les maîtres des abeilles</title>
+    <sub-title>Kenya : l'abeille, les Yaaku et l'oiseau</sub-title>
+    <desc lang="fr">Saison:1 - Episode:8 - Au coeur de la forêt de Mukogodo, au Kenya, le peuple yaaku continue à partager son quotidien avec les abeilles, craintes en revanche par les Maasai.</desc>
+    <date>2017</date>
+    <category lang="fr">documentaire environnement</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/07/01/4d1a0bb4da629d1c97e2da9367d7cf3b3dd035e3.jpg" />
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104042600 +0100" channel="C111.api.telerama.fr" stop="20241104052500 +0100">
+    <title>Pause</title>
+    <category lang="fr">autre</category>
+    <length units="minutes">59</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/06/09/70e696282107b49d230702cd59c274cd5f627080.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104052500 +0100" channel="C111.api.telerama.fr" stop="20241104060000 +0100">
+    <title>En Irlande, des médecins africains en renfort</title>
+    <desc lang="fr">En Irlande, le manque de médecins de campagne est criant. Originaire du Soudan, Sara Malik fait partie de la centaine de généralistes recrutés dans des pays lointains pour pallier la pénurie d'effectifs. Mais il lui faudra se conformer aux règles des autorités de santé irlandaises. Les praticiens étrangers doivent en effet suivre une formation complémentaire pendant deux ans et ne peuvent pleinement exercer que s'ils réussissent les épreuves finales. Entre un climat pluvieux, des journées de travail à rallonge et les subtilités du dialecte gaélique, c'est peu dire que le quotidien qui les attend n'a rien d'une partie de campagne.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/02/27f6bb97431d47e8b794880ca8a33ef6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104060000 +0100" channel="C111.api.telerama.fr" stop="20241104065000 +0100">
+    <title>L'Equateur, au sommet de la biodiversité : De l'Amazonie aux volcans andins</title>
+    <sub-title>De l'Amazonie aux volcans andins</sub-title>
+    <desc lang="fr">Si l'Équateur est surtout réputé pour la faune exceptionnelle de l'archipel des Galápagos, la partie continentale du pays gagne elle aussi à être découverte. Au cœur de la forêt amazonienne, dans l'est du territoire, la vie bruisse de partout. On y croise d'étonnantes espèces, à l'instar du magnifique ara rouge, qui utilise la glaise comme "pansement gastrique" contre l'acidité des fruits.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/03/14/3ea850b7d0bd41feb1e51e4ab7a072cb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104065000 +0100" channel="C111.api.telerama.fr" stop="20241104070000 +0100">
+    <title>ARTE Journal Junior</title>
+    <desc lang="fr">Lancé en 2014 dans un format magazine, "ARTE Journal junior" propose à l'heure du petit déjeuner une édition quotidienne présentée dans les deux langues. Au programme : un décryptage du monde et de ses enjeux à travers deux sujets d'actualité et, tout au long de la semaine, un feuilleton en cinq épisodes sur un même thème ou des réponses à des questions posées par des enfants.</desc>
+    <category lang="fr">magazine jeunesse</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/dc18781c2e90dc8c03ed4b7b66da2fa348c6c3af.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104070000 +0100" channel="C111.api.telerama.fr" stop="20241104075500 +0100">
+    <title>La respiration, une savante mécanique</title>
+    <desc lang="fr">La respiration met en œuvre un ensemble de phénomènes complexes auxquels le corps, habitué, ne prête pas attention. Les bronches, siège de ce processus réflexe répété vingt mille fois par jour, agrègent plusieurs centaines de millions de minuscules alvéoles, qui assurent le passage de l'oxygène dans le sang − une gigantesque zone de contact, près de quarante fois supérieure à la surface de la peau. Mais quels sont les effets de l'absorption de ce gaz par l'organisme ? Dans quelle mesure la manière de respirer, elle-même influencée par le mode de vie, affecte-t-elle la santé et les sensations ? Escapade en quête de réponses au sommet des montagnes, sous les mers, dans les forêts réputées pour les vertus de leur air sylvestre, et auprès de scientifiques à la pointe des recherches.</desc>
+    <category lang="fr">documentaire santé</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/09/05/433077f3608d6cb6f2c24b040fc7ec50a7e5d42a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241104075500 +0100" channel="C111.api.telerama.fr" stop="20241104084000 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Sophie Taeuber-Arp a déplacé les montagnes suisses - La Lorraine, terre de fer et coeur d'acier - Texas, les crevettes de la colère.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/18/99050e7919854a15abfd3ca850de0127.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104084000 +0100" channel="C111.api.telerama.fr" stop="20241104092500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">À Los Angeles, les démons de Bret Easton Ellis - Chinois made in Thaïlande - À Toulon, le marin de la paix.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/19/8a7e99b6b0c04340a0ace26dcf394e40.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104092500 +0100" channel="C111.api.telerama.fr" stop="20241104113000 +0100">
+    <title>Le duel : Harris contre Trump</title>
+    <desc lang="fr">Le 5 novembre 2024, l'élection présidentielle viendra mettre un terme à une campagne mouvementée et ponctuée de drames. Alors que Donald Trump a échappé de justesse à une tentative d'assassinat au cours d'un meeting de campagne en juillet, puis possiblement à un deuxième attentat en septembre, l'actuel président Joe Biden, sous la pression de son propre camp, a renoncé à briguer un second mandat. Depuis, sa vice-présidente Kamala Harris se bat pour maintenir les démocrates à la Maison-Blanche et devenir la première femme présidente de l'histoire du pays. Dans une Amérique profondément divisée, la confrontation entre les deux candidats prend des allures de feuilleton.</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/16/7f304e99ab6e4a41b6ec349a29ccb37a.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241104113000 +0100" channel="C111.api.telerama.fr" stop="20241104122500 +0100">
+    <title>Trump-Harris, l'enjeu du Wisconsin</title>
+    <desc lang="fr">Dans la course à l'élection présidentielle américaine, le duel entre Donald Trump et Kamala Harris s'annonce extrêmement serré. Pour départager les deux candidats à la Maison-Blanche, le vote des "États bascule" ("swing states" en anglais) sera déterminant, notamment celui du Wisconsin. Ce n'est donc pas un hasard si les Républicains y ont organisé leur convention, et si Kamala Harris y a prononcé son discours d'investiture. Véritable microcosme de la nation tout entière, le territoire reflète les profondes disparités sociales et politiques qui se sont creusées dans le pays. Si des villes comme Milwaukee et Madison sont acquises aux Démocrates, les territoires ruraux demeurent un bastion des valeurs prônées par les soutiens de Donald Trump.</desc>
+    <category lang="fr">documentaire politique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/16/2cd8c9214ba6417aa12b0a23642f4930.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104122500 +0100" channel="C111.api.telerama.fr" stop="20241104133500 +0100">
+    <title>Voyage en eaux calmes</title>
+    <sub-title>Le lac Alqueva au Portugal</sub-title>
+    <desc lang="fr">Saison:1 - Episode:4 - Depuis 2002, la région de l'Alentejo, dans le sud-est du Portugal, abrite le plus grand lac artificiel d'Europe, s'étendant sur 85 kilomètres, l'Alqueva.</desc>
+    <date>2023</date>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/02/5d3dc38087e6ec26e68e4e04a48ffccf6c01cc5f_8CFAE8FCF0B08FD2FB3C45F140AA3D88.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104133500 +0100" channel="C111.api.telerama.fr" stop="20241104154500 +0100">
+    <title>Au coeur du mensonge</title>
+    <desc lang="fr">Laurie "Bambi" Bembenek, une ancienne pin-up devenue policière, est trop encombrante aux yeux de ses collègues masculins, qui mettent tout en oeuvre pour lui nuire. Afin d'échapper aux discriminations dont elle est la cible, elle épouse Elfred Schulz, un détective de la brigade au tempérament bien trempé. Mais le jour où l'ex-femme de Schulz est retrouvée morte, Laurie est aussitôt accusée de l'avoir assassinée. Emprisonnée, puis libérée sur parole, Laurie voit son cas exposé à la une de tous les journaux. Sa carrière semble irrémédiablement brisée. C'est sans compter l'opiniâtreté de l'enquêtrice, qui rêve de faire toute la lumière sur cette affaire...</desc>
+    <credits>
+      <actor>Sandrine Bonnaire</actor>
+      <actor>Bernard Verley</actor>
+      <actor>Jacques Gamblin</actor>
+      <actor>Sylvie Flepp</actor>
+      <actor>Bulle Ogier</actor>
+      <actor>Rodolphe Pauly</actor>
+      <actor>Simsolo Noël</actor>
+      <actor>Pierre Martot</actor>
+      <actor>Adrienne Pauly</actor>
+      <actor>Antoine de</actor>
+      <actor>Véronique Volta</actor>
+      <actor>Valeria Bruni</actor>
+      <writer>Odile Barski</writer>
+      <writer>Claude Chabrol</writer>
+    </credits>
+    <date>1999</date>
+    <category lang="fr">film policier</category>
+    <length units="minutes">130</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/07/369d2b45f18e4a049d17f59478adc6eb.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241104154500 +0100" channel="C111.api.telerama.fr" stop="20241104163000 +0100">
+    <title>Les couleurs de la Chine</title>
+    <sub-title>Jaune, comme les empereurs, les dragons et le parfait équilibre</sub-title>
+    <desc lang="fr">Saison:1 - Episode:3 - Le Huang He, ou fleuve Jaune, tire sa teinte de ses eaux à forte teneur en alluvions. Le jaune est aussi la couleur de la deuxième dynastie impériale, les Han.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/3345ae1607fe496887a8fa0092543194.jpg" />
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104163000 +0100" channel="C111.api.telerama.fr" stop="20241104172000 +0100">
+    <title>Les couleurs de la Chine</title>
+    <sub-title>Vert, comme les rizières et les plantations de théiers</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Le vert, en Chine, représente à la fois l'enfance, la vitalité et le printemps. Une saison importante pour la culture du thé vert, cultivé dans le Jiangsu.</desc>
+    <date>2020</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/92a633ee8499468e9c64bca1a891076e.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104172000 +0100" channel="C111.api.telerama.fr" stop="20241104180500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Au sommaire : "En Afrique du Sud, la difficile quête d'identité de J. M. Coetzee". - "A Madère, un carnaval entre deux mondes". - "Au Belize, le poisson au chocolat de Julio". - "A Paris, la chasse au fakir".</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/e3f412113396477ea104cc787a46061a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104180500 +0100" channel="C111.api.telerama.fr" stop="20241104185500 +0100">
+    <title>Invitation au voyage</title>
+    <desc lang="fr">Danzón, le cinéma mexicain au féminin - Aux Pays-Bas, les tulipes de la prospérité - A New York, une invention qui prend de la hauteur.</desc>
+    <category lang="fr">magazine du tourisme</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/10/25/ffc1265953046f0aac7169bf88482477772f4ce8_88464B511879CF12EA8A6D689421B97E.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104185500 +0100" channel="C111.api.telerama.fr" stop="20241104193000 +0100">
+    <title>Pologne : le piège de la frontière</title>
+    <desc lang="fr">À l'est de la Pologne, à la frontière avec la Biélorussie, la forêt de Bialowieza est au coeur d'une crise migratoire et géopolitique intense. Malgré le changement de gouvernement l'an passé, toute la zone et ses habitants s'en trouvent bouleversés.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/22/26f6cc3974c041e29f9fdecf3aee8912.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104193000 +0100" channel="C111.api.telerama.fr" stop="20241104194500 +0100">
+    <title>Le dessous des images</title>
+    <sub-title>"New Yorker", le trait de légende</sub-title>
+    <desc lang="fr">"The New Yorker" apporte son soutien à Kamala Harris avec une couverture à la chromatique bleutée. Depuis sa création, le magazine résiste au flot d'images saturant l'actualité médiatique avec ses "unes" dessinées. Retour sur la fabrique de ces mythiques couvertures.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/d3e9993ee565459fa01bd2039e7b6ac8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104194500 +0100" channel="C111.api.telerama.fr" stop="20241104200500 +0100">
+    <title>Arte journal</title>
+    <desc lang="fr">Chaque jour à 19.45, la rédaction franco-allemande d'ARTE Journal propose une approche européenne et culturelle de l'actualité, qui tranche avec l'approche habituelle des JT du soir. Un regard original sur le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/08/b852a7b0ae3a6b2cab81c48ecfb69c45aa3f1a11.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104200500 +0100" channel="C111.api.telerama.fr" stop="20241104205000 +0100">
+    <title>28 minutes</title>
+    <desc lang="fr">Le point sur l'actualité, avec un invité témoin et un débat sur le sujet chaud du jour, en compagnie de plusieurs journalistes. Chaque vendredi, un club d'intellectuels revisite l'actualité de la semaine.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/02/28/65efa4450d104d2f9cb65e2c3cab4d8a.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104205000 +0100" channel="C111.api.telerama.fr" stop="20241104205500 +0100">
+    <title>Le dessous des cartes : l'essentiel</title>
+    <desc lang="fr">"Le dessous des cartes" met son expertise géopolitique au service d'une pastille quotidienne dédiée à l'actualité ukrainienne.</desc>
+    <category lang="fr">magazine de géopolitique</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/6aaf21e90fec495ca889b1c258b5c4bb.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20241104205500 +0100" channel="C111.api.telerama.fr" stop="20241104225000 +0100">
+    <title>Viva Maria !</title>
+    <desc lang="fr">Fille d'un terroriste irlandais, Maria Fitzgerald O'Malley manipule depuis sa plus tendre enfance des bombes, des grenades et autres explosifs. Après la mort tragique de son père, elle se retrouve livrée à elle-même dans une colonie anglaise d'Amérique latine. Elle fait la connaissance de plusieurs membres d'une troupe de music-hall ambulant, qui lui proposent une place de duettiste "parisienne". Sa partenaire porte le même prénom qu'elle. Sous son égide, Maria découvre les charmes de l'amour et invente le strip-tease en mettant à profit un accident vestimentaire. Les pérégrinations de la troupe la conduisent dans un Etat sujet aux révolutions... - Critique : 1907, Amérique latine : Maria la brune (Jeanne Moreau) est chanteuse dans un cirque, Maria la blonde (Brigitte Bardot) est fille d’un activiste irlandais en fuite. La rencontre des deux stars du cinéma français des années 1960 dans une parodie de western à la sauce burlesque devait faire des étincelles, les journaux à scandale épiant le moindre crêpage de chignon. Mais sur le tournage comme sur l’écran, la confrontation a fait pshitt. Les deux actrices se sont bien entendues, et l’inanité du scénario (coécrit par Jean-Claude Carrière pourtant…) les a empêchées de briller. On a dit que Louis Malle avait réalisé un film féministe culotté ? Juste parce qu’il a « osé » un film sans rôle masculin important, chose, il est vrai, rare à l’époque… Sauf que ses deux héroïnes sont des gourdes qui se pâment dès qu’elles croisent un miroir, s’effeuillent à plusieurs reprises devant un parterre d’hommes excités et se lancent dans la guerre civile mexicaine seulement par amour pour un beau révolutionnaire exécuté (Maria la brune a eu le temps de lui lécher le torse avant sa mise à mort). « C’est merveilleux, l’amour ! » s’exclame, ravie, Maria la blonde après être partie avec trois inconnus en calèche. Osons, pour finir, un « Caramba ! » de dépit…</desc>
+    <credits>
+      <actor>George Hamilton</actor>
+      <actor>Jeanne Moreau</actor>
+      <actor>Brigitte Bardot</actor>
+      <actor>Paulette Dubost</actor>
+      <actor>Claudio Brook</actor>
+      <actor>Carlos López</actor>
+      <actor>Francisco Reiguera</actor>
+      <actor>Jonathan Eden</actor>
+      <actor>Poldo Bendandi</actor>
+      <actor>Gregor von Rezzori</actor>
+      <actor>José Ángel Espinosa 'Ferrusquilla'</actor>
+      <actor>Roberto Pedret</actor>
+      <writer>Louis Malle</writer>
+      <writer>Jean-Claude Carrière</writer>
+    </credits>
+    <date>1965</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/29/78ec2e95e684426ab12ad9260eb9998a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20241104225000 +0100" channel="C111.api.telerama.fr" stop="20241105003000 +0100">
+    <title>La cité de la violence</title>
+    <desc lang="fr">Dans sa profession de tueur à gages, Jeff est un maître. En vacances aux Bahamas et alors qu'il circule en voiture avec Vanessa, sa maîtresse, il est pris en chasse par un groupe de bandits puis abattu sans ménagement par Coogan, le chef des assaillants. Vanessa prend la fuite, terrifiée. Mais Jeff n'est pas mort. Il retrouve force et santé et ne songe dès lors plus qu'à sa vengeance. Il commence par mettre la main sur Vanessa, qui vit maintenant avec Coogan. C'est alors qu'un riche et honorable truand, Weber, se mêle de faire chanter Jeff. Il veut que le tueur à gages solitaire se joigne à son organisation criminelle. Jeff refuse et les hommes de main de Weber se lancent à sa poursuite...</desc>
+    <credits>
+      <actor>Charles Bronson</actor>
+      <actor>Telly Savalas</actor>
+      <actor>Michel Constantin</actor>
+      <actor>Ireland Jill</actor>
+      <actor>George Savalas</actor>
+      <actor>Umberto Orsini</actor>
+      <actor>Peter Dane</actor>
+      <actor>Benjamin Lev</actor>
+      <actor>Goffredo Unger</actor>
+      <actor>Rai Sanders</actor>
+      <writer>Sergio Sollima</writer>
+      <writer>Sauro Scavolini</writer>
+      <writer>Gianfranco Galligarich</writer>
+      <writer>Lina Wertmüller</writer>
+    </credits>
+    <date>1970</date>
+    <category lang="fr">film policier</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/17/5b6d7539bd5ac3ea888959bab1f5bc7315449f7d_1C902C19558813461CE35D23AC822A9A.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-16</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Moins16.svg/200px-Moins16.svg.png" />
+    </rating>
+  </programme>
+</tv>
