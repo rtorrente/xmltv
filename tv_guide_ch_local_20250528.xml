@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250527234000 +0200" channel="C59.api.telerama.fr" stop="20250528011000 +0200">
+    <title>Petite fille</title>
+    <desc lang="fr">Sasha, 7 ans, se vit comme une petite fille depuis l'âge de 3 ans. Conseillés par leur médecin de famille, ses parents vont à Paris, à l'hôpital Robert-Debré, où un pédopsychiatre spécialiste de la dysphorie de genre les écoute et les conseille. Son aide est précieuse dans la lutte que mènent Karine, la mère de sa Saha, son père et leurs autres enfants pour que Sasha soit reconnue et acceptée comme une fille. Sébastien Lifsitz a obtenu le privilège de suivre l'enfant dans son quotidien pendant une année, filmant l'épanouissement de Sasha à mesure qu'elle remporte des victoires sur l'hostilité du monde extérieur à tout ce qui s'écarte de la norme.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/3ea12b243bc54f0fb10ae2e6757382e4.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250528011000 +0200" channel="C59.api.telerama.fr" stop="20250528014000 +0200">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/eb7793fd090545bdbdd140bf8342a2cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528014000 +0200" channel="C59.api.telerama.fr" stop="20250528024000 +0200">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528024000 +0200" channel="C59.api.telerama.fr" stop="20250528025500 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Pesto - Tag 2</sub-title>
+    <desc lang="fr">An Tag zwei der "Mini Chuchi, dini Chuchi"-Woche lädt Patrizia aus Grenchen im Kanton Solothurn zu sich ein. Die 64-Jährige war schon viel auf Reisen und liebt es, fremde Kulturen kennenzulernen. Zum Thema "Pesto" möchte sie ihren Gästen einen Regenbogen auf den Teller zaubern. Ob ihr das gelingt?</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528025500 +0200" channel="C59.api.telerama.fr" stop="20250528033000 +0200">
+    <title>Potzmusig</title>
+    <sub-title>Aus dem Tanzlokal in Sihlbrugg</sub-title>
+    <desc lang="fr">Sowohl Nachwuchskünstler als auch gestandene Musiker präsentieren das Genre Volksmusik so, wie es ist: authentisch und frisch, ohne den Sinn für die Tradition aus dem Auge zu verlieren. Ein Gastmusiker, der in kurzen Einspielfilmen vorgestellt wird, bringt seine Musikformation mit und tritt durch den Spaß am Musizieren den Beweis an, dass die Volksmusik-Szene in der Schweiz sehr lebendig ist.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/017b005e761119aa12b0246b95dd145facd3d981.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528033000 +0200" channel="C59.api.telerama.fr" stop="20250528034500 +0200">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/07/1331ac9c66184aeaa6bc44e6b463ba0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528034500 +0200" channel="C59.api.telerama.fr" stop="20250528035500 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Bern</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528035500 +0200" channel="C59.api.telerama.fr" stop="20250528045500 +0200">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250528045500 +0200" channel="C59.api.telerama.fr" stop="20250528055500 +0200">
+    <title>Sternstunde Philosophie</title>
+    <sub-title>Dominik Perler</sub-title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/dbbf7c0df49340a1b795d289b49dd21a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250527234000 +0200" channel="C183.api.telerama.fr" stop="20250528011000 +0200">
+    <title>Après la nuit</title>
+    <desc lang="fr">Sombra, un petit dealer, vient de sortir de prison. Il vit dans le bidonville créole de Lisbonne, accompagné d'un iguane qui lui vaut les visites régulières d'une petite voisine. Il doit une forte somme d'argent à un caïd local qui s'est fait voler son matériel vidéo, et qui le soupçonne d'en être coupable. Il part donc, de nuit, faire le tour des personnes qui lui doivent également de l'argent, mais sans succès. Sombra participe alors à un casse, à son grand désespoir. Un enchaînement de problèmes qui semble ne pas avoir de fin, malgré les conseils d'une tante excentrique, qui lui recommande d'aller voir un sorcier vaudou... - Critique : Jeune réalisateur suisse d'origine portugaise, Basil da Cunha a vécu pendant plusieurs mois dans un bidonville créole de Lisbonne pour concevoir son premier long métrage. Projet audacieux, mais hybride. On hésite entre documentaire et fiction : un polar sur les gangs mal écrit et mal interprété par des comédiens amateurs. Brouillon et répétitif... — S.D.</desc>
+    <credits>
+      <actor>Joao Veiga</actor>
+      <actor>Nelson da Cruz Duarte Rodrigues</actor>
+      <actor>Pedro Diniz</actor>
+      <actor>Ruben Dias</actor>
+      <actor>Ana Clara Baptista de Melo Soares Barros</actor>
+      <actor>Susana Maria Mendes da Costa</actor>
+      <actor>José Zeferino da Cruz</actor>
+      <actor>Euclides Mendes Fernandes</actor>
+      <actor>Carlos Rodrigues Fonseca</actor>
+      <actor>Pedro Armando Delgado Piedade</actor>
+      <actor>Paulo Ribeiro</actor>
+      <actor>Pedro Ferreira</actor>
+      <writer>Basil Da</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/14/3d6a807e4ace407d84e13e436b67e888.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250528011000 +0200" channel="C183.api.telerama.fr" stop="20250528014000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>L'infidélité : un business prospère</sub-title>
+    <desc lang="fr">L'infidélité, un marché aussi discret que florissant. Les détectives privés continuent de prospérer grâce aux demandes de filatures, tandis que de nouveaux outils technologiques permettent de suivre à la trace un conjoint infidèle en toute discrétion. Entre sites de rencontres et alibis sur mesure, ce phénomène prend des formes multiples.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250528014000 +0200" channel="C183.api.telerama.fr" stop="20250528015500 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250528015500 +0200" channel="C183.api.telerama.fr" stop="20250528055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="hours">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250527232000 +0200" channel="C202.api.telerama.fr" stop="20250528000500 +0200">
+    <title>Anne Boleyn</title>
+    <sub-title>L'odeur de la fumée</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - Anne est hantée par les cauchemars de son fils mort-né, dont la perte la place en position de grand danger à la cour. Elle se lance alors dans une nouvelle mission visant à assurer le droit au trône à sa fille. Elle met au point un stratagème afin de forcer Cromwell à s'incliner publiquement devant elle, reconnaissant ainsi sa légitimité ainsi que celle de sa fille...</desc>
+    <credits>
+      <director>Lynsey Miller</director>
+      <actor>Barry Ward</actor>
+      <actor>Burton Amanda</actor>
+      <actor>Brewster Anna</actor>
+      <actor>Isabella Laughland</actor>
+      <actor>Mark Stanley</actor>
+      <actor>Thalissa Teixeira</actor>
+      <actor>Paapa Essiedu</actor>
+      <actor>Lola Petticrew</actor>
+      <actor>Jodie Turner-Smith</actor>
+      <actor>Kris Hitchen</actor>
+      <actor>Phoenix Di</actor>
+      <actor>Kaila Douglin</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série historique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/23/74ddf2c9e77e413e9590ec51f7bdabd9.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250528000500 +0200" channel="C202.api.telerama.fr" stop="20250528013500 +0200">
+    <title>Wahou !</title>
+    <desc lang="fr">Catherine et Oracio, deux agents immobiliers parisiens, sont occupés toute la journée par deux biens particulièrement difficiles à vendre. Le premier, une luxueuse demeure bourgeoise dont la cote a baissé depuis que le RER passe au fond du jardin, et l'autre, un appartement flambant neuf en bordure de route, en plein "triangle d'or" de Bougival. Les visites s'enchaînent pour Catherine et Oracio, qui recourent à tous les trucs et astuces de vendeur : par exemple, susciter le coup de coeur du potentiel acheteur, ou glisser sous le tapis les défauts des biens à vendre. Un stagiaire les accompagne dans leur mission. - Critique : Ceci n’est pas une satire du petit monde des agences immobilières. Pas seulement. Des rendez-vous successifs entre deux « conseillers » de l’enseigne Wahou et leurs clients, le cinéaste Bruno Podalydès (Les 2 Aflred) tire toute une comédie humaine, avec des personnages récurrents, des coups de théâtre, des gags, des sentiments, et même des larmes. Si satire il y a, elle se concentre avec brio sur la langue, le jargon, les euphémismes (pour les défauts) et les expressions pleines d’emphase, souvent trompeuses (pour les qualités) qui accompagnent les visites de logement. L’un des deux décors principaux du film, un appartement à louer, est ainsi présenté par Oracio (que joue avec délice le réalisateur) comme situé « dans le triangle d’or de Bougival », ce qui ne manque pas de sel. L’autre site, une maison bourgeoise, en vente, est régulièrement taxé de « bien d’exception », alors que le jardin borde la ligne du RER… Parfois, le burlesque de Jacques Tati, l’un des maîtres éternels de Podalydès, n’est pas loin.
+
+Mais la belle idée de l’auteur consiste à dépasser l’ironie de départ et à sonder plus profondément, sans renoncer à l’humour, ce qui se joue dans une visite ou dans une transaction annoncée : un tournant de la vie, pour ceux qui partent comme pour ceux qui aspirent à s’installer. Des époux seniors (savoureux Eddy Mitchell et Sabine Azéma) se préparent ainsi, le cœur lourd, à quitter leur maison adorée, désormais trop grande pour eux. Un jeune couple fusionnel projette son désir de vie commune dans l’appartement à louer : les deux vasques de la salle de bains font rêver les amoureux, tandis qu’elles renverront, soudain, tel autre visiteur à sa solitude.
+
+Subtilement, le film glisse des écarts d’âge aux différences de catégorie sociale. Des profils nouveaux apparaissent, d’un rendez-vous à l’autre, l’agence immobilière devenant une fenêtre sur le monde contemporain et ses petites ou grandes folies. Si Oracio garde quelque chose de clownesque, avec son professionnalisme à la fois ostentatoire et pris en défaut, l’autre « conseillère », Catherine, émerge d’un deuil — Karin Viard excelle sobrement dans ce rôle. Le chagrin qu’elle réprime imprègne les interactions avec les clients ; son regard et son écoute en font une sorte de psy, à son corps défendant. L’un des sommets de cette tragi-comédie est assurément le baiser inopiné que Catherine reçoit d’une dame intéressée par l’appartement, elle-même traversant une passe difficile… Bruno Podalydès réussit alors la synthèse irrésistible de l’improbable et du plausible.</desc>
+    <credits>
+      <actor>Karin Viard</actor>
+      <actor>Isabelle Candelier</actor>
+      <actor>Roschdy Zem</actor>
+      <actor>Eddy Mitchell</actor>
+      <actor>Bruno Podalydès</actor>
+      <actor>Patrick Ligardes</actor>
+      <actor>Eric Vieillard</actor>
+      <actor>Sabine Azéma</actor>
+      <actor>Agnès Jaoui</actor>
+      <actor>Manu Payet</actor>
+      <actor>Yann Frisch</actor>
+      <actor>Victor Lefebvre</actor>
+      <writer>Bruno Podalydès</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/13/f49dc8e8f675468980a131a1c1441be3.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250528013500 +0200" channel="C202.api.telerama.fr" stop="20250528015300 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">18</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250528015300 +0200" channel="C202.api.telerama.fr" stop="20250528015500 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250528015500 +0200" channel="C202.api.telerama.fr" stop="20250528053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">215</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
