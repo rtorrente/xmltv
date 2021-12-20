@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250729222500 +0200" channel="C59.api.telerama.fr" stop="20250730000000 +0200">
+    <title>Maria Wern</title>
+    <sub-title>Freier Fall</sub-title>
+    <desc lang="fr">Saison:9 - Episode:2 - L'île suédoise de Gotland est un lieu de villégiature prisé des Scandinaves. C'est ici que l'inspectrice Maria Wern a décidé de s'installer avec ses deux enfants après le décès de son mari. Tout en tentant de préserver sa vie privée, la policière se bat pour se faire une place parmi ses collègues, majoritairement masculins, et se consacre sans compter à son métier. Dans ce décor de carte postale, la violence motivée par la haine, la jalousie ou la folie n'est jamais loin. Adaptée des romans d'Anna Jansson, la reine du crime suédoise, cette série a pour héroïne une femme attachante et volontairement ordinaire.</desc>
+    <credits>
+      <director>Lundin Johan</director>
+      <actor>Katrin Sundberg</actor>
+      <actor>Eva Röse</actor>
+      <actor>Eva Fritjofson</actor>
+      <actor>Blad Tehilla</actor>
+      <actor>Erik Johansson</actor>
+      <actor>Peter Perski</actor>
+      <actor>Sigrid Johnson</actor>
+      <actor>Lola Zackow</actor>
+      <actor>Samuel Astor</actor>
+      <actor>Edvin Bredefeldt</actor>
+      <actor>David Arnesen</actor>
+      <actor>Julia Heveus</actor>
+      <writer>Inger Scharis</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/a91b42ad3d084f148fac9d25e0c82131.jpg" />
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250730000000 +0200" channel="C59.api.telerama.fr" stop="20250730001000 +0200">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250730001000 +0200" channel="C59.api.telerama.fr" stop="20250730015000 +0200">
+    <title>Baghdad in My Shadow</title>
+    <desc lang="fr">Der beliebteste Treffpunkt für Exil-Iraker in London ist das Café Abu Nawas, das vom kurdischen Aktivisten Zeki geführt wird. Der Nachtwächter Taufiq, der eigentlich Schriftsteller werden wollte, die Architektin Amal, die sich vor ihrem Ehemann versteckt, und der homosexuelle IT-Techniker Muhanad treffen sich regelmässig in dem Café. Sie alle sind aus dem Irak geflohen, da sie um ihr Leben bangen mussten. Doch sie werden von ihrer Vergangenheit eingeholt.</desc>
+    <credits>
+      <actor>Ken Bones</actor>
+      <actor>Abbas Meriam</actor>
+      <actor>Maxim Mehmet</actor>
+      <actor>Andrew Buchan</actor>
+      <actor>Shervin Alenabi</actor>
+      <actor>Daniel Adegboyega</actor>
+      <actor>Zahraa Ghandour</actor>
+      <actor>Kae Bahar</actor>
+      <actor>Taro Bahar</actor>
+      <actor>Christian Skibinski</actor>
+      <actor>Waseem Abbas</actor>
+      <actor>Haitham Ali</actor>
+      <writer>Samir </writer>
+      <writer>Furat al</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : thriller</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/4db9b9939d964eb0aa17cd9da16bafc1.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250730015000 +0200" channel="C59.api.telerama.fr" stop="20250730031500 +0200">
+    <title>Les enquêtes de Dan Sommerdahl</title>
+    <sub-title>Mord und Wein</sub-title>
+    <desc lang="fr">Saison:4 - Episode:1 - Une figure du monde viticole danois est retrouvée morte dans le chai de son domaine, le lendemain de son anniversaire. Le personnage était bien connu du milieu, où il exerçait une influence considérable. Assez pour susciter des jalousies ? Dès que Dan Sommerdahl et ses collègues commencent à interroger les invités de la fête, les premières fissures commencent à apparaître. Tout le monde a quelque chose à cacher, et surtout, tout le monde a un mobile. Mais certains convives attirent plus particulièrement l'attention de Dan.</desc>
+    <credits>
+      <director>Annika Appelin</director>
+      <actor>Kurt Ravn</actor>
+      <actor>Lotte Andersen</actor>
+      <actor>Peter Mygind</actor>
+      <actor>Laura Drasbæk</actor>
+      <actor>Maibritt Saerens</actor>
+      <actor>André Babikian</actor>
+      <actor>Lise Baastrup</actor>
+      <actor>Henning Valin Jakobsen</actor>
+      <actor>Mathias Käki Jørgensen</actor>
+      <actor>Mia Højgaard</actor>
+      <actor>Siff Vintersol</actor>
+      <actor>Arash Mosaddegh</actor>
+      <writer>Lars Kristian Andersen</writer>
+      <writer>Lars K. Andersen</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/25/644ff490074046b9a8218e523aa1989c.jpg" />
+    <episode-num system="xmltv_ns">3.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250730031500 +0200" channel="C59.api.telerama.fr" stop="20250730033000 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Schnell und eifach - Tag 2</sub-title>
+    <desc lang="fr">Der Familienvater Andreas aus Härkingen SO backt gerne Torten und mag es, sie zu verzieren. Oft tut er dies noch spät abends. Der Gruppenleiter Kommissionierung will die Gäste mit Piccata Milanese und Spaghetti an Tomatensauce überzeugen.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/1dec18868bb746149a52390fce9e667e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250730033000 +0200" channel="C59.api.telerama.fr" stop="20250730035500 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250730035500 +0200" channel="C59.api.telerama.fr" stop="20250730052500 +0200">
+    <title>Maria Wern</title>
+    <sub-title>Freier Fall</sub-title>
+    <desc lang="fr">Saison:9 - Episode:2 - L'île suédoise de Gotland est un lieu de villégiature prisé des Scandinaves. C'est ici que l'inspectrice Maria Wern a décidé de s'installer avec ses deux enfants après le décès de son mari. Tout en tentant de préserver sa vie privée, la policière se bat pour se faire une place parmi ses collègues, majoritairement masculins, et se consacre sans compter à son métier. Dans ce décor de carte postale, la violence motivée par la haine, la jalousie ou la folie n'est jamais loin. Adaptée des romans d'Anna Jansson, la reine du crime suédoise, cette série a pour héroïne une femme attachante et volontairement ordinaire.</desc>
+    <credits>
+      <director>Johan Lundin</director>
+      <actor>Katrin Sundberg</actor>
+      <actor>Eva Röse</actor>
+      <actor>Eva Fritjofson</actor>
+      <actor>Tehilla Blad</actor>
+      <actor>Erik Johansson</actor>
+      <actor>Peter Perski</actor>
+      <actor>Sigrid Johnson</actor>
+      <actor>Lola Zackow</actor>
+      <actor>Samuel Astor</actor>
+      <actor>Edvin Bredefeldt</actor>
+      <actor>David Arnesen</actor>
+      <actor>Julia Heveus</actor>
+      <writer>Inger Scharis</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/a91b42ad3d084f148fac9d25e0c82131.jpg" />
+    <episode-num system="xmltv_ns">8.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250729222500 +0200" channel="C183.api.telerama.fr" stop="20250730001500 +0200">
+    <title>De l'autre côté de la mer</title>
+    <desc lang="fr">Un photographe de guerre a pris une photo "de trop". Il s'est éloigné des hommes et ne photographie plus que des arbres. Une jeune-femme fuit la vengeance de sa famille pour rejoindre un futur qu'elle espère de liberté – de l'autre côté de la mer. Un prêtre catholique doute de sa Foi et tente de sauver des migrants en pactisant avec le Diable. Un voyage erratique, à la poursuite d'une rédemption dans les ruines d'une Albanie à la fois réelle et onirique.</desc>
+    <credits>
+      <actor>Carlo Brandt</actor>
+      <actor>Venitucci Michele</actor>
+      <actor>Tinka Kurti</actor>
+      <actor>Bruno Shllaku</actor>
+      <actor>Kristina Ago</actor>
+      <actor>Tristan Halilaj</actor>
+      <actor>Margent Caushi</actor>
+      <actor>Rael Hoxha</actor>
+      <actor>Vasjan Lami</actor>
+      <actor>Marsel Rupi</actor>
+      <actor>Xhino Musollari</actor>
+      <writer>Maillard Pierre</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">film : comédie dramatique</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/204122d1752e4130a1f83a96c1c6374b.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250730001500 +0200" channel="C183.api.telerama.fr" stop="20250730004000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Le Ghana, victime de la fast fashion</sub-title>
+    <desc lang="fr">Chaque Suisse achète en moyenne une soixantaine de vêtements par année. Quand il faut trier son armoire, le réflexe est de déposer les vieux habits dans des boîtes de collecte. Problème : les pays vers lesquels les vêtements usagés des pays riches sont exportés étouffent aujourd'hui sous des montagnes de textiles.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/88ecab516dee461e90625668ce65baae.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250730004000 +0200" channel="C183.api.telerama.fr" stop="20250730010000 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250730010000 +0200" channel="C183.api.telerama.fr" stop="20250730055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">295</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250729222500 +0200" channel="C202.api.telerama.fr" stop="20250730000000 +0200">
+    <title>De miel et de sang</title>
+    <desc lang="fr">Après 15 ans d'absence, le capitaine Fred Carel, de l'Office central de lutte contre les atteintes à l'environnement, revient dans le village de Provence qui l'a vu grandir. Avec Sara, son ancienne camarade de lycée à la tête de la gendarmerie, il doit enquêter sur la mort d'Antoine Bernier, tué par des dizaines de piqûres d'abeilles. Ce pourrait n'être qu'un triste accident, mais plusieurs éléments suspects interpellent Fred et Sara. Tous convergent vers Louise, Anaïs et Géraldine Portal, trois générations de femmes d'une éminente famille de la région. Il y a 15 ans, Antoine Bernier fut l'un des seuls rescapés du tragique accident de bus qui coûta la vie à la quasi-totalité de l'équipe de football locale. Louise, Anaïs et Géraldine Portal y ont respectivement perdu leur père, leur mari et leur fils... - Critique : Au petit matin, Antoine Bernier, apiculteur provençal, est retrouvé mort, victime de dizaines de piqûres d’abeilles dont il connaissait pourtant tous les secrets. Alors que les vols de ruches se multiplient dans la région depuis plusieurs semaines, la lieutenant Sara Becker refuse de croire à la piste accidentelle. Avec le capitaine Fred Carel, spécialisé dans les atteintes à l’environnement et surtout camarade de lycée de retour après quinze ans d’absence, elle mène l’enquête. Trafics apicoles, secrets de famille et de village se mêlent alors dans un téléfilm policier relativement bien ficelé.
+
+Marc Eisenchteter et Thomas Luntz — avec à leur actif plusieurs épisodes de Capitaine Marleau, Candice Renoir ou Julie Lescaut — musclent une enquête policière plutôt fine en l’irrigant de traumatismes du passé, apportant rythme et fraîcheur modestes à un genre usé jusqu’à la corde. Surtout, Léa François (Plus belle la vie) et Nicolas Gob (L’Art du crime), forment un duo charmant. Certainement puisque les scénaristes ne plongent pas tête la première dans la classique romance mièvre entre collègues que tout oppose et préfèrent privilégier plus de nuance et de retenue. Deux qualités trop rarement synonymes de polar du samedi soir.</desc>
+    <credits>
+      <director>Jeunet Lou</director>
+      <actor>Eva Darlan</actor>
+      <actor>François Léa</actor>
+      <actor>Jean-Jérôme Esposito</actor>
+      <actor>Selma Kouchy</actor>
+      <actor>Nicolas Gob</actor>
+      <actor>Fabien Baïardi</actor>
+      <actor>Nicolas Bonnefoy</actor>
+      <actor>Mama Bouras</actor>
+      <actor>Baptista Perais</actor>
+      <actor>Kim Higelin</actor>
+      <actor>Sarah Saïdi</actor>
+      <actor>Laetitia Beauvais</actor>
+      <writer>Marc Eisenchteter</writer>
+      <writer>Thomas Luntz</writer>
+    </credits>
+    <category lang="fr">téléfilm policier</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/249e05e6cfd14977ba84aca32b7cdde4.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250730000000 +0200" channel="C202.api.telerama.fr" stop="20250730013000 +0200">
+    <title>Suzanna Andler</title>
+    <desc lang="fr">Année 1960, à Saint-Tropez. Suzanna Andler, une femme élégante d'une quarantaine d'années, veut louer une villa dans la perspective d'y vivre l'été avec son amant, Michel Cayre. Sa liaison avec Michel est connue par son mari, Jean Andler, qui ne s'en offusque pas car lui aussi a une vie extra-conjugale. Commence un jeu de dupes entre Suzanna, Michel, Jean, Dominique qui est une amie de Suzanna et aussi une ancienne maitresse de son mari, et l'agent immobilier Rivière... - Critique : Par fidélité à Marguerite Duras, dont il fut l’un des bras droits au cinéma (notamment pour le mythique India Song), Benoit Jacquot s’est décidé à tirer un film d’une pièce méconnue qu’il a toujours aimée — et l’écrivaine, un peu moins. Suzanna Andler est une Parisienne des années 1960, quadragénaire, mère de famille, sans travail, mariée à un grand bourgeois infidèle. Elle visite une villa de bord de mer dans la perspective d’y venir l’été prochain en famille. Un jeune homme l’y rejoint après le départ de l’agent immobilier : Michel, désargenté, beau et ombrageux, le premier amant de Suzanna depuis son mariage…
+
+Le résultat exerce un charme puissant, peut-être parce qu’il condense toute une vie de cinéaste : les débuts à l’ombre de « M.D. », donc, mais aussi les films-écrins pour les plus grandes actrices (Adjani, Deneuve, Huppert) et l’exploration sans fin du désir et des sentiments. Charlotte Gainsbourg offre à Suzanna la maturité nouvelle de ses expressions, gestes et intonations. Elle crée un personnage fascinant, comme suspendu au-dessus du vide, entre un envol libérateur et un avenir dont elle dit « ne rien voir ». La villa inhabitée, la longue et douce conversation téléphonique avec l’époux au loin, ou l’échange avec une ancienne maîtresse de celui-ci, tout concourt à un troublant sentiment de perte. Même les deux amants réunis, Suzanna et Michel (Niels Schneider, intense), semblent déjà se manquer l’un à l’autre, en deuil de l’ivresse de leur rencontre. La langue de Duras, dénuée de son maniérisme tardif, tourbillonne magnifiquement et, toute frontière abolie entre littérature, théâtre et cinéma, le filmage sensible et fluide de Benoit Jacquot maintient l’envoûtement.</desc>
+    <credits>
+      <actor>Charlotte Gainsbourg</actor>
+      <actor>Niels Schneider</actor>
+      <actor>Roy Julia</actor>
+      <actor>Nathan Willcocks</actor>
+      <actor>Sandrine Rivet</actor>
+      <writer>Marguerite Duras</writer>
+      <writer>Benoît Jacquot</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/4cb1970f67f9416b903a5b6706428a59.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250730013000 +0200" channel="C202.api.telerama.fr" stop="20250730014700 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250730014700 +0200" channel="C202.api.telerama.fr" stop="20250730014800 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250730014800 +0200" channel="C202.api.telerama.fr" stop="20250730053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">222</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
