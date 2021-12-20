@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250403010500 +0200" channel="C59.api.telerama.fr" stop="20250403012000 +0200">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403012000 +0200" channel="C59.api.telerama.fr" stop="20250403024500 +0200">
+    <title>La douleur des retrouvailles</title>
+    <sub-title>Liebe gegen den Rest der Welt</sub-title>
+    <desc lang="fr">Après deux années d'absence, Rachel Wilson revient dans la charmante bourgade de Kingscove pour apporter son aide à sa tante Emma, qui y tient une auberge. Rachel retrouve le docteur Luke Folder, son ancien amour, dont l'épouse dépressive, Tara, s'était donné la mort en apprenant leur liaison passionnée. A l'époque, Rachel avait préféré quitter le village pour éviter le scandale, mais Mary, la mère de Tara, n'a jamais pu pardonner à Luke et Rachel le décès de sa fille. Elle est prête à tout pour empêcher leur amour...</desc>
+    <credits>
+      <director>Stefan Bartmann</director>
+      <actor>Marek Erhardt</actor>
+      <actor>Lisa Kreuzer</actor>
+      <actor>Sylvia Leifheit</actor>
+      <actor>Mark Kempner</actor>
+      <actor>Scharff Thomas</actor>
+      <actor>Mareike Lindenmeyer</actor>
+      <actor>Gähte Kerstin</actor>
+      <actor>Ellie Dickens</actor>
+      <actor>Stuart Davidson</actor>
+      <actor>Buchan Martin</actor>
+      <actor>Douglas Mounce</actor>
+      <actor>Matthew Bancroft</actor>
+      <writer>Antje Bähr</writer>
+    </credits>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/740bf5654e244013a0addc7f1c42f0d9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403024500 +0200" channel="C59.api.telerama.fr" stop="20250403033000 +0200">
+    <title>Rundschau</title>
+    <desc lang="fr">Das Politmagazin berichtet über Hintergründe und aktuelle Ereignisse und Brennpunkte im In- und Ausland.</desc>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/04ec88d51ac64c5cba905fcd03f2e14d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403033000 +0200" channel="C59.api.telerama.fr" stop="20250403040500 +0200">
+    <title>Mona mittendrin</title>
+    <sub-title>Im Kloster</sub-title>
+    <desc lang="fr">Beten und Arbeiten: Das ist der Leitsatz der Benediktinerinnen im geschlossenen Kloster St. Andreas in Sarnen OW. Mona Vetsch taucht in eine ihr völlig unbekannte Welt ein und macht eine innere Reise durch, von grosser Skepsis hin zur Einsicht, dass Orte wie diese für viele Menschen wichtig sind.</desc>
+    <category lang="fr">documentaire société</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/e7222bad503b49eaa50c0e37e2ac9e19.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403040500 +0200" channel="C59.api.telerama.fr" stop="20250403042000 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Filet - Tag 3</sub-title>
+    <desc lang="fr">Jacki aus dem Rheintal steht in dieser Folge am Herd bei "Mini Chuchi, dini Chuchi". Die 51-Jährige erzählt, wie sie es geschafft hat, 50 Kilogramm abzunehmen und wie sich ihre Einstellung zum Essen verändert hat. Sie kocht Rindsfilet Tataki auf asiatischem Gemüse, Curry-Kokossauce und Basmatireis.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403042000 +0200" channel="C59.api.telerama.fr" stop="20250403044000 +0200">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/021914091d0b4085b06945b6c1562d31.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403044000 +0200" channel="C59.api.telerama.fr" stop="20250403045500 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Berner Oberland</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403045500 +0200" channel="C59.api.telerama.fr" stop="20250403053000 +0200">
+    <title>Samschtig-Jass</title>
+    <sub-title>Happy Jass mit Röbi Koller!</sub-title>
+    <desc lang="fr">Kurz vor seinem letzten Auftritt bei "Happy Day" beehrt Röbi Koller den Samschtig-Jass. In der Dreamfactory SG möchte der Moderator auch am Jasstisch einen "Happy Day" erleben und den Pokal in die Höhe stemmen. Musikalisch wird der Luzerner von Florian Ast und Michael von der Heide überrascht.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/018f41eb433a40f99ac3a720ab3d6699.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403053000 +0200" channel="C59.api.telerama.fr" stop="20250403055500 +0200">
+    <title>Ein Chor für alle Fälle</title>
+    <sub-title>Das grosse Geheimnis (1)</sub-title>
+    <desc lang="fr">Saison:1 - Episode:1 - Der insiemeChor vereint Menschen mit und ohne Beeinträchtigung durch ihre Liebe zum Singen. Bei den Proben zählt Zuverlässigkeit mehr als Talent. Für viele Mitglieder ist das Singen eine Quelle der Kraft. Als eine bekannte Schauspielerin einen Auftritt im KKL Luzern ankündigt, steht der Chor vor seiner größten Herausforderung. In der Vorbereitung wachsen alle Teilnehmer über sich hinaus.</desc>
+    <date>2024</date>
+    <category lang="fr">documentaire culture</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/b1c676d5e039413bac6e9fcb62c866c1.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403055500 +0200" channel="C59.api.telerama.fr" stop="20250403062500 +0200">
+    <title>nano</title>
+    <sub-title>Die Welt von morgen</sub-title>
+    <desc lang="fr">Wissenschaftliche Themen werden für jedermann verständlich aufgearbeitet und in dieser Sendung präsentiert. Schon seit Dezember 1999 erfreut sich das Magazin großer Beliebtheit. In den Bereichen Technik, Medizin, Wissenschaft und Forschung gibt es immer wieder neue Erkenntnisse, Durchbrüche und innovative Ideen. Vieles davon bewirkt spürbare Veränderungen in unser aller Alltagsleben.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2f29bcdeb5014270b45594555e1edf22.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250403003500 +0200" channel="C183.api.telerama.fr" stop="20250403013500 +0200">
+    <title>Infrarouge</title>
+    <desc lang="fr">Les discussions entre les invités sont rythmées par des rubriques, utilisées au cas par cas pour enrichir le débat et apporter différents éclairages.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/066e96931fe940f98b3b14a816591103.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403013500 +0200" channel="C183.api.telerama.fr" stop="20250403015000 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403015000 +0200" channel="C183.api.telerama.fr" stop="20250403055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">245</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403055500 +0200" channel="C183.api.telerama.fr" stop="20250403070000 +0200">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">65</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/2eb1a90611564ab292259b2050d3b253.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403012500 +0200" channel="C202.api.telerama.fr" stop="20250403014500 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403014500 +0200" channel="C202.api.telerama.fr" stop="20250403014600 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403014600 +0200" channel="C202.api.telerama.fr" stop="20250403053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">224</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250403053000 +0200" channel="C202.api.telerama.fr" stop="20250403060000 +0200">
+    <title>La Suisse vue du ciel</title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

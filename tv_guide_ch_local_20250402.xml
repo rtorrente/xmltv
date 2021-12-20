@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250401235500 +0200" channel="C59.api.telerama.fr" stop="20250402015000 +0200">
+    <title>Riders of Justice</title>
+    <desc lang="fr">Militaire danois en poste en Afghanistan, Markus doit rentrer précipitamment chez lui après la mort de sa femme, tuée dans un accident survenu dans le métro, pour s'occuper de leur fille. Quelques jours après le drame, Markus reçoit la visite d'Otto, un rescapé de l'accident, et scientifique de talent, qui lui explique qu'il s'agissait en fait d'un attentat orchestré par un gang, les "Riders of Justice". Markus et Otto rassemblent quelques spécialistes pour les aider à mener une enquête à leur compte. Ils vont alors attirer l'attention des hommes qu'ils traquent...</desc>
+    <credits>
+      <actor>Mads Mikkelsen</actor>
+      <actor>Nicolas Bro</actor>
+      <actor>Lars Brygmann</actor>
+      <actor>Anne Birgitte</actor>
+      <actor>Andrea Heick</actor>
+      <actor>Roland Møller</actor>
+      <actor>Omar Shargawi</actor>
+      <actor>Gustav Lindh</actor>
+      <actor>Nikolaj Lie</actor>
+      <actor>Jacob Hauberg Lohmann</actor>
+      <actor>Albert Rudbeck</actor>
+      <writer>Anders Thomas</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film d'action</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/10f0d80fba084f679b8f83b92cd07a5e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402015000 +0200" channel="C59.api.telerama.fr" stop="20250402022000 +0200">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/eb7793fd090545bdbdd140bf8342a2cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402022000 +0200" channel="C59.api.telerama.fr" stop="20250402033500 +0200">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402033500 +0200" channel="C59.api.telerama.fr" stop="20250402035500 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Filet - Tag 2</sub-title>
+    <desc lang="fr">Am zweiten Abend kocht Batuhan unter dem Motto "Filet". Der 23-Jährige wohnt mit seiner Freundin in St. Gallen und hat sich ein Studio bei sich zu Hause eingerichtet, um seine eigene Musik zu produzieren. Bei ihm gibt es heute Schweinefilet mit Chimichurri-Sauce und hausgemachten Spätzli.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402035500 +0200" channel="C59.api.telerama.fr" stop="20250402041000 +0200">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/2f442ce8a2d64c1983afbf323bc59782.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402041000 +0200" channel="C59.api.telerama.fr" stop="20250402050500 +0200">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250401231500 +0200" channel="C183.api.telerama.fr" stop="20250402010000 +0200">
+    <title>Les Merveilles</title>
+    <desc lang="fr">Dans un village en Ombrie, Gelsomina et ses trois jeunes soeurs voudraient profiter des derniers jours de l'été pour s'amuser. Sauf que leur père Wolfgang, un amoureux de la nature qui déteste la société de consommation, leur mène la vie dure. Il est apiculteur et elles sont obligées de l'aider dans son travail. Wolfgang, qui aurait aimé avoir des garçons, s'énerve quand ses filles veulent participer au tournage du "Village des merveilles", un jeu télévisé qu'il trouve complètement stupide. Il voit également d'un mauvais oeil l'arrivée de Martin, un jeune délinquant accueilli dans le cadre d'un programme de réinsertion... - Critique : Grand Prix au festival de Cannes 2014, ce film d’une jeune cinéaste italienne est un hymne à l’enfance, évoquée avec une nostalgie précoce… Nous voici au milieu des années 1990, dans une famille fantasque. Une tribu germano-italienne où personne ne commande. Quand il faut désigner un chef, tous les regards se tournent vers l’adolescente Gelsomina, l’aînée des quatre sœurs. Elle aide son père à la récolte du miel. Mais son rêve, c’est que toute la famille passe à la télé­vision dans l’émission Le pays des merveilles, qui s’est arrêtée au fin fond de leur campagne italienne.
+
+En filmant ces personnages, qui racontent en partie son histoire, Alice Rohrwacher trace une voie singulière, poétique, guidée, comme le titre l’indique, par l’émerveillement. Un rayon de lumière, une abeille avec laquelle on joue, du miel répandu sur le sol : voilà un cinéma de sensations, de joies intenses et simples. Même la télé semble encore capable de susciter une fascination vraie, avec sa présentatrice aux airs de fée (Monica Bellucci, filmée telle une apparition). Le temps d’un été, une magie est à la portée de la jeune héroïne. En la restituant, ce film dépouillé prend une belle ampleur.
+
+Le Meraviglie, Italie / Allemagne / Suisse, 2014</desc>
+    <credits>
+      <actor>André Hennicke</actor>
+      <actor>Monica Bellucci</actor>
+      <actor>Sabine Timoteo</actor>
+      <actor>Sam Louwyck</actor>
+      <actor>Margarethe Tiesel</actor>
+      <actor>Alba Rohrwacher</actor>
+      <actor>Maria Alexandra</actor>
+      <actor>Luis Huilca</actor>
+      <actor>Graziani Agnese</actor>
+      <actor>Maris Stella</actor>
+      <actor>Eva Lea</actor>
+      <actor>Carlo Tarmati</actor>
+      <writer>Alice Rohrwacher</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">105</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/4a54524be5f1479ca451402fd6dfc8ed.jpg" />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250402010000 +0200" channel="C183.api.telerama.fr" stop="20250402011000 +0200">
+    <title>Le Récap</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/a7480c9d2c724676875f5dc1e2faf500.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402011000 +0200" channel="C183.api.telerama.fr" stop="20250402015000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Ces très chères prothèses auditives</sub-title>
+    <desc lang="fr">Les problèmes d'audition touchent tous les âges et peuvent être un véritable handicap social. Pourtant les prothèses auditives restent hors de prix.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402015000 +0200" channel="C183.api.telerama.fr" stop="20250402021000 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402021000 +0200" channel="C183.api.telerama.fr" stop="20250402055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">225</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250401235000 +0200" channel="C202.api.telerama.fr" stop="20250402004000 +0200">
+    <title>The Bay</title>
+    <desc lang="fr">Saison:4 - Episode:2 - L'enquête menée par l'équipe de Jenn progresse, faisant émerger les secrets de famille des Metcalf. Beth, la défunte, recevait des messages menaçants depuis quelque temps, et elle n'était pas heureuse dans son couple. De son côté, Dean, s'est endetté pour acheter du matériel pour son entreprise de bâtiment. Quant à Izzy, leur fille aînée, elle entretient des relations conflictuelles avec d'autres lycéens. Jenn se démène pour trouver un nouveau logement aux Metcalf tandis que chez elle, les relations sont tumultueuses entre Chris, son compagnon, et sa fille Erin...</desc>
+    <credits>
+      <director>Sebastian Godwin</director>
+      <actor>Tom Taylor</actor>
+      <actor>Claire Goose</actor>
+      <actor>Joe Armstrong</actor>
+      <actor>Daniel Ryan</actor>
+      <actor>Marsha Thomason</actor>
+      <actor>Ian Puleston-Davies</actor>
+      <actor>Karl Davies</actor>
+      <actor>Barry Sloane</actor>
+      <actor>Erin Shanagher</actor>
+      <actor>Dowbiggin Andrew</actor>
+      <actor>Thomas Law</actor>
+      <actor>Eloise Thomas</actor>
+      <writer>Richard Clark</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/d7c4825115384466888c4e3b2a16f4d1.jpg" />
+    <episode-num system="xmltv_ns">3.1.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402004000 +0200" channel="C202.api.telerama.fr" stop="20250402021500 +0200">
+    <title>Blackbird</title>
+    <desc lang="fr">Lily est atteinte de la maladie de Charcot qui lui a fait perdre l'usage d'une main et l'oblige à marcher avec une canne. Paul, son mari médecin, sait que l'issue sera fatale. Lily veut choisir sa mort. Avec Paul, elle accueille leurs enfants un week-end pour leur annoncer sa décision. Jennifer, l'aînée un peu psychorigide et Michael, son mari effacé et leur fils de 15 ans se présentent en premier. Anna, la cadette, exact opposé de sa soeur, arrive en retard comme à son habitude avec Chris, sa compagne. Liz, la meilleure amie de Lily, est également présente. Les deux soeurs ne cessent de se quereller avant que leur mère leur annonce ce qu'elle désire pour sa fin de vie. - Critique : Des retraités aisés ont invité leurs enfants le temps d’un week-end dans leur belle maison du Connecticut. Sous les apparences d’une réunion de famille des plus classiques, ces retrouvailles sont, en réalité, des adieux. Atteinte d’une maladie neurodégénérative, Lily, la mère, a décidé de mettre fin à ses jours avant de perdre le contrôle d’elle-même. Comment se comporter les uns avec les autres face à la mort programmée ? Les rancœurs enfouies éclatent…
+
+Dans ce remake du film danois Silent Heart, le réalisateur de Coup de foudre à Notting Hill aborde la question épineuse de l’euthanasie en évitant la surenchère mélodramatique. Il réussit, sans en faire trop, à faire exister la tension et le vertige de ces derniers moments de vie suspendus, transformés en rituels ultimes. Un jeu de société, une promenade, un repas de Noël avant l’heure : c’est dans l’observation de cette banalité, devenue à la fois précieuse et suffocante, que le film émeut… Lily dérange, bouscule, oblige les autres à affronter leurs peurs. Roger Michell brosse ainsi le portrait d’une femme forte, lumineuse, interprétée à la perfection par Susan Sarandon, avec ses manières directes, un rien provocantes, et son humour noir.</desc>
+    <credits>
+      <director>Roger Michell</director>
+      <actor>Sam Neill</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Lindsay Duncan</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Michael Rainn</actor>
+      <actor>Mia Wasikowska</actor>
+      <actor>Bex Taylor-Klaus</actor>
+      <actor>Anson Boon</actor>
+      <writer>Christian Torpe</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/735e878f1ac5458694fad3c59442375e.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250402021500 +0200" channel="C202.api.telerama.fr" stop="20250402023200 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402023200 +0200" channel="C202.api.telerama.fr" stop="20250402023300 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402023300 +0200" channel="C202.api.telerama.fr" stop="20250402053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">177</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250401235000" channel="C59.api.telerama.fr" stop="20250402002000">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/eb7793fd090545bdbdd140bf8342a2cf.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402002000" channel="C59.api.telerama.fr" stop="20250402013500">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402013500" channel="C59.api.telerama.fr" stop="20250402015500">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Filet - Tag 2</sub-title>
+    <desc lang="fr">Am zweiten Abend kocht Batuhan unter dem Motto "Filet". Der 23-Jährige wohnt mit seiner Freundin in St. Gallen und hat sich ein Studio bei sich zu Hause eingerichtet, um seine eigene Musik zu produzieren. Bei ihm gibt es heute Schweinefilet mit Chimichurri-Sauce und hausgemachten Spätzli.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402015500" channel="C59.api.telerama.fr" stop="20250402021000">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/2f442ce8a2d64c1983afbf323bc59782.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402021000" channel="C59.api.telerama.fr" stop="20250402030500">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402230500" channel="C59.api.telerama.fr" stop="20250402232000">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250402232000" channel="C59.api.telerama.fr" stop="20250403004500">
+    <title>La douleur des retrouvailles</title>
+    <sub-title>Liebe gegen den Rest der Welt</sub-title>
+    <desc lang="fr">Après deux années d'absence, Rachel Wilson revient dans la charmante bourgade de Kingscove pour apporter son aide à sa tante Emma, qui y tient une auberge. Rachel retrouve le docteur Luke Folder, son ancien amour, dont l'épouse dépressive, Tara, s'était donné la mort en apprenant leur liaison passionnée. A l'époque, Rachel avait préféré quitter le village pour éviter le scandale, mais Mary, la mère de Tara, n'a jamais pu pardonner à Luke et Rachel le décès de sa fille. Elle est prête à tout pour empêcher leur amour...</desc>
+    <credits>
+      <director>Stefan Bartmann</director>
+      <actor>Marek Erhardt</actor>
+      <actor>Lisa Kreuzer</actor>
+      <actor>Sylvia Leifheit</actor>
+      <actor>Mark Kempner</actor>
+      <actor>Scharff Thomas</actor>
+      <actor>Mareike Lindenmeyer</actor>
+      <actor>Gähte Kerstin</actor>
+      <actor>Ellie Dickens</actor>
+      <actor>Stuart Davidson</actor>
+      <actor>Buchan Martin</actor>
+      <actor>Douglas Mounce</actor>
+      <actor>Matthew Bancroft</actor>
+      <writer>Antje Bähr</writer>
+    </credits>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">85</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/26/740bf5654e244013a0addc7f1c42f0d9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250401235000" channel="C183.api.telerama.fr" stop="20250402001000">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402001000" channel="C183.api.telerama.fr" stop="20250402035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">225</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402223500" channel="C183.api.telerama.fr" stop="20250402233500">
+    <title>Infrarouge</title>
+    <desc lang="fr">Les discussions entre les invités sont rythmées par des rubriques, utilisées au cas par cas pour enrichir le débat et apporter différents éclairages.</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/066e96931fe940f98b3b14a816591103.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402233500" channel="C183.api.telerama.fr" stop="20250402235000">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402235000" channel="C183.api.telerama.fr" stop="20250403035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">245</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250401224000" channel="C202.api.telerama.fr" stop="20250402001500">
+    <title>Blackbird</title>
+    <desc lang="fr">Lily est atteinte de la maladie de Charcot qui lui a fait perdre l'usage d'une main et l'oblige à marcher avec une canne. Paul, son mari médecin, sait que l'issue sera fatale. Lily veut choisir sa mort. Avec Paul, elle accueille leurs enfants un week-end pour leur annoncer sa décision. Jennifer, l'aînée un peu psychorigide et Michael, son mari effacé et leur fils de 15 ans se présentent en premier. Anna, la cadette, exact opposé de sa soeur, arrive en retard comme à son habitude avec Chris, sa compagne. Liz, la meilleure amie de Lily, est également présente. Les deux soeurs ne cessent de se quereller avant que leur mère leur annonce ce qu'elle désire pour sa fin de vie. - Critique : Des retraités aisés ont invité leurs enfants le temps d’un week-end dans leur belle maison du Connecticut. Sous les apparences d’une réunion de famille des plus classiques, ces retrouvailles sont, en réalité, des adieux. Atteinte d’une maladie neurodégénérative, Lily, la mère, a décidé de mettre fin à ses jours avant de perdre le contrôle d’elle-même. Comment se comporter les uns avec les autres face à la mort programmée ? Les rancœurs enfouies éclatent…
+
+Dans ce remake du film danois Silent Heart, le réalisateur de Coup de foudre à Notting Hill aborde la question épineuse de l’euthanasie en évitant la surenchère mélodramatique. Il réussit, sans en faire trop, à faire exister la tension et le vertige de ces derniers moments de vie suspendus, transformés en rituels ultimes. Un jeu de société, une promenade, un repas de Noël avant l’heure : c’est dans l’observation de cette banalité, devenue à la fois précieuse et suffocante, que le film émeut… Lily dérange, bouscule, oblige les autres à affronter leurs peurs. Roger Michell brosse ainsi le portrait d’une femme forte, lumineuse, interprétée à la perfection par Susan Sarandon, avec ses manières directes, un rien provocantes, et son humour noir.</desc>
+    <credits>
+      <director>Roger Michell</director>
+      <actor>Sam Neill</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Lindsay Duncan</actor>
+      <actor>Kate Winslet</actor>
+      <actor>Michael Rainn</actor>
+      <actor>Mia Wasikowska</actor>
+      <actor>Bex Taylor-Klaus</actor>
+      <actor>Anson Boon</actor>
+      <writer>Christian Torpe</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/735e878f1ac5458694fad3c59442375e.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250402001500" channel="C202.api.telerama.fr" stop="20250402003200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402003200" channel="C202.api.telerama.fr" stop="20250402003300">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402003300" channel="C202.api.telerama.fr" stop="20250402033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">177</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402232500" channel="C202.api.telerama.fr" stop="20250402234500">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402234500" channel="C202.api.telerama.fr" stop="20250402234600">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250402234600" channel="C202.api.telerama.fr" stop="20250403033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">224</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
