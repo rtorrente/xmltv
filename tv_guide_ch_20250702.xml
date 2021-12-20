@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250702003000" channel="C59.api.telerama.fr" stop="20250702005000">
+    <title>Mini Schwiiz, dini Schwiiz</title>
+    <sub-title>Wallis - Tag 2 - Visperterminen</sub-title>
+    <desc lang="fr">Wer kann sein Dorf oder Stadtviertel am besten präsentieren und gewinnt den Wettstreit? Veronika "Vroni" Bittel ist in ihrem Herzensort Visperterminen vor allem auf den Zusammenhalt der "Tärbiner" stolz. Das Dorf kann mit der höchst gelegenen Weinkellerei Europas auftrumpfen. Am zweiten Tag wartet auf die Gäste unter anderem eine Kartenspielrunde und eine Blind-Degustation.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/18/c9e29b08521d4ad695ff109f47fd6883.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702005000" channel="C59.api.telerama.fr" stop="20250702010500">
+    <title>Das Aarekind</title>
+    <sub-title>Folge 2</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - In Folge zwei taucht Sandro Sabatini mit der 2006-Olympionikin und heutigen Energie-Coachin Tanja Frieden in den Thunersee ab. Auf der berühmtesten Aarestrecke überhaupt, von Thun nach Bern, überwindet sich Autorin Stefanie Christ zum Gummiböötle.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/18/92159ec5713041aa9bdef7d619860db2.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702010500" channel="C59.api.telerama.fr" stop="20250702013500">
+    <title>Potzmusig</title>
+    <sub-title>Heirassa-Festival Weggis 2025</sub-title>
+    <desc lang="fr">Sowohl Nachwuchskünstler als auch gestandene Musiker präsentieren das Genre Volksmusik so, wie es ist: authentisch und frisch, ohne den Sinn für die Tradition aus dem Auge zu verlieren. Ein Gastmusiker, der in kurzen Einspielfilmen vorgestellt wird, bringt seine Musikformation mit und tritt durch den Spaß am Musizieren den Beweis an, dass die Volksmusik-Szene in der Schweiz sehr lebendig ist.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/15ac1d1026524dd587a0f27e1aaac1b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702013500" channel="C59.api.telerama.fr" stop="20250702030500">
+    <title>Commissaire Dupin</title>
+    <sub-title>Bretonische Idylle</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - Le corps de Patrick Provost, riche propriétaire terrien, est repêché dans la mer au large de Belle-Île. Le commissaire Dupin constate que la victime a été étranglée. Les suspects ne manquent pas. Personnage solitaire et impitoyable, Provost était brouillé avec la plupart des habitants de l'île. Après la mort de sa fille, il s'était éloigné de sa femme Agnès, qui avait fini par demander le divorce et refaire sa vie avec le pêcheur Albert Zinc. Vivant retiré sur une falaise, il avait pour uniques voisins le couple de distilleurs Margot et Byn Fidelin, qui dépendaient financièrement de lui. Byn avait changé ces dernières années, ce qui avait poussé Margot à entamer une liaison avec son voisin. L'instinct de Dupin l'incite à croire que derrière les mobiles évidents se cache une autre histoire, plus secrète et douloureuse...</desc>
+    <credits>
+      <director>Rebecca Janis</director>
+      <actor>Martin Lindow</actor>
+      <actor>Anna Grisebach</actor>
+      <actor>Jan Schütte</actor>
+      <actor>Tatjana Clasing</actor>
+      <actor>Pasquale Aleardi</actor>
+      <actor>Manthei Aurel</actor>
+      <actor>Katja Danowski</actor>
+      <actor>de Elzemarieke</actor>
+      <actor>Christina Hecke</actor>
+      <actor>Gisa Flake</actor>
+      <actor>Sebastian Kolb</actor>
+      <actor>Stephan Benson</actor>
+      <writer>Eckhard Vollmar</writer>
+      <writer>Jean-Luc Bannalec</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/23/6f763553b2c94820a3d59ff39a680170.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250701234000" channel="C183.api.telerama.fr" stop="20250702035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">255</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702221500" channel="C183.api.telerama.fr" stop="20250702230500">
+    <title>Histoires de chiens suisses</title>
+    <sub-title>Le Saint-Bernard</sub-title>
+    <desc lang="fr">Le Saint-Bernard, un regard fidèle et un petit tonneau autour du cou. Le chien national suisse a un coeur en or. Il aime le contact avec les personnes et en a besoin. Et aide déjà l'homme depuis des siècles : auparavant comme chien de sauvetage, aujourd'hui en tant que chien social.</desc>
+    <category lang="fr">documentaire animalier</category>
+    <length units="minutes">50</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/25/2c9492f31d644b6cbe909b5a737efb63.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702230500" channel="C183.api.telerama.fr" stop="20250702233500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702233500" channel="C183.api.telerama.fr" stop="20250702235000">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702235000" channel="C183.api.telerama.fr" stop="20250703035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">245</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250701235500" channel="C202.api.telerama.fr" stop="20250702001400">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702001400" channel="C202.api.telerama.fr" stop="20250702001500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702001500" channel="C202.api.telerama.fr" stop="20250702033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702224500" channel="C202.api.telerama.fr" stop="20250702230400">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702230400" channel="C202.api.telerama.fr" stop="20250702230500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702230500" channel="C202.api.telerama.fr" stop="20250703033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>

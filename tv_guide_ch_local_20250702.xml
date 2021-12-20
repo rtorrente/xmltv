@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250701232000 +0200" channel="C59.api.telerama.fr" stop="20250702005500 +0200">
+    <title>Commissaire Dupin</title>
+    <sub-title>Bretonische Idylle</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - Le corps de Patrick Provost, riche propriétaire terrien, est repêché dans la mer au large de Belle-Île. Le commissaire Dupin constate que la victime a été étranglée. Les suspects ne manquent pas. Personnage solitaire et impitoyable, Provost était brouillé avec la plupart des habitants de l'île. Après la mort de sa fille, il s'était éloigné de sa femme Agnès, qui avait fini par demander le divorce et refaire sa vie avec le pêcheur Albert Zinc. Vivant retiré sur une falaise, il avait pour uniques voisins le couple de distilleurs Margot et Byn Fidelin, qui dépendaient financièrement de lui. Byn avait changé ces dernières années, ce qui avait poussé Margot à entamer une liaison avec son voisin. L'instinct de Dupin l'incite à croire que derrière les mobiles évidents se cache une autre histoire, plus secrète et douloureuse...</desc>
+    <credits>
+      <director>Rebecca Janis</director>
+      <actor>Martin Lindow</actor>
+      <actor>Anna Grisebach</actor>
+      <actor>Jan Schütte</actor>
+      <actor>Tatjana Clasing</actor>
+      <actor>Pasquale Aleardi</actor>
+      <actor>Manthei Aurel</actor>
+      <actor>Katja Danowski</actor>
+      <actor>de Elzemarieke</actor>
+      <actor>Christina Hecke</actor>
+      <actor>Gisa Flake</actor>
+      <actor>Sebastian Kolb</actor>
+      <actor>Stephan Benson</actor>
+      <writer>Eckhard Vollmar</writer>
+      <writer>Jean-Luc Bannalec</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/23/6f763553b2c94820a3d59ff39a680170.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702005500 +0200" channel="C59.api.telerama.fr" stop="20250702010500 +0200">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702023000 +0200" channel="C59.api.telerama.fr" stop="20250702025000 +0200">
+    <title>Mini Schwiiz, dini Schwiiz</title>
+    <sub-title>Wallis - Tag 2 - Visperterminen</sub-title>
+    <desc lang="fr">Wer kann sein Dorf oder Stadtviertel am besten präsentieren und gewinnt den Wettstreit? Veronika "Vroni" Bittel ist in ihrem Herzensort Visperterminen vor allem auf den Zusammenhalt der "Tärbiner" stolz. Das Dorf kann mit der höchst gelegenen Weinkellerei Europas auftrumpfen. Am zweiten Tag wartet auf die Gäste unter anderem eine Kartenspielrunde und eine Blind-Degustation.</desc>
+    <category lang="fr">documentaire nature</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/18/c9e29b08521d4ad695ff109f47fd6883.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702025000 +0200" channel="C59.api.telerama.fr" stop="20250702030500 +0200">
+    <title>Das Aarekind</title>
+    <sub-title>Folge 2</sub-title>
+    <desc lang="fr">Saison:1 - Episode:2 - In Folge zwei taucht Sandro Sabatini mit der 2006-Olympionikin und heutigen Energie-Coachin Tanja Frieden in den Thunersee ab. Auf der berühmtesten Aarestrecke überhaupt, von Thun nach Bern, überwindet sich Autorin Stefanie Christ zum Gummiböötle.</desc>
+    <date>2021</date>
+    <category lang="fr">documentaire voyage</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/18/92159ec5713041aa9bdef7d619860db2.jpg" />
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702030500 +0200" channel="C59.api.telerama.fr" stop="20250702033500 +0200">
+    <title>Potzmusig</title>
+    <sub-title>Heirassa-Festival Weggis 2025</sub-title>
+    <desc lang="fr">Sowohl Nachwuchskünstler als auch gestandene Musiker präsentieren das Genre Volksmusik so, wie es ist: authentisch und frisch, ohne den Sinn für die Tradition aus dem Auge zu verlieren. Ein Gastmusiker, der in kurzen Einspielfilmen vorgestellt wird, bringt seine Musikformation mit und tritt durch den Spaß am Musizieren den Beweis an, dass die Volksmusik-Szene in der Schweiz sehr lebendig ist.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/15ac1d1026524dd587a0f27e1aaac1b4.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250702033500 +0200" channel="C59.api.telerama.fr" stop="20250702050500 +0200">
+    <title>Commissaire Dupin</title>
+    <sub-title>Bretonische Idylle</sub-title>
+    <desc lang="fr">Saison:1 - Episode:10 - Le corps de Patrick Provost, riche propriétaire terrien, est repêché dans la mer au large de Belle-Île. Le commissaire Dupin constate que la victime a été étranglée. Les suspects ne manquent pas. Personnage solitaire et impitoyable, Provost était brouillé avec la plupart des habitants de l'île. Après la mort de sa fille, il s'était éloigné de sa femme Agnès, qui avait fini par demander le divorce et refaire sa vie avec le pêcheur Albert Zinc. Vivant retiré sur une falaise, il avait pour uniques voisins le couple de distilleurs Margot et Byn Fidelin, qui dépendaient financièrement de lui. Byn avait changé ces dernières années, ce qui avait poussé Margot à entamer une liaison avec son voisin. L'instinct de Dupin l'incite à croire que derrière les mobiles évidents se cache une autre histoire, plus secrète et douloureuse...</desc>
+    <credits>
+      <director>Rebecca Janis</director>
+      <actor>Martin Lindow</actor>
+      <actor>Anna Grisebach</actor>
+      <actor>Jan Schütte</actor>
+      <actor>Tatjana Clasing</actor>
+      <actor>Pasquale Aleardi</actor>
+      <actor>Manthei Aurel</actor>
+      <actor>Katja Danowski</actor>
+      <actor>de Elzemarieke</actor>
+      <actor>Christina Hecke</actor>
+      <actor>Gisa Flake</actor>
+      <actor>Sebastian Kolb</actor>
+      <actor>Stephan Benson</actor>
+      <writer>Eckhard Vollmar</writer>
+      <writer>Jean-Luc Bannalec</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/23/6f763553b2c94820a3d59ff39a680170.jpg" />
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250701230500 +0200" channel="C183.api.telerama.fr" stop="20250702002500 +0200">
+    <title>Pause</title>
+    <desc lang="fr">Sami, la trentaine désinvolte, réalise combien il aime Julia au moment où elle s'apprête à le quitter. Aidé de son vieil ami Fernand, un guitariste virtuose avec qui il forme un duo de country, il va tenter de convaincre la brillante juriste qu'elle est la femme de sa vie.</desc>
+    <credits>
+      <actor>André Wilms</actor>
+      <actor>Julia Faure</actor>
+      <actor>Olivier Yglesias</actor>
+      <actor>Vouilloz Roland</actor>
+      <actor>Althaus Nils</actor>
+      <actor>Baptiste Gilliéron</actor>
+      <actor>Pierre-Antoine Dubey</actor>
+      <actor>Baptiste Coustenoble</actor>
+      <actor>Nicole Letuppe</actor>
+      <actor>Margherita Coldesina</actor>
+      <actor>Hélène Barbry</actor>
+      <actor>Jean-Michel Distexhe</actor>
+      <writer>Joanne Giger</writer>
+      <writer>Mathieu Urfer</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">film : comédie romantique</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/18/144d3fb035ef4d78b28063440821d174.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702002500 +0200" channel="C183.api.telerama.fr" stop="20250702005500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702005500 +0200" channel="C183.api.telerama.fr" stop="20250702012000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Locations Airbnb: des limitations sans effet</sub-title>
+    <desc lang="fr">Producteur: Linda Bourget, Yann Franel, Valérie Demierre Journaliste: Lison Méric</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/18/532246bdfec845358bb1508a2dd6addd.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702012000 +0200" channel="C183.api.telerama.fr" stop="20250702014000 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702014000 +0200" channel="C183.api.telerama.fr" stop="20250702055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">255</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250701222500 +0200" channel="C202.api.telerama.fr" stop="20250702000500 +0200">
+    <title>Meurtres à...</title>
+    <sub-title>Meurtres à Nancy</sub-title>
+    <desc lang="fr">Saison:9 - Episode:12 - Nancy, la capitale française de l'Art Nouveau. Une ville où il fait bon longer les façades bourgeoises du centre, flâner sur les bords de la Meurthe, au Musée des Beaux-arts ou sur la célèbre Place Stanislas. Sauf quand le cadavre d'une femme est retrouvé, lors d'une vente aux enchères d'Art Nouveau, avec l'inscription "Guenoche", synonyme de sorcière en vieux français. La capitaine de police Laurence Weber et le lieutenant Chloé Guérin, la nouvelle compagne de son fils, mènent alors l'enquête pour retrouver le coupable de ce sinistre meurtre...</desc>
+    <credits>
+      <director>Sylvie Ayme</director>
+      <actor>Cristiana Réali</actor>
+      <actor>Selma Kouchy</actor>
+      <actor>Constance Dollé</actor>
+      <actor>Fabrice Deville</actor>
+      <actor>Jérôme Anthony</actor>
+      <actor>Crampon Julien</actor>
+      <actor>Arnaud de</actor>
+      <actor>Sophie-Marie Larrouy</actor>
+      <actor>Nelly Lawson</actor>
+      <actor>Riggi Massimo</actor>
+      <actor>Céline Martin Sisteron</actor>
+      <actor>Victoria Rolin</actor>
+      <writer>Killian Arthur</writer>
+      <writer>Nicolas Jones-Gorlin</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/5d825091a81b45d3ab51c4cb48e95527.jpg" />
+    <episode-num system="xmltv_ns">8.11.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702000500 +0200" channel="C202.api.telerama.fr" stop="20250702015500 +0200">
+    <title>Petit pays</title>
+    <desc lang="fr">Dans les années 1990, au Burundi, Gabriel vit heureux entouré de son père français, un chef d'entreprise et de sa mère rwandaise, de sa sœur et de ses amis. Ils vivent dans un confortable quartier d'expatriés. C'est le temps de l'insouciance et des bêtises avec des enfants de son âge. Mais le bonheur commence à se fissurer : ses parents se disputent beaucoup. Entre Yvonne, sa mère Tutsi, née en 1963 au Rwanda et son père blanc, Michel, originaire des Vosges, rien ne va plus. Ses parents finissent par se séparer. La vie de Gabriel bascule complètement quand éclate la guerre civile. Le génocide rwandais va toucher sa famille au plus près... - Critique : Cette adaptation du roman de Gaël Faye raconte les quatre cents coups d’un petit garçon métis, fils d’un entrepreneur français et d’une mère rwandaise, dans le Burundi des années 1990, avant la dislocation de l’harmonie familiale qui coïncidera avec le chaos de la guerre civile et les prémices d’un génocide. Le regard inquiet de l’enfant sur les disputes de ses parents, la vie avec les copains, la confusion politique et le racisme interethnique qui monte : autant d’émotions et de sen­sations bien rendues, sans dramatisation excessive ni édulcoration.
+
+Le film est parfois bancal, maladroit, mais il parvient à mêler chronique intime et récit historique, avec des acteurs en majorité non professionnels, Djibril Vancoppenolle en tête, poignant dans son mélange d’innocence, de désarroi et de lucidité.</desc>
+    <credits>
+      <actor>Veronika Varga</actor>
+      <actor>Jean-Paul Rouve</actor>
+      <actor>Isabelle Kabano</actor>
+      <actor>Dayla De</actor>
+      <actor>Djibril Vancoppenolle</actor>
+      <actor>Tao Monladja</actor>
+      <actor>Brian Gakwavu</actor>
+      <actor>Kenny Hubbawive</actor>
+      <actor>Nelson Membe</actor>
+      <actor>Ruben Ruhanamilindi</actor>
+      <actor>Edouard Niyonteze</actor>
+      <actor>Elvis Nahimana</actor>
+      <writer>Eric Barbier</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/11/071f49d6bfbd4baeadfc1e3b4d7176c2.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250702015500 +0200" channel="C202.api.telerama.fr" stop="20250702021400 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit, en particulier.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702021400 +0200" channel="C202.api.telerama.fr" stop="20250702021500 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250702021500 +0200" channel="C202.api.telerama.fr" stop="20250702053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>
