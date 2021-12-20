@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250513233000" channel="C59.api.telerama.fr" stop="20250514014500">
+    <title>Concours Eurovision de la chanson 2025</title>
+    <sub-title>Semi Final 1</sub-title>
+    <desc lang="fr">Zoë Më präsentiert ihren Song "Voyage" im ersten Halbfinale des "Eurovision Song Contest". Die Schweiz ist als letztjähriges Siegerland in diesem Jahr neben den Big-Five-Ländern Deutschland, Frankreich, Italien, Spanien und Vereinigtes Königreich direkt für das Finale gesetzt.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/98138a397d474eedb6c36b4cfc5632ad.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514014500" channel="C59.api.telerama.fr" stop="20250514020000">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Japan - Tag 2</sub-title>
+    <desc lang="fr">Am zweiten Tag bei "Mini Chuchi, dini Chuchi" wagt sich Rebecca in Wangen SZ an das Motto "Japan". Die 32-Jährige powert sich in ihrer Freizeit gerne beim Sport aus. Für ihr Menü kombiniert sie, was sie gerne mag: Nudeln, Hackfleisch und Gemüse. Es gibt eine Ramensuppe.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514020000" channel="C59.api.telerama.fr" stop="20250514020500">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Alpstein</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514020500" channel="C59.api.telerama.fr" stop="20250514030000">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514222500" channel="C59.api.telerama.fr" stop="20250514223500">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514223500" channel="C59.api.telerama.fr" stop="20250515000500">
+    <title>Der gestohlene Sommer</title>
+    <sub-title>Der gestohlene Sommer</sub-title>
+    <desc lang="fr">Edward Rosemore a tout ce qu'il faut pour être heureux. Il mène une vie conjugale harmonieuse avec sa femme Kate et leurs deux enfants et est l'un des meilleurs courtiers maritimes de Cornouailles. Mais il souffre d'un mal incurable et fatal et refuse d'en parler à sa famille. Il oeuvre en secret dans l'espoir de trouver un nouveau compagnon pour sa femme...</desc>
+    <category lang="fr">téléfilm sentimental</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/07/ced2ac36e9c7405d9ba46e93f1c7b2a1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250513222500" channel="C183.api.telerama.fr" stop="20250514002000">
+    <title>Sils Maria</title>
+    <desc lang="fr">Maria Enders au sommet de sa carrière internationale, se voit proposer de rejouer dans la pièce qui l'a lancée quand elle avait 18 ans. Mais cette fois, au lieu de jouer la jeune et ambitieuse Sigrid, on lui propose celui d'Helena, femme blessée par la vie. Amie fidèle de l'auteur de la pièce, qui vient de mourir, Maria accepte le rôle et se rend à Sils Maria, une région des Alpes suisses, pour répéter le rôle en compagnie de son assistante, Valentine. Elle sait qu'en face d'elle, dans le rôle de Sigrid, se trouvera Jo-Ann Ellis, jeune starlette, cible favorite des magazine people, qui cherche à donner un nouveau souffle à sa carrière... - Critique : Dans un train qui file vers la Suisse, la comédienne Maria Enders apprend la mort du dramaturge Wilhelm Melchior. Et c’est comme si elle repartait en arrière, vers le passé. Au cœur des montagnes de la Haute-Engadine, elle va répéter l’une des pièces de l’auteur. Celle qui l’avait révélée, vingt ans plus tôt : elle jouait une jeune fille troublant une femme mûre, jusqu’au suicide. Elle sera désormais la femme mûre troublée. Le temps redistribue les rôles…
+
+En osmose avec Juliette Binoche, Olivier Assayas trace le portrait d’une comédienne passionnée par son travail et peut-être aveuglée par cette passion. La solitude est en embuscade. Même le monde protecteur du théâtre et du cinéma se transforme. Deux jeunes femmes, son assistante personnelle (Kristen Stewart) et l’actrice qui lui donne la réplique sur scène (Chloë Grace Moretz), incarnent cette réalité en mouvement qui crée des repères nouveaux et en fait perdre d’anciens. D’une belle ampleur, associant les paysages magnifiquement ouverts et les destins dont le dessin est tout aussi vaste mais incertain, le film nous plonge dans une atmosphère rare. La culture et la création y sont des fils conducteurs dans le labyrinthe de la vie, pour se retrouver ou pour se perdre. Une réflexion brillante, tendue par l’émotion.</desc>
+    <credits>
+      <actor>Hanns Zischler</actor>
+      <actor>Juliette Binoche</actor>
+      <actor>Angela Winkler</actor>
+      <actor>Stadelmann Aljoscha</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Lars Eidinger</actor>
+      <actor>Brady Corbet</actor>
+      <actor>Chloë Grace</actor>
+      <actor>Luise Berndt</actor>
+      <actor>Tran Claire</actor>
+      <actor>Johnny Flynn</actor>
+      <actor>Nora Von</actor>
+      <writer>Olivier Assayas</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/11/312bfc5be8924dcc8f48030b2e7d727b.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514002000" channel="C183.api.telerama.fr" stop="20250514010000">
+    <title>A bon entendeur</title>
+    <sub-title>Fenaco : la coopérative qui nourrit la Suisse</sub-title>
+    <desc lang="fr">Fenaco, ce géant de l'alimentation est omniprésent dans notre pays. Une coopérative qui a des ramifications à toutes les étapes de la production agricole et qui réalise un chiffre d'affaires de plus de 7 milliards de francs. Elle est aujourd'hui un acteur majeur dans la distribution via ses enseignes Landi et Volg.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514010000" channel="C183.api.telerama.fr" stop="20250514012000">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514012000" channel="C183.api.telerama.fr" stop="20250514035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">155</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514231000" channel="C183.api.telerama.fr" stop="20250515001000">
+    <title>Infrarouge</title>
+    <desc lang="fr">(16/39) Producteur: Alexis Favre</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/066e96931fe940f98b3b14a816591103.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250513235300" channel="C202.api.telerama.fr" stop="20250514033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">217</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514221500" channel="C202.api.telerama.fr" stop="20250514223400">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514223400" channel="C202.api.telerama.fr" stop="20250514223500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514223500" channel="C202.api.telerama.fr" stop="20250515033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">295</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

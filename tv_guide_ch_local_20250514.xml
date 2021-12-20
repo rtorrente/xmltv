@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250513234000 +0200" channel="C59.api.telerama.fr" stop="20250514013000 +0200">
+    <title>Le cercle</title>
+    <desc lang="fr">A Zurich, en 1958, Ernst est un lecteur assidu du Cercle, une revue homosexuelle trilingue. Le magazine organise des soirées très courues et c'est au cours de l'une d'elles que Ernst rencontre Röbi, chanteur travesti. Commence alors une histoire d'amour passionnée qu'ils doivent cacher. Pendant ce temps, le Cercle attaqué de toutes parts, vit son déclin. Car même en Suisse, réputée tolérante, difficile d'échapper à la montée de la haine en Europe : une série de meurtres homophobes va bizarrement placer la communauté et le magazine en position non de pas de victimes, mais de menace... - Critique : Retracer, même sagement, l'histoire de la revue gay Le Cercle n'a rien d'inutile en ces temps d'homophobie ambiante (en Russie, en Ouganda, voire chez nous, avec la Manif pour tous...). Stefan Haupt fait se succéder, avec un louable souci d'authenticité, scènes de reconstitution dans le Zurich corseté des années 1950 et interviews des témoins de l'époque, qui vécurent opprobre et persécutions. Il évite avec brio l'écueil du militantisme. — J.C.</desc>
+    <credits>
+      <actor>Marianne Sägebrecht</actor>
+      <actor>Ueli Jäggi</actor>
+      <actor>Babett Arens</actor>
+      <actor>Anatole Taubman</actor>
+      <actor>Jecklin Peter</actor>
+      <actor>Marie Leuenberger</actor>
+      <actor>Aaron Hitz</actor>
+      <actor>Antoine Monot</actor>
+      <actor>Hug Martin</actor>
+      <actor>Matthias Hungerbühler</actor>
+      <actor>Matthias Meier</actor>
+      <actor>Schelker Sven</actor>
+      <writer>Haupt Stefan</writer>
+      <writer>Christian Felix</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2bce2f6c1163462086996bbdd7b7fc21.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514013000 +0200" channel="C59.api.telerama.fr" stop="20250514034500 +0200">
+    <title>Concours Eurovision de la chanson 2025</title>
+    <sub-title>Semi Final 1</sub-title>
+    <desc lang="fr">Zoë Më präsentiert ihren Song "Voyage" im ersten Halbfinale des "Eurovision Song Contest". Die Schweiz ist als letztjähriges Siegerland in diesem Jahr neben den Big-Five-Ländern Deutschland, Frankreich, Italien, Spanien und Vereinigtes Königreich direkt für das Finale gesetzt.</desc>
+    <category lang="fr">variétés</category>
+    <length units="minutes">135</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/98138a397d474eedb6c36b4cfc5632ad.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514034500 +0200" channel="C59.api.telerama.fr" stop="20250514040000 +0200">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Japan - Tag 2</sub-title>
+    <desc lang="fr">Am zweiten Tag bei "Mini Chuchi, dini Chuchi" wagt sich Rebecca in Wangen SZ an das Motto "Japan". Die 32-Jährige powert sich in ihrer Freizeit gerne beim Sport aus. Für ihr Menü kombiniert sie, was sie gerne mag: Nudeln, Hackfleisch und Gemüse. Es gibt eine Ramensuppe.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514040000 +0200" channel="C59.api.telerama.fr" stop="20250514040500 +0200">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Alpstein</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514040500 +0200" channel="C59.api.telerama.fr" stop="20250514050000 +0200">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250513235500 +0200" channel="C183.api.telerama.fr" stop="20250514002100 +0200">
+    <title>Football : Super League</title>
+    <desc lang="fr">Retransmission d'un match de la Super League, la division élite du football professionnel suisse. Dix équipes constituent ce championnat, chacune d'elle disputant 36 matchs. Placée sous l'égide de la Swiss Football League, la première édition de cette compétition s'est déroulée en 1897.</desc>
+    <category lang="fr">sport : football</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/d8b7d39e013c4a4b9878c2daf6bf0288.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514002100 +0200" channel="C183.api.telerama.fr" stop="20250514002500 +0200">
+    <title>Zap RTS Sport</title>
+    <desc lang="fr">Les informations sportives en images, les résultats et les moments forts des principales rencontres du week-end.</desc>
+    <category lang="fr">sport : multisports</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2109f83c06a344d8bfe9bf253587c193.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514002500 +0200" channel="C183.api.telerama.fr" stop="20250514022000 +0200">
+    <title>Sils Maria</title>
+    <desc lang="fr">Maria Enders au sommet de sa carrière internationale, se voit proposer de rejouer dans la pièce qui l'a lancée quand elle avait 18 ans. Mais cette fois, au lieu de jouer la jeune et ambitieuse Sigrid, on lui propose celui d'Helena, femme blessée par la vie. Amie fidèle de l'auteur de la pièce, qui vient de mourir, Maria accepte le rôle et se rend à Sils Maria, une région des Alpes suisses, pour répéter le rôle en compagnie de son assistante, Valentine. Elle sait qu'en face d'elle, dans le rôle de Sigrid, se trouvera Jo-Ann Ellis, jeune starlette, cible favorite des magazine people, qui cherche à donner un nouveau souffle à sa carrière... - Critique : Dans un train qui file vers la Suisse, la comédienne Maria Enders apprend la mort du dramaturge Wilhelm Melchior. Et c’est comme si elle repartait en arrière, vers le passé. Au cœur des montagnes de la Haute-Engadine, elle va répéter l’une des pièces de l’auteur. Celle qui l’avait révélée, vingt ans plus tôt : elle jouait une jeune fille troublant une femme mûre, jusqu’au suicide. Elle sera désormais la femme mûre troublée. Le temps redistribue les rôles…
+
+En osmose avec Juliette Binoche, Olivier Assayas trace le portrait d’une comédienne passionnée par son travail et peut-être aveuglée par cette passion. La solitude est en embuscade. Même le monde protecteur du théâtre et du cinéma se transforme. Deux jeunes femmes, son assistante personnelle (Kristen Stewart) et l’actrice qui lui donne la réplique sur scène (Chloë Grace Moretz), incarnent cette réalité en mouvement qui crée des repères nouveaux et en fait perdre d’anciens. D’une belle ampleur, associant les paysages magnifiquement ouverts et les destins dont le dessin est tout aussi vaste mais incertain, le film nous plonge dans une atmosphère rare. La culture et la création y sont des fils conducteurs dans le labyrinthe de la vie, pour se retrouver ou pour se perdre. Une réflexion brillante, tendue par l’émotion.</desc>
+    <credits>
+      <actor>Hanns Zischler</actor>
+      <actor>Juliette Binoche</actor>
+      <actor>Angela Winkler</actor>
+      <actor>Stadelmann Aljoscha</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Lars Eidinger</actor>
+      <actor>Brady Corbet</actor>
+      <actor>Chloë Grace</actor>
+      <actor>Luise Berndt</actor>
+      <actor>Tran Claire</actor>
+      <actor>Johnny Flynn</actor>
+      <actor>Nora Von</actor>
+      <writer>Olivier Assayas</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/11/312bfc5be8924dcc8f48030b2e7d727b.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>5/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514022000 +0200" channel="C183.api.telerama.fr" stop="20250514030000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Fenaco : la coopérative qui nourrit la Suisse</sub-title>
+    <desc lang="fr">Fenaco, ce géant de l'alimentation est omniprésent dans notre pays. Une coopérative qui a des ramifications à toutes les étapes de la production agricole et qui réalise un chiffre d'affaires de plus de 7 milliards de francs. Elle est aujourd'hui un acteur majeur dans la distribution via ses enseignes Landi et Volg.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514030000 +0200" channel="C183.api.telerama.fr" stop="20250514032000 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514032000 +0200" channel="C183.api.telerama.fr" stop="20250514055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">155</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250513233000 +0200" channel="C202.api.telerama.fr" stop="20250514013500 +0200">
+    <title>Un héros</title>
+    <desc lang="fr">En Iran, Rahim, poursuivi par un créancier tenace, se retrouve derrière les barreaux pour ne pas avoir pu rembourser son imposante dette. Cependant, il obtient rapidement une permission de deux jours. Il souhaite utiliser cette faveur pour rencontrer son créancier et tenter de le convaincre de changer d'avis. Il essaie de lui expliquer qu'il désire lui régler une partie de la somme, mais, en contrepartie, il supplie ce dernier de réfléchir à retirer sa plainte. Pourtant, malgré toute la bonne volonté du monde, les choses ne se passent pas toujours comme elles le devraient, et Rahim ne parvient pas à obtenir le résultat espéré... - Critique : Deux jours. Il ne faudra pas plus de deux jours — et un sac perdu contenant des pièces d’or restitué à sa propriétaire — pour que Rahim, détenu après une dette non remboursée, passe du statut humiliant d’insolvable à celui d’honnête homme, exemplaire et célébré. Un piédestal moral dont il dégringolera aussi vite pour retourner à la case prison. Entre-temps, Rahim, son entourage et les spectateurs auront traversé tous les états émotionnels possibles et imaginables, de l’espoir à l’abattement en passant par la colère.
+
+Scénario à la mécanique implacable, réalisme bluffant, personnages piégés dans un infernal entrelacs de motivations et d’intérêts contraires : pas de doute, après son escapade espagnole (Everybody Knows), le Asghar Farhadi d’Une séparation est de retour. Cette fois, il filme Shiraz plutôt que Téhéran mais son style rigoureux est reconnaissable entre mille. On aurait tort, pourtant, de n’y voir qu’une formule à succès reproductible de film en film. Si Un héros confirme avec brio que le cinéaste iranien est bien ce peintre social au trait acéré, il montre surtout sa formidable empathie pour la condition humaine. Une qualité qui perce à chaque instant sous la noirceur et la sophistication du récit.
+
+Chaque personnage d’Un héros a ses raisons d’agir, Rahim certes mais aussi son créancier ou encore sa compagne, prête à se sacrifier pour lui offrir une rédemption. Farhadi joue à cache-cache avec les zones d’ombre qui entourent ses personnages. Jusqu’au bout, le spectateur se demandera, par exemple, ce que dissimule l’indécrochable sourire affiché par son personnage principal en toutes circonstances. Rien n’est simple dans cette société qui infantilise les citoyens en les récompensant pour leurs bonnes actions mais laisse aux associations de charité la charge de sauver ceux que sa justice a condamnés à mort. La somme des empêchements de chacun fabrique cynisme et dissimulation. Ainsi le silence de cette femme qui cache à son mari qu’elle possède des pièces d’or de peur qu’il se les approprie. Ou l’impossibilité pour Rahim d’évoquer sa compagne, avec laquelle il n’est pas marié.
+
+Tout est pourri dans la République islamique d’Iran, exposée à l’autoritarisme de ses institutions sans être à l’abri des dérives des sociétés libérales — et d’abord le pouvoir de nuisance des réseaux sociaux. Pour leur promotion personnelle, les administrateurs de la prison instrumentalisent Rahim, lequel utilise à son tour son fils bègue pour apitoyer le monde. Quant à la famille, elle n’est plus un refuge mais le lieu tumultueux où s’imbriquent solidarité et obligation : en acceptant l’aide de sa sœur et de son beau-frère, le « héros » devient inexorablement leur obligé. Aux premières loges de ce spectacle pathétique où la violence sociale tient le premier rôle, les enfants, comme dans Une séparation, regardent les adultes tomber…</desc>
+    <credits>
+      <actor>Fereshteh Sadre</actor>
+      <actor>Mohsen Tanabandeh</actor>
+      <actor>Sarina Farhadi</actor>
+      <actor>Amir Jadidi</actor>
+      <actor>Ehsan Goodarzi</actor>
+      <actor>Mohammad Aghebati</actor>
+      <actor>Sahar Goldust</actor>
+      <actor>Alireza Jahandideh</actor>
+      <actor>Maryam Shahdaei</actor>
+      <actor>Farrokh Nourbakht</actor>
+      <actor>Saleh Karimaei</actor>
+      <actor>Ali Ranjbari</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/42f91daada0a457da5570c3798a7a90b.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514013500 +0200" channel="C202.api.telerama.fr" stop="20250514015200 +0200">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">17</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514015200 +0200" channel="C202.api.telerama.fr" stop="20250514015300 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514015300 +0200" channel="C202.api.telerama.fr" stop="20250514053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">217</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>

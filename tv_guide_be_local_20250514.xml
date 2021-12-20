@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250513235500 +0200" channel="C50.api.telerama.fr" stop="20250514002500 +0200">
+    <title>La bande de Contact MAX</title>
+    <desc lang="fr">Envie de rire avec la bande de Contact MAX ? Retrouvez l'indétrônable Renaud Rutten, de retour sur les ondes avec une toute nouvelle équipe de raconteurs de blagues. La bande de Contact MAX promet de raviver la flamme d'une époque mémorable, en proposant une émission unique mêlant humour et convivialité.</desc>
+    <category lang="fr">divertissement-humour</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/16/0036bc4ea56542049132a03a79210462.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514002500 +0200" channel="C50.api.telerama.fr" stop="20250514050000 +0200">
+    <title>Magazine Télé-achat</title>
+    <desc lang="fr">Pour faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">275</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/6aad4f611e874bcf92b09167f67741e3.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250513235500 +0200" channel="C164.api.telerama.fr" stop="20250514004400 +0200">
+    <title>Il est elle</title>
+    <desc lang="fr">Depuis des années, Juju souffre de son apparence et veut à tout prix masquer tout ce qui fait de lui un garçon. Sa famille se pose peu à peu des questions et des doutes commencent à s'installer chez Maxime, son meilleur ami, alors que ses camarades de classe se moquent de lui. Laurence, sa mère, ne comprend plus son fils et peine à dialoguer avec lui afin de comprendre ce qu'il ressent. Quant à Cédric, son père, il ne veut rien voir ni entendre et ne rêve que de pouvoir partager des moments de complicité père/fils…</desc>
+    <credits>
+      <director>Clément Michel</director>
+      <actor>Odile Vuillemin</actor>
+      <actor>Jonathan Zaccaï</actor>
+      <actor>Catherine Salée</actor>
+      <actor>Porteil Laurence</actor>
+      <actor>Danet-Fauvel Maxence</actor>
+      <actor>Andréa Furet</actor>
+      <actor>Philippe Richardin</actor>
+      <writer>Ramberg Catherine</writer>
+      <writer>Boullé Thomas</writer>
+    </credits>
+    <category lang="fr">téléfilm dramatique</category>
+    <length units="minutes">49</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/8651299f7c024fc1b80827a7aeb8a507.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514004400 +0200" channel="C164.api.telerama.fr" stop="20250514005600 +0200">
+    <title>En quête de sens : Il était une foi</title>
+    <sub-title>Laurence de Charette</sub-title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/dd22562e8ae2479b8f5a660bf5dd83bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514005600 +0200" channel="C164.api.telerama.fr" stop="20250514014100 +0200">
+    <title>On n'est pas des pigeons</title>
+    <desc lang="fr">Un décryptage précieux des codes de la consommation et du marketing afin d'éclairer les consommateurs au quotidien. Les chroniqueurs dénichent les bons plans du moment et aident ainsi les téléspectateurs à économiser de l'argent.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/10/b217174ebed84965a41daa81d7eac439.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514014100 +0200" channel="C164.api.telerama.fr" stop="20250514015300 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514015300 +0200" channel="C164.api.telerama.fr" stop="20250514015700 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514015700 +0200" channel="C164.api.telerama.fr" stop="20250514023000 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">33</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514023000 +0200" channel="C164.api.telerama.fr" stop="20250514033100 +0200">
+    <title>C'est pas fini</title>
+    <desc lang="fr">Patrick Weber épingle l'actualité. Avec une incroyable bande de débatteurs, il revient sur les moments forts de la journée dans la bonne humeur.</desc>
+    <category lang="fr">talk-show</category>
+    <length units="minutes">61</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/19/3d7fad19c38449d5b071217b55afb7a9.jpg" />
+    <premiere />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514033100 +0200" channel="C164.api.telerama.fr" stop="20250514033300 +0200">
+    <title>Alors on sort ?</title>
+    <desc lang="fr">L'émission met à l'honneur les régions, leurs habitants, leurs langues régionales et leur humour. Un moment privilégié de proximité présenté par Fanny Jandrain, en compagnie d'un invité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/9957f1735ab64048a01d72209daf79e6.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514033300 +0200" channel="C164.api.telerama.fr" stop="20250514041600 +0200">
+    <title>On n'est pas des pigeons</title>
+    <desc lang="fr">Un décryptage précieux des codes de la consommation et du marketing afin d'éclairer les consommateurs au quotidien. Les chroniqueurs dénichent les bons plans du moment et aident ainsi les téléspectateurs à économiser de l'argent.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">43</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/04/10/b217174ebed84965a41daa81d7eac439.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514041600 +0200" channel="C164.api.telerama.fr" stop="20250514042800 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514042800 +0200" channel="C164.api.telerama.fr" stop="20250514043100 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514043100 +0200" channel="C164.api.telerama.fr" stop="20250514055900 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">88</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250513225000 +0200" channel="C168.api.telerama.fr" stop="20250514005500 +0200">
+    <title>The Nice Guys</title>
+    <desc lang="fr">Dans les années 1970, à Los Angeles, Jackson Healy, un ancien boxeur devenu homme de main, est approché par une employée du ministère de la Justice, qui lui demande de retrouver Amelia, sa fille disparue. Jackson se tourne vers le détective privé Holland March et le convainc, par la force, à collaborer avec lui sur son enquête. Les deux privés commencent leurs investigations mais rapidement, ils se retrouvent avec une affaire de meurtre sur les bras : celui d'une starlette de l'industrie pornographique. De fil en aiguille, ils mettent bientôt au jour une énorme conspiration impliquant les hautes sphères du pouvoir... - Critique : | Genre : musclé mais drôle. Vous souvenez-vous de Mel Gibson et Danny Glover dans L'Arme fatale ? De Nick Nolte et d'Eddie Murphy dans 48 Heures ? The Nice Guys, c'est presque pareil. A Los Angeles, dans les années 1970, deux détectives se rencontrent. Duo parfait : Russell Crowe, de plus en plus massif, distribue les baffes et Ryan Gosling, papa d'une gamine délurée, fait le clown en chemise turquoise, col pelle à tarte. L'intrigue amuse : l'équipe d'un film porno est décimée pour avoir osé dénoncer la politique anti-écolo du gouvernement américain, dont la digne représentante est Kim Basinger, plus soucieuse de l'Etat que de sa fille contestataire. Autre second rôle savoureux : le beau Matt Bomer (de la série FBI : duo très spécial) en tueur à frange qui envoie sans état d'âme les adolescentes à travers les baies vitrées. — Pierre Murat</desc>
+    <credits>
+      <actor>Kim Basinger</actor>
+      <actor>Keith David</actor>
+      <actor>Yvonne Zima</actor>
+      <actor>Lois Smith</actor>
+      <actor>Ryan Gosling</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Matt Bomer</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Angourie Rice</actor>
+      <actor>Yaya DaCosta</actor>
+      <actor>Margaret Qualley</actor>
+      <actor>Telio Murielle</actor>
+      <writer>Shane Black</writer>
+      <guest>Vernel Bagneris</guest>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">film policier</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/df9c0e371bb141ca8e5568d8d4e51dd5.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>3/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514005500 +0200" channel="C168.api.telerama.fr" stop="20250514010000 +0200">
+    <title>Météo soir</title>
+    <desc lang="fr">Quel temps fera-t-il demain ? Les bulletins météo tiennent au courant des prévisions. La pluie et le beau temps, annoncés par des spécialistes.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/102750dc244a4f8597e4af9a8613b74e.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514010000 +0200" channel="C168.api.telerama.fr" stop="20250514014000 +0200">
+    <title>RTL info 19 heures</title>
+    <desc lang="fr">L'information est au cœur de RTL TVI. Cette année plus que jamais, l'ensemble des équipes de la rédaction se mobilise afin de faire preuve de réactivité dans n'importe quelles circonstances.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/087e887dff9e44199db652ba12bbff55.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514014000 +0200" channel="C168.api.telerama.fr" stop="20250514033000 +0200">
+    <title>Moments d'évasion</title>
+    <desc lang="fr">Une invitation à l'évasion et au rêve, destinée à toutes les générations, à la découverte de nombreuses merveilles, aux quatre coins du monde.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">110</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/edb02ee559874ed0912cf86643289f63.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514033000 +0200" channel="C168.api.telerama.fr" stop="20250514050000 +0200">
+    <title>Boucle de nuit</title>
+    <desc lang="fr">Retrouvez le programme diffusé en boucle du journal, des magazines, des séries pendant toute la nuit jusqu'au matin.</desc>
+    <category lang="fr">emission spéciale</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/67b7101ffd6e4238a5823c499ba84410.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250513225200 +0200" channel="C187.api.telerama.fr" stop="20250514003400 +0200">
+    <title>Meurtres à...</title>
+    <sub-title>Meurtres à l'île de Ré</sub-title>
+    <desc lang="fr">Saison:3 - Episode:5 - Un homme, revêtu d'une tenue de bagnard, est retrouvé mort sur une plage de l'île de Ré. Vincent Pelletier entame une enquête d'autant plus délicate que la victime était un ami proche du procureur en charge de l'affaire. En outre, Vincent est bouleversé par la venue de sa demi-soeur, Margaux. La jeune femme est déterminée à prouver l'innocence de leur père, incarcéré pour viol et meurtre. Contrairement à Margaux, Vincent, convaincu de la culpabilité de son père, a rompu toute relation avec lui. Il découvre pourtant que ces deux intrigues, que plus de 70 années séparent, aboutissent lentement à des conclusions qui se croisent et s'entremêlent... - Critique : Un corps flotte à la surface du lac Léman : celui d’un homme d’affaires suisse, lesté par une sculpture de flottins qui symbolise un être fantastique. Le gendarme français Louis Jolly est chargé de l’enquête. Mais il devra collaborer avec Sandrine Zermatten, une policière helvétique avec qui le courant ne passe pas. Le tueur, lui, n’a pas l’air de vouloir en rester là…
+
+Lancée en 2013, la série des Meurtres à… (ou Meurtres sur…) continue son petit tour de la France et de ses régions. Cette fois, c’est la Savoie qui s’y colle. Ils sont tous là, fidèles au rendez-vous : le couple d’enquêteurs mal assemblés, les meurtres inspirés d’une légende locale, les dialogues plus plats que le lac, les suspects stéréotypés et, last but not least, la révélation finale grand-guignolesque impliquant un secret familial enfoui depuis des années. D’un épisode à l’autre, seuls les décors et les visages des protagonistes changent. L’ennui reste le même.</desc>
+    <credits>
+      <director>François Basset</director>
+      <director>Jules Maillard</director>
+      <actor>Christophe Odent</actor>
+      <actor>Jean-Michel Noirey</actor>
+      <actor>Marie-Catherine Conti</actor>
+      <actor>Bruno Salomone</actor>
+      <actor>Franck Beckmann</actor>
+      <actor>Théo Frilet</actor>
+      <actor>Lucie Lucas</actor>
+      <actor>Richard Ecalle</actor>
+      <actor>Aude Candela</actor>
+      <actor>Robin Barde</actor>
+      <actor>Virgil Davin</actor>
+      <actor>Bigot Florent</actor>
+      <writer>Touzet Catherine</writer>
+      <writer>Deshaires Marie</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">102</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/10/24/30fdf63de03d40d7a81164d62ebc761d.jpg" />
+    <episode-num system="xmltv_ns">2.4.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514003400 +0200" channel="C187.api.telerama.fr" stop="20250514060000 +0200">
+    <title>Le meilleur de l'humour express</title>
+    <desc lang="fr">Des stars de l'humour et des talents émergents au succès confirmé sont réunis pour le plus grand plaisir des téléspectateurs, avec des captations ici proposées.</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">326</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/08/67d35100f21c50a5c3a7e4ef6f95920e8fcae24a_A8E5FA5962F799422F4C0F0E681FB539.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250513220000 +0200" channel="C377.api.telerama.fr" stop="20250514000500 +0200">
+    <title>Les visiteurs 2 : les couloirs du temps</title>
+    <desc lang="fr">Godefroy de Montmirail retourne à son époque, accompagné non pas de Jacquouille, son fidèle serviteur, mais de Jacquart. Le mariage avec Frénégonde de Pouille est annulé par son père car des bijoux et une relique sacrée ont mystérieusement disparu. Godefroy suppose que c'est Jacquouille qui a accompli ce forfait. Il décide donc de revenir aux temps modernes, en compagnie de Jacquart. Béatrice tente, de son côté, de renvoyer Jacquouille et Ginette dans le passé, les croyant tous deux venus du Moyen Age. D'autant qu'ils sèment allègrement la zizanie et le désordre partout où ils mettent les pieds. La gendarmerie elle-même peine à comprendre les disparitions et les substitutions de personnages... - Critique : Il n'y en a que pour Clavier. Exactement comme il n'y en avait que pour de Funès dans les nanars des années 60. Sauf que le premier court après la grandiose méchanceté du second, sans la rattraper jamais. Et donc, dans Les Visiteurs II, on ne voit que Clavier. Clavier, et re-Clavier, qui hurle son texte avec une hystérie monocorde, donc monotone. Jean Reno, lui, est quasiment absent dans la première heure et n'a que deux ou trois scènes à défendre dans la seconde. Tous les autres font de la figuration plus ou moins intelligente : d'ailleurs ils jouent comme Clavier. Par mimétisme, sans doute... Sauf Muriel Robin. La pauvre ! Elle a remplacé Valérie Lemercier, qui en a eu marre, ce qu'on comprend.
+
+On l'aime bien, Muriel Robin. Mais là, en faire-valoir de Clavier, elle est mal à l'aise comme il n'est pas permis (et on est poli). La vraie « visiteuse numéro deux », c'est elle, tant elle semble sortir d'un autre univers, celui du sketch moqueur. De temps à autre, elle s'y raccroche comme à une bouée de sauvetage. Aussi dérisoire que celles du Titanic.
+
+Car ici, l'humour est au ras des pâquerettes. On n'est même pas dans la blague de carabinier : ce serait trop beau. Ni dans l'humour potache. Mais dans celui des 4-5 ans qui disent « pipi-caca-boudin » en pouffant de rire. Jacquouille, par exemple, ne fait que se goinfrer (avec les mains : le rêve des tout-petits !). Son double moderne, civilisé, et donc forcément pédé, pisse sans arrêt. Et quand Jacquouille traverse le temps, il laisse sur le sol de la merde. On n'est pas chez Feydeau, mais dans les émonctoires. Bref, on bouffe, on chie et on dégueule...
+
+Knock voulait réduire tous les habitants d'une ville en malades dépendants. Sous prétexte de distraction, Jean-Marie Poiré semble vouloir nous faire tous régresser au stade oro-anal. Beau programme !</desc>
+    <credits>
+      <actor>Burgel Patrick</actor>
+      <actor>Christian Clavier</actor>
+      <actor>Jean Reno</actor>
+      <actor>Claire Nadeau</actor>
+      <actor>Eric Averlant</actor>
+      <actor>Muriel Robin</actor>
+      <actor>Jean-Luc Caron</actor>
+      <actor>Marie-Anne Chazel</actor>
+      <writer>Christian Clavier</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="fr">film : comédie</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/30/364d837ae1a44e54851e3b89ea5cca4e.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>1/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250514000500 +0200" channel="C377.api.telerama.fr" stop="20250514005000 +0200">
+    <title>The Power : qui a le pouvoir ?</title>
+    <desc lang="fr">Dans une villa isolée en plein désert marocain, 14 personnalités du petit écran, les plus joueurs, les meilleurs compétiteurs et les plus grands stratèges, se retrouvent pour une nouvelle saison de "The Power !" Chaque semaine, un Power Player prendra le pouvoir et régnera en maître absolu.</desc>
+    <category lang="fr">téléréalité</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/22/09a1bbb2adbc41c6b79effb59e7d257b.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250514005000 +0200" channel="C377.api.telerama.fr" stop="20250514050000 +0200">
+    <title>Le Télé-achat</title>
+    <desc lang="fr">Pour savoir quels seront vos coups de coeurs de demain et connaître les tendances d'aujourd'hui, ne manquez pas le téléachat, un magazine conso malin pour vous aider au quotidien et découvrir des produits toujours plus novateurs et pratiques. Une émission pratique, qui permet de faire les boutiques sans sortir de chez soi.</desc>
+    <category lang="fr">magazine de télé-achat</category>
+    <length units="minutes">250</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/05/03/b07eade200ce6558af7f538efc7afe5124a83fee_F1CDED88B91D18A615C4D9DD7E72A028.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250513232000 +0200" channel="C892.api.telerama.fr" stop="20250514001200 +0200">
+    <title>1939-1945 - Et le monde bascule</title>
+    <sub-title>La libération</sub-title>
+    <desc lang="fr">La Seconde Guerre mondiale fut la matrice incontournable du monde contemporain. Tragédie de tous les extrêmes, la Seconde Guerre mondiale a façonné les sociétés, les territoires, les régimes politiques et les jugements moraux. Elle hante encore la conscience de l'humanité et s'inscrit dans son présent. Gros plan sur cet épisode majeur de l'Histoire contemporaine.</desc>
+    <category lang="fr">documentaire histoire</category>
+    <length units="minutes">52</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/23/08fc0f93247b42559a6780bdd165162e.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514001200 +0200" channel="C892.api.telerama.fr" stop="20250514003800 +0200">
+    <title>Hep taxi !</title>
+    <sub-title>Fanny Ruwet</sub-title>
+    <desc lang="fr">Hep Taxi embarque Fanny Ruwet. La piquante humoriste belge à qui tout sourit reviendra sur son brillant parcours éclectique.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">26</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/20/79ca4a0793e0da3308797af1f0a318e96158b768_3C81E1838A3509944DD707719A5EDD3C.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514003800 +0200" channel="C892.api.telerama.fr" stop="20250514010600 +0200">
+    <title>OpinionS : CSC</title>
+    <desc lang="fr">L'émission TV de la CSC diffusée sur les antennes de la RTBF.</desc>
+    <category lang="fr">magazine politique</category>
+    <length units="minutes">28</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/01/31/c21e6383f50b98af543ce8f62b43791aa05f0bc3.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514010600 +0200" channel="C892.api.telerama.fr" stop="20250514014100 +0200">
+    <title>JT 19h30 avec interprétation en langue des signes</title>
+    <desc lang="fr">"JT 19h30 avec interprétation en langue des signes " est une émission qui revient sur toutes sortes d'actualités quotidiennes.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/d2f2b75ad9f04f608cfb85ce3948d396.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250514014100 +0200" channel="C892.api.telerama.fr" stop="20250514055900 +0200">
+    <title>Météo internationale</title>
+    <desc lang="fr">Retrouvez tous les jours les prévisions météorologiques des grandes villes d'Europe, du Proche-Orient et du Nord de l'Afrique, présentées en alternance par notre équipe.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">258</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/02/14/0992273c68da38635776091d45afc82cfc60d62b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
