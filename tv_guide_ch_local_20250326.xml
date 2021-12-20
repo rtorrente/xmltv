@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250325235500 +0100" channel="C59.api.telerama.fr" stop="20250326013000 +0100">
+    <title>La nuit des rois</title>
+    <desc lang="fr">Dans une tristement célèbre prison d'Abidjan, les détenus ont mis en place leur propre ensemble de règles. L'une d'elles stipule que si le "Dangôro", comme l'on surnomme le chef suprême des prisonniers, devient trop faible pour gouverner, il doit se suicider. Malade, Barbe Noire craint de subir un tel sort, et décide de réaffirmer son pouvoir en se servant du rituel de "Roman", qui consiste à désigner un de ses congénères qui se chargera de compter des histoires durant toute une nuit, avant d'être sacrifié une fois l'aube venue. Il choisit un membre d'un dangereux gang local, bien décidé à échapper à son funeste sort... - Critique : Comme son titre le laisse supposer, le deuxième long métrage du cinéaste franco-ivoirien Philippe Lacôte est imprégné de Shakespeare. Mais c’est davantage à une version africaine des contes des Mille et une nuits que fait penser cette chronique violente de la lutte pour le pouvoir au sein d’une prison.
+
+Dans la sinistre Maison d’arrêt et de correction d’Abidjan, Barbe-Noire, le chef des détenus, décide, pour restaurer son autorité vacillante, de réactiver une tradition ancestrale : à la prochaine lune rouge, un prisonnier devra raconter une histoire toute la nuit durant, sous peine d’être massacré. Le malheureux élu, fraîchement débarqué à la « Maca » et rebaptisé « Roman », va alors relater, sinon inventer, la splendeur et les misères de Zama King, fils d’un aveugle devenu chef d’un gang pendant la guerre civile…
+
+À la manière du récit du jeune homme qui part de faits documentés pour les transformer en légende, le film entremêle avec brio le réalisme, le mythe et la magie. La puissance des mots de Roman agit comme une libération pour ses codétenus qui prennent le relais de son récit dans des chants proches de la transe. La théâtralité de certaines scènes est indissociable d’une puissante mise en scène de cinéma. Philippe Lacôte joue avec brio des contrastes entre le dedans et le dehors ; entre la noirceur de la nuit carcérale et les couleurs éclatantes du monde extérieur ; entre le style documentaire des séquences de prison, filmées caméra à l’épaule, et la réalisation à la fois plus ample et plus posée des flash-back sur Zama King. L’envoûtement est garanti.</desc>
+    <credits>
+      <actor>Denis Lavant</actor>
+      <actor>Rasmané Ouédraogo</actor>
+      <actor>Isaka Sawadogo</actor>
+      <actor>Abdoul Karim</actor>
+      <actor>Steve Tientcheu</actor>
+      <actor>Bakary Koné</actor>
+      <actor>Macel Anzian</actor>
+      <actor>Jean Cyrille Digbeu</actor>
+      <actor>Christopher Kaké</actor>
+      <actor>Laetitia Ky</actor>
+      <actor>Zunon François Lopez</actor>
+      <actor>Narcisse Aféli</actor>
+      <writer>Philippe Lacôte</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/12/b5842a32155d4223ace46ad41685c9e8.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250326013000 +0100" channel="C59.api.telerama.fr" stop="20250326020500 +0100">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/12/99531c6d1bdf408a9be8c723ff1c74dd.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250326020500 +0100" channel="C59.api.telerama.fr" stop="20250326032000 +0100">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250326032000 +0100" channel="C59.api.telerama.fr" stop="20250326033500 +0100">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Wirz - Tag 2</sub-title>
+    <desc lang="fr">In Wagen bei Rapperswil-Jona zaubert Monica, 67, ihr Menu zum Thema "Wirz" auf die Teller ihrer Gäste. Sie kombiniert Rindfleisch mit einer Wirzrahmsauce und Safranreis. Ob dieses Menu gelingt, weiss die begeisterte Velofahrerin selber noch nicht, sie kocht ihr Gericht heute zum ersten Mal.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/12/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250326033500 +0100" channel="C59.api.telerama.fr" stop="20250326035500 +0100">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/e4eb613e5d9c485b8a8087acd54cc771.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250326035500 +0100" channel="C59.api.telerama.fr" stop="20250326040000 +0100">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>Drohnenaufnahmen zeigen die Schweiz aus einer neuen Perspektive - Bern</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250326040000 +0100" channel="C59.api.telerama.fr" stop="20250326045500 +0100">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250326045500 +0100" channel="C59.api.telerama.fr" stop="20250326055500 +0100">
+    <title>Sternstunde Philosophie</title>
+    <sub-title>Douglas Rushkoff</sub-title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/dbbf7c0df49340a1b795d289b49dd21a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250325231000 +0100" channel="C183.api.telerama.fr" stop="20250326003000 +0100">
+    <title>L'armée du salut</title>
+    <desc lang="fr">Abdellah, 15 ans, est un adolescent sensible qui vit dans un quartier populaire de Casablanca. Il a de plus en plus de mal à cacher son homosexualité. Sa mère, femme autoritaire, n'est pas très aimante et refuse par exemple qu'il reste avec elle et ses filles. Heureusement, il y a Slimane, son grand frère qu'il vénère. Abdella s'introduit dans la chambre de son frère aîné pour en sentir les draps, les sous-vêtements, se lover sur son lit. Figure masculine alternative au père violent et inconsistant, Slimane, qui passe son temps à draguer les serveuses, est l'objet du désir d'Abdellah. Pour satisfaire ses envies sexuelles, celui-ci se laisse prendre sans un mot par les hommes... - Critique : Comme Edouard Louis, l'auteur du roman En finir avec Eddy Bellegueule, Abdellah Taïa a fui sa région natale et sa famille pour devenir un intellectuel à Paris. Il vient de plus loin — Rabat, au Maroc. Mais lui aussi a fait l'expérience précoce de son homosexualité, dans un secret à la fois étouffant et relatif. Il a la lucidité des transfuges, de ceux qui ont voyagé en solitaire et réussi à changer de monde, sinon d'identité. L'Armée du ­salut est son premier film, adapté de son roman paru en 2006, qui raconte cette trajectoire, entre survie et trahison. D'abord, la fin de l'enfance au Maroc, tout en langueurs, promiscuité et transgressions : « La réalité de notre famille a très fort goût sexuel, c'est comme si nous avions tous été des partenaires les uns pour les autres », a-t-il écrit dans le ­roman. Ses images pour le cinéma sont plus abstraites, mais non moins troublantes. Hors de la maison exiguë, au souk ou dans la rue, il y a ces hommes qui s'attirent les faveurs du jeune adolescent contre une pastèque, de l'argent ou contre rien. Puis une ellipse coupe le film en deux, une faille dans laquelle tombent les dernières illusions enfantines, dont l'amour excessif, très charnel, porté à un grand frère qui, l'ingrat, s'en va ­soudain vivre sa vie. Abdellah a désormais l'âge de choisir la sienne. Ce sont les scènes les plus fortes, dont une ­saisissante balade en barque. A bord, le héros, son amant suisse, nettement plus âgé, et l'autochtone menaçant qui rame, et relève ses tarifs au milieu de la rivière. Affleurent une angoisse, presque une terreur, mais aussi toutes les impasses des rapports Nord-Sud et les violences d'une dialectique dominé/dominant. Avec le dernier mouvement, à Genève, culminent la froideur et la dureté du regard qu'Abdellah Taïa porte sur les circonstances de son émancipation. Il donne de lui un portrait peu complaisant, celui d'un manipulateur déterminé, sans états d'âme, mais qui, à travers ce film, voudrait néanmoins être aimé. Ce serait impossible s'il n'y avait une dernière scène magnifique, où le titre prend davantage de sens que dans le texte. Et où une lueur d'humanité, un petit geste enfin désintéressé font l'effet d'une déflagration. — Louis Guichard</desc>
+    <credits>
+      <actor>Frédéric Landenberg</actor>
+      <actor>Amine Ennaji</actor>
+      <actor>Saïd Mrini</actor>
+      <actor>Karim Ait</actor>
+      <actor>Hamza Slaoui</actor>
+      <actor>Malika El Hamaoui</actor>
+      <actor>Youness Chara</actor>
+      <actor>Abdelhak Swilah</actor>
+      <actor>Oumaima Miftah</actor>
+      <actor>Souhaila Achike</actor>
+      <actor>Houda Mokad</actor>
+      <actor>Ibtissam Es Shaimi</actor>
+      <writer>Taïa Abdellah</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">80</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/12/dcb73d7ee44845d0abc3cafcfd4118da.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250326003000 +0100" channel="C183.api.telerama.fr" stop="20250326010500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326010500 +0100" channel="C183.api.telerama.fr" stop="20250326014500 +0100">
+    <title>A bon entendeur</title>
+    <sub-title>MSC : un label durable ou discutable ?</sub-title>
+    <desc lang="fr">Le label MSC s'est imposé comme la référence en matière de pêche durable. En Suisse, les ventes de poisson labellisé MSC ne cessent de grimper. Mais de plus en plus d'ONG accusent le label de certifier des pratiques de pêche controversées. Alors, MSC est-il un véritable gage de durabilité ou un écran de fumée ?</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">40</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326014500 +0100" channel="C183.api.telerama.fr" stop="20250326020500 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326020500 +0100" channel="C183.api.telerama.fr" stop="20250326023500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326023500 +0100" channel="C183.api.telerama.fr" stop="20250326070000 +0100">
+    <title>RTS Info</title>
+    <desc lang="fr">Boucle d'information vidéo composée des principaux rendez-vous d'actualité et de sport de la radio, de la télévision et du multimédia de la RTS. Outre les 3 journaux quotidiens, RTS Info en continu intégrera des éléments de Mise au Point, de Toutes Taxes Comprises, des émissions de sport ainsi que d'autres magazines de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/2eb1a90611564ab292259b2050d3b253.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250325233500 +0100" channel="C202.api.telerama.fr" stop="20250326003000 +0100">
+    <title>Mr Bates contre le Post Office</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Huit ans après leur première réunion à Fenny Compton, les membres du mouvement "Justice pour les postiers" sont maintenant 555. Face à la mauvaise foi et au cynisme des dirigeants du Post Office, doivent-ils intenter un procès, afin de révéler au pays tout entier ce qu'ils ont subi ? Déjà exsangues financièrement, ils risquent très gros. Car si des investisseurs sont prêts à fournir l'argent nécessaire, en échange d'un pourcentage sur les compensations à venir en cas de victoire, le coût d'une défaite s'imposerait à tous. Alan les convainc une fois encore d'aller de l'avant. Peu après, Jo découvre que sa mère est atteinte d'un cancer du pancréas...</desc>
+    <credits>
+      <actor>Ian Hart</actor>
+      <actor>Katherine Kelly</actor>
+      <actor>Alex Jennings</actor>
+      <actor>Toby Jones</actor>
+      <actor>Will Mellor</actor>
+      <actor>Shaun Dooley</actor>
+      <actor>Hesmondhalgh Julie</actor>
+      <actor>Adam James</actor>
+      <actor>Monica Dolan</actor>
+      <actor>Lesley Nicol</actor>
+      <actor>Amy Nuttall</actor>
+      <actor>John Hollingworth</actor>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">série dramatique</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/0879d34d4d40493ab1aa053d5860c000.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <premiere />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326003000 +0100" channel="C202.api.telerama.fr" stop="20250326021000 +0100">
+    <title>Seberg</title>
+    <desc lang="fr">Hollywood 1968. En tant que star de "A bout de souffle", l'actrice américaine Jean Seberg a vécu beaucoup de choses à son retour de Paris aux Etats-Unis et cherche un nouveau défi. Elle se retrouve bientôt comme militante dans la lutte du mouvement des Black Panthers...</desc>
+    <credits>
+      <director>Benedict Andrews</director>
+      <actor>Colm Meaney</actor>
+      <actor>Yvan Attal</actor>
+      <actor>Stephen Root</actor>
+      <actor>Jack O'Connell</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Kristen Stewart</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Victoria Barabas</actor>
+      <actor>Margaret Qualley</actor>
+      <actor>Ben Kliewer</actor>
+      <actor>Sean Bolger</actor>
+      <actor>Sky Gabriel</actor>
+      <writer>Anna Waterhouse</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : biographie</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/12/2cc5d090c6484d74a09d48b8ab83c45d.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326021000 +0100" channel="C202.api.telerama.fr" stop="20250326023000 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326023000 +0100" channel="C202.api.telerama.fr" stop="20250326023100 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250326023100 +0100" channel="C202.api.telerama.fr" stop="20250326053000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">179</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
