@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250311235500 +0100" channel="C59.api.telerama.fr" stop="20250312020000 +0100">
+    <title>J'accuse</title>
+    <desc lang="fr">Fin 1894, le capitaine Dreyfus est condamné à perpétuité sur l'Ile du diable pour avoir prétendument livré des documents secrets français à l'Empire allemand. Le militaire, de confession juive, devient le bouc émissaire dans une France marquée par l'antisémitisme. Le colonel Picquart, ancien professeur de Dreyfus devenu lieutenant-colonel et chef du service de renseignement militaire, mène son enquête quand il se rend compte qu'Alfred Dreyfus a été condamné à tort. Il découvre que beaucoup de membres de l'administration française préfèrent le mensonge... - Critique : Impossible de ne pas rappeler les révélations, l’an dernier, juste avant la sortie du film, de Valentine Monnier accusant Roman Polanski de l’avoir violée en 1975, puis la colère à l’annonce du César de la meilleure réalisation au cinéaste. Reste que la place dévolue ici est celle d’un commentaire critique. J’accuse, malgré ses libertés prises avec la réalité historique, a gardé ses qualités. Après une séquence d’ouverture qui résume toute l’humiliation subie par Dreyfus, le récit se focalise sur un protagoniste décisif mais jusque-là méconnu, le lieutenant-colonel Marie-Georges Picquart, antisémite déclaré, nommé à contre-cœur à la tête du service du renseignement français. Lorsqu’il visite les bureaux, rien n’est fait pour dissiper son malaise. Le bâtiment, sale et oppressant, abrite des hommes qui ressemblent à des cloportes. Polanski fait de ce lieu étriqué l’antre de la cabale. Où une part de la vérité se niche au fond de tiroirs d’archives, sur de dérisoires feuilles de papier.
+
+C’est dans sa minutie opiniâtre que J’accuse fait mouche, dans sa manière de décrire les éléments matériels d’une machination digne d’une sinistre farce. La petite histoire et la grande se combinent. Savamment construit, entre les filatures et les procès, l’assassinat d’un avocat et un duel à l’épée, le thriller d’espionnage est aussi palpitant que torpide. Servis par de grands comédiens de théâtre, les ministres et les hauts gradés de l’état-major rivalisent d’infamie, de bouffonnerie. À travers eux se dessine le portrait d’une France traumatisée par la défaite de 1870 et rongée par l’antisémitisme de salon.</desc>
+    <credits>
+      <actor>Didier Sandre</actor>
+      <actor>Melvil Poupaud</actor>
+      <actor>Mathieu Amalric</actor>
+      <actor>Emmanuelle Seigner</actor>
+      <actor>Hervé Pierre</actor>
+      <actor>Vincent Grass</actor>
+      <actor>Wladimir Yordanoff</actor>
+      <actor>Eric Ruf</actor>
+      <actor>Jean Dujardin</actor>
+      <actor>Louis Garrel</actor>
+      <actor>Grégory Gadebois</actor>
+      <actor>Maratier Christophe</actor>
+      <writer>Roman Polanski</writer>
+      <writer>Robert Harris</writer>
+      <guest>Corinne Devaux</guest>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">125</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/25/57544cc186bd425b900cb6875239086e.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250312020000 +0100" channel="C59.api.telerama.fr" stop="20250312023500 +0100">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">35</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/3bd7828c6eb94091ac4cfe94b6c6eda8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312023500 +0100" channel="C59.api.telerama.fr" stop="20250312035000 +0100">
+    <title>Club</title>
+    <desc lang="fr">Der "Club" ist die prominente Diskussionssendung des Schweizer Radio und Fernsehens. Es werden Themen aus den unterschiedlichsten Lebensbereichen diskutiert. Interessante Gäste mit ihren authentischen Geschichten und ihrem Fachwissen prägen das Gesicht der Sendung.</desc>
+    <category lang="fr">débat</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/198ce689d36a47f2969b8b5c48ec6169.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312035000 +0100" channel="C59.api.telerama.fr" stop="20250312040500 +0100">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Schnitzel - Tag 2</sub-title>
+    <desc lang="fr">Von Irene, 59, aus Interlaken BE wünschen sich die Gäste einen Schnitzel-Klassiker und sie werden mit ihrem Wunsch nicht enttäuscht. Die begeisterte Musikliebhaberin klopft fleissig Wiener Schnitzel und weiss genau, wie die Salatsauce vom Kartoffelsalat dazu schmecken soll.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250312040500 +0100" channel="C59.api.telerama.fr" stop="20250312050000 +0100">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250311224000 +0100" channel="C183.api.telerama.fr" stop="20250312001000 +0100">
+    <title>Le miracle de Tekir</title>
+    <desc lang="fr">Dans la région de Tekir, superstition et religion se mêlent, à l'image de la terre et de l'eau qui composent la mystérieuse boue du lieu. Chassée de son village en raison de sa grossesse, Mara se retrouve employée de l'Hôtel Tekir à prodiguer des soins aux femmes stériles à l'aide de cette boue miraculeuse...</desc>
+    <credits>
+      <actor>Constantin Florescu</actor>
+      <actor>Mirela Oprisor</actor>
+      <actor>Elina Löwensohn</actor>
+      <actor>Dumitrache Bogdan</actor>
+      <actor>Doroteea Petre</actor>
+      <actor>George Pistereanu</actor>
+      <actor>Constantin Dinulescu</actor>
+      <actor>Maier Claudiu</actor>
+      <actor>Nicoleta Lefter</actor>
+      <actor>Simona Cuciurianu</actor>
+      <actor>Viorica Geanta Chelbea</actor>
+      <actor>Liviu Pintileasa</actor>
+      <writer>Ruxandra Zenide</writer>
+      <writer>Doina Rusti</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">90</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/9446b737ddd54b78b89256b76bdbf1ac.jpg" />
+    <subtitles type="onscreen">
+      <language>fr</language>
+    </subtitles>
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312001000 +0100" channel="C183.api.telerama.fr" stop="20250312005500 +0100">
+    <title>A bon entendeur</title>
+    <sub-title>Rénovations : quand les locataires trinquent</sub-title>
+    <desc lang="fr">De nombreux immeubles sont actuellement en cours de rénovation dans les villes romandes, notamment pour des raisons énergétiques. Les locataires doivent composer avec le bruit des marteaux piqueurs, la poussière et des échafaudages occultants, des sanitaires temporaires. Un enfer au quotidien. Témoignages et conseils.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312005500 +0100" channel="C183.api.telerama.fr" stop="20250312011000 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312011000 +0100" channel="C183.api.telerama.fr" stop="20250312055500 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">285</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250311233500 +0100" channel="C202.api.telerama.fr" stop="20250312002000 +0100">
+    <title>Disparues</title>
+    <desc lang="fr">Saison:1 - Episode:4 - Le tueur a encore frappé et enlevé deux jeunes femmes, Mandy, puis Susan. Il appelle Lisa pour lui demander de choisir celle qui aura la vie sauve avant 17h. En élargissant le champ de l'enquête, David rencontre les inspecteurs Carey et Gough à Rathkilly. En prison, Chris apprend que Mandy se prostituait, et en informe Lisa, qui se rend dans la maison close où elle travaillait. La journaliste y trouve une preuve incriminant un policier corrompu juste avant qu'un incendie se déclare. Dans la soirée, Lisa, sauvée du brasier par David, est à nouveau contactée par le tueur...</desc>
+    <credits>
+      <actor>Stuart Dunne</actor>
+      <actor>Allen Leech</actor>
+      <actor>Fionnuala Murphy</actor>
+      <actor>Hogan Stephen</actor>
+      <actor>Derbhle Crotty</actor>
+      <actor>Aaron Monaghan</actor>
+      <actor>INDIA MULLEN</actor>
+      <actor>Carolyn Donnelly</actor>
+      <actor>Adam Richardson</actor>
+      <actor>Laoise Sweeney</actor>
+      <actor>Matt Ryan Jr.</actor>
+      <actor>Grace Daly</actor>
+      <writer>Rachel Anthony</writer>
+      <writer>Alan Bailey</writer>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/a56fca75e73e49e3ab81fdd734dd8996.jpg" />
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312002000 +0100" channel="C202.api.telerama.fr" stop="20250312015500 +0100">
+    <title>Sweat</title>
+    <desc lang="fr">Sylwia, une gourou polonaise du fitness, est suivie par 600,000 followers mais n'a absolument aucun ami dans la vraie vie. Quelques jours auparavant, elle a posté une vidéo émouvante où elle faisait part de sa quête désespérée de sa recherche de petit ami. Ses sponsors n'ont pas franchement apprécié mais en fait la vidéo est devenue virale. A tel point qu'elle en devient la cible d'un harceleur. La jeune femme, narcissique, va vivre trois jours trépidants, entre engagements professionnels, crises personnelles et posts sur les réseaux sociaux. Mais lors de l'anniversaire de sa mère, elle veut prendre toute la lumière sur elle... - Critique : La sueur du titre est une victoire pour Sylwia : quand elle fait transpirer les mordus de fitness au bout d’une séance de cardio-training, l’influenceuse polonaise aux six cent mille followers est heureuse. Pour la vitalité qu’elle fait renaître, elle reçoit même de l’amour. Mais dans une vidéo postée sur Internet, Sylwia a avoué sa solitude et le désert sentimental qu’est devenue sa vie privée. Des images qui ont divisé, dérangé et fasciné…
+
+Pour parler de nos vies avec les réseaux sociaux, Sweat nous embarque sur les montagnes russes de l’émotion. À la communion très échauffée qui ouvre le film avec la séquence d’aérobic répondra une scène de glaciation des sentiments, chez la mère de Syl­wia. Elle-même n’est faite que de contradictions, rayonnante et malheureuse, superficielle et complexe, sincère et fabriquée… Et ceux qui admirent la jeune femme semblent tout mélanger aussi. Une lointaine connaissance, croisée dans un centre commercial, lui parle de but en blanc de sa fausse couche, pleure en évoquant son mariage puis demande un selfie, ravie. Cette rencontre en annonce une autre, plus extrême, qui confronte Syl­wia à un de ses followers venu la harceler…
+
+Il fallait un cinéaste solide pour nous guider dans ce chaos familier où le pire et le meilleur se confondent, où s’entrechoquent l’image d’une femme et la vérité qu’elle cache. Formé en Pologne, le Suédois Magnus von Horn sait créer des situations épineuses qui nous éclairent. Remuant, son film propose une réflexion nuancée qui ne cède pas au rejet facile des réseaux sociaux, mais aide à comprendre là où ils meurtrissent et là où, sans doute, ils guérissent.</desc>
+    <credits>
+      <actor>Zamachowski Zbigniew</actor>
+      <actor>Lech Lotocki</actor>
+      <actor>Aleksandra Konieczna</actor>
+      <actor>Magdalena Kuta</actor>
+      <actor>Katarzyna Cynke</actor>
+      <actor>Wiktoria Filus</actor>
+      <actor>Bartosz Sak</actor>
+      <actor>Edgar Griszczuk</actor>
+      <actor>Magdalena Kolesnik</actor>
+      <actor>Julian Swiezewski</actor>
+      <actor>Tomasz Orpinski</actor>
+      <actor>Mateusz Król</actor>
+      <writer>Magnus von Horn</writer>
+      <guest>Magda Debicka</guest>
+      <guest>Dominika Kowalska</guest>
+      <guest>Marta Rubaj</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/3d2e284b37764a92af6f159d3f9362fb.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250312015500 +0100" channel="C202.api.telerama.fr" stop="20250312021600 +0100">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">21</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/01/15/c5f7a10722725ff8e3653f592fd430df78a16dde_92374793AAE5D06A44D966E3ACCF6165.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312021600 +0100" channel="C202.api.telerama.fr" stop="20250312021700 +0100">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/85dcb51c86b84549a5a68d3f295231e9.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250312021700 +0100" channel="C202.api.telerama.fr" stop="20250312053000 +0100">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">193</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>
