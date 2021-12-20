@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250722230700 +0200" channel="C183.api.telerama.fr" stop="20250723003500 +0200">
+    <title>Le gardien c'est moi</title>
+    <desc lang="fr">A la fin des années 1980, Ernst, un bon vivant que tous appellent Goalie, revient dans la petite ville de Schummertal, après avoir passé un an en prison. C'est là qu'il a grandi et qu'on le connaît. Goalie veut redémarrer une nouvelle vie, loin de la drogue. Il cherche un emploi et tombe amoureux de la serveuse Regula...</desc>
+    <date>2014</date>
+    <category lang="fr">film : drame sentimental</category>
+    <length units="minutes">88</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/ebdaa231e590408cafd4c6386bcb1f63.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723003500 +0200" channel="C183.api.telerama.fr" stop="20250723010000 +0200">
+    <title>A bon entendeur</title>
+    <sub-title>Quand le marketing nous mène par le bout du nez</sub-title>
+    <desc lang="fr">Certaines odeurs convoquent des émotions fortes et profondes, à l'image de la fameuse madeleine de Proust. L'odorat est un sens puissant, ce que les professionnels du marketing ont bien compris. De plus en plus d'enseignes et de commerces en tout genre développent ainsi des identités olfactives destinées à marquer leurs clients, voire à les inciter à dépenser.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">25</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/30f325ec9260446895718e36588b0bcc.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723010000 +0200" channel="C183.api.telerama.fr" stop="20250723012000 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723012000 +0200" channel="C183.api.telerama.fr" stop="20250723055500 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">275</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250722223000 +0200" channel="C202.api.telerama.fr" stop="20250723001000 +0200">
+    <title>Capitaine Marleau</title>
+    <sub-title>La der des der</sub-title>
+    <desc lang="fr">Saison:4 - Episode:7 - Un homme s'écroule au cours de la somptueuse reconstitution en costumes d'un duel sous l'Empire, où les armes étaient pourtant censées tirer à blanc. La capitaine Marleau embarque le tireur, un avocat médiatique et flamboyant avec qui elle a de vieux comptes à régler. Ce dernier se prétend innocent, victime d'un accident, voire d'une machination, car le mort était son ami. Quelqu'un a certainement échangé à son insu les balles à blanc contre de véritables munitions, provoquant l'accident mortel. Un nouveau duel commence, cette fois entre lui et la capitaine Marleau, qu'il essaie peut-être de duper... - Critique : Joseph Nyandoro, un ex-Président africain, vit en exil dans un village français. Josselin Gramont, un maraîcher, est retrouvé mort, tué par arme à feu. Marleau découvre que la victime et le Président s’étaient liés d’amitié. Cette amitié lui aurait-elle coûté la vie ? Nyandoro envisageait de s’installer définitivement dans ce village, mais la belle Inissa, son éminence grise, le poussait à reconquérir le pouvoir en Afrique. Marleau se démultiplie pour déterminer si Jocelyn a été tué par des ennemis de Joseph Nyandoro, par un villageois ou une villageoise cherchant à faire porter le chapeau aux Africains, ou par Nyandoro lui-même...</desc>
+    <credits>
+      <actor>Amira Casar</actor>
+      <actor>Yvan Attal</actor>
+      <actor>Laurent Gamelon</actor>
+      <actor>Marius Colucci</actor>
+      <actor>Aymeric Demarigny</actor>
+      <actor>Jean-Claude Drouot</actor>
+      <actor>Maxence Perrin</actor>
+      <actor>Alice de</actor>
+      <actor>Corinne Masiero</actor>
+      <actor>Eugénie Grimblat</actor>
+      <actor>Frédéric Merlo</actor>
+      <actor>Robert Bensimon</actor>
+      <writer>Alexis Miansarow</writer>
+      <writer>Corinne Masiero</writer>
+      <writer>Sophie Glaas</writer>
+      <writer>Marc Eisenchteter</writer>
+      <writer>Elsa Marpeau</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">série policière</category>
+    <length units="minutes">100</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/04/16/af969f196cd14ea183b00a4205f70f6d.jpg" />
+    <episode-num system="xmltv_ns">3.6.</episode-num>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250723001000 +0200" channel="C202.api.telerama.fr" stop="20250723014500 +0200">
+    <title>La voix d'Aïda</title>
+    <desc lang="fr">En juillet 1995, pendant la guerre de Bosnie, Aïda Selmanagic, enseignante d'anglais à Srebrenica, devient interprète pour les casques bleus néerlandais. Alors que les troupes serbes avancent, les habitants se réfugient près du camp de l'ONU. Aïda tente d'obtenir des sauf-conduits pour sauver sa famille. Le général Mladic rassure les premiers arrivants mais les hommes sont ensuite embarqués et subissent un massacre... - Critique : Retour sur une page très sombre de la guerre dans les Balkans : la prise par les Serbes de la ville de Srebrenica en juillet 1995, avant le massacre massif de civils bosniaques (plus de huit mille hommes et adolescents). Aïda est une professeure d’anglais quinquagénaire qui se retrouve réquisitionnée comme interprète, auprès d’un contingent néerlandais de la Forpronu (la force de protection des Nations unies), responsable d’un camp de réfugiés à l’orée de la ville.
+
+Traduire en temps de guerre, voilà déjà, en soi, un élément intéressant du scénario. Traduire, c’est ici servir d’intermédiaire au cœur de la confusion et de la tension qui montent dans le camp, bientôt surchargé, envahi par les habitants ayant fui, terrorisés par l’arrivée imminente des forces serbes. Chargée de faire passer les consignes et de rassurer la foule, Aïda occupe une place particulière, à la fois dehors et dedans, neutre et impliquée. Car son mari et ses enfants sont là, eux aussi, regroupés et bientôt enfermés comme des milliers d’autres dans ce camp de base, qui menace de se transformer en piège.
+
+Le sujet est écrasant, mais la réalisatrice fait preuve de sobriété. L’horreur reste hors champ. Pas de violence spectaculaire dans cette fresque, où l’effrayante grande histoire avance masquée. Seule Aïda, jouée par l’ardente Jasna Đuričić, paraît clairvoyante. La réalisatrice fait d’elle une résistante batailleuse et tragique, qui court et se faufile partout. Un symbole marquant d’humanité et de courage, autrement plus respectable que tous les hommes qui l’entourent.</desc>
+    <credits>
+      <actor>Izudin Bajrovic</actor>
+      <actor>Reinout Bussemaker</actor>
+      <actor>Johan Heldenbergh</actor>
+      <actor>Edita Malovcic</actor>
+      <actor>Juda Goslinga</actor>
+      <actor>Emir Hadzihafizbegovic</actor>
+      <actor>Boris Isakovic</actor>
+      <actor>Raymond Thiry</actor>
+      <actor>Boris Ler</actor>
+      <actor>Teun Luijkx</actor>
+      <actor>Jasna Djuricic</actor>
+      <actor>Dino Bajrovic</actor>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/883fd5cb728f4fe3aabc451d69bd56c6.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250723014500 +0200" channel="C202.api.telerama.fr" stop="20250723020500 +0200">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723020500 +0200" channel="C202.api.telerama.fr" stop="20250723020600 +0200">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723020600 +0200" channel="C202.api.telerama.fr" stop="20250723053000 +0200">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">204</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>

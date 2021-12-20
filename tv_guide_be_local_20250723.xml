@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250722222800 +0200" channel="C164.api.telerama.fr" stop="20250723000300 +0200">
+    <title>Signé Taloche</title>
+    <sub-title>Embarquement immédiat</sub-title>
+    <desc lang="fr">Décollez en compagnie des Frères Taloche pour un 69e numéro de leur émission "Signé Taloche" ! Avec L'humoriste Olivier de Benoist, les danseurs et acrobates Duo Laos, l'inimitable Freddy Tougaux, Zidani, le jongleur Martin Mall, Cédric Chartier, les Décaféinés, et les Poufs du "Grand Cactus".</desc>
+    <category lang="fr">divertissement</category>
+    <length units="minutes">95</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/06/25/359a49411da34abfad70f485c3c68eea.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723000300 +0200" channel="C164.api.telerama.fr" stop="20250723001600 +0200">
+    <title>En quête de sens : Il était une foi</title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">13</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/dd22562e8ae2479b8f5a660bf5dd83bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723001600 +0200" channel="C164.api.telerama.fr" stop="20250723002700 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/b5b85ed21bed4baa8497aa9c1f77b590.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723002700 +0200" channel="C164.api.telerama.fr" stop="20250723003100 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">4</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723003100 +0200" channel="C164.api.telerama.fr" stop="20250723010200 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723010200 +0200" channel="C164.api.telerama.fr" stop="20250723011400 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">12</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/09/b5b85ed21bed4baa8497aa9c1f77b590.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723011400 +0200" channel="C164.api.telerama.fr" stop="20250723011600 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723011600 +0200" channel="C164.api.telerama.fr" stop="20250723055900 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">283</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>

@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250723221500" channel="C59.api.telerama.fr" stop="20250723222500">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723222500" channel="C59.api.telerama.fr" stop="20250724002000">
+    <title>Blue Bayou</title>
+    <desc lang="fr">Antonio LeBlanc, d'origine américano-coréenne, a été adopté à l'âge de 3 ans. Habitant en Louisiane depuis plus de 30 ans, il vit heureux auprès de Katy, qui attend un enfant, et de Jessie, sa belle-fille. Il recherche activement du travail pour subvenir aux besoins des siens. Dans un supermarché, il est la cible de deux policiers racistes qui l'arrête arbitrairement. Sorti de prison, il réalise qu'il peut être déporté en Corée, un pays dont il ne sait rien. Son casier judiciaire ne plaide pas en sa faveur. Antonio veut se battre pour rester auprès de sa famille mais va commettre des erreurs qui pourraient lui coûter cher... - Critique : Antonio, trentenaire employé dans un salon de tatouage, se démène pour boucler les fins de mois, et contribuer au bien-être de sa famille : sa femme, Katy, et la fille de cette dernière, qu’il élève tendrement. Cet équilibre fragile et fervent vole en éclats le jour où Antonio, né en Corée, mais adopté très jeune par un couple d’Américains, est dénoncé aux services de l’immigration. Il apprend que sa nationalité n’a jamais été vraiment établie, et qu’il risque l’expulsion, dans un pays qu’il ne connaît pas.
+
+Avec ce film social, mais aussi intimiste et poignant, le comédien cinéaste Justin Chong rend compte, ­délicatement, d’une tragédie réelle, qui concerne de nombreux enfants « mal » adoptés dans les années 1980 et 1990. Il joue lui-même, tout en nuances, le rôle de cet antihéros ­attachant, homme doux, intense et perdu. Baignant dans la lumière dorée de la Louisiane, à la fois radieuse et trouble, entre rocades poussiéreuses, zones commerciales miteuses et coins de nature miraculeusement sauvages, cette lutte entre le passé et l’avenir est aussi une formidable histoire d’amour, non seulement entre Antonio et sa compagne (lumineuse Alicia Vikander), mais aussi avec l’enfant dont il a choisi d’être le père. Une vision émouvante de l’identité et des origines, d’une adoption à l’autre.</desc>
+    <credits>
+      <actor>Vondie Curtis-Hall</actor>
+      <actor>Linh Dan</actor>
+      <actor>Justin Chon</actor>
+      <actor>Mark O'Brien</actor>
+      <actor>Emory Cohen</actor>
+      <actor>Alicia Vikander</actor>
+      <actor>Geraldine Singer</actor>
+      <actor>Martin Bats</actor>
+      <actor>Gibbs Renell</actor>
+      <actor>Gleason Jim</actor>
+      <actor>Sylvia Grace</actor>
+      <actor>Kowalske Sydney</actor>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : drame</category>
+    <length units="minutes">115</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/61d5b5c22b094b159a7ed5b389a570ae.jpg" />
+    <audio>
+      <stereo>bilingual</stereo>
+    </audio>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250722232000" channel="C183.api.telerama.fr" stop="20250723035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">275</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723220500" channel="C183.api.telerama.fr" stop="20250723225000">
+    <title>A travers les Cimes : les chemins de fer suisses</title>
+    <sub-title>Le mythique train du Pilate</sub-title>
+    <desc lang="fr">Sur le Pilate, le train à crémaillère le plus raide du monde part d'Alpnachstad et affronte une pente pouvant atteindre 48 % à travers bois, prairies et parois rocheuses.</desc>
+    <category lang="fr">documentaire sciences et technique</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/07/16/1111a97411bd49c8b7439f6780b3798a.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723225000" channel="C183.api.telerama.fr" stop="20250723231000">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250723231000" channel="C183.api.telerama.fr" stop="20250724035500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">285</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250722234500" channel="C202.api.telerama.fr" stop="20250723000500">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723000500" channel="C202.api.telerama.fr" stop="20250723000600">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723000600" channel="C202.api.telerama.fr" stop="20250723033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">204</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723224500" channel="C202.api.telerama.fr" stop="20250723230300">
+    <title>Couleurs d'été</title>
+    <desc lang="fr">La belle saison est l'occasion de découvrir un panel de paysages, des lacs, des rivières et des montagnes qui enchantent les promeneurs et férus d'aventure. Fabienne Pambianco Carella, Carole Pantet, Rafaël Poncioni et Julien von Roten parcourent ainsi les territoires de la suisse romande, et rencontrent des passionnés d'un endroit particulier, pour le présenter de façon différente. Les traditions et les savoirs sont également mis en valeur.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">18</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/05/28/b1ed026dfabc42d48b13d3004e614c5a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723230300" channel="C202.api.telerama.fr" stop="20250723230500">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/5fcd62a544fa4042be5c5836a2cc35a0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250723230500" channel="C202.api.telerama.fr" stop="20250724033000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Téléjournal de la rédaction de la RTS qui présente l'actualité en Suisse et dans le monde.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">265</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+</tv>
