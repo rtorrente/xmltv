@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C59.api.telerama.fr">
+    <display-name>SRF 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/59.png" />
+  </channel>
+  <channel id="C200.api.telerama.fr">
+    <display-name>RSI LA 1</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/200.png" />
+  </channel>
+  <channel id="C201.api.telerama.fr">
+    <display-name>RSI LA 2</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/201.png" />
+  </channel>
+  <channel id="C183.api.telerama.fr">
+    <display-name>RTS Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/183.png" />
+  </channel>
+  <channel id="C202.api.telerama.fr">
+    <display-name>RTS Un</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/202.png" />
+  </channel>
+  <programme start="20250318235000" channel="C59.api.telerama.fr" stop="20250319000000">
+    <title>The Record</title>
+    <desc lang="fr">Un voyageur donne à un antiquaire un disque vinyle magique qui "lit dans les pensées". Obsédé par ce disque sans fin, l'antiquaire l'écoute encore et encore.</desc>
+    <date>2022</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/129dd83c537140f296823254cf8cfa5d.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319000000" channel="C59.api.telerama.fr" stop="20250319001000">
+    <title>Airport</title>
+    <desc lang="fr">Häfen sind Orte der Ambivalenz, nicht nur, weil dort angekommen wie abgereist wird. Das gilt auch und ganz besonders für Flughäfen: Sie wecken Sehnsüchte ebenso wie Ängste, und während sie manchen als Tor zur Freiheit gelten, fühlen sich andere gefangen darin wie im Hochsicherheitstrakt eines Gefängnisses. Es wird zu den Gates gehetzt, aber auch endlos in Schlangen gestanden. "Airport" ist eine gemalte filmische Meditation über Bewegung und Kontrolle, Freiheit und Gefangenschaft, abreisen und ankommen. Aus einem Flughafen wandert der Blick durch Hallen, Infotafeln, Menschenströme sowie Schranken und sucht panisch nach einem Ausgang. Michaela Müller Hat mit ihrem Animationsfilm 2018 den Schweizer Filmpreis gewonnen. Auch international war der Film rund um den Erdball auf vielen Animationsfilmfestivals sehr erfolgreich.</desc>
+    <date>2017</date>
+    <category lang="fr">film : court métrage d'animation</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/8c4d6cbc17554e3784e3299e0aa1d292.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319001000" channel="C59.api.telerama.fr" stop="20250319004000">
+    <title>Kassensturz</title>
+    <desc lang="fr">Als das Magazin über Konsum, Geld und Arbeit am 4. Januar 1974 erstmals über die Schweizer Bildschirme flimmerte, waren sich die Kritiker einig: Die Sendung hält sich nicht lange. Doch sie entwickelte sich zum Renner. Es werden Fakten geliefert und Meinungen eingeholt. Führende Leute aus der Wirtschaft äußern sich zu Themen, die gerade besondere Brisanz in sich bergen.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/3bd7828c6eb94091ac4cfe94b6c6eda8.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319004000" channel="C59.api.telerama.fr" stop="20250319015500">
+    <title>Literaturclub</title>
+    <desc lang="fr">Vier bis fünf Neuerscheinungen besprechen die Literaturexperten in jeder Ausgabe der literarischen Gesprächssendung. Sie wollen Lust auf aktuelle Bücher machen, neue literarische Entdeckungen oder Wiederentdeckungen vorstellen und Unterstützung bei der Orientierung auf dem schier unüberschaubaren Buchmarkt anbieten. Dabei vertreten die Diskussionsteilnehmer durchaus konträre Meinungen.</desc>
+    <category lang="fr">interview</category>
+    <length units="minutes">75</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/ecb5673115bc44419fc5644a3f08ddc0.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319015500" channel="C59.api.telerama.fr" stop="20250319021000">
+    <title>Mini Chuchi, dini Chuchi</title>
+    <sub-title>Pastinake - Tag 2</sub-title>
+    <desc lang="fr">In Frenkendorf BL bei Liestal wagt sich Vreni, 72, ans Wochenmotto "Pastinake". Eigentlich backt die vierfache Grossmutter lieber, als zu kochen. Ihren Gästen serviert sie heute aber ein währschaftes Menü mit Rindsroulade, Kartoffel-Pastinakenstampf und Gemüse.</desc>
+    <category lang="fr">magazine culinaire</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/2084e4e40fe54395978393f2dab09f0b.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319021000" channel="C59.api.telerama.fr" stop="20250319023000">
+    <title>G&amp;G - Gesichter und Geschichten</title>
+    <sub-title>Gesellschaftsmagazin</sub-title>
+    <desc lang="fr">Prominente Zeitgenossen aus den Bereichen Kultur, Sport, Politik, Wirtschaft oder Society stehen im Mittelpunkt dieses Gesellschaftsmagazins, das exklusive Einblicke in deren soziales Leben bietet.</desc>
+    <category lang="fr">magazine de société</category>
+    <length units="minutes">20</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/06/05/e4eb613e5d9c485b8a8087acd54cc771.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319023000" channel="C59.api.telerama.fr" stop="20250319030000">
+    <title>La Suisse vue du ciel</title>
+    <sub-title>FR, BE, SO, AG, LU, ZG, ZH, SG, TG</sub-title>
+    <desc lang="fr">Une série documentaire qui part à la découverte de la Suisse vue du ciel.</desc>
+    <category lang="fr">documentaire découvertes</category>
+    <length units="minutes">30</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/19/a05533d48a6b4a56adf3d86e04b09913.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319030000" channel="C59.api.telerama.fr" stop="20250319035500">
+    <title>1 gegen 100</title>
+    <sub-title>mit Angélique Beldner</sub-title>
+    <desc lang="fr">100 clevere Köpfe wollen alle nur das eine: gewinnen in der Montagabend-Quizshow. Doch der Weg auf die Quiz-Insel ist steinig und der aktuelle Kandidat im Ring clever. Wird er es schaffen, alle 100 Gegnerinnen und Gegner wegzuspielen und das Spiel als Sieger zu verlassen? Dazu braucht es starke Nerven, ein großes Allgemeinwissen, Taktik und oft auch etwas Glück.</desc>
+    <category lang="fr">divertissement : jeu</category>
+    <length units="minutes">55</length>
+    <icon src="https://focus.telerama.fr/1111x625/2022/12/12/55b610b05e561da1e013d1311717dec16b90993f.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319035500" channel="C59.api.telerama.fr" stop="20250319045500">
+    <title>Sternstunde Philosophie</title>
+    <sub-title>Stammtisch</sub-title>
+    <desc lang="fr">Die Sendereihe geht den grossen philosophischen Fragen und den brennenden Themen unserer Gesellschaft auf den Grund.</desc>
+    <category lang="fr">interview</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/dbbf7c0df49340a1b795d289b49dd21a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250319235000" channel="C59.api.telerama.fr" stop="20250320000000">
+    <title>Newsflash</title>
+    <desc lang="fr">Hier werden die Zuschauer in wenigen Minuten auf den neuesten Stand gebracht. In kompakter Form berichtet "Newsflash" über alle wichtigen Ereignisse des Tages, die kurz und prägnant zusammengefasst werden. Zudem bietet die Sendung eine Aussicht auf die Wetterlage der kommenden Tage, kurze Interviews sowie Hintergrundinformationen aus Politik, Wirtschaft, Gesellschaft und Sport.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/10/11/e8ecdcc34fb853d28e02e0a50546ca01d0a28220.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250318233000" channel="C183.api.telerama.fr" stop="20250319004000">
+    <title>Cinémaniak</title>
+    <desc lang="fr">La RTS aime le cinéma, grand et petit format. Chaque semaine, le mardi et le vendredi généralement, l'émission Cinémaniak propose une sélection de courts métrages d'ici et d'ailleurs, abordant tous les sujets. Ces courts métrages de fiction ou d'animation ont été soutenus par le Département de la Fiction de la RTS.</desc>
+    <category lang="fr">magazine du court métrage</category>
+    <length units="minutes">70</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/a0ba485e52f143878877b7fe8aa19a75.jpg" />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319004000" channel="C183.api.telerama.fr" stop="20250319012500">
+    <title>A bon entendeur</title>
+    <sub-title>Thé vert, miracle de la nature ?</sub-title>
+    <desc lang="fr">Le thé vert et son célèbre cousin en poudre, le matcha, sont partout. On lui prête des vertus antioxydantes et anti-inflammatoires. Est-il vraiment aussi vertueux qu'on le prétend ? "ABE" a mené l'enquête et a soumis plusieurs thés verts à des analyses rigoureuses, notamment pour détecter d'éventuels résidus de pesticides.</desc>
+    <category lang="fr">magazine du consommateur</category>
+    <length units="minutes">45</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/0c50a113815d447eb8adda9cf4c5dcb3.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319012500" channel="C183.api.telerama.fr" stop="20250319014000">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">15</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319014000" channel="C183.api.telerama.fr" stop="20250319045500">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">195</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-12</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Moins12.svg/200px-Moins12.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319231000" channel="C183.api.telerama.fr" stop="20250319232000">
+    <title>Le Récap</title>
+    <category lang="fr">magazine sportif</category>
+    <length units="minutes">10</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/12/c46c07f9e1364d878d39be8c08df8905.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319232000" channel="C183.api.telerama.fr" stop="20250320002000">
+    <title>Infrarouge</title>
+    <desc lang="fr">(11/39) Producteur: Alexis Favre</desc>
+    <category lang="fr">débat</category>
+    <length units="hours">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/066e96931fe940f98b3b14a816591103.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250318231000" channel="C202.api.telerama.fr" stop="20250319011000">
+    <title>Ce qui reste</title>
+    <desc lang="fr">Asli et Saeed se rencontrent au milieu des années 1990 dans une fête foraine. Ils apprennent à mieux se connaître lors d'une soirée étudiante. Asli est fasciné par le charisme et la confiance en soi de Saeed. Les deux étudiants se marient en secret même si la mère d'Asli est contre cette relation. Dans une mosquée à Hambourg, ils se promettent de rester ensemble pour toujours et de ne jamais révéler les secrets de l'un et de l'autre. Partagé entre l'affirmation de soi, son amour pour Saeed et les traditions familiales, Asli essaie d'avancer dans la vie. Quand Saeed disparaît, la vie de la jeune femme est bouleversée... - Critique : En Allemagne, dans la seconde partie des années 1990. Asli, brillante étudiante en médecine, tombe amoureuse de Saeed, un Libanais venu en Europe pour fuir la guerre, et qui rêve de devenir pilote. La jeune femme d’origine turque cache cette liaison à sa mère, qui refuse d’avoir un « Arabe » comme gendre. Son fiancé, pourtant issu d’une famille libérale et plutôt fêtard, devient assidu à la mosquée et tient des propos de plus en plus violents à l’égard des juifs et de la culture occidentale…
+
+Au fil d’un scénario habilement tissé, qui évolue de la comédie romantique au drame psychologique à suspense, la jeune réalisatrice et sa coautrice ­racontent cinq années de la vie d’un couple où l’amour est confronté — mais, aussi, résiste — aux secrets, aux non-dits et au déni. La force de Ce qui reste est de s’en tenir exclusivement au point de vue d’Asli et à son attitude ambiguë vis-à-vis de Saeed : meurtrie par la radicalisation progressive de son époux, la jeune scientifique se révèle incapable de regarder toute la réalité en face, convaincue d’un retour possible au bonheur malgré tout. Cette chronique sensible de l’aveuglement amoureux, mise en scène avec une grande sensualité, doit beaucoup à ses comédiens, Roger Azar, séduisant par son opacité, et, surtout, Canan Kir, touchante jusque dans les contradictions de son personnage.</desc>
+    <credits>
+      <actor>Özay Fecht</actor>
+      <actor>Meral Perin</actor>
+      <actor>Hans-Jürgen Alf</actor>
+      <actor>Darina Al Joundi</actor>
+      <actor>Ceci Chuh</actor>
+      <actor>Gina Stiebitz</actor>
+      <actor>Jana Julia</actor>
+      <actor>Aziz Dyab</actor>
+      <actor>Canan Kir</actor>
+      <actor>Roger Azar</actor>
+      <actor>Nicolas Chaoui</actor>
+      <actor>Zeynep Ada Kienast</actor>
+      <writer>Anne Zohra Berrached</writer>
+      <writer>Stefanie Misrahi</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">film : drame</category>
+    <length units="hours">2</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/351353239ba349e2be1f046e84b1ea94.jpg" />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+    <star-rating>
+      <value>4/5</value>
+    </star-rating>
+  </programme>
+  <programme start="20250319011000" channel="C202.api.telerama.fr" stop="20250319012900">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">19</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319012900" channel="C202.api.telerama.fr" stop="20250319013000">
+    <title>Météo</title>
+    <desc lang="fr">Quel temps fera-t-il demain en Suisse? Des informations météorologiques d'une grande exactitude pour toute la Suisse en général et pour la Romandie en particulier.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">1</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/45e895e421c14da595bc1ad286fb512d.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319013000" channel="C202.api.telerama.fr" stop="20250319043000">
+    <title>Le 19h30</title>
+    <desc lang="fr">Le journal télévisé proposé par la rédaction de la RTS.</desc>
+    <category lang="fr">journal</category>
+    <length units="hours">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2021/08/09/8922b7b77da17ecc6038ab96999eb1cccec1d6b2.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+  <programme start="20250319234500" channel="C202.api.telerama.fr" stop="20250320000600">
+    <title>Couleurs locales</title>
+    <desc lang="fr">Couleurs locales, c'est toute l'actualité locale en Suisse romande présentée sur le terrain. Un magazine d'information de proximité qui part chaque soir à la découverte des lieux et des gens qui font l'actualité dans les régions.</desc>
+    <category lang="fr">magazine d'actualité</category>
+    <length units="minutes">21</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/03/05/c47472f243634bdc9e8feae5f840cf9a.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
+</tv>
