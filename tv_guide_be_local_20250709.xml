@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv>
+  <channel id="C23.api.telerama.fr">
+    <display-name>één</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/23.png" />
+  </channel>
+  <channel id="C50.api.telerama.fr">
+    <display-name>Club RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/50.png" />
+  </channel>
+  <channel id="C164.api.telerama.fr">
+    <display-name>La Une</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/164.png" />
+  </channel>
+  <channel id="C168.api.telerama.fr">
+    <display-name>RTL TVI</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/168.png" />
+  </channel>
+  <channel id="C187.api.telerama.fr">
+    <display-name>La Deux</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/187.png" />
+  </channel>
+  <channel id="C377.api.telerama.fr">
+    <display-name>Plug RTL</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/377.png" />
+  </channel>
+  <channel id="C892.api.telerama.fr">
+    <display-name>La Trois</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/892.png" />
+  </channel>
+  <channel id="C1280.api.telerama.fr">
+    <display-name>Ketnet</display-name>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/500x500/1280.png" />
+  </channel>
+  <programme start="20250708235400 +0200" channel="C164.api.telerama.fr" stop="20250709000000 +0200">
+    <title>EuroMillions</title>
+    <desc lang="fr">Tirage au sort de l'EuroMillions, loterie transnationale qui est proposée dans douze pays européens.</desc>
+    <category lang="fr">loterie</category>
+    <length units="minutes">6</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/e3f17a90faa14ccaa81a91f90e5577ee.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709000000 +0200" channel="C164.api.telerama.fr" stop="20250709001400 +0200">
+    <title>En quête de sens : Il était une foi</title>
+    <desc lang="fr">Le magazine "En quête de sens" accueille tour à tour les "émissions Libres, ensemble" (Centre d'action laïque), "Il était une foi" (CathoBel), "La Voix protestante" (Association protestante de radio et télévision), "Orthodoxie" (Eglise orthodoxe en Belgique), "Shema Israël" (Consistoire central israélite de Belgique).</desc>
+    <category lang="fr">magazine religieux</category>
+    <length units="minutes">14</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/dd22562e8ae2479b8f5a660bf5dd83bd.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709001400 +0200" channel="C164.api.telerama.fr" stop="20250709002500 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709002500 +0200" channel="C164.api.telerama.fr" stop="20250709003000 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">5</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709003000 +0200" channel="C164.api.telerama.fr" stop="20250709010100 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709010100 +0200" channel="C164.api.telerama.fr" stop="20250709011200 +0200">
+    <title>Quel temps pour la planète</title>
+    <desc lang="fr">En 11 minutes et 30 secondes, un panorama complet des phénomènes météo, de l'évolution du climat, et des initiatives positives pour un avenir durable.</desc>
+    <category lang="fr">magazine de la nature</category>
+    <length units="minutes">11</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/12/25/0371a730f2bc4b859d1047fcc3144895.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709011200 +0200" channel="C164.api.telerama.fr" stop="20250709011500 +0200">
+    <title>Météo 20h00</title>
+    <desc lang="fr">Le bulletin météo du soir.</desc>
+    <category lang="fr">météo</category>
+    <length units="minutes">3</length>
+    <icon src="https://focus.telerama.fr/1111x625/2025/02/26/77b8aa883fb34b089662a80507e0c4d1.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709011500 +0200" channel="C164.api.telerama.fr" stop="20250709014600 +0200">
+    <title>JT 19h30</title>
+    <desc lang="fr">Tous les jours, le JT de 19h30 informe de l'actualité et des faits de société, politiques, économiques, culturels et sportifs.</desc>
+    <category lang="fr">journal</category>
+    <length units="minutes">31</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/03/27/1ea365609cb17d38273a87775fb636b820f7f0c7_7EC349D60DB870D61449E7958443756B.jpg" />
+    <previously-shown />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709014600 +0200" channel="C164.api.telerama.fr" stop="20250709055900 +0200">
+    <title>Alors on sort ?</title>
+    <desc lang="fr">L'émission met à l'honneur les régions, leurs habitants, leurs langues régionales et leur humour. Un moment privilégié de proximité présenté par Fanny Jandrain, en compagnie d'un invité.</desc>
+    <category lang="fr">magazine culturel</category>
+    <length units="minutes">253</length>
+    <icon src="https://focus.telerama.fr/1111x625/2024/05/15/9957f1735ab64048a01d72209daf79e6.jpg" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20250709055900 +0200" channel="C164.api.telerama.fr" stop="20250709080000 +0200">
+    <title>Le 6-8</title>
+    <desc lang="fr">Très interactive, l'émission est animée par Sara De Paduwa. Au sommaire: de l'info, le journal des sports, l'info-trafic, des reportages, ainsi que des chroniques de la vie quotidienne: les Buzz; Nos amis les animaux; Sexo; On s'bouge!; Beauté, mode &amp; bien-être; La télé d'avant; G testé pour vous; People; Enfants; Sport extrêmes; Un p'tit bout d'histoire et des News musicales.</desc>
+    <category lang="fr">magazine de services</category>
+    <length units="minutes">121</length>
+    <icon src="https://focus.telerama.fr/1111x625/2023/04/03/237eee38ef4308aa05522aeb05a252a8968f16ef_4A95F84DD81BA45175D5A77F481BFE86.jpg" />
+    <new />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+</tv>
